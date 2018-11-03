@@ -44,6 +44,9 @@ def filter_words():
 def rap(func):
 	func()
 from concurrent.futures import ProcessPoolExecutor as PPE
-if __name__ == '__main__':
+
+def main():
 	with PPE(max_workers=2) as exe:
 		exe.map(rap, [random_sample, filter_words])
+if __name__ == '__main__':
+  main()
