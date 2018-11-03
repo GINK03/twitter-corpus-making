@@ -1,0 +1,273 @@
+{
+  "created_at": "Sat Nov 03 14:21:56 +0000 2018",
+  "id": 1058725971891638274,
+  "id_str": "1058725971891638274",
+  "text": "とりあえず、高難度クリアー、報酬も割と美味しい。^ - ^\nアタッカーの頼光がミスで早々脱落してしまって、耐久気味になりましたが・・・(*´Д｀*)\nラストはシトナイ一騎になったけど割と余裕ある感じでした。\n#FGO https://t.co/3QPT16A2G6",
+  "display_text_range": [
+    0,
+    108
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 945314664576978945,
+    "id_str": "945314664576978945",
+    "name": "Taka@FGO",
+    "screen_name": "Taka49251466",
+    "location": "日本 静岡",
+    "url": null,
+    "description": "まったりFGOやってます。好きなキャラは、ネロです！あと、李先生も好き(^^) モンハンワールドもプレイ中",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 68,
+    "friends_count": 157,
+    "listed_count": 0,
+    "favourites_count": 1024,
+    "statuses_count": 991,
+    "created_at": "Mon Dec 25 15:25:53 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/945318330910384128/VeMCPeXH_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/945318330910384128/VeMCPeXH_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/945314664576978945/1523289097",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          104,
+          108
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058725965835071488,
+        "id_str": "1058725965835071488",
+        "indices": [
+          109,
+          132
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZqBQU8AA7pz6.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZqBQU8AA7pz6.jpg",
+        "url": "https://t.co/3QPT16A2G6",
+        "display_url": "pic.twitter.com/3QPT16A2G6",
+        "expanded_url": "https://twitter.com/Taka49251466/status/1058725971891638274/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 314,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 554,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 946,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058725965835071488,
+        "id_str": "1058725965835071488",
+        "indices": [
+          109,
+          132
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZqBQU8AA7pz6.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZqBQU8AA7pz6.jpg",
+        "url": "https://t.co/3QPT16A2G6",
+        "display_url": "pic.twitter.com/3QPT16A2G6",
+        "expanded_url": "https://twitter.com/Taka49251466/status/1058725971891638274/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 314,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 554,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 946,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058725965839261696,
+        "id_str": "1058725965839261696",
+        "indices": [
+          109,
+          132
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZqBRU4AAoCvD.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZqBRU4AAoCvD.jpg",
+        "url": "https://t.co/3QPT16A2G6",
+        "display_url": "pic.twitter.com/3QPT16A2G6",
+        "expanded_url": "https://twitter.com/Taka49251466/status/1058725971891638274/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 314,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 554,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 946,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058725965835132933,
+        "id_str": "1058725965835132933",
+        "indices": [
+          109,
+          132
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZqBQV4AU1j1Q.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZqBQV4AU1j1Q.jpg",
+        "url": "https://t.co/3QPT16A2G6",
+        "display_url": "pic.twitter.com/3QPT16A2G6",
+        "expanded_url": "https://twitter.com/Taka49251466/status/1058725971891638274/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 314,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 554,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 946,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058725965843456000,
+        "id_str": "1058725965843456000",
+        "indices": [
+          109,
+          132
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZqBSU4AAA35r.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZqBSU4AAA35r.jpg",
+        "url": "https://t.co/3QPT16A2G6",
+        "display_url": "pic.twitter.com/3QPT16A2G6",
+        "expanded_url": "https://twitter.com/Taka49251466/status/1058725971891638274/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 314,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 554,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 946,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254916533"
+}

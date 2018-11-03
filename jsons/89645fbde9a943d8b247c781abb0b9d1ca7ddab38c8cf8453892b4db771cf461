@@ -1,0 +1,530 @@
+{
+  "created_at": "Sat Nov 03 14:18:17 +0000 2018",
+  "id": 1058725053888483330,
+  "id_str": "1058725053888483330",
+  "text": "RT @Sankei_news: #羽生結弦 ＳＰ首位、田中７位　フィギュアＧＰ第３戦\nhttps://t.co/AbpmU5uWm6\n\n　→羽生が１０６・６９点をマークして首位\n　→ルール改正後の世界最高得点\n#フィギュアスケート https://t.co/CaUrhZtt4i",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 985844846853107712,
+    "id_str": "985844846853107712",
+    "name": "スヌヲノフ",
+    "screen_name": "sunuwo_Ci",
+    "location": null,
+    "url": null,
+    "description": "羽生結弦選手を全力応援✨✨✨\n#CiONTU で感動したことがきっかけでTwitterデビュー。\n羽生くんの健康と幸せとちびゆづくんの夢が叶うことを願うアカウント🍀\n羽生結弦の絵描くの下手くそ選手権エントリー中🙌",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 124,
+    "friends_count": 140,
+    "listed_count": 0,
+    "favourites_count": 20796,
+    "statuses_count": 14582,
+    "created_at": "Mon Apr 16 11:38:22 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1049144269443747841/OAopSGn3_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1049144269443747841/OAopSGn3_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/985844846853107712/1537873349",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:51:13 +0000 2018",
+    "id": 1058718240669499392,
+    "id_str": "1058718240669499392",
+    "text": "#羽生結弦 ＳＰ首位、田中７位　フィギュアＧＰ第３戦\nhttps://t.co/AbpmU5uWm6\n\n　→羽生が１０６・６９点をマークして首位\n　→ルール改正後の世界最高得点\n#フィギュアスケート https://t.co/CaUrhZtt4i",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 562773398,
+      "id_str": "562773398",
+      "name": "産経ニュース",
+      "screen_name": "Sankei_news",
+      "location": null,
+      "url": "http://www.sankei.com/",
+      "description": "産経新聞グループがお届けするニュースサイト「産経ニュース」の公式ツイッターです。facebookはこちら http://www.facebook.com/SankeiShimbun",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 280994,
+      "friends_count": 192,
+      "listed_count": 6036,
+      "favourites_count": 2,
+      "statuses_count": 159727,
+      "created_at": "Wed Apr 25 10:36:45 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "114488",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1051598198756630528/8a4rUyDd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051598198756630528/8a4rUyDd_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/562773398/1539555512",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 6,
+    "reply_count": 0,
+    "retweet_count": 127,
+    "favorite_count": 226,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "羽生結弦",
+          "indices": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "フィギュアスケート",
+          "indices": [
+            89,
+            99
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AbpmU5uWm6",
+          "expanded_url": "https://www.sankei.com/sports/news/181103/spo1811030025-n1.html",
+          "display_url": "sankei.com/sports/news/18…",
+          "indices": [
+            27,
+            50
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058717925073244160,
+          "id_str": "1058717925073244160",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFSV_FUUAAhqsZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFSV_FUUAAhqsZ.jpg",
+          "url": "https://t.co/CaUrhZtt4i",
+          "display_url": "pic.twitter.com/CaUrhZtt4i",
+          "expanded_url": "https://twitter.com/Sankei_news/status/1058718240669499392/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 775,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 775,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 515,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058717925073244160,
+          "id_str": "1058717925073244160",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFSV_FUUAAhqsZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFSV_FUUAAhqsZ.jpg",
+          "url": "https://t.co/CaUrhZtt4i",
+          "display_url": "pic.twitter.com/CaUrhZtt4i",
+          "expanded_url": "https://twitter.com/Sankei_news/status/1058718240669499392/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 775,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 775,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 515,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058717925064945666,
+          "id_str": "1058717925064945666",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFSV_DVsAI7_9s.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFSV_DVsAI7_9s.jpg",
+          "url": "https://t.co/CaUrhZtt4i",
+          "display_url": "pic.twitter.com/CaUrhZtt4i",
+          "expanded_url": "https://twitter.com/Sankei_news/status/1058718240669499392/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 782,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 782,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 519,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058717925064896512,
+          "id_str": "1058717925064896512",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFSV_DU8AACqPo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFSV_DU8AACqPo.jpg",
+          "url": "https://t.co/CaUrhZtt4i",
+          "display_url": "pic.twitter.com/CaUrhZtt4i",
+          "expanded_url": "https://twitter.com/Sankei_news/status/1058718240669499392/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 803,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 533,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 803,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "羽生結弦",
+        "indices": [
+          17,
+          22
+        ]
+      },
+      {
+        "text": "フィギュアスケート",
+        "indices": [
+          106,
+          116
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/AbpmU5uWm6",
+        "expanded_url": "https://www.sankei.com/sports/news/181103/spo1811030025-n1.html",
+        "display_url": "sankei.com/sports/news/18…",
+        "indices": [
+          44,
+          67
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Sankei_news",
+        "name": "産経ニュース",
+        "id": 562773398,
+        "id_str": "562773398",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058717925073244160,
+        "id_str": "1058717925073244160",
+        "indices": [
+          117,
+          140
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFSV_FUUAAhqsZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFSV_FUUAAhqsZ.jpg",
+        "url": "https://t.co/CaUrhZtt4i",
+        "display_url": "pic.twitter.com/CaUrhZtt4i",
+        "expanded_url": "https://twitter.com/Sankei_news/status/1058718240669499392/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1024,
+            "h": 775,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 775,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 515,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058718240669499392,
+        "source_status_id_str": "1058718240669499392",
+        "source_user_id": 562773398,
+        "source_user_id_str": "562773398"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058717925073244160,
+        "id_str": "1058717925073244160",
+        "indices": [
+          117,
+          140
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFSV_FUUAAhqsZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFSV_FUUAAhqsZ.jpg",
+        "url": "https://t.co/CaUrhZtt4i",
+        "display_url": "pic.twitter.com/CaUrhZtt4i",
+        "expanded_url": "https://twitter.com/Sankei_news/status/1058718240669499392/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1024,
+            "h": 775,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 775,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 515,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058718240669499392,
+        "source_status_id_str": "1058718240669499392",
+        "source_user_id": 562773398,
+        "source_user_id_str": "562773398"
+      },
+      {
+        "id": 1058717925064945666,
+        "id_str": "1058717925064945666",
+        "indices": [
+          117,
+          140
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFSV_DVsAI7_9s.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFSV_DVsAI7_9s.jpg",
+        "url": "https://t.co/CaUrhZtt4i",
+        "display_url": "pic.twitter.com/CaUrhZtt4i",
+        "expanded_url": "https://twitter.com/Sankei_news/status/1058718240669499392/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 782,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 782,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 519,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058718240669499392,
+        "source_status_id_str": "1058718240669499392",
+        "source_user_id": 562773398,
+        "source_user_id_str": "562773398"
+      },
+      {
+        "id": 1058717925064896512,
+        "id_str": "1058717925064896512",
+        "indices": [
+          117,
+          140
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFSV_DU8AACqPo.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFSV_DU8AACqPo.jpg",
+        "url": "https://t.co/CaUrhZtt4i",
+        "display_url": "pic.twitter.com/CaUrhZtt4i",
+        "expanded_url": "https://twitter.com/Sankei_news/status/1058718240669499392/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 803,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 533,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 803,
+            "h": 1024,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058718240669499392,
+        "source_status_id_str": "1058718240669499392",
+        "source_user_id": 562773398,
+        "source_user_id_str": "562773398"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254697664"
+}

@@ -1,0 +1,271 @@
+{
+  "created_at": "Sat Nov 03 14:16:10 +0000 2018",
+  "id": 1058724521182605312,
+  "id_str": "1058724521182605312",
+  "text": "（:3  ）北斗・極楽浄土",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 735830948101558274,
+    "id_str": "735830948101558274",
+    "name": "【とこま田舎】",
+    "screen_name": "tokoma_inaka",
+    "location": null,
+    "url": null,
+    "description": "そこらへんにいるおっさんです。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 49,
+    "friends_count": 130,
+    "listed_count": 1,
+    "favourites_count": 15131,
+    "statuses_count": 3955,
+    "created_at": "Thu May 26 13:52:23 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/983021500696416256/0cAaMvqL_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/983021500696416256/0cAaMvqL_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/735830948101558274/1509525378",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "quoted_status_id": 1058694285845876736,
+  "quoted_status_id_str": "1058694285845876736",
+  "quoted_status": {
+    "created_at": "Sat Nov 03 12:16:01 +0000 2018",
+    "id": 1058694285845876736,
+    "id_str": "1058694285845876736",
+    "text": "https://t.co/zsfDAMwwQj",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 161682131,
+      "id_str": "161682131",
+      "name": "黒猫道",
+      "screen_name": "kuronekodou0",
+      "location": "日本",
+      "url": null,
+      "description": "ゆっくり実況やらバグやらやってたりします\r\nTwitteはROM專に近い Twitter使い方分からない…('･ω･`)",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 9172,
+      "friends_count": 1314,
+      "listed_count": 93,
+      "favourites_count": 1,
+      "statuses_count": 6053,
+      "created_at": "Thu Jul 01 13:44:30 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "A40000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/674923970739625984/ja7OCDfg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/674923970739625984/ja7OCDfg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/161682131/1457292945",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 206,
+    "favorite_count": 315,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058694189242703873,
+          "id_str": "1058694189242703873",
+          "indices": [
+            0,
+            23
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058694189242703873/pu/img/ek5ZP9Hm42EsIcGN.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058694189242703873/pu/img/ek5ZP9Hm42EsIcGN.jpg",
+          "url": "https://t.co/zsfDAMwwQj",
+          "display_url": "pic.twitter.com/zsfDAMwwQj",
+          "expanded_url": "https://twitter.com/kuronekodou0/status/1058694285845876736/video/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 640,
+              "h": 480,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 640,
+              "h": 480,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 480,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058694189242703873,
+          "id_str": "1058694189242703873",
+          "indices": [
+            0,
+            23
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058694189242703873/pu/img/ek5ZP9Hm42EsIcGN.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058694189242703873/pu/img/ek5ZP9Hm42EsIcGN.jpg",
+          "url": "https://t.co/zsfDAMwwQj",
+          "display_url": "pic.twitter.com/zsfDAMwwQj",
+          "expanded_url": "https://twitter.com/kuronekodou0/status/1058694285845876736/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              4,
+              3
+            ],
+            "duration_millis": 9033,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058694189242703873/pu/vid/640x480/eKjn4SnPOJJ0ylos.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058694189242703873/pu/pl/wGpwnUXchPqVumwK.m3u8?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058694189242703873/pu/vid/480x360/WunX5-XRxvc7RJtr.mp4?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058694189242703873/pu/vid/240x180/ZAY-5g1k6c7qaz88.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "medium": {
+              "w": 640,
+              "h": 480,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 640,
+              "h": 480,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 480,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/7roq0nzVzV",
+    "expanded": "https://twitter.com/kuronekodou0/status/1058694285845876736",
+    "display": "twitter.com/kuronekodou0/s…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254570657"
+}

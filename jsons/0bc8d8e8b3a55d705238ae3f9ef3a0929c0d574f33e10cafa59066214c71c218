@@ -1,0 +1,343 @@
+{
+  "created_at": "Sat Nov 03 13:57:18 +0000 2018",
+  "id": 1058719771858857985,
+  "id_str": "1058719771858857985",
+  "text": "RT @zekkyon: ロイヤルのアレ\n #FGO https://t.co/hzVdvUngMF",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 957021138332270592,
+    "id_str": "957021138332270592",
+    "name": "🄼🄸🄽🄴🅁🅅🄰",
+    "screen_name": "regalia_minerva",
+    "location": "Genesis",
+    "url": "http://cardfight.wikia.com/wiki/Omniscience_Regalia,_Minerva",
+    "description": "ᏇᎥᏖᏂ ᎷᎥጀᏋᎴ ᎦᏋᏋᏝᎥᏁᎶᏕ, ᏖᏂᏋ ᎶᎧᎴᎴᏋᏕᏕ ᎧᎦ ᏇᏗᏒ ᎴᏋᏕፈᏋᏁᎴᏋᎴ ᏖᎧ ᏖᏂᏋ ᏂᏬᎷᏗᏁ ᏇᎧᏒᏝᎴ ᏗᎶᏗᎥᏁ, ᎥᏁ ᎧᏒᎴᏋᏒ ᏖᎧ ᏒᎧᎧᏖ ᎧᏬᏖ ᏖᏂᏋ ᎦᎧᎧᏝᏕ ᏇᏂᎧ ᎮᎧᏕᏋ ᏂᏗᏒᎷ ᏖᎧ ᏂᏋᏒ ፈᏂᎥᏝᎴᏒᏋᏁ.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1787,
+    "friends_count": 4207,
+    "listed_count": 3,
+    "favourites_count": 16152,
+    "statuses_count": 25658,
+    "created_at": "Fri Jan 26 22:43:14 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "19CF86",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1054689101423640576/MsJzQ7WW_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054689101423640576/MsJzQ7WW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/957021138332270592/1540290948",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 12:18:18 +0000 2018",
+    "id": 1058332470968385537,
+    "id_str": "1058332470968385537",
+    "text": "ロイヤルのアレ\n #FGO https://t.co/hzVdvUngMF",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 38473913,
+      "id_str": "38473913",
+      "name": "ぜっきょ@",
+      "screen_name": "zekkyon",
+      "location": "Japan🇯🇵",
+      "url": "http://www.tkspower.com",
+      "description": "絵描きやさんです。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 31925,
+      "friends_count": 239,
+      "listed_count": 684,
+      "favourites_count": 451,
+      "statuses_count": 19929,
+      "created_at": "Thu May 07 17:26:07 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/991666035618004992/LfuhSscD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/991666035618004992/LfuhSscD_normal.jpg",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 5,
+    "reply_count": 19,
+    "retweet_count": 1959,
+    "favorite_count": 6735,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            9,
+            13
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058332466425954306,
+          "id_str": "1058332466425954306",
+          "indices": [
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_zxVuVAAI9rPI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_zxVuVAAI9rPI.jpg",
+          "url": "https://t.co/hzVdvUngMF",
+          "display_url": "pic.twitter.com/hzVdvUngMF",
+          "expanded_url": "https://twitter.com/zekkyon/status/1058332470968385537/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 680,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 680,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 462,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058332466425954306,
+          "id_str": "1058332466425954306",
+          "indices": [
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_zxVuVAAI9rPI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_zxVuVAAI9rPI.jpg",
+          "url": "https://t.co/hzVdvUngMF",
+          "display_url": "pic.twitter.com/hzVdvUngMF",
+          "expanded_url": "https://twitter.com/zekkyon/status/1058332470968385537/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 680,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 680,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 462,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          22,
+          26
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "zekkyon",
+        "name": "ぜっきょ@",
+        "id": 38473913,
+        "id_str": "38473913",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058332466425954306,
+        "id_str": "1058332466425954306",
+        "indices": [
+          27,
+          50
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_zxVuVAAI9rPI.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_zxVuVAAI9rPI.jpg",
+        "url": "https://t.co/hzVdvUngMF",
+        "display_url": "pic.twitter.com/hzVdvUngMF",
+        "expanded_url": "https://twitter.com/zekkyon/status/1058332470968385537/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 680,
+            "h": 1000,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 680,
+            "h": 1000,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 462,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058332470968385537,
+        "source_status_id_str": "1058332470968385537",
+        "source_user_id": 38473913,
+        "source_user_id_str": "38473913"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058332466425954306,
+        "id_str": "1058332466425954306",
+        "indices": [
+          27,
+          50
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_zxVuVAAI9rPI.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_zxVuVAAI9rPI.jpg",
+        "url": "https://t.co/hzVdvUngMF",
+        "display_url": "pic.twitter.com/hzVdvUngMF",
+        "expanded_url": "https://twitter.com/zekkyon/status/1058332470968385537/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 680,
+            "h": 1000,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 680,
+            "h": 1000,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 462,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058332470968385537,
+        "source_status_id_str": "1058332470968385537",
+        "source_user_id": 38473913,
+        "source_user_id_str": "38473913"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253438330"
+}

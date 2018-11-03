@@ -1,0 +1,480 @@
+{
+  "created_at": "Sat Nov 03 14:20:22 +0000 2018",
+  "id": 1058725578176491522,
+  "id_str": "1058725578176491522",
+  "text": "RT @WtrRuke: 個展ではフィギュアの販売も行います。お支払いは個展当日現金払い、11/18以降手渡しもしくは後日発送で考えております。よろしくお願いします。 https://t.co/blTNH276rh",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2340206670,
+    "id_str": "2340206670",
+    "name": "まる",
+    "screen_name": "malru7",
+    "location": null,
+    "url": "http://ameblo.jp/7pluto/",
+    "description": "pixivにて規約有りですが、フリー素材の投稿をしております。\r\nhttp://www.pixiv.net/member.php?id=1185700",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 578,
+    "friends_count": 653,
+    "listed_count": 34,
+    "favourites_count": 25654,
+    "statuses_count": 38922,
+    "created_at": "Wed Feb 12 11:49:11 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/435205495603736578/79kuBP_J_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/435205495603736578/79kuBP_J_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2340206670/1392987092",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Oct 16 12:11:49 +0000 2018",
+    "id": 1052170245924737025,
+    "id_str": "1052170245924737025",
+    "text": "個展ではフィギュアの販売も行います。お支払いは個展当日現金払い、11/18以降手渡しもしくは後日発送で考えております。よろしくお願いします。 https://t.co/blTNH276rh",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1052167301594640384,
+    "in_reply_to_status_id_str": "1052167301594640384",
+    "in_reply_to_user_id": 2607271477,
+    "in_reply_to_user_id_str": "2607271477",
+    "in_reply_to_screen_name": "WtrRuke",
+    "user": {
+      "id": 2607271477,
+      "id_str": "2607271477",
+      "name": "深川吉光@個展11/17-18",
+      "screen_name": "WtrRuke",
+      "location": "不気味の谷の帝國",
+      "url": "http://www.tinami.com/creator/profile/40466",
+      "description": "深川卿と呼ばれております。日々世界征服を目論見ながらプラモ作ったり、フィギュア塗ったり、スチームパンク界隈を放浪してます。  2018 11/17-18神田クリエイティブ会議室にて深川吉光フィギュア個展開催予定！ フィギュア製作、犬の散歩代行承っております。所属：アットモデラーズ",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 696,
+      "friends_count": 531,
+      "listed_count": 35,
+      "favourites_count": 33785,
+      "statuses_count": 45679,
+      "created_at": "Sun Jul 06 10:36:44 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1016652868676304896/-AdijSbu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1016652868676304896/-AdijSbu_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2607271477/1540819085",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 10,
+    "favorite_count": 10,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1052170207047774209,
+          "id_str": "1052170207047774209",
+          "indices": [
+            71,
+            94
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpoPOopU8AEhvxn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpoPOopU8AEhvxn.jpg",
+          "url": "https://t.co/blTNH276rh",
+          "display_url": "pic.twitter.com/blTNH276rh",
+          "expanded_url": "https://twitter.com/WtrRuke/status/1052170245924737025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 812,
+              "h": 541,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 812,
+              "h": 541,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1052170207047774209,
+          "id_str": "1052170207047774209",
+          "indices": [
+            71,
+            94
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpoPOopU8AEhvxn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpoPOopU8AEhvxn.jpg",
+          "url": "https://t.co/blTNH276rh",
+          "display_url": "pic.twitter.com/blTNH276rh",
+          "expanded_url": "https://twitter.com/WtrRuke/status/1052170245924737025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 812,
+              "h": 541,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 812,
+              "h": 541,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1052170224403808258,
+          "id_str": "1052170224403808258",
+          "indices": [
+            71,
+            94
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpoPPpTVAAIs53n.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpoPPpTVAAIs53n.jpg",
+          "url": "https://t.co/blTNH276rh",
+          "display_url": "pic.twitter.com/blTNH276rh",
+          "expanded_url": "https://twitter.com/WtrRuke/status/1052170245924737025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 484,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 766,
+              "h": 545,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 766,
+              "h": 545,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1052170240820305920,
+          "id_str": "1052170240820305920",
+          "indices": [
+            71,
+            94
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpoPQmdU4AA2UQO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpoPQmdU4AA2UQO.jpg",
+          "url": "https://t.co/blTNH276rh",
+          "display_url": "pic.twitter.com/blTNH276rh",
+          "expanded_url": "https://twitter.com/WtrRuke/status/1052170245924737025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 770,
+              "h": 514,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 770,
+              "h": 514,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "WtrRuke",
+        "name": "深川吉光@個展11/17-18",
+        "id": 2607271477,
+        "id_str": "2607271477",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1052170207047774209,
+        "id_str": "1052170207047774209",
+        "indices": [
+          84,
+          107
+        ],
+        "media_url": "http://pbs.twimg.com/media/DpoPOopU8AEhvxn.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DpoPOopU8AEhvxn.jpg",
+        "url": "https://t.co/blTNH276rh",
+        "display_url": "pic.twitter.com/blTNH276rh",
+        "expanded_url": "https://twitter.com/WtrRuke/status/1052170245924737025/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 812,
+            "h": 541,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 812,
+            "h": 541,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1052170245924737025,
+        "source_status_id_str": "1052170245924737025",
+        "source_user_id": 2607271477,
+        "source_user_id_str": "2607271477"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1052170207047774209,
+        "id_str": "1052170207047774209",
+        "indices": [
+          84,
+          107
+        ],
+        "media_url": "http://pbs.twimg.com/media/DpoPOopU8AEhvxn.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DpoPOopU8AEhvxn.jpg",
+        "url": "https://t.co/blTNH276rh",
+        "display_url": "pic.twitter.com/blTNH276rh",
+        "expanded_url": "https://twitter.com/WtrRuke/status/1052170245924737025/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 812,
+            "h": 541,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 812,
+            "h": 541,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1052170245924737025,
+        "source_status_id_str": "1052170245924737025",
+        "source_user_id": 2607271477,
+        "source_user_id_str": "2607271477"
+      },
+      {
+        "id": 1052170224403808258,
+        "id_str": "1052170224403808258",
+        "indices": [
+          84,
+          107
+        ],
+        "media_url": "http://pbs.twimg.com/media/DpoPPpTVAAIs53n.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DpoPPpTVAAIs53n.jpg",
+        "url": "https://t.co/blTNH276rh",
+        "display_url": "pic.twitter.com/blTNH276rh",
+        "expanded_url": "https://twitter.com/WtrRuke/status/1052170245924737025/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 484,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 766,
+            "h": 545,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 766,
+            "h": 545,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1052170245924737025,
+        "source_status_id_str": "1052170245924737025",
+        "source_user_id": 2607271477,
+        "source_user_id_str": "2607271477"
+      },
+      {
+        "id": 1052170240820305920,
+        "id_str": "1052170240820305920",
+        "indices": [
+          84,
+          107
+        ],
+        "media_url": "http://pbs.twimg.com/media/DpoPQmdU4AA2UQO.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DpoPQmdU4AA2UQO.jpg",
+        "url": "https://t.co/blTNH276rh",
+        "display_url": "pic.twitter.com/blTNH276rh",
+        "expanded_url": "https://twitter.com/WtrRuke/status/1052170245924737025/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 770,
+            "h": 514,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 454,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 770,
+            "h": 514,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1052170245924737025,
+        "source_status_id_str": "1052170245924737025",
+        "source_user_id": 2607271477,
+        "source_user_id_str": "2607271477"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254822664"
+}

@@ -1,0 +1,201 @@
+{
+  "created_at": "Sat Nov 03 14:06:50 +0000 2018",
+  "id": 1058722173546725376,
+  "id_str": "1058722173546725376",
+  "text": "刹那マラソンをガチる男の末路\n#モンスト https://t.co/JXU1btq1hG",
+  "display_text_range": [
+    0,
+    20
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1948113757,
+    "id_str": "1948113757",
+    "name": "水樹しゃすな ≦ 鬼嫁あゆゆ",
+    "screen_name": "SCsyasunaNET",
+    "location": "S.C. NANA NET",
+    "url": null,
+    "description": "モンスト無課金R552,運182(超7爆5)/PUBGモバイル,フレンド＆ギルドメンバー募集/水樹奈々歴16年/V系.メタル.アイドル/BYS監視員.ファーストサマーウイカ.椎名林檎.PassCode.神谷えりな.ゴー☆ジャス崇拝/嫁に毎日恋してる(｡◕ˇдˇ ◕｡)",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 680,
+    "friends_count": 542,
+    "listed_count": 6,
+    "favourites_count": 6476,
+    "statuses_count": 7210,
+    "created_at": "Tue Oct 08 22:59:25 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "19CF86",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/900739415386882048/jGtRbipY_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/900739415386882048/jGtRbipY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948113757/1535697358",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "モンスト",
+        "indices": [
+          15,
+          20
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058722164583489538,
+        "id_str": "1058722164583489538",
+        "indices": [
+          21,
+          44
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWMwfU4AIUb_5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWMwfU4AIUb_5.jpg",
+        "url": "https://t.co/JXU1btq1hG",
+        "display_url": "pic.twitter.com/JXU1btq1hG",
+        "expanded_url": "https://twitter.com/SCsyasunaNET/status/1058722173546725376/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1109,
+            "h": 1479,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058722164583489538,
+        "id_str": "1058722164583489538",
+        "indices": [
+          21,
+          44
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWMwfU4AIUb_5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWMwfU4AIUb_5.jpg",
+        "url": "https://t.co/JXU1btq1hG",
+        "display_url": "pic.twitter.com/JXU1btq1hG",
+        "expanded_url": "https://twitter.com/SCsyasunaNET/status/1058722173546725376/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1109,
+            "h": 1479,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058722164583485440,
+        "id_str": "1058722164583485440",
+        "indices": [
+          21,
+          44
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWMwfU0AAVajM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWMwfU0AAVajM.jpg",
+        "url": "https://t.co/JXU1btq1hG",
+        "display_url": "pic.twitter.com/JXU1btq1hG",
+        "expanded_url": "https://twitter.com/SCsyasunaNET/status/1058722173546725376/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1109,
+            "h": 1479,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254010937"
+}

@@ -1,0 +1,396 @@
+{
+  "created_at": "Sat Nov 03 14:13:57 +0000 2018",
+  "id": 1058723963344277506,
+  "id_str": "1058723963344277506",
+  "text": "RT @natuki1016: この前のハロウィンイラストです🎃\n色塗り〜✨ https://t.co/w4PKXudtej",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 889992647691034625,
+    "id_str": "889992647691034625",
+    "name": "ＡＨＡＴＯ",
+    "screen_name": "iDO7MCTRw2LQLU8",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 79,
+    "friends_count": 106,
+    "listed_count": 0,
+    "favourites_count": 17558,
+    "statuses_count": 17617,
+    "created_at": "Tue Jul 25 23:35:57 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/937266484727881729/ibB5G5qt_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/937266484727881729/ibB5G5qt_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/889992647691034625/1501228040",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 13:15:00 +0000 2018",
+    "id": 1058346738195431424,
+    "id_str": "1058346738195431424",
+    "text": "この前のハロウィンイラストです🎃\n色塗り〜✨ https://t.co/w4PKXudtej",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2267466110,
+      "id_str": "2267466110",
+      "name": "なつき",
+      "screen_name": "natuki1016",
+      "location": null,
+      "url": null,
+      "description": "書道と水彩が大好きです✨✨質問箱《https://peing.net/ja/natuki1016?event=0》インスタ《https://www.instagram.com/natuki_1016》落書き垢→ @xc4lu展示会やイベントのお誘いはDMにお願いします",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 28992,
+      "friends_count": 240,
+      "listed_count": 350,
+      "favourites_count": 759,
+      "statuses_count": 4243,
+      "created_at": "Sun Dec 29 14:23:53 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1027464466823139329/dvGSJMLP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1027464466823139329/dvGSJMLP_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2267466110/1496150839",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 14,
+    "reply_count": 12,
+    "retweet_count": 2922,
+    "favorite_count": 11758,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058345623567519744,
+          "id_str": "1058345623567519744",
+          "indices": [
+            23,
+            46
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058345623567519744/pu/img/HLvy6NFHHkMN4tSK.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058345623567519744/pu/img/HLvy6NFHHkMN4tSK.jpg",
+          "url": "https://t.co/w4PKXudtej",
+          "display_url": "pic.twitter.com/w4PKXudtej",
+          "expanded_url": "https://twitter.com/natuki1016/status/1058346738195431424/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058345623567519744,
+          "id_str": "1058345623567519744",
+          "indices": [
+            23,
+            46
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058345623567519744/pu/img/HLvy6NFHHkMN4tSK.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058345623567519744/pu/img/HLvy6NFHHkMN4tSK.jpg",
+          "url": "https://t.co/w4PKXudtej",
+          "display_url": "pic.twitter.com/w4PKXudtej",
+          "expanded_url": "https://twitter.com/natuki1016/status/1058346738195431424/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 119440,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058345623567519744/pu/vid/240x240/ByEk1K246ZhRVNdN.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058345623567519744/pu/vid/480x480/SaKSi9S4BY8SBwnt.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058345623567519744/pu/pl/cAcWNFyv3QQcWKPx.m3u8?tag=5"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058345623567519744/pu/vid/720x720/e4RFwkl4jqP-h2ID.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "natuki1016",
+        "name": "なつき",
+        "id": 2267466110,
+        "id_str": "2267466110",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058345623567519744,
+        "id_str": "1058345623567519744",
+        "indices": [
+          39,
+          62
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058345623567519744/pu/img/HLvy6NFHHkMN4tSK.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058345623567519744/pu/img/HLvy6NFHHkMN4tSK.jpg",
+        "url": "https://t.co/w4PKXudtej",
+        "display_url": "pic.twitter.com/w4PKXudtej",
+        "expanded_url": "https://twitter.com/natuki1016/status/1058346738195431424/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058346738195431424,
+        "source_status_id_str": "1058346738195431424",
+        "source_user_id": 2267466110,
+        "source_user_id_str": "2267466110"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058345623567519744,
+        "id_str": "1058345623567519744",
+        "indices": [
+          39,
+          62
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058345623567519744/pu/img/HLvy6NFHHkMN4tSK.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058345623567519744/pu/img/HLvy6NFHHkMN4tSK.jpg",
+        "url": "https://t.co/w4PKXudtej",
+        "display_url": "pic.twitter.com/w4PKXudtej",
+        "expanded_url": "https://twitter.com/natuki1016/status/1058346738195431424/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 119440,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058345623567519744/pu/vid/240x240/ByEk1K246ZhRVNdN.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058345623567519744/pu/vid/480x480/SaKSi9S4BY8SBwnt.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058345623567519744/pu/pl/cAcWNFyv3QQcWKPx.m3u8?tag=5"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058345623567519744/pu/vid/720x720/e4RFwkl4jqP-h2ID.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058346738195431424,
+        "source_status_id_str": "1058346738195431424",
+        "source_user_id": 2267466110,
+        "source_user_id_str": "2267466110"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254437658"
+}

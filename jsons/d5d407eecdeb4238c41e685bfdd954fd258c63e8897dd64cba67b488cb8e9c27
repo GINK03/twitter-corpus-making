@@ -1,0 +1,554 @@
+{
+  "created_at": "Sat Nov 03 14:28:34 +0000 2018",
+  "id": 1058727641702789120,
+  "id_str": "1058727641702789120",
+  "text": "RT @Origami_Sigure: すき https://t.co/9sGTiHS1YX",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3066191336,
+    "id_str": "3066191336",
+    "name": "🐳おりがみ彩 記念絵企画開始中🐳",
+    "screen_name": "origamisayah",
+    "location": "大阪",
+    "url": "https://touch.pixiv.net/member.php?id=24975092",
+    "description": "お絵かきの人⸜( ´ ꒳ ` )⸝うちのラファエルは毒舌でドSキャラとの事です⸜(๑⃙⃘'ᵕ'๑⃙⃘)⸝無断使用、加工、転載等はご遠慮下さいませ(✿︎´ ꒳ ` )現在リクエストはお仕事依頼絵以外では受け付けておりません。何卒、ご理解の程、宜しくお願い致しますm(._.)m",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 4108,
+    "friends_count": 48,
+    "listed_count": 41,
+    "favourites_count": 46,
+    "statuses_count": 24307,
+    "created_at": "Sat Mar 07 08:21:53 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058676420757471233/4wG7PGzh_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058676420757471233/4wG7PGzh_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3066191336/1540482882",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 10:56:20 +0000 2018",
+    "id": 1058311844647989248,
+    "id_str": "1058311844647989248",
+    "text": "すき https://t.co/9sGTiHS1YX",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2701186146,
+      "id_str": "2701186146",
+      "name": "おりがみ時雨 休止中",
+      "screen_name": "Origami_Sigure",
+      "location": "京都市",
+      "url": null,
+      "description": "モンスト飽きた",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 395,
+      "friends_count": 106,
+      "listed_count": 3,
+      "favourites_count": 2584,
+      "statuses_count": 11469,
+      "created_at": "Sat Aug 02 16:31:11 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1056885349635383296/6aN9iur3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056885349635383296/6aN9iur3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2701186146/1536614908",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058008111133282304,
+    "quoted_status_id_str": "1058008111133282304",
+    "quoted_status": {
+      "created_at": "Thu Nov 01 14:49:25 +0000 2018",
+      "id": 1058008111133282304,
+      "id_str": "1058008111133282304",
+      "text": "モンスト、蒲公英\n蒲公英ちゃんほんと可愛いからついつい描いちゃうヾ(⌒(_ *´ᆺ`)φ\n#モンスト\n#蒲公英\n#モンストイラスト https://t.co/gVgntllsxq",
+      "display_text_range": [
+        0,
+        65
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3066191336,
+        "id_str": "3066191336",
+        "name": "🐳おりがみ彩 記念絵企画開始中🐳",
+        "screen_name": "origamisayah",
+        "location": "大阪",
+        "url": "https://touch.pixiv.net/member.php?id=24975092",
+        "description": "お絵かきの人⸜( ´ ꒳ ` )⸝うちのラファエルは毒舌でドSキャラとの事です⸜(๑⃙⃘'ᵕ'๑⃙⃘)⸝無断使用、加工、転載等はご遠慮下さいませ(✿︎´ ꒳ ` )現在リクエストはお仕事依頼絵以外では受け付けておりません。何卒、ご理解の程、宜しくお願い致しますm(._.)m",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4108,
+        "friends_count": 48,
+        "listed_count": 41,
+        "favourites_count": 46,
+        "statuses_count": 24306,
+        "created_at": "Sat Mar 07 08:21:53 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1058676420757471233/4wG7PGzh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058676420757471233/4wG7PGzh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3066191336/1540482882",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 3,
+      "reply_count": 9,
+      "retweet_count": 61,
+      "favorite_count": 272,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "モンスト",
+            "indices": [
+              45,
+              50
+            ]
+          },
+          {
+            "text": "蒲公英",
+            "indices": [
+              51,
+              55
+            ]
+          },
+          {
+            "text": "モンストイラスト",
+            "indices": [
+              56,
+              65
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058008095186546688,
+            "id_str": "1058008095186546688",
+            "indices": [
+              66,
+              89
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq7MwcsU8AA5fWS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq7MwcsU8AA5fWS.jpg",
+            "url": "https://t.co/gVgntllsxq",
+            "display_url": "pic.twitter.com/gVgntllsxq",
+            "expanded_url": "https://twitter.com/origamisayah/status/1058008111133282304/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058008095186546688,
+            "id_str": "1058008095186546688",
+            "indices": [
+              66,
+              89
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq7MwcsU8AA5fWS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq7MwcsU8AA5fWS.jpg",
+            "url": "https://t.co/gVgntllsxq",
+            "display_url": "pic.twitter.com/gVgntllsxq",
+            "expanded_url": "https://twitter.com/origamisayah/status/1058008111133282304/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/9sGTiHS1YX",
+      "expanded": "https://twitter.com/origamisayah/status/1058008111133282304",
+      "display": "twitter.com/origamisayah/s…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/9sGTiHS1YX",
+          "expanded_url": "https://twitter.com/origamisayah/status/1058008111133282304",
+          "display_url": "twitter.com/origamisayah/s…",
+          "indices": [
+            3,
+            26
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058008111133282304,
+  "quoted_status_id_str": "1058008111133282304",
+  "quoted_status": {
+    "created_at": "Thu Nov 01 14:49:25 +0000 2018",
+    "id": 1058008111133282304,
+    "id_str": "1058008111133282304",
+    "text": "モンスト、蒲公英\n蒲公英ちゃんほんと可愛いからついつい描いちゃうヾ(⌒(_ *´ᆺ`)φ\n#モンスト\n#蒲公英\n#モンストイラスト https://t.co/gVgntllsxq",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3066191336,
+      "id_str": "3066191336",
+      "name": "🐳おりがみ彩 記念絵企画開始中🐳",
+      "screen_name": "origamisayah",
+      "location": "大阪",
+      "url": "https://touch.pixiv.net/member.php?id=24975092",
+      "description": "お絵かきの人⸜( ´ ꒳ ` )⸝うちのラファエルは毒舌でドSキャラとの事です⸜(๑⃙⃘'ᵕ'๑⃙⃘)⸝無断使用、加工、転載等はご遠慮下さいませ(✿︎´ ꒳ ` )現在リクエストはお仕事依頼絵以外では受け付けておりません。何卒、ご理解の程、宜しくお願い致しますm(._.)m",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 4108,
+      "friends_count": 48,
+      "listed_count": 41,
+      "favourites_count": 46,
+      "statuses_count": 24306,
+      "created_at": "Sat Mar 07 08:21:53 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1058676420757471233/4wG7PGzh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058676420757471233/4wG7PGzh_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3066191336/1540482882",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 3,
+    "reply_count": 9,
+    "retweet_count": 61,
+    "favorite_count": 272,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "モンスト",
+          "indices": [
+            45,
+            50
+          ]
+        },
+        {
+          "text": "蒲公英",
+          "indices": [
+            51,
+            55
+          ]
+        },
+        {
+          "text": "モンストイラスト",
+          "indices": [
+            56,
+            65
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058008095186546688,
+          "id_str": "1058008095186546688",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq7MwcsU8AA5fWS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq7MwcsU8AA5fWS.jpg",
+          "url": "https://t.co/gVgntllsxq",
+          "display_url": "pic.twitter.com/gVgntllsxq",
+          "expanded_url": "https://twitter.com/origamisayah/status/1058008111133282304/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058008095186546688,
+          "id_str": "1058008095186546688",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq7MwcsU8AA5fWS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq7MwcsU8AA5fWS.jpg",
+          "url": "https://t.co/gVgntllsxq",
+          "display_url": "pic.twitter.com/gVgntllsxq",
+          "expanded_url": "https://twitter.com/origamisayah/status/1058008111133282304/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/9sGTiHS1YX",
+    "expanded": "https://twitter.com/origamisayah/status/1058008111133282304",
+    "display": "twitter.com/origamisayah/s…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/9sGTiHS1YX",
+        "expanded_url": "https://twitter.com/origamisayah/status/1058008111133282304",
+        "display_url": "twitter.com/origamisayah/s…",
+        "indices": [
+          23,
+          46
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Origami_Sigure",
+        "name": "おりがみ時雨 休止中",
+        "id": 2701186146,
+        "id_str": "2701186146",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255314647"
+}

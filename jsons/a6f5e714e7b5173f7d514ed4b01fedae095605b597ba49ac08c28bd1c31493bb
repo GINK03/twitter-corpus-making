@@ -1,0 +1,172 @@
+{
+  "created_at": "Sat Nov 03 14:26:04 +0000 2018",
+  "id": 1058727012670427138,
+  "id_str": "1058727012670427138",
+  "text": "建造ドックから出てきた大潮、釣りモードになってる！\n#艦これ\n#大潮 https://t.co/zYDmZzfQbt",
+  "display_text_range": [
+    0,
+    34
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 908119483302109185,
+    "id_str": "908119483302109185",
+    "name": "すっとん",
+    "screen_name": "St09tnx14tnd",
+    "location": null,
+    "url": null,
+    "description": "ミリタリーゲームで遊んでいることが多いゲーム好き。提督(艦これ、初期艦電、嫁艦榛名、義理の娘旗風 、甲勲章10個、ランカー経験1度あり)、艦長(wows、基本駆逐艦乗り)、戦車長(wot、現在休止中)。FGO。EXVS2 気になる。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 68,
+    "friends_count": 118,
+    "listed_count": 0,
+    "favourites_count": 2858,
+    "statuses_count": 3724,
+    "created_at": "Thu Sep 14 00:05:31 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1047881597049950208/9eynUogk_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047881597049950208/9eynUogk_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/908119483302109185/1516074155",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ",
+        "indices": [
+          26,
+          30
+        ]
+      },
+      {
+        "text": "大潮",
+        "indices": [
+          31,
+          34
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058726958832316421,
+        "id_str": "1058726958832316421",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaj0dUcAUSDbf.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaj0dUcAUSDbf.jpg",
+        "url": "https://t.co/zYDmZzfQbt",
+        "display_url": "pic.twitter.com/zYDmZzfQbt",
+        "expanded_url": "https://twitter.com/St09tnx14tnd/status/1058727012670427138/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 408,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 721,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1230,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058726958832316421,
+        "id_str": "1058726958832316421",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaj0dUcAUSDbf.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaj0dUcAUSDbf.jpg",
+        "url": "https://t.co/zYDmZzfQbt",
+        "display_url": "pic.twitter.com/zYDmZzfQbt",
+        "expanded_url": "https://twitter.com/St09tnx14tnd/status/1058727012670427138/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 408,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 721,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1230,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255164674"
+}

@@ -1,0 +1,100 @@
+{
+  "created_at": "Sat Nov 03 14:21:39 +0000 2018",
+  "id": 1058725901511229440,
+  "id_str": "1058725901511229440",
+  "text": "無言  #パズドラ  #Mirrativ で配信中！  https://t.co/zKOkD92nYu",
+  "source": "<a href=\"https://www.mirrativ.com\" rel=\"nofollow\">Mirrativ</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1030808963019755526,
+    "id_str": "1030808963019755526",
+    "name": "⚔️森永⚔️",
+    "screen_name": "morinag96562886",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 53,
+    "friends_count": 116,
+    "listed_count": 2,
+    "favourites_count": 166,
+    "statuses_count": 798,
+    "created_at": "Sat Aug 18 13:29:43 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1057269145631223808/HntVIeT-_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057269145631223808/HntVIeT-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1030808963019755526/1539512252",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラ",
+        "indices": [
+          4,
+          9
+        ]
+      },
+      {
+        "text": "Mirrativ",
+        "indices": [
+          11,
+          20
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/zKOkD92nYu",
+        "expanded_url": "https://www.mirrativ.com/live/MEH_JQWrE8bq8Ir--1RMDg",
+        "display_url": "mirrativ.com/live/MEH_JQWrE…",
+        "indices": [
+          28,
+          51
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254899753"
+}

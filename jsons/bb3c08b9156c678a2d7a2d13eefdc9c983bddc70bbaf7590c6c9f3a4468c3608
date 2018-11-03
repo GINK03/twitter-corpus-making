@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:23:44 +0000 2018",
+  "id": 1058726425396572160,
+  "id_str": "1058726425396572160",
+  "text": "RT @hankenkumo384: ロリぐだちゃんとダディ。\nそういうつもりで言ったんじゃないんだけどなァ！！(赤面) https://t.co/sspZXDD4pN",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 826181521224523777,
+    "id_str": "826181521224523777",
+    "name": "処刑されたしが砲",
+    "screen_name": "Siasiatuki",
+    "location": null,
+    "url": null,
+    "description": "なんでも食べる。ほんとになんでも食べる。地雷がひとつでもある人間は気をつけろ。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 45,
+    "friends_count": 246,
+    "listed_count": 1,
+    "favourites_count": 26038,
+    "statuses_count": 22120,
+    "created_at": "Mon Jan 30 21:33:19 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1034342514470178816/yxCR3fBS_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034342514470178816/yxCR3fBS_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/826181521224523777/1498135376",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:20:47 +0000 2018",
+    "id": 1058725680546963457,
+    "id_str": "1058725680546963457",
+    "text": "ロリぐだちゃんとダディ。\nそういうつもりで言ったんじゃないんだけどなァ！！(赤面) https://t.co/sspZXDD4pN",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2999745624,
+      "id_str": "2999745624",
+      "name": "雲。",
+      "screen_name": "hankenkumo384",
+      "location": "カントー地方",
+      "url": "http://pixiv.me/ukyo384",
+      "description": "もっちり白玉。版権のおっさんが描きたいと作ったアカウント。無言フォローはOKですが明らかに関係のなさそうなアカウントからのフォローはお断りします。無断転載禁止。No reproduction or republication without written permission.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 7338,
+      "friends_count": 298,
+      "listed_count": 71,
+      "favourites_count": 2039,
+      "statuses_count": 22064,
+      "created_at": "Wed Jan 28 20:50:16 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "F58EA8",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1003265757038329856/xm3MNIjk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003265757038329856/xm3MNIjk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2999745624/1521296795",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 11,
+    "favorite_count": 38,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058725552855539712,
+          "id_str": "1058725552855539712",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFZR-yVYAAQ7RW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFZR-yVYAAQ7RW.jpg",
+          "url": "https://t.co/sspZXDD4pN",
+          "display_url": "pic.twitter.com/sspZXDD4pN",
+          "expanded_url": "https://twitter.com/hankenkumo384/status/1058725680546963457/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 858,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1464,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 486,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058725552855539712,
+          "id_str": "1058725552855539712",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFZR-yVYAAQ7RW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFZR-yVYAAQ7RW.jpg",
+          "url": "https://t.co/sspZXDD4pN",
+          "display_url": "pic.twitter.com/sspZXDD4pN",
+          "expanded_url": "https://twitter.com/hankenkumo384/status/1058725680546963457/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 858,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1464,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 486,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "hankenkumo384",
+        "name": "雲。",
+        "id": 2999745624,
+        "id_str": "2999745624",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058725552855539712,
+        "id_str": "1058725552855539712",
+        "indices": [
+          61,
+          84
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZR-yVYAAQ7RW.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZR-yVYAAQ7RW.jpg",
+        "url": "https://t.co/sspZXDD4pN",
+        "display_url": "pic.twitter.com/sspZXDD4pN",
+        "expanded_url": "https://twitter.com/hankenkumo384/status/1058725680546963457/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 858,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1464,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 486,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058725680546963457,
+        "source_status_id_str": "1058725680546963457",
+        "source_user_id": 2999745624,
+        "source_user_id_str": "2999745624"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058725552855539712,
+        "id_str": "1058725552855539712",
+        "indices": [
+          61,
+          84
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZR-yVYAAQ7RW.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZR-yVYAAQ7RW.jpg",
+        "url": "https://t.co/sspZXDD4pN",
+        "display_url": "pic.twitter.com/sspZXDD4pN",
+        "expanded_url": "https://twitter.com/hankenkumo384/status/1058725680546963457/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 858,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1464,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 486,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058725680546963457,
+        "source_status_id_str": "1058725680546963457",
+        "source_user_id": 2999745624,
+        "source_user_id_str": "2999745624"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255024657"
+}

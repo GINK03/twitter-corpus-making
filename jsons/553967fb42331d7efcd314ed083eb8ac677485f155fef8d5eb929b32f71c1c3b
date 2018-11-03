@@ -1,0 +1,556 @@
+{
+  "created_at": "Sat Nov 03 14:25:12 +0000 2018",
+  "id": 1058726794528927745,
+  "id_str": "1058726794528927745",
+  "text": "RT @chodo: あーなるほど。これが某人気企業の人が言ってた「部活では吹奏楽やってた子が1番使い（捨てし）やすい」っていうのにつながるのか。納得。カッコ内はワタクシの補足。 https://t.co/PoM5Nzw2GJ",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 945004400,
+    "id_str": "945004400",
+    "name": "若草学習塾",
+    "screen_name": "kqfkq",
+    "location": "新潟県三条市石上",
+    "url": "http://wakakusagakusyuujyuku.wordpress.com",
+    "description": "三条　学習塾",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2296,
+    "friends_count": 2311,
+    "listed_count": 5,
+    "favourites_count": 0,
+    "statuses_count": 1111,
+    "created_at": "Tue Nov 13 02:09:19 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/980385328065163264/T8Vam2KI_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/980385328065163264/T8Vam2KI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/945004400/1522080963",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Oct 16 10:32:58 +0000 2018",
+    "id": 1052145368450777089,
+    "id_str": "1052145368450777089",
+    "text": "あーなるほど。これが某人気企業の人が言ってた「部活では吹奏楽やってた子が1番使い（捨てし）やすい」っていうのにつながるのか。納得。カッコ内はワタクシの補足。 https://t.co/PoM5Nzw2GJ",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 15362470,
+      "id_str": "15362470",
+      "name": "𝕔𝕙𝕠𝕕𝕠",
+      "screen_name": "chodo",
+      "location": "osaka",
+      "url": "http://astrogator.net",
+      "description": "Tank I was on ki. I so gab a maw are.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 2871,
+      "friends_count": 507,
+      "listed_count": 147,
+      "favourites_count": 875,
+      "statuses_count": 18252,
+      "created_at": "Wed Jul 09 05:02:53 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "05172D",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "203744",
+      "profile_sidebar_border_color": "EDFDCC",
+      "profile_sidebar_fill_color": "E5CC59",
+      "profile_text_color": "FC8F10",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000307457366/fca51069c48324f16d98c0fdd9a14636_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000307457366/fca51069c48324f16d98c0fdd9a14636_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15362470/1398214864",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1051426816328515586,
+    "quoted_status_id_str": "1051426816328515586",
+    "quoted_status": {
+      "created_at": "Sun Oct 14 10:57:42 +0000 2018",
+      "id": 1051426816328515586,
+      "id_str": "1051426816328515586",
+      "text": "高校生時代に吹奏楽部だった自分だから実感としてよくわかる記事。ホントに昔からこの世界は進歩していない。１日練習を休んだら３日遅れるとか、そういう言葉を延々と浴びせられて「練習時間が長い事が美徳」とされる世界。学校が違ってもブラバン… https://t.co/X9Po3yg5F6",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 728502820735848448,
+        "id_str": "728502820735848448",
+        "name": "ＹＳＵ＠きんてつ鉄道まつり１１/１０塩浜",
+        "screen_name": "JapanYsu",
+        "location": "日本",
+        "url": null,
+        "description": "マイペースで不定期。 主に鉄道模型関係が多いですがポケモンやレトロゲームなどのテレビゲーム関連にのめりこんだりクルマやバイクやプロ野球やサッカー（Ｊ及び地域リーグ）でマターリしたりスナック菓子やキャラクター物にはまったりＤＩＹや農業とか多方面にいろいろ興味もって楽しんでいます（中身はオッサン）。フォローはお気軽にどぞ。",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 530,
+        "friends_count": 530,
+        "listed_count": 12,
+        "favourites_count": 60620,
+        "statuses_count": 25089,
+        "created_at": "Fri May 06 08:33:02 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1019499164843925504/Dtjt4JS0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1019499164843925504/Dtjt4JS0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/728502820735848448/1529725553",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "高校生時代に吹奏楽部だった自分だから実感としてよくわかる記事。ホントに昔からこの世界は進歩していない。１日練習を休んだら３日遅れるとか、そういう言葉を延々と浴びせられて「練習時間が長い事が美徳」とされる世界。学校が違ってもブラバンでは多くの部で同じような状況が何十年と続いている。 https://t.co/HBAujBfqZd",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "entities": {
+          "hashtags": [],
+          "urls": [],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1051426198465609728,
+              "id_str": "1051426198465609728",
+              "indices": [
+                141,
+                164
+              ],
+              "media_url": "http://pbs.twimg.com/media/DpdqjosVAAACkRR.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DpdqjosVAAACkRR.jpg",
+              "url": "https://t.co/HBAujBfqZd",
+              "display_url": "pic.twitter.com/HBAujBfqZd",
+              "expanded_url": "https://twitter.com/JapanYsu/status/1051426816328515586/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 900,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1536,
+                  "h": 2048,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1051426198465609728,
+              "id_str": "1051426198465609728",
+              "indices": [
+                141,
+                164
+              ],
+              "media_url": "http://pbs.twimg.com/media/DpdqjosVAAACkRR.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DpdqjosVAAACkRR.jpg",
+              "url": "https://t.co/HBAujBfqZd",
+              "display_url": "pic.twitter.com/HBAujBfqZd",
+              "expanded_url": "https://twitter.com/JapanYsu/status/1051426816328515586/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 900,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1536,
+                  "h": 2048,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 537,
+      "reply_count": 60,
+      "retweet_count": 5512,
+      "favorite_count": 8034,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/X9Po3yg5F6",
+            "expanded_url": "https://twitter.com/i/web/status/1051426816328515586",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/PoM5Nzw2GJ",
+      "expanded": "https://twitter.com/JapanYsu/status/1051426816328515586",
+      "display": "twitter.com/JapanYsu/statu…"
+    },
+    "is_quote_status": true,
+    "quote_count": 5,
+    "reply_count": 1,
+    "retweet_count": 208,
+    "favorite_count": 175,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/PoM5Nzw2GJ",
+          "expanded_url": "https://twitter.com/JapanYsu/status/1051426816328515586",
+          "display_url": "twitter.com/JapanYsu/statu…",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1051426816328515586,
+  "quoted_status_id_str": "1051426816328515586",
+  "quoted_status": {
+    "created_at": "Sun Oct 14 10:57:42 +0000 2018",
+    "id": 1051426816328515586,
+    "id_str": "1051426816328515586",
+    "text": "高校生時代に吹奏楽部だった自分だから実感としてよくわかる記事。ホントに昔からこの世界は進歩していない。１日練習を休んだら３日遅れるとか、そういう言葉を延々と浴びせられて「練習時間が長い事が美徳」とされる世界。学校が違ってもブラバン… https://t.co/X9Po3yg5F6",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 728502820735848448,
+      "id_str": "728502820735848448",
+      "name": "ＹＳＵ＠きんてつ鉄道まつり１１/１０塩浜",
+      "screen_name": "JapanYsu",
+      "location": "日本",
+      "url": null,
+      "description": "マイペースで不定期。 主に鉄道模型関係が多いですがポケモンやレトロゲームなどのテレビゲーム関連にのめりこんだりクルマやバイクやプロ野球やサッカー（Ｊ及び地域リーグ）でマターリしたりスナック菓子やキャラクター物にはまったりＤＩＹや農業とか多方面にいろいろ興味もって楽しんでいます（中身はオッサン）。フォローはお気軽にどぞ。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 530,
+      "friends_count": 530,
+      "listed_count": 12,
+      "favourites_count": 60620,
+      "statuses_count": 25089,
+      "created_at": "Fri May 06 08:33:02 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1019499164843925504/Dtjt4JS0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1019499164843925504/Dtjt4JS0_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/728502820735848448/1529725553",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "高校生時代に吹奏楽部だった自分だから実感としてよくわかる記事。ホントに昔からこの世界は進歩していない。１日練習を休んだら３日遅れるとか、そういう言葉を延々と浴びせられて「練習時間が長い事が美徳」とされる世界。学校が違ってもブラバンでは多くの部で同じような状況が何十年と続いている。 https://t.co/HBAujBfqZd",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1051426198465609728,
+            "id_str": "1051426198465609728",
+            "indices": [
+              141,
+              164
+            ],
+            "media_url": "http://pbs.twimg.com/media/DpdqjosVAAACkRR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DpdqjosVAAACkRR.jpg",
+            "url": "https://t.co/HBAujBfqZd",
+            "display_url": "pic.twitter.com/HBAujBfqZd",
+            "expanded_url": "https://twitter.com/JapanYsu/status/1051426816328515586/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1051426198465609728,
+            "id_str": "1051426198465609728",
+            "indices": [
+              141,
+              164
+            ],
+            "media_url": "http://pbs.twimg.com/media/DpdqjosVAAACkRR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DpdqjosVAAACkRR.jpg",
+            "url": "https://t.co/HBAujBfqZd",
+            "display_url": "pic.twitter.com/HBAujBfqZd",
+            "expanded_url": "https://twitter.com/JapanYsu/status/1051426816328515586/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 537,
+    "reply_count": 60,
+    "retweet_count": 5512,
+    "favorite_count": 8034,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/X9Po3yg5F6",
+          "expanded_url": "https://twitter.com/i/web/status/1051426816328515586",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/PoM5Nzw2GJ",
+    "expanded": "https://twitter.com/JapanYsu/status/1051426816328515586",
+    "display": "twitter.com/JapanYsu/statu…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/PoM5Nzw2GJ",
+        "expanded_url": "https://twitter.com/JapanYsu/status/1051426816328515586",
+        "display_url": "twitter.com/JapanYsu/statu…",
+        "indices": [
+          90,
+          113
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chodo",
+        "name": "𝕔𝕙𝕠𝕕𝕠",
+        "id": 15362470,
+        "id_str": "15362470",
+        "indices": [
+          3,
+          9
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255112665"
+}

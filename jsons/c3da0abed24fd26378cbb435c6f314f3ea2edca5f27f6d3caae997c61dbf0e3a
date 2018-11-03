@@ -1,0 +1,556 @@
+{
+  "created_at": "Sat Nov 03 14:26:24 +0000 2018",
+  "id": 1058727096497754112,
+  "id_str": "1058727096497754112",
+  "text": "RT @ayuneo: 古き良きBL漫画のやつ。再掲 https://t.co/NwkX7Gdqpc",
+  "source": "<a href=\"https://github.com/TwidereProject\" rel=\"nofollow\">Twidere for Android #8</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 781873431436402688,
+    "id_str": "781873431436402688",
+    "name": "natsu*",
+    "screen_name": "na2rish",
+    "location": "LaLa発売日以降ネタバレ有り",
+    "url": "https://pixiv.me/na2rish",
+    "description": "2次元男性アイドルと24年組が好きな子持ちオタクです。腐成人。雑多にマイペースが目標。現在ひとりごと中心ですが話しかけてもらえたら喜びます。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 462,
+    "friends_count": 60,
+    "listed_count": 6,
+    "favourites_count": 2784,
+    "statuses_count": 9717,
+    "created_at": "Fri Sep 30 15:08:47 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "E81C4F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1055667156082290689/P_Ka1czY_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055667156082290689/P_Ka1czY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/781873431436402688/1538157960",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 09:52:49 +0000 2018",
+    "id": 1058658247236714496,
+    "id_str": "1058658247236714496",
+    "text": "古き良きBL漫画のやつ。再掲 https://t.co/NwkX7Gdqpc",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "source": "<a href=\"http://janetter.net/\" rel=\"nofollow\">Janetter</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 98305647,
+      "id_str": "98305647",
+      "name": "櫻日和鮎実/単行本発売中",
+      "screen_name": "ayuneo",
+      "location": "美少年の太ももの隙間魔性のデルタ",
+      "url": "http://www.pixiv.net/member.php?id=3617446",
+      "description": "美少年漫画家の櫻日和鮎実(ｻｸﾗｶﾜｱﾕﾐ)です。  「パニくる！？」「ビネ先生とショ太くん」「天使と半ズボン」お仕事依頼はDMから一報くださいませ。リプは気まぐれ。 ※画像無断使用はお断りですhttps://ofuse.me/#users/304",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 31520,
+      "friends_count": 594,
+      "listed_count": 443,
+      "favourites_count": 14447,
+      "statuses_count": 142441,
+      "created_at": "Mon Dec 21 06:26:24 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "EBEBEB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "EBABD2",
+      "profile_sidebar_border_color": "DFDFDF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/948569255066218496/kajHUy6L_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/948569255066218496/kajHUy6L_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/98305647/1519108979",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 27,
+    "reply_count": 13,
+    "retweet_count": 3159,
+    "favorite_count": 7687,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058658237254254592,
+          "id_str": "1058658237254254592",
+          "indices": [
+            15,
+            38
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrEcDsoUwAADo5W.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrEcDsoUwAADo5W.jpg",
+          "url": "https://t.co/NwkX7Gdqpc",
+          "display_url": "pic.twitter.com/NwkX7Gdqpc",
+          "expanded_url": "https://twitter.com/ayuneo/status/1058658247236714496/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 624,
+              "h": 870,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 488,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 624,
+              "h": 870,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058658237254254592,
+          "id_str": "1058658237254254592",
+          "indices": [
+            15,
+            38
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrEcDsoUwAADo5W.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrEcDsoUwAADo5W.jpg",
+          "url": "https://t.co/NwkX7Gdqpc",
+          "display_url": "pic.twitter.com/NwkX7Gdqpc",
+          "expanded_url": "https://twitter.com/ayuneo/status/1058658247236714496/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 624,
+              "h": 870,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 488,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 624,
+              "h": 870,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058658239972225024,
+          "id_str": "1058658239972225024",
+          "indices": [
+            15,
+            38
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrEcD2wVsAAEnFV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrEcD2wVsAAEnFV.jpg",
+          "url": "https://t.co/NwkX7Gdqpc",
+          "display_url": "pic.twitter.com/NwkX7Gdqpc",
+          "expanded_url": "https://twitter.com/ayuneo/status/1058658247236714496/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 624,
+              "h": 870,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 624,
+              "h": 870,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 488,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058658242442649605,
+          "id_str": "1058658242442649605",
+          "indices": [
+            15,
+            38
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrEcD_9VYAUyvP0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrEcD_9VYAUyvP0.jpg",
+          "url": "https://t.co/NwkX7Gdqpc",
+          "display_url": "pic.twitter.com/NwkX7Gdqpc",
+          "expanded_url": "https://twitter.com/ayuneo/status/1058658247236714496/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 624,
+              "h": 870,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 488,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 624,
+              "h": 870,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058658245013716994,
+          "id_str": "1058658245013716994",
+          "indices": [
+            15,
+            38
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrEcEJiUwAIDGm2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrEcEJiUwAIDGm2.jpg",
+          "url": "https://t.co/NwkX7Gdqpc",
+          "display_url": "pic.twitter.com/NwkX7Gdqpc",
+          "expanded_url": "https://twitter.com/ayuneo/status/1058658247236714496/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 624,
+              "h": 870,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 488,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 624,
+              "h": 870,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "ayuneo",
+        "name": "櫻日和鮎実/単行本発売中",
+        "id": 98305647,
+        "id_str": "98305647",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058658237254254592,
+        "id_str": "1058658237254254592",
+        "indices": [
+          27,
+          50
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrEcDsoUwAADo5W.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrEcDsoUwAADo5W.jpg",
+        "url": "https://t.co/NwkX7Gdqpc",
+        "display_url": "pic.twitter.com/NwkX7Gdqpc",
+        "expanded_url": "https://twitter.com/ayuneo/status/1058658247236714496/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 624,
+            "h": 870,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 488,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 624,
+            "h": 870,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058658247236714496,
+        "source_status_id_str": "1058658247236714496",
+        "source_user_id": 98305647,
+        "source_user_id_str": "98305647"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058658237254254592,
+        "id_str": "1058658237254254592",
+        "indices": [
+          27,
+          50
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrEcDsoUwAADo5W.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrEcDsoUwAADo5W.jpg",
+        "url": "https://t.co/NwkX7Gdqpc",
+        "display_url": "pic.twitter.com/NwkX7Gdqpc",
+        "expanded_url": "https://twitter.com/ayuneo/status/1058658247236714496/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 624,
+            "h": 870,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 488,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 624,
+            "h": 870,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058658247236714496,
+        "source_status_id_str": "1058658247236714496",
+        "source_user_id": 98305647,
+        "source_user_id_str": "98305647"
+      },
+      {
+        "id": 1058658239972225024,
+        "id_str": "1058658239972225024",
+        "indices": [
+          27,
+          50
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrEcD2wVsAAEnFV.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrEcD2wVsAAEnFV.jpg",
+        "url": "https://t.co/NwkX7Gdqpc",
+        "display_url": "pic.twitter.com/NwkX7Gdqpc",
+        "expanded_url": "https://twitter.com/ayuneo/status/1058658247236714496/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 624,
+            "h": 870,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 624,
+            "h": 870,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 488,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058658247236714496,
+        "source_status_id_str": "1058658247236714496",
+        "source_user_id": 98305647,
+        "source_user_id_str": "98305647"
+      },
+      {
+        "id": 1058658242442649605,
+        "id_str": "1058658242442649605",
+        "indices": [
+          27,
+          50
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrEcD_9VYAUyvP0.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrEcD_9VYAUyvP0.jpg",
+        "url": "https://t.co/NwkX7Gdqpc",
+        "display_url": "pic.twitter.com/NwkX7Gdqpc",
+        "expanded_url": "https://twitter.com/ayuneo/status/1058658247236714496/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 624,
+            "h": 870,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 488,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 624,
+            "h": 870,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058658247236714496,
+        "source_status_id_str": "1058658247236714496",
+        "source_user_id": 98305647,
+        "source_user_id_str": "98305647"
+      },
+      {
+        "id": 1058658245013716994,
+        "id_str": "1058658245013716994",
+        "indices": [
+          27,
+          50
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrEcEJiUwAIDGm2.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrEcEJiUwAIDGm2.jpg",
+        "url": "https://t.co/NwkX7Gdqpc",
+        "display_url": "pic.twitter.com/NwkX7Gdqpc",
+        "expanded_url": "https://twitter.com/ayuneo/status/1058658247236714496/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 624,
+            "h": 870,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 488,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 624,
+            "h": 870,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058658247236714496,
+        "source_status_id_str": "1058658247236714496",
+        "source_user_id": 98305647,
+        "source_user_id_str": "98305647"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255184660"
+}

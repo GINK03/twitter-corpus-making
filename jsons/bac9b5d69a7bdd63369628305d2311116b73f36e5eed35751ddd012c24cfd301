@@ -1,0 +1,344 @@
+{
+  "created_at": "Sat Nov 03 13:55:48 +0000 2018",
+  "id": 1058719396363829248,
+  "id_str": "1058719396363829248",
+  "text": "RT @akaiazuren: 久々の初ドロだ！狭霧さんすごい可愛いのだ...!\n\n＃艦これ https://t.co/sPDoBzUiTV",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 406315099,
+    "id_str": "406315099",
+    "name": "タケぽ@来世はいい人生にしたい",
+    "screen_name": "takepooooom",
+    "location": "トーキョー",
+    "url": null,
+    "description": "週末提督。 人呼んで「美しすぎる社畜エンジニア」",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 292,
+    "friends_count": 380,
+    "listed_count": 4,
+    "favourites_count": 614,
+    "statuses_count": 10105,
+    "created_at": "Sun Nov 06 14:58:44 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058323787672838144/Pp4crqKI_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058323787672838144/Pp4crqKI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/406315099/1535470038",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 07:46:14 +0000 2018",
+    "id": 1058626389790744577,
+    "id_str": "1058626389790744577",
+    "text": "久々の初ドロだ！狭霧さんすごい可愛いのだ...!\n\n＃艦これ https://t.co/sPDoBzUiTV",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 814249423827914754,
+      "id_str": "814249423827914754",
+      "name": "アクレス@18/04/21着任",
+      "screen_name": "akaiazuren",
+      "location": "大湊",
+      "url": "http://com.nicovideo.jp/community/co1392029",
+      "description": "艦これ/FF14/CSからソシャゲまで幅広くやってます　配信、動画もたまに！着任18/04/21\n\nYoutube⇒http://urx2.nu/MkSz",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 3998,
+      "friends_count": 3722,
+      "listed_count": 53,
+      "favourites_count": 17215,
+      "statuses_count": 5798,
+      "created_at": "Wed Dec 28 23:19:25 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1058709923242987520/kzlTfLIJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058709923242987520/kzlTfLIJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/814249423827914754/1540927446",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 4,
+    "retweet_count": 6,
+    "favorite_count": 120,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "艦これ",
+          "indices": [
+            26,
+            30
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058626259742208001,
+          "id_str": "1058626259742208001",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrD--XHVsAEOM1Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrD--XHVsAEOM1Z.jpg",
+          "url": "https://t.co/sPDoBzUiTV",
+          "display_url": "pic.twitter.com/sPDoBzUiTV",
+          "expanded_url": "https://twitter.com/akaiazuren/status/1058626389790744577/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 927,
+              "h": 557,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 927,
+              "h": 557,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 409,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058626259742208001,
+          "id_str": "1058626259742208001",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrD--XHVsAEOM1Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrD--XHVsAEOM1Z.jpg",
+          "url": "https://t.co/sPDoBzUiTV",
+          "display_url": "pic.twitter.com/sPDoBzUiTV",
+          "expanded_url": "https://twitter.com/akaiazuren/status/1058626389790744577/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 927,
+              "h": 557,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 927,
+              "h": 557,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 409,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ",
+        "indices": [
+          42,
+          46
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "akaiazuren",
+        "name": "アクレス@18/04/21着任",
+        "id": 814249423827914754,
+        "id_str": "814249423827914754",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058626259742208001,
+        "id_str": "1058626259742208001",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrD--XHVsAEOM1Z.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrD--XHVsAEOM1Z.jpg",
+        "url": "https://t.co/sPDoBzUiTV",
+        "display_url": "pic.twitter.com/sPDoBzUiTV",
+        "expanded_url": "https://twitter.com/akaiazuren/status/1058626389790744577/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 927,
+            "h": 557,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 927,
+            "h": 557,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 409,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058626389790744577,
+        "source_status_id_str": "1058626389790744577",
+        "source_user_id": 814249423827914754,
+        "source_user_id_str": "814249423827914754"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058626259742208001,
+        "id_str": "1058626259742208001",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrD--XHVsAEOM1Z.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrD--XHVsAEOM1Z.jpg",
+        "url": "https://t.co/sPDoBzUiTV",
+        "display_url": "pic.twitter.com/sPDoBzUiTV",
+        "expanded_url": "https://twitter.com/akaiazuren/status/1058626389790744577/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 927,
+            "h": 557,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 927,
+            "h": 557,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 409,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058626389790744577,
+        "source_status_id_str": "1058626389790744577",
+        "source_user_id": 814249423827914754,
+        "source_user_id_str": "814249423827914754"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253348805"
+}

@@ -1,0 +1,412 @@
+{
+  "created_at": "Sat Nov 03 14:21:40 +0000 2018",
+  "id": 1058725905328033792,
+  "id_str": "1058725905328033792",
+  "text": "RT @soccer_jp_world: ドイツが生んだ天才\n\nエジルのスーパープレイ集⚽\n\nhttps://t.co/J8Cuufnce5",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 982622092528041984,
+    "id_str": "982622092528041984",
+    "name": "あらし",
+    "screen_name": "ghziq1zZRzaytF2",
+    "location": null,
+    "url": null,
+    "description": "宮工インテ1年 ディバラ サッカー",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 261,
+    "friends_count": 238,
+    "listed_count": 0,
+    "favourites_count": 115,
+    "statuses_count": 156,
+    "created_at": "Sat Apr 07 14:12:17 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1029050835806769159/x1l_kuav_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029050835806769159/x1l_kuav_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/982622092528041984/1535804138",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 09:12:34 +0000 2018",
+    "id": 1058285727308345345,
+    "id_str": "1058285727308345345",
+    "text": "ドイツが生んだ天才\n\nエジルのスーパープレイ集⚽\n\nhttps://t.co/J8Cuufnce5",
+    "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 118049624,
+      "id_str": "118049624",
+      "name": "⚽世界サッカー動画集⚽",
+      "screen_name": "soccer_jp_world",
+      "location": null,
+      "url": null,
+      "description": "世界の最新サッカー動画を配信する「worldsoccer(ワールドサッカー)」\n最新の動画や人気の動画を配信していきます。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 16699,
+      "friends_count": 16155,
+      "listed_count": 10,
+      "favourites_count": 0,
+      "statuses_count": 4040,
+      "created_at": "Sat Feb 27 12:44:43 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/884404282572681216/_3vXZpqH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/884404282572681216/_3vXZpqH_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/118049624/1499693471",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 59,
+    "favorite_count": 413,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 812707017714372608,
+          "id_str": "812707017714372608",
+          "indices": [
+            26,
+            49
+          ],
+          "additional_media_info": {
+            "title": "",
+            "description": "",
+            "embeddable": true,
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/812707017714372608/img/RJbmBnaOpZq-MOMY.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/812707017714372608/img/RJbmBnaOpZq-MOMY.jpg",
+          "url": "https://t.co/J8Cuufnce5",
+          "display_url": "pic.twitter.com/J8Cuufnce5",
+          "expanded_url": "https://twitter.com/ThatGooner/status/812710464677363712/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 812710464677363712,
+          "source_status_id_str": "812710464677363712",
+          "source_user_id": 2662964815,
+          "source_user_id_str": "2662964815"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 812707017714372608,
+          "id_str": "812707017714372608",
+          "indices": [
+            26,
+            49
+          ],
+          "additional_media_info": {
+            "title": "",
+            "description": "",
+            "embeddable": true,
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/812707017714372608/img/RJbmBnaOpZq-MOMY.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/812707017714372608/img/RJbmBnaOpZq-MOMY.jpg",
+          "url": "https://t.co/J8Cuufnce5",
+          "display_url": "pic.twitter.com/J8Cuufnce5",
+          "expanded_url": "https://twitter.com/ThatGooner/status/812710464677363712/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 236370,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/812707017714372608/pl/UCQ-VBl3Yc9jFVd8.m3u8"
+              },
+              {
+                "bitrate": 320000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/812707017714372608/vid/320x180/ObBizVkH4MuWX4DV.mp4"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/812707017714372608/vid/640x360/JhYhtOtJsBNxVfNs.mp4"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/812707017714372608/vid/1280x720/Im3Cka5ZVUHCaGyD.mp4"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 812710464677363712,
+          "source_status_id_str": "812710464677363712",
+          "source_user_id": 2662964815,
+          "source_user_id_str": "2662964815"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "soccer_jp_world",
+        "name": "⚽世界サッカー動画集⚽",
+        "id": 118049624,
+        "id_str": "118049624",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 812707017714372608,
+        "id_str": "812707017714372608",
+        "indices": [
+          47,
+          70
+        ],
+        "additional_media_info": {
+          "title": "",
+          "description": "",
+          "embeddable": true,
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/812707017714372608/img/RJbmBnaOpZq-MOMY.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/812707017714372608/img/RJbmBnaOpZq-MOMY.jpg",
+        "url": "https://t.co/J8Cuufnce5",
+        "display_url": "pic.twitter.com/J8Cuufnce5",
+        "expanded_url": "https://twitter.com/ThatGooner/status/812710464677363712/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 812710464677363712,
+        "source_status_id_str": "812710464677363712",
+        "source_user_id": 2662964815,
+        "source_user_id_str": "2662964815"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 812707017714372608,
+        "id_str": "812707017714372608",
+        "indices": [
+          47,
+          70
+        ],
+        "additional_media_info": {
+          "title": "",
+          "description": "",
+          "embeddable": true,
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/812707017714372608/img/RJbmBnaOpZq-MOMY.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/812707017714372608/img/RJbmBnaOpZq-MOMY.jpg",
+        "url": "https://t.co/J8Cuufnce5",
+        "display_url": "pic.twitter.com/J8Cuufnce5",
+        "expanded_url": "https://twitter.com/ThatGooner/status/812710464677363712/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 236370,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/812707017714372608/pl/UCQ-VBl3Yc9jFVd8.m3u8"
+            },
+            {
+              "bitrate": 320000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/812707017714372608/vid/320x180/ObBizVkH4MuWX4DV.mp4"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/812707017714372608/vid/640x360/JhYhtOtJsBNxVfNs.mp4"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/812707017714372608/vid/1280x720/Im3Cka5ZVUHCaGyD.mp4"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 812710464677363712,
+        "source_status_id_str": "812710464677363712",
+        "source_user_id": 2662964815,
+        "source_user_id_str": "2662964815"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254900663"
+}

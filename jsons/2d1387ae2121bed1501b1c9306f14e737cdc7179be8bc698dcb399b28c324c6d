@@ -1,0 +1,599 @@
+{
+  "created_at": "Sat Nov 03 14:06:02 +0000 2018",
+  "id": 1058721972379471872,
+  "id_str": "1058721972379471872",
+  "text": "RT @rukia271: 今見たらめっちゃ味方してくれてる:(´◦ω◦｀):\n皆さんありがとうございます！\n#オセロニア\n#拡散希望\n#オセロニアLINEグループ https://t.co/kEBgKvrRqo",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 776548096687738880,
+    "id_str": "776548096687738880",
+    "name": "ウサ吉@37",
+    "screen_name": "AsA0t",
+    "location": "日本",
+    "url": null,
+    "description": "無言フォローすみません、オセロニア好きと仲良くなりたいです♪ ランク148 プラチナ1です(●'ｗ'●) モンスト UVER world 東京事変",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 28,
+    "friends_count": 102,
+    "listed_count": 0,
+    "favourites_count": 21,
+    "statuses_count": 67,
+    "created_at": "Thu Sep 15 22:27:48 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058160544698392576/4aLubnlq_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058160544698392576/4aLubnlq_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:01:23 +0000 2018",
+    "id": 1058705699528630273,
+    "id_str": "1058705699528630273",
+    "text": "今見たらめっちゃ味方してくれてる:(´◦ω◦｀):\n皆さんありがとうございます！\n#オセロニア\n#拡散希望\n#オセロニアLINEグループ https://t.co/kEBgKvrRqo",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1037014706341404673,
+      "id_str": "1037014706341404673",
+      "name": "セイラン〆羅刹隊隊長",
+      "screen_name": "rukia271",
+      "location": "日本",
+      "url": null,
+      "description": "オセロニア関係フォロバ100% 羅刹隊隊長 羅刹隊メンバー募集中",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 371,
+      "friends_count": 554,
+      "listed_count": 1,
+      "favourites_count": 7,
+      "statuses_count": 120,
+      "created_at": "Tue Sep 04 16:29:07 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1037014924591947776/i3apgWLj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037014924591947776/i3apgWLj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1037014706341404673/1536078623",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "オセロニア",
+          "indices": [
+            41,
+            47
+          ]
+        },
+        {
+          "text": "拡散希望",
+          "indices": [
+            48,
+            53
+          ]
+        },
+        {
+          "text": "オセロニアLINEグループ",
+          "indices": [
+            54,
+            68
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058705691207118848,
+          "id_str": "1058705691207118848",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFHN4YVsAA4LY5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFHN4YVsAA4LY5.jpg",
+          "url": "https://t.co/kEBgKvrRqo",
+          "display_url": "pic.twitter.com/kEBgKvrRqo",
+          "expanded_url": "https://twitter.com/rukia271/status/1058705699528630273/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 1334,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058705691207118848,
+          "id_str": "1058705691207118848",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFHN4YVsAA4LY5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFHN4YVsAA4LY5.jpg",
+          "url": "https://t.co/kEBgKvrRqo",
+          "display_url": "pic.twitter.com/kEBgKvrRqo",
+          "expanded_url": "https://twitter.com/rukia271/status/1058705699528630273/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 1334,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058705691215458304,
+          "id_str": "1058705691215458304",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFHN4aU8AAPfy_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFHN4aU8AAPfy_.jpg",
+          "url": "https://t.co/kEBgKvrRqo",
+          "display_url": "pic.twitter.com/kEBgKvrRqo",
+          "expanded_url": "https://twitter.com/rukia271/status/1058705699528630273/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 750,
+              "h": 1334,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058705691215486977,
+          "id_str": "1058705691215486977",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFHN4aVYAEOXsn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFHN4aVYAEOXsn.jpg",
+          "url": "https://t.co/kEBgKvrRqo",
+          "display_url": "pic.twitter.com/kEBgKvrRqo",
+          "expanded_url": "https://twitter.com/rukia271/status/1058705699528630273/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 1334,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058705691219640320,
+          "id_str": "1058705691219640320",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFHN4bUwAAzz_o.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFHN4bUwAAzz_o.jpg",
+          "url": "https://t.co/kEBgKvrRqo",
+          "display_url": "pic.twitter.com/kEBgKvrRqo",
+          "expanded_url": "https://twitter.com/rukia271/status/1058705699528630273/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 1334,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "オセロニア",
+        "indices": [
+          55,
+          61
+        ]
+      },
+      {
+        "text": "拡散希望",
+        "indices": [
+          62,
+          67
+        ]
+      },
+      {
+        "text": "オセロニアLINEグループ",
+        "indices": [
+          68,
+          82
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "rukia271",
+        "name": "セイラン〆羅刹隊隊長",
+        "id": 1037014706341404673,
+        "id_str": "1037014706341404673",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058705691207118848,
+        "id_str": "1058705691207118848",
+        "indices": [
+          83,
+          106
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFHN4YVsAA4LY5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFHN4YVsAA4LY5.jpg",
+        "url": "https://t.co/kEBgKvrRqo",
+        "display_url": "pic.twitter.com/kEBgKvrRqo",
+        "expanded_url": "https://twitter.com/rukia271/status/1058705699528630273/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058705699528630273,
+        "source_status_id_str": "1058705699528630273",
+        "source_user_id": 1037014706341404673,
+        "source_user_id_str": "1037014706341404673"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058705691207118848,
+        "id_str": "1058705691207118848",
+        "indices": [
+          83,
+          106
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFHN4YVsAA4LY5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFHN4YVsAA4LY5.jpg",
+        "url": "https://t.co/kEBgKvrRqo",
+        "display_url": "pic.twitter.com/kEBgKvrRqo",
+        "expanded_url": "https://twitter.com/rukia271/status/1058705699528630273/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058705699528630273,
+        "source_status_id_str": "1058705699528630273",
+        "source_user_id": 1037014706341404673,
+        "source_user_id_str": "1037014706341404673"
+      },
+      {
+        "id": 1058705691215458304,
+        "id_str": "1058705691215458304",
+        "indices": [
+          83,
+          106
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFHN4aU8AAPfy_.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFHN4aU8AAPfy_.jpg",
+        "url": "https://t.co/kEBgKvrRqo",
+        "display_url": "pic.twitter.com/kEBgKvrRqo",
+        "expanded_url": "https://twitter.com/rukia271/status/1058705699528630273/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058705699528630273,
+        "source_status_id_str": "1058705699528630273",
+        "source_user_id": 1037014706341404673,
+        "source_user_id_str": "1037014706341404673"
+      },
+      {
+        "id": 1058705691215486977,
+        "id_str": "1058705691215486977",
+        "indices": [
+          83,
+          106
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFHN4aVYAEOXsn.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFHN4aVYAEOXsn.jpg",
+        "url": "https://t.co/kEBgKvrRqo",
+        "display_url": "pic.twitter.com/kEBgKvrRqo",
+        "expanded_url": "https://twitter.com/rukia271/status/1058705699528630273/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058705699528630273,
+        "source_status_id_str": "1058705699528630273",
+        "source_user_id": 1037014706341404673,
+        "source_user_id_str": "1037014706341404673"
+      },
+      {
+        "id": 1058705691219640320,
+        "id_str": "1058705691219640320",
+        "indices": [
+          83,
+          106
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFHN4bUwAAzz_o.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFHN4bUwAAzz_o.jpg",
+        "url": "https://t.co/kEBgKvrRqo",
+        "display_url": "pic.twitter.com/kEBgKvrRqo",
+        "expanded_url": "https://twitter.com/rukia271/status/1058705699528630273/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058705699528630273,
+        "source_status_id_str": "1058705699528630273",
+        "source_user_id": 1037014706341404673,
+        "source_user_id_str": "1037014706341404673"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253962975"
+}

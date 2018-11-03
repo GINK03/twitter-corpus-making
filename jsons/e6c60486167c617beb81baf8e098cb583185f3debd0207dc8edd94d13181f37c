@@ -1,0 +1,358 @@
+{
+  "created_at": "Sat Nov 03 13:52:18 +0000 2018",
+  "id": 1058718513311838208,
+  "id_str": "1058718513311838208",
+  "text": "RT @netukitune: いまさら水着マリー！　な落書き！\n#FGO #Fate https://t.co/kvcIU8zHvc",
+  "source": "<a href=\"http://janetter.net/\" rel=\"nofollow\">Janetter</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 141170182,
+    "id_str": "141170182",
+    "name": "不浄なる大聖堂",
+    "screen_name": "unholy_hbv502h",
+    "location": "電脳虚数空間",
+    "url": "http://blog.livedoor.jp/unholy_cathedral-hbv05/",
+    "description": "ニュースブログ【不浄なる大聖堂】Twitter移行版。18歳未満のフォローはご遠慮ください。リプはそれなりに反応しますが鍵アカからのリプはTwitterの仕様上こちらからは見えません。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 216,
+    "friends_count": 143,
+    "listed_count": 23,
+    "favourites_count": 1671,
+    "statuses_count": 248051,
+    "created_at": "Fri May 07 10:36:23 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/935827044478337025/73z6ZTDb_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/935827044478337025/73z6ZTDb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/141170182/1447449702",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 13:19:47 +0000 2018",
+    "id": 1058347941323202560,
+    "id_str": "1058347941323202560",
+    "text": "いまさら水着マリー！　な落書き！\n#FGO #Fate https://t.co/kvcIU8zHvc",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 429924833,
+      "id_str": "429924833",
+      "name": "ねつき@二日目東C-15a",
+      "screen_name": "netukitune",
+      "location": null,
+      "url": "http://pixiv.me/netukitune",
+      "description": "つり目とジト目とキャスケットの国に生まれたかった。どっかの会社で絵描いてます。 稀に動く成人向け垢→@netukitune2",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 56787,
+      "friends_count": 1083,
+      "listed_count": 1281,
+      "favourites_count": 2450,
+      "statuses_count": 61999,
+      "created_at": "Tue Dec 06 15:16:43 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1058481748495876096/hFvzQRkK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058481748495876096/hFvzQRkK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/429924833/1541238532",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 2,
+    "reply_count": 12,
+    "retweet_count": 1751,
+    "favorite_count": 6761,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            17,
+            21
+          ]
+        },
+        {
+          "text": "Fate",
+          "indices": [
+            22,
+            27
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058347619469025280,
+          "id_str": "1058347619469025280",
+          "indices": [
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrABjXNU4AAeGpf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrABjXNU4AAeGpf.jpg",
+          "url": "https://t.co/kvcIU8zHvc",
+          "display_url": "pic.twitter.com/kvcIU8zHvc",
+          "expanded_url": "https://twitter.com/netukitune/status/1058347941323202560/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 559,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 475,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 559,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058347619469025280,
+          "id_str": "1058347619469025280",
+          "indices": [
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrABjXNU4AAeGpf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrABjXNU4AAeGpf.jpg",
+          "url": "https://t.co/kvcIU8zHvc",
+          "display_url": "pic.twitter.com/kvcIU8zHvc",
+          "expanded_url": "https://twitter.com/netukitune/status/1058347941323202560/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 559,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 475,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 559,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          33,
+          37
+        ]
+      },
+      {
+        "text": "Fate",
+        "indices": [
+          38,
+          43
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "netukitune",
+        "name": "ねつき@二日目東C-15a",
+        "id": 429924833,
+        "id_str": "429924833",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058347619469025280,
+        "id_str": "1058347619469025280",
+        "indices": [
+          44,
+          67
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrABjXNU4AAeGpf.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrABjXNU4AAeGpf.jpg",
+        "url": "https://t.co/kvcIU8zHvc",
+        "display_url": "pic.twitter.com/kvcIU8zHvc",
+        "expanded_url": "https://twitter.com/netukitune/status/1058347941323202560/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 559,
+            "h": 800,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 475,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 559,
+            "h": 800,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058347941323202560,
+        "source_status_id_str": "1058347941323202560",
+        "source_user_id": 429924833,
+        "source_user_id_str": "429924833"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058347619469025280,
+        "id_str": "1058347619469025280",
+        "indices": [
+          44,
+          67
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrABjXNU4AAeGpf.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrABjXNU4AAeGpf.jpg",
+        "url": "https://t.co/kvcIU8zHvc",
+        "display_url": "pic.twitter.com/kvcIU8zHvc",
+        "expanded_url": "https://twitter.com/netukitune/status/1058347941323202560/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 559,
+            "h": 800,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 475,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 559,
+            "h": 800,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058347941323202560,
+        "source_status_id_str": "1058347941323202560",
+        "source_user_id": 429924833,
+        "source_user_id_str": "429924833"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253138269"
+}

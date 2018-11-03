@@ -1,0 +1,142 @@
+{
+  "created_at": "Sat Nov 03 14:19:00 +0000 2018",
+  "id": 1058725234230980609,
+  "id_str": "1058725234230980609",
+  "text": "＼あの企画がパワーアップして帰ってくる／\n#ZOZOWEEK 11/6(火)正午開催！\n\n今ならタダで商品をもらえるチャンス！\nもれなく最終日のクーポンももらえちゃう！\nhttps://t.co/b6HvbyIuR4\n\nNERGY… https://t.co/lHnVHe8oUt",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1008638293645279232,
+    "id_str": "1008638293645279232",
+    "name": "しより",
+    "screen_name": "WANIMA_2213",
+    "location": null,
+    "url": "https://Instagram.com/wanima096",
+    "description": "WANIMAのﾂｲﾄｰする用/jk3",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 219,
+    "friends_count": 260,
+    "listed_count": 0,
+    "favourites_count": 4424,
+    "statuses_count": 733,
+    "created_at": "Mon Jun 18 09:11:23 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1049060102060171264/gqUBqQ3d_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1049060102060171264/gqUBqQ3d_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008638293645279232/1538950395",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "＼あの企画がパワーアップして帰ってくる／\n#ZOZOWEEK 11/6(火)正午開催！\n\n今ならタダで商品をもらえるチャンス！\nもれなく最終日のクーポンももらえちゃう！\nhttps://t.co/b6HvbyIuR4\n\nNERGYのブルゾン（¥19,440）\n https://t.co/HPUkzDiZzR",
+    "display_text_range": [
+      0,
+      154
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ZOZOWEEK",
+          "indices": [
+            21,
+            30
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/b6HvbyIuR4",
+          "expanded_url": "http://zozo.jp/zozoweek/?utm_source=zozoweek201811_twcp&utm_medium=social",
+          "display_url": "zozo.jp/zozoweek/?utm_…",
+          "indices": [
+            85,
+            108
+          ]
+        },
+        {
+          "url": "https://t.co/HPUkzDiZzR",
+          "expanded_url": "http://zozo.jp/shop/nergy/goods/35771896/",
+          "display_url": "zozo.jp/shop/nergy/goo…",
+          "indices": [
+            131,
+            154
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ZOZOWEEK",
+        "indices": [
+          21,
+          30
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/b6HvbyIuR4",
+        "expanded_url": "http://zozo.jp/zozoweek/?utm_source=zozoweek201811_twcp&utm_medium=social",
+        "display_url": "zozo.jp/zozoweek/?utm_…",
+        "indices": [
+          85,
+          108
+        ]
+      },
+      {
+        "url": "https://t.co/lHnVHe8oUt",
+        "expanded_url": "https://twitter.com/i/web/status/1058725234230980609",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254740661"
+}

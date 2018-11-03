@@ -1,0 +1,930 @@
+{
+  "created_at": "Sat Nov 03 14:18:15 +0000 2018",
+  "id": 1058725045504172032,
+  "id_str": "1058725045504172032",
+  "text": "RT @61k61z61k61z: 「おじさんはおじさんなんだね～」\nって言葉はつらいね～😄\n#緊縛夜話 \n#ザおじさん https://t.co/Yb9ngmjRDc",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2418937315,
+    "id_str": "2418937315",
+    "name": "夢乃屋毒花11月1-4日緊縛夜話",
+    "screen_name": "akirahisoku1",
+    "location": null,
+    "url": "http://ameblo.jp/an-happygirls-collection/",
+    "description": "あんっ❤Happy Girls Collectionの不幸女子。劇薬珍味食べたら死亡・ゆめのやぶすか(命名有末剛先生)。東京ゲゲゲイ名誉部員(笑)\n役者。唄い踊り縛ります。「泡雪屋\n」の脚本演出作詞作曲振付。エアリアルシルク。自縄自炎。お写真撮影 有末剛先生 隣は公式サポーターでもある女優の和女ちゃん",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 678,
+    "friends_count": 323,
+    "listed_count": 21,
+    "favourites_count": 21441,
+    "statuses_count": 56672,
+    "created_at": "Sun Mar 30 12:24:31 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1046006342656221185/nbWd8lI9_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046006342656221185/nbWd8lI9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2418937315/1538222319",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:00:11 +0000 2018",
+    "id": 1058720498496851968,
+    "id_str": "1058720498496851968",
+    "text": "「おじさんはおじさんなんだね～」\nって言葉はつらいね～😄\n#緊縛夜話 \n#ザおじさん https://t.co/Yb9ngmjRDc",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2988295658,
+      "id_str": "2988295658",
+      "name": "松本大  わたあめ工場❓アニマル王子❓",
+      "screen_name": "61k61z61k61z",
+      "location": "日本",
+      "url": null,
+      "description": "声優・ナレーター・声優教室･講師●GRIMM　城下町のダンデライオン　ER   チュノ　チェブラーシカ　　アニマルファイトクラブ\n　　　　　\n●日大文理学部･劇団あざみ～シェイクスピアシアター～円形劇場～俳協　\n\n　　　　　　",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 24829,
+      "friends_count": 26897,
+      "listed_count": 96,
+      "favourites_count": 4242,
+      "statuses_count": 487155,
+      "created_at": "Sun Jan 18 09:40:22 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/643208599313887236/7y540-DL_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/643208599313887236/7y540-DL_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2988295658/1487503916",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1054734181798952960,
+    "quoted_status_id_str": "1054734181798952960",
+    "quoted_status": {
+      "created_at": "Tue Oct 23 13:59:59 +0000 2018",
+      "id": 1054734181798952960,
+      "id_str": "1054734181798952960",
+      "text": "有末剛緊縛夜話第十八夜\n「泡雪屋廻墾譚」\n11月\n1日(木)15/19時\n2日(金)15/19時\n3日(土)15/19時\n4日(日)13/17時\n＠ザムザ阿佐谷\n詳細https://t.co/21pB7sJAtO\nご予約… https://t.co/KwhJfzGQvf",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2418937315,
+        "id_str": "2418937315",
+        "name": "夢乃屋毒花11月1-4日緊縛夜話",
+        "screen_name": "akirahisoku1",
+        "location": null,
+        "url": "http://ameblo.jp/an-happygirls-collection/",
+        "description": "あんっ❤Happy Girls Collectionの不幸女子。劇薬珍味食べたら死亡・ゆめのやぶすか(命名有末剛先生)。東京ゲゲゲイ名誉部員(笑)\n役者。唄い踊り縛ります。「泡雪屋\n」の脚本演出作詞作曲振付。エアリアルシルク。自縄自炎。お写真撮影 有末剛先生 隣は公式サポーターでもある女優の和女ちゃん",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 678,
+        "friends_count": 323,
+        "listed_count": 21,
+        "favourites_count": 21441,
+        "statuses_count": 56671,
+        "created_at": "Sun Mar 30 12:24:31 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1046006342656221185/nbWd8lI9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046006342656221185/nbWd8lI9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2418937315/1538222319",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "有末剛緊縛夜話第十八夜\n「泡雪屋廻墾譚」\n11月\n1日(木)15/19時\n2日(金)15/19時\n3日(土)15/19時\n4日(日)13/17時\n＠ザムザ阿佐谷\n詳細https://t.co/21pB7sJAtO\nご予約https://t.co/p7Y9wJ29Qt https://t.co/qFxfo3mBgR",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/21pB7sJAtO",
+              "expanded_url": "http://ameblo.jp/an-happygirls-collection/entry-12401978954.html",
+              "display_url": "ameblo.jp/an-happygirls-…",
+              "indices": [
+                83,
+                106
+              ]
+            },
+            {
+              "url": "https://t.co/p7Y9wJ29Qt",
+              "expanded_url": "http://www.quartet-online.net/ticket/awayuki3?m=0deeiid",
+              "display_url": "quartet-online.net/ticket/awayuki…",
+              "indices": [
+                110,
+                133
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1054734082553376778,
+              "id_str": "1054734082553376778",
+              "indices": [
+                134,
+                157
+              ],
+              "media_url": "http://pbs.twimg.com/media/DqMrD1MXcAoi-nW.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DqMrD1MXcAoi-nW.jpg",
+              "url": "https://t.co/qFxfo3mBgR",
+              "display_url": "pic.twitter.com/qFxfo3mBgR",
+              "expanded_url": "https://twitter.com/akirahisoku1/status/1054734181798952960/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 855,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1460,
+                  "h": 2048,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 485,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1054734113360568320,
+              "id_str": "1054734113360568320",
+              "indices": [
+                134,
+                157
+              ],
+              "media_url": "http://pbs.twimg.com/media/DqMrFn9X4AALL5G.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DqMrFn9X4AALL5G.jpg",
+              "url": "https://t.co/qFxfo3mBgR",
+              "display_url": "pic.twitter.com/qFxfo3mBgR",
+              "expanded_url": "https://twitter.com/akirahisoku1/status/1054734181798952960/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1460,
+                  "h": 2048,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 855,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 485,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1054734140581527554,
+              "id_str": "1054734140581527554",
+              "indices": [
+                134,
+                157
+              ],
+              "media_url": "http://pbs.twimg.com/media/DqMrHNXWwAIG6-P.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DqMrHNXWwAIG6-P.jpg",
+              "url": "https://t.co/qFxfo3mBgR",
+              "display_url": "pic.twitter.com/qFxfo3mBgR",
+              "expanded_url": "https://twitter.com/akirahisoku1/status/1054734181798952960/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1440,
+                  "h": 2022,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 484,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 855,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1054734082553376778,
+              "id_str": "1054734082553376778",
+              "indices": [
+                134,
+                157
+              ],
+              "media_url": "http://pbs.twimg.com/media/DqMrD1MXcAoi-nW.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DqMrD1MXcAoi-nW.jpg",
+              "url": "https://t.co/qFxfo3mBgR",
+              "display_url": "pic.twitter.com/qFxfo3mBgR",
+              "expanded_url": "https://twitter.com/akirahisoku1/status/1054734181798952960/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 855,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1460,
+                  "h": 2048,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 485,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1054734113360568320,
+              "id_str": "1054734113360568320",
+              "indices": [
+                134,
+                157
+              ],
+              "media_url": "http://pbs.twimg.com/media/DqMrFn9X4AALL5G.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DqMrFn9X4AALL5G.jpg",
+              "url": "https://t.co/qFxfo3mBgR",
+              "display_url": "pic.twitter.com/qFxfo3mBgR",
+              "expanded_url": "https://twitter.com/akirahisoku1/status/1054734181798952960/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1460,
+                  "h": 2048,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 855,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 485,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1054734140581527554,
+              "id_str": "1054734140581527554",
+              "indices": [
+                134,
+                157
+              ],
+              "media_url": "http://pbs.twimg.com/media/DqMrHNXWwAIG6-P.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DqMrHNXWwAIG6-P.jpg",
+              "url": "https://t.co/qFxfo3mBgR",
+              "display_url": "pic.twitter.com/qFxfo3mBgR",
+              "expanded_url": "https://twitter.com/akirahisoku1/status/1054734181798952960/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1440,
+                  "h": 2022,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 484,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 855,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 1,
+      "reply_count": 1,
+      "retweet_count": 14,
+      "favorite_count": 9,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/21pB7sJAtO",
+            "expanded_url": "http://ameblo.jp/an-happygirls-collection/entry-12401978954.html",
+            "display_url": "ameblo.jp/an-happygirls-…",
+            "indices": [
+              83,
+              106
+            ]
+          },
+          {
+            "url": "https://t.co/KwhJfzGQvf",
+            "expanded_url": "https://twitter.com/i/web/status/1054734181798952960",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/Yb9ngmjRDc",
+      "expanded": "https://twitter.com/akirahisoku1/status/1054734181798952960",
+      "display": "twitter.com/akirahisoku1/s…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "緊縛夜話",
+          "indices": [
+            29,
+            34
+          ]
+        },
+        {
+          "text": "ザおじさん",
+          "indices": [
+            36,
+            42
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Yb9ngmjRDc",
+          "expanded_url": "https://twitter.com/akirahisoku1/status/1054734181798952960",
+          "display_url": "twitter.com/akirahisoku1/s…",
+          "indices": [
+            43,
+            66
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1054734181798952960,
+  "quoted_status_id_str": "1054734181798952960",
+  "quoted_status": {
+    "created_at": "Tue Oct 23 13:59:59 +0000 2018",
+    "id": 1054734181798952960,
+    "id_str": "1054734181798952960",
+    "text": "有末剛緊縛夜話第十八夜\n「泡雪屋廻墾譚」\n11月\n1日(木)15/19時\n2日(金)15/19時\n3日(土)15/19時\n4日(日)13/17時\n＠ザムザ阿佐谷\n詳細https://t.co/21pB7sJAtO\nご予約… https://t.co/KwhJfzGQvf",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2418937315,
+      "id_str": "2418937315",
+      "name": "夢乃屋毒花11月1-4日緊縛夜話",
+      "screen_name": "akirahisoku1",
+      "location": null,
+      "url": "http://ameblo.jp/an-happygirls-collection/",
+      "description": "あんっ❤Happy Girls Collectionの不幸女子。劇薬珍味食べたら死亡・ゆめのやぶすか(命名有末剛先生)。東京ゲゲゲイ名誉部員(笑)\n役者。唄い踊り縛ります。「泡雪屋\n」の脚本演出作詞作曲振付。エアリアルシルク。自縄自炎。お写真撮影 有末剛先生 隣は公式サポーターでもある女優の和女ちゃん",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 678,
+      "friends_count": 323,
+      "listed_count": 21,
+      "favourites_count": 21441,
+      "statuses_count": 56671,
+      "created_at": "Sun Mar 30 12:24:31 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1046006342656221185/nbWd8lI9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046006342656221185/nbWd8lI9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2418937315/1538222319",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "有末剛緊縛夜話第十八夜\n「泡雪屋廻墾譚」\n11月\n1日(木)15/19時\n2日(金)15/19時\n3日(土)15/19時\n4日(日)13/17時\n＠ザムザ阿佐谷\n詳細https://t.co/21pB7sJAtO\nご予約https://t.co/p7Y9wJ29Qt https://t.co/qFxfo3mBgR",
+      "display_text_range": [
+        0,
+        133
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/21pB7sJAtO",
+            "expanded_url": "http://ameblo.jp/an-happygirls-collection/entry-12401978954.html",
+            "display_url": "ameblo.jp/an-happygirls-…",
+            "indices": [
+              83,
+              106
+            ]
+          },
+          {
+            "url": "https://t.co/p7Y9wJ29Qt",
+            "expanded_url": "http://www.quartet-online.net/ticket/awayuki3?m=0deeiid",
+            "display_url": "quartet-online.net/ticket/awayuki…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1054734082553376778,
+            "id_str": "1054734082553376778",
+            "indices": [
+              134,
+              157
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqMrD1MXcAoi-nW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqMrD1MXcAoi-nW.jpg",
+            "url": "https://t.co/qFxfo3mBgR",
+            "display_url": "pic.twitter.com/qFxfo3mBgR",
+            "expanded_url": "https://twitter.com/akirahisoku1/status/1054734181798952960/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 855,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1460,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 485,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1054734113360568320,
+            "id_str": "1054734113360568320",
+            "indices": [
+              134,
+              157
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqMrFn9X4AALL5G.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqMrFn9X4AALL5G.jpg",
+            "url": "https://t.co/qFxfo3mBgR",
+            "display_url": "pic.twitter.com/qFxfo3mBgR",
+            "expanded_url": "https://twitter.com/akirahisoku1/status/1054734181798952960/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1460,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 855,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 485,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1054734140581527554,
+            "id_str": "1054734140581527554",
+            "indices": [
+              134,
+              157
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqMrHNXWwAIG6-P.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqMrHNXWwAIG6-P.jpg",
+            "url": "https://t.co/qFxfo3mBgR",
+            "display_url": "pic.twitter.com/qFxfo3mBgR",
+            "expanded_url": "https://twitter.com/akirahisoku1/status/1054734181798952960/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1440,
+                "h": 2022,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 484,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 855,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1054734082553376778,
+            "id_str": "1054734082553376778",
+            "indices": [
+              134,
+              157
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqMrD1MXcAoi-nW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqMrD1MXcAoi-nW.jpg",
+            "url": "https://t.co/qFxfo3mBgR",
+            "display_url": "pic.twitter.com/qFxfo3mBgR",
+            "expanded_url": "https://twitter.com/akirahisoku1/status/1054734181798952960/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 855,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1460,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 485,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1054734113360568320,
+            "id_str": "1054734113360568320",
+            "indices": [
+              134,
+              157
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqMrFn9X4AALL5G.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqMrFn9X4AALL5G.jpg",
+            "url": "https://t.co/qFxfo3mBgR",
+            "display_url": "pic.twitter.com/qFxfo3mBgR",
+            "expanded_url": "https://twitter.com/akirahisoku1/status/1054734181798952960/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1460,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 855,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 485,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1054734140581527554,
+            "id_str": "1054734140581527554",
+            "indices": [
+              134,
+              157
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqMrHNXWwAIG6-P.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqMrHNXWwAIG6-P.jpg",
+            "url": "https://t.co/qFxfo3mBgR",
+            "display_url": "pic.twitter.com/qFxfo3mBgR",
+            "expanded_url": "https://twitter.com/akirahisoku1/status/1054734181798952960/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1440,
+                "h": 2022,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 484,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 855,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 1,
+    "reply_count": 1,
+    "retweet_count": 14,
+    "favorite_count": 9,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/21pB7sJAtO",
+          "expanded_url": "http://ameblo.jp/an-happygirls-collection/entry-12401978954.html",
+          "display_url": "ameblo.jp/an-happygirls-…",
+          "indices": [
+            83,
+            106
+          ]
+        },
+        {
+          "url": "https://t.co/KwhJfzGQvf",
+          "expanded_url": "https://twitter.com/i/web/status/1054734181798952960",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/Yb9ngmjRDc",
+    "expanded": "https://twitter.com/akirahisoku1/status/1054734181798952960",
+    "display": "twitter.com/akirahisoku1/s…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "緊縛夜話",
+        "indices": [
+          47,
+          52
+        ]
+      },
+      {
+        "text": "ザおじさん",
+        "indices": [
+          54,
+          60
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/Yb9ngmjRDc",
+        "expanded_url": "https://twitter.com/akirahisoku1/status/1054734181798952960",
+        "display_url": "twitter.com/akirahisoku1/s…",
+        "indices": [
+          61,
+          84
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "61k61z61k61z",
+        "name": "松本大  わたあめ工場❓アニマル王子❓",
+        "id": 2988295658,
+        "id_str": "2988295658",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254695665"
+}

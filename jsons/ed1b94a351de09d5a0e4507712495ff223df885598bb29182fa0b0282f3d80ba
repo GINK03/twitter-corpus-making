@@ -1,0 +1,403 @@
+{
+  "created_at": "Sat Nov 03 14:13:17 +0000 2018",
+  "id": 1058723795576356864,
+  "id_str": "1058723795576356864",
+  "text": "RT @miyabimasahiro: セレクト画面の例のあれクッキー\nかわいく出来ました https://t.co/8Fig08TSAI",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2612560424,
+    "id_str": "2612560424",
+    "name": "渡烏",
+    "screen_name": "08069383975",
+    "location": null,
+    "url": null,
+    "description": "いつも呑気にゆったりと。\n\n座右の名「付和雷同に一直線」\n\nプレイ中のゲーム\n　ファントムオブキル\n　アリス・ギア・アイギス\n続行不可\n　FGO（データ紛失）\n　真空管ドールズ（サービス終了）\n　　　\n【速報】俺氏、いつの間にか高野豆腐メンタルになっていることが判明、原因究明中。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 114,
+    "friends_count": 689,
+    "listed_count": 0,
+    "favourites_count": 36651,
+    "statuses_count": 62924,
+    "created_at": "Tue Jul 08 23:13:57 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/884025758447919104/WHSHJZ7O_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/884025758447919104/WHSHJZ7O_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 13:09:53 +0000 2018",
+    "id": 1058345453064843264,
+    "id_str": "1058345453064843264",
+    "text": "セレクト画面の例のあれクッキー\nかわいく出来ました https://t.co/8Fig08TSAI",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 294738381,
+      "id_str": "294738381",
+      "name": "雅ヲ",
+      "screen_name": "miyabimasahiro",
+      "location": "彩の国",
+      "url": "https://caltafethimia.booth.pm/",
+      "description": "名前はまさお。コンパイルがだいすき 旧ぷよ、DS作品、特にGeoConflict中心につぶやきます。文アルお司書 第一会派は朔・谷・乱・八 。MEGWIN TV  桃推し。眼鏡を愛して止まない眼鏡過激派。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 281,
+      "friends_count": 145,
+      "listed_count": 4,
+      "favourites_count": 1294,
+      "statuses_count": 8183,
+      "created_at": "Sat May 07 17:38:08 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "C71585",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/925692345638535168/7M5V0bCr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/925692345638535168/7M5V0bCr_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/294738381/1505317410",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 207,
+    "reply_count": 78,
+    "retweet_count": 27742,
+    "favorite_count": 71955,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058345447238987777,
+          "id_str": "1058345447238987777",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq__k7BU8AE0ef7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq__k7BU8AE0ef7.jpg",
+          "url": "https://t.co/8Fig08TSAI",
+          "display_url": "pic.twitter.com/8Fig08TSAI",
+          "expanded_url": "https://twitter.com/miyabimasahiro/status/1058345453064843264/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058345447238987777,
+          "id_str": "1058345447238987777",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq__k7BU8AE0ef7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq__k7BU8AE0ef7.jpg",
+          "url": "https://t.co/8Fig08TSAI",
+          "display_url": "pic.twitter.com/8Fig08TSAI",
+          "expanded_url": "https://twitter.com/miyabimasahiro/status/1058345453064843264/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058345447234822144,
+          "id_str": "1058345447234822144",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq__k7AVYAAo2Am.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq__k7AVYAAo2Am.jpg",
+          "url": "https://t.co/8Fig08TSAI",
+          "display_url": "pic.twitter.com/8Fig08TSAI",
+          "expanded_url": "https://twitter.com/miyabimasahiro/status/1058345453064843264/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "miyabimasahiro",
+        "name": "雅ヲ",
+        "id": 294738381,
+        "id_str": "294738381",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058345447238987777,
+        "id_str": "1058345447238987777",
+        "indices": [
+          46,
+          69
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq__k7BU8AE0ef7.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq__k7BU8AE0ef7.jpg",
+        "url": "https://t.co/8Fig08TSAI",
+        "display_url": "pic.twitter.com/8Fig08TSAI",
+        "expanded_url": "https://twitter.com/miyabimasahiro/status/1058345453064843264/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 2048,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058345453064843264,
+        "source_status_id_str": "1058345453064843264",
+        "source_user_id": 294738381,
+        "source_user_id_str": "294738381"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058345447238987777,
+        "id_str": "1058345447238987777",
+        "indices": [
+          46,
+          69
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq__k7BU8AE0ef7.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq__k7BU8AE0ef7.jpg",
+        "url": "https://t.co/8Fig08TSAI",
+        "display_url": "pic.twitter.com/8Fig08TSAI",
+        "expanded_url": "https://twitter.com/miyabimasahiro/status/1058345453064843264/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 2048,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058345453064843264,
+        "source_status_id_str": "1058345453064843264",
+        "source_user_id": 294738381,
+        "source_user_id_str": "294738381"
+      },
+      {
+        "id": 1058345447234822144,
+        "id_str": "1058345447234822144",
+        "indices": [
+          46,
+          69
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq__k7AVYAAo2Am.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq__k7AVYAAo2Am.jpg",
+        "url": "https://t.co/8Fig08TSAI",
+        "display_url": "pic.twitter.com/8Fig08TSAI",
+        "expanded_url": "https://twitter.com/miyabimasahiro/status/1058345453064843264/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058345453064843264,
+        "source_status_id_str": "1058345453064843264",
+        "source_user_id": 294738381,
+        "source_user_id_str": "294738381"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254397659"
+}

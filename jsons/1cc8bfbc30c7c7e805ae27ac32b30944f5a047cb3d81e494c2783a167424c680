@@ -1,0 +1,100 @@
+{
+  "created_at": "Sat Nov 03 14:03:08 +0000 2018",
+  "id": 1058721241438183424,
+  "id_str": "1058721241438183424",
+  "text": "闘技場とかいろいろ  #パズドラ  #Mirrativ で配信中！  https://t.co/yCwmOPJtNl",
+  "source": "<a href=\"https://www.mirrativ.com\" rel=\"nofollow\">Mirrativ</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 876770571391950849,
+    "id_str": "876770571391950849",
+    "name": "カオス",
+    "screen_name": "chaos0329b",
+    "location": "静岡",
+    "url": null,
+    "description": "パズドラ、pso2、MHF、FGOとかやってます。 基本的に気分でやってますw",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 89,
+    "friends_count": 289,
+    "listed_count": 2,
+    "favourites_count": 9372,
+    "statuses_count": 2031,
+    "created_at": "Mon Jun 19 11:56:08 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1028641107633004544/ty1dhZRj_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028641107633004544/ty1dhZRj_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/876770571391950849/1497873689",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラ",
+        "indices": [
+          11,
+          16
+        ]
+      },
+      {
+        "text": "Mirrativ",
+        "indices": [
+          18,
+          27
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/yCwmOPJtNl",
+        "expanded_url": "https://www.mirrativ.com/live/1NdNdYW2toG_LL9_5RDhHA",
+        "display_url": "mirrativ.com/live/1NdNdYW2t…",
+        "indices": [
+          35,
+          58
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253788705"
+}

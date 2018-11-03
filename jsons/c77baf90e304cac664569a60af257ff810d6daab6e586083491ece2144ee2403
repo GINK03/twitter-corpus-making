@@ -1,0 +1,572 @@
+{
+  "created_at": "Sat Nov 03 14:27:14 +0000 2018",
+  "id": 1058727306229821441,
+  "id_str": "1058727306229821441",
+  "text": "RT @kagemusya555: #有馬くんと40人のクラスメイト\nその⑰「鈴鹿ちゃんの苦悩」 https://t.co/1RB7SW0plw",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3176670452,
+    "id_str": "3176670452",
+    "name": "ユト:ドルフロ指揮官963",
+    "screen_name": "kurumi_39_",
+    "location": "鯖  竹敷",
+    "url": null,
+    "description": "まだよ！私は、私はまだ戦える！！                                                            ここが！この戦場が！！私の魂の場所よ！          \n                 ボイロ実況(視聴者)・東方・アニメetc何でもござれ     #そふぁー教",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 272,
+    "friends_count": 725,
+    "listed_count": 6,
+    "favourites_count": 21483,
+    "statuses_count": 8200,
+    "created_at": "Sun Apr 26 13:47:17 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/975221723422339072/mwB-rI0f_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/975221723422339072/mwB-rI0f_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3176670452/1528034479",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 12:59:34 +0000 2018",
+    "id": 1058705242638798848,
+    "id_str": "1058705242638798848",
+    "text": "#有馬くんと40人のクラスメイト\nその⑰「鈴鹿ちゃんの苦悩」 https://t.co/1RB7SW0plw",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1053570102963011584,
+    "in_reply_to_status_id_str": "1053570102963011584",
+    "in_reply_to_user_id": 2985021894,
+    "in_reply_to_user_id_str": "2985021894",
+    "in_reply_to_screen_name": "kagemusya555",
+    "user": {
+      "id": 2985021894,
+      "id_str": "2985021894",
+      "name": "サークル影武者＠新作制作中",
+      "screen_name": "kagemusya555",
+      "location": "田んぼしかねぇ!!!",
+      "url": "http://b.dlsite.net/RG26730/",
+      "description": "「サークル影武者 」としてCG集を出したりしてます 。 　　　  ■http://t.co/mrsCjMPeaW 　　　　　　　■http://t.co/4rOPJq6HcO ■http://t.co/0uMAj8s0vE 　　　　　　🎁欲しいものリスト　　　■https://t.co/LhtoXZirJB",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 49567,
+      "friends_count": 1119,
+      "listed_count": 652,
+      "favourites_count": 50956,
+      "statuses_count": 35858,
+      "created_at": "Fri Jan 16 03:53:00 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "709397",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "86A4A6",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/990110553703043072/OYICsQz7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/990110553703043072/OYICsQz7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2985021894/1540394773",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 3,
+    "reply_count": 19,
+    "retweet_count": 328,
+    "favorite_count": 631,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "有馬くんと40人のクラスメイト",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058704652626083842,
+          "id_str": "1058704652626083842",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFGRbXUwAINdEE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFGRbXUwAINdEE.jpg",
+          "url": "https://t.co/1RB7SW0plw",
+          "display_url": "pic.twitter.com/1RB7SW0plw",
+          "expanded_url": "https://twitter.com/kagemusya555/status/1058705242638798848/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1500,
+              "h": 2000,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058704652626083842,
+          "id_str": "1058704652626083842",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFGRbXUwAINdEE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFGRbXUwAINdEE.jpg",
+          "url": "https://t.co/1RB7SW0plw",
+          "display_url": "pic.twitter.com/1RB7SW0plw",
+          "expanded_url": "https://twitter.com/kagemusya555/status/1058705242638798848/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1500,
+              "h": 2000,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058704661098618884,
+          "id_str": "1058704661098618884",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFGR67VYAQUpRS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFGR67VYAQUpRS.jpg",
+          "url": "https://t.co/1RB7SW0plw",
+          "display_url": "pic.twitter.com/1RB7SW0plw",
+          "expanded_url": "https://twitter.com/kagemusya555/status/1058705242638798848/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1500,
+              "h": 2000,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058704668434432000,
+          "id_str": "1058704668434432000",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFGSWQVAAA-dQz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFGSWQVAAA-dQz.jpg",
+          "url": "https://t.co/1RB7SW0plw",
+          "display_url": "pic.twitter.com/1RB7SW0plw",
+          "expanded_url": "https://twitter.com/kagemusya555/status/1058705242638798848/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1500,
+              "h": 2000,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058704676718174208,
+          "id_str": "1058704676718174208",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFGS1HU4AAJrMt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFGS1HU4AAJrMt.jpg",
+          "url": "https://t.co/1RB7SW0plw",
+          "display_url": "pic.twitter.com/1RB7SW0plw",
+          "expanded_url": "https://twitter.com/kagemusya555/status/1058705242638798848/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1500,
+              "h": 2000,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "有馬くんと40人のクラスメイト",
+        "indices": [
+          18,
+          34
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "kagemusya555",
+        "name": "サークル影武者＠新作制作中",
+        "id": 2985021894,
+        "id_str": "2985021894",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058704652626083842,
+        "id_str": "1058704652626083842",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFGRbXUwAINdEE.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFGRbXUwAINdEE.jpg",
+        "url": "https://t.co/1RB7SW0plw",
+        "display_url": "pic.twitter.com/1RB7SW0plw",
+        "expanded_url": "https://twitter.com/kagemusya555/status/1058705242638798848/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1500,
+            "h": 2000,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058705242638798848,
+        "source_status_id_str": "1058705242638798848",
+        "source_user_id": 2985021894,
+        "source_user_id_str": "2985021894"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058704652626083842,
+        "id_str": "1058704652626083842",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFGRbXUwAINdEE.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFGRbXUwAINdEE.jpg",
+        "url": "https://t.co/1RB7SW0plw",
+        "display_url": "pic.twitter.com/1RB7SW0plw",
+        "expanded_url": "https://twitter.com/kagemusya555/status/1058705242638798848/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1500,
+            "h": 2000,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058705242638798848,
+        "source_status_id_str": "1058705242638798848",
+        "source_user_id": 2985021894,
+        "source_user_id_str": "2985021894"
+      },
+      {
+        "id": 1058704661098618884,
+        "id_str": "1058704661098618884",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFGR67VYAQUpRS.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFGR67VYAQUpRS.jpg",
+        "url": "https://t.co/1RB7SW0plw",
+        "display_url": "pic.twitter.com/1RB7SW0plw",
+        "expanded_url": "https://twitter.com/kagemusya555/status/1058705242638798848/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1500,
+            "h": 2000,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058705242638798848,
+        "source_status_id_str": "1058705242638798848",
+        "source_user_id": 2985021894,
+        "source_user_id_str": "2985021894"
+      },
+      {
+        "id": 1058704668434432000,
+        "id_str": "1058704668434432000",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFGSWQVAAA-dQz.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFGSWQVAAA-dQz.jpg",
+        "url": "https://t.co/1RB7SW0plw",
+        "display_url": "pic.twitter.com/1RB7SW0plw",
+        "expanded_url": "https://twitter.com/kagemusya555/status/1058705242638798848/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1500,
+            "h": 2000,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058705242638798848,
+        "source_status_id_str": "1058705242638798848",
+        "source_user_id": 2985021894,
+        "source_user_id_str": "2985021894"
+      },
+      {
+        "id": 1058704676718174208,
+        "id_str": "1058704676718174208",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFGS1HU4AAJrMt.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFGS1HU4AAJrMt.jpg",
+        "url": "https://t.co/1RB7SW0plw",
+        "display_url": "pic.twitter.com/1RB7SW0plw",
+        "expanded_url": "https://twitter.com/kagemusya555/status/1058705242638798848/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1500,
+            "h": 2000,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058705242638798848,
+        "source_status_id_str": "1058705242638798848",
+        "source_user_id": 2985021894,
+        "source_user_id_str": "2985021894"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255234664"
+}

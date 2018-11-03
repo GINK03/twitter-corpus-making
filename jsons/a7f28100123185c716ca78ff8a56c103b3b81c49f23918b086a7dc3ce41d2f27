@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:23:11 +0000 2018",
+  "id": 1058726287022247937,
+  "id_str": "1058726287022247937",
+  "text": "@yukiringo_m @aya_243 ワシも見る～",
+  "display_text_range": [
+    22,
+    28
+  ],
+  "source": "<a href=\"http://janetter.net/\" rel=\"nofollow\">Janetter</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058725988576555009,
+  "in_reply_to_status_id_str": "1058725988576555009",
+  "in_reply_to_user_id": 520066525,
+  "in_reply_to_user_id_str": "520066525",
+  "in_reply_to_screen_name": "yukiringo_m",
+  "user": {
+    "id": 1376533478,
+    "id_str": "1376533478",
+    "name": "ヤマシタ",
+    "screen_name": "oky169",
+    "location": "京都→大阪",
+    "url": null,
+    "description": "DUAL OB /エロゲソングと阪神タイガースと佐咲紗花さんが好き /丸戸史明 /この青空に約束を― /うさぎ屋 /たけ井 /地球規模で考えろ",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 356,
+    "friends_count": 541,
+    "listed_count": 11,
+    "favourites_count": 4162,
+    "statuses_count": 51764,
+    "created_at": "Wed Apr 24 08:39:44 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/831509756770607105/IJPc_vHj_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/831509756770607105/IJPc_vHj_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1376533478/1469802773",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "yukiringo_m",
+        "name": "ゆきち",
+        "id": 520066525,
+        "id_str": "520066525",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "aya_243",
+        "name": "aya_243",
+        "id": 3118833341,
+        "id_str": "3118833341",
+        "indices": [
+          13,
+          21
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254991666"
+}

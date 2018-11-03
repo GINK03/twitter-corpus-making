@@ -1,0 +1,157 @@
+{
+  "created_at": "Sat Nov 03 14:27:27 +0000 2018",
+  "id": 1058727360751497216,
+  "id_str": "1058727360751497216",
+  "text": "幸子にライフ振ってコンボナが20%になるようにした https://t.co/olJiUOLR6E",
+  "display_text_range": [
+    0,
+    25
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 905786687464157184,
+    "id_str": "905786687464157184",
+    "name": "てっちゃん/婿入りP",
+    "screen_name": "tecchan_mukoiri",
+    "location": null,
+    "url": null,
+    "description": "担当:五十嵐響子 佐藤心 速水奏 ミリオン初めて北上麗花さんが気になってます。無言フォロー失礼致します🙇🏻 5thツアー最高だった… /fgo/FORZA AC Miran RX8乗ってます",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 251,
+    "friends_count": 253,
+    "listed_count": 2,
+    "favourites_count": 664,
+    "statuses_count": 8455,
+    "created_at": "Thu Sep 07 13:35:49 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1027576566815965184/16GcQdRW_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1027576566815965184/16GcQdRW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/905786687464157184/1539264666",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058727356368441345,
+        "id_str": "1058727356368441345",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFa69ZUUAEGx6y.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFa69ZUUAEGx6y.jpg",
+        "url": "https://t.co/olJiUOLR6E",
+        "display_url": "pic.twitter.com/olJiUOLR6E",
+        "expanded_url": "https://twitter.com/tecchan_mukoiri/status/1058727360751497216/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058727356368441345,
+        "id_str": "1058727356368441345",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFa69ZUUAEGx6y.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFa69ZUUAEGx6y.jpg",
+        "url": "https://t.co/olJiUOLR6E",
+        "display_url": "pic.twitter.com/olJiUOLR6E",
+        "expanded_url": "https://twitter.com/tecchan_mukoiri/status/1058727360751497216/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255247663"
+}

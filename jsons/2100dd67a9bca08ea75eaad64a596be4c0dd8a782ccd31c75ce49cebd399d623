@@ -1,0 +1,273 @@
+{
+  "created_at": "Sat Nov 03 14:20:28 +0000 2018",
+  "id": 1058725602948087808,
+  "id_str": "1058725602948087808",
+  "text": "GF③\nソニア2連続！\n#パズドラ https://t.co/PLqNlFcXTK",
+  "display_text_range": [
+    0,
+    17
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 744083495631257604,
+    "id_str": "744083495631257604",
+    "name": "fσямυℓα",
+    "screen_name": "games_formula",
+    "location": null,
+    "url": null,
+    "description": "パズドラ710↑・ログイン2000↑/モンスト220↑・ログイン1650↑/ディバゲ630↑/サモンズボード300↑/乃木恋Lv.65↑/ケヤキセLv.40↑/Shadowverse/こんなゲームを無課金でプレイ中。@ng46_formula",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 49,
+    "friends_count": 44,
+    "listed_count": 0,
+    "favourites_count": 56,
+    "statuses_count": 2177,
+    "created_at": "Sat Jun 18 08:25:04 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1042268894671433728/mAvsHbMO_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042268894671433728/mAvsHbMO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/744083495631257604/1537339098",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラ",
+        "indices": [
+          12,
+          17
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058725581687218176,
+        "id_str": "1058725581687218176",
+        "indices": [
+          18,
+          41
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZTqMV4AA9VFd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZTqMV4AA9VFd.jpg",
+        "url": "https://t.co/PLqNlFcXTK",
+        "display_url": "pic.twitter.com/PLqNlFcXTK",
+        "expanded_url": "https://twitter.com/games_formula/status/1058725602948087808/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 628,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 356,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1072,
+            "h": 2048,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058725581687218176,
+        "id_str": "1058725581687218176",
+        "indices": [
+          18,
+          41
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZTqMV4AA9VFd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZTqMV4AA9VFd.jpg",
+        "url": "https://t.co/PLqNlFcXTK",
+        "display_url": "pic.twitter.com/PLqNlFcXTK",
+        "expanded_url": "https://twitter.com/games_formula/status/1058725602948087808/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 628,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 356,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1072,
+            "h": 2048,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058725581691338752,
+        "id_str": "1058725581691338752",
+        "indices": [
+          18,
+          41
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZTqNUwAAOB27.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZTqNUwAAOB27.jpg",
+        "url": "https://t.co/PLqNlFcXTK",
+        "display_url": "pic.twitter.com/PLqNlFcXTK",
+        "expanded_url": "https://twitter.com/games_formula/status/1058725602948087808/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 635,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1084,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 360,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058725581687123969,
+        "id_str": "1058725581687123969",
+        "indices": [
+          18,
+          41
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZTqMUcAEqFx7.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZTqMUcAEqFx7.jpg",
+        "url": "https://t.co/PLqNlFcXTK",
+        "display_url": "pic.twitter.com/PLqNlFcXTK",
+        "expanded_url": "https://twitter.com/games_formula/status/1058725602948087808/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1076,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 357,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 630,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058725581687152640,
+        "id_str": "1058725581687152640",
+        "indices": [
+          18,
+          41
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZTqMU4AAjRnv.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZTqMU4AAjRnv.jpg",
+        "url": "https://t.co/PLqNlFcXTK",
+        "display_url": "pic.twitter.com/PLqNlFcXTK",
+        "expanded_url": "https://twitter.com/games_formula/status/1058725602948087808/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1074,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 357,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 629,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254828570"
+}

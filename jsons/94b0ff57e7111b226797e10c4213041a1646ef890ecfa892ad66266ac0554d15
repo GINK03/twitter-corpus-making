@@ -1,0 +1,555 @@
+{
+  "created_at": "Sat Nov 03 14:07:28 +0000 2018",
+  "id": 1058722329511903232,
+  "id_str": "1058722329511903232",
+  "text": "RT @sirangana000: fgoキッズ早くくたばってくれ https://t.co/EZ9e5O3NSg",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 982620979300986881,
+    "id_str": "982620979300986881",
+    "name": "お餅",
+    "screen_name": "ymswitch06",
+    "location": null,
+    "url": null,
+    "description": "任天堂のゲームやったり、FGOやったり、時にはPS4のゲームもやったりするような人です。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 14,
+    "friends_count": 29,
+    "listed_count": 0,
+    "favourites_count": 580,
+    "statuses_count": 1454,
+    "created_at": "Sat Apr 07 14:07:52 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058388039322353675/TAWLVaf9_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058388039322353675/TAWLVaf9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/982620979300986881/1538145177",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 13:25:57 +0000 2018",
+    "id": 1058349495597977601,
+    "id_str": "1058349495597977601",
+    "text": "fgoキッズ早くくたばってくれ https://t.co/EZ9e5O3NSg",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 574234148,
+      "id_str": "574234148",
+      "name": "😇",
+      "screen_name": "sirangana000",
+      "location": null,
+      "url": null,
+      "description": "愚痴😇私怨😇悪意しかないのでブロックどうぞ😇",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 50,
+      "friends_count": 127,
+      "listed_count": 3,
+      "favourites_count": 866,
+      "statuses_count": 2078,
+      "created_at": "Tue May 08 05:55:41 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1042369114310762496/ros7ma4A_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042369114310762496/ros7ma4A_normal.jpg",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 14,
+    "reply_count": 14,
+    "retweet_count": 560,
+    "favorite_count": 789,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058349470738395136,
+          "id_str": "1058349470738395136",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrADPHuVsAAGm9M.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrADPHuVsAAGm9M.jpg",
+          "url": "https://t.co/EZ9e5O3NSg",
+          "display_url": "pic.twitter.com/EZ9e5O3NSg",
+          "expanded_url": "https://twitter.com/sirangana000/status/1058349495597977601/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1080,
+              "h": 608,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 608,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058349470738395136,
+          "id_str": "1058349470738395136",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrADPHuVsAAGm9M.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrADPHuVsAAGm9M.jpg",
+          "url": "https://t.co/EZ9e5O3NSg",
+          "display_url": "pic.twitter.com/EZ9e5O3NSg",
+          "expanded_url": "https://twitter.com/sirangana000/status/1058349495597977601/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1080,
+              "h": 608,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 608,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058349476572614656,
+          "id_str": "1058349476572614656",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrADPddU0AArEhQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrADPddU0AArEhQ.jpg",
+          "url": "https://t.co/EZ9e5O3NSg",
+          "display_url": "pic.twitter.com/EZ9e5O3NSg",
+          "expanded_url": "https://twitter.com/sirangana000/status/1058349495597977601/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1080,
+              "h": 608,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 608,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058349482096517120,
+          "id_str": "1058349482096517120",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrADPyCU4AAH5Mc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrADPyCU4AAH5Mc.jpg",
+          "url": "https://t.co/EZ9e5O3NSg",
+          "display_url": "pic.twitter.com/EZ9e5O3NSg",
+          "expanded_url": "https://twitter.com/sirangana000/status/1058349495597977601/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 608,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 608,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058349488513806336,
+          "id_str": "1058349488513806336",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrADQJ8U8AA3Zwk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrADQJ8U8AA3Zwk.jpg",
+          "url": "https://t.co/EZ9e5O3NSg",
+          "display_url": "pic.twitter.com/EZ9e5O3NSg",
+          "expanded_url": "https://twitter.com/sirangana000/status/1058349495597977601/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1081,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1081,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 679,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "sirangana000",
+        "name": "😇",
+        "id": 574234148,
+        "id_str": "574234148",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058349470738395136,
+        "id_str": "1058349470738395136",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrADPHuVsAAGm9M.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrADPHuVsAAGm9M.jpg",
+        "url": "https://t.co/EZ9e5O3NSg",
+        "display_url": "pic.twitter.com/EZ9e5O3NSg",
+        "expanded_url": "https://twitter.com/sirangana000/status/1058349495597977601/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1080,
+            "h": 608,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 608,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058349495597977601,
+        "source_status_id_str": "1058349495597977601",
+        "source_user_id": 574234148,
+        "source_user_id_str": "574234148"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058349470738395136,
+        "id_str": "1058349470738395136",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrADPHuVsAAGm9M.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrADPHuVsAAGm9M.jpg",
+        "url": "https://t.co/EZ9e5O3NSg",
+        "display_url": "pic.twitter.com/EZ9e5O3NSg",
+        "expanded_url": "https://twitter.com/sirangana000/status/1058349495597977601/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1080,
+            "h": 608,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 608,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058349495597977601,
+        "source_status_id_str": "1058349495597977601",
+        "source_user_id": 574234148,
+        "source_user_id_str": "574234148"
+      },
+      {
+        "id": 1058349476572614656,
+        "id_str": "1058349476572614656",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrADPddU0AArEhQ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrADPddU0AArEhQ.jpg",
+        "url": "https://t.co/EZ9e5O3NSg",
+        "display_url": "pic.twitter.com/EZ9e5O3NSg",
+        "expanded_url": "https://twitter.com/sirangana000/status/1058349495597977601/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1080,
+            "h": 608,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 608,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058349495597977601,
+        "source_status_id_str": "1058349495597977601",
+        "source_user_id": 574234148,
+        "source_user_id_str": "574234148"
+      },
+      {
+        "id": 1058349482096517120,
+        "id_str": "1058349482096517120",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrADPyCU4AAH5Mc.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrADPyCU4AAH5Mc.jpg",
+        "url": "https://t.co/EZ9e5O3NSg",
+        "display_url": "pic.twitter.com/EZ9e5O3NSg",
+        "expanded_url": "https://twitter.com/sirangana000/status/1058349495597977601/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 608,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 608,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058349495597977601,
+        "source_status_id_str": "1058349495597977601",
+        "source_user_id": 574234148,
+        "source_user_id_str": "574234148"
+      },
+      {
+        "id": 1058349488513806336,
+        "id_str": "1058349488513806336",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrADQJ8U8AA3Zwk.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrADQJ8U8AA3Zwk.jpg",
+        "url": "https://t.co/EZ9e5O3NSg",
+        "display_url": "pic.twitter.com/EZ9e5O3NSg",
+        "expanded_url": "https://twitter.com/sirangana000/status/1058349495597977601/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1081,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1081,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 679,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058349495597977601,
+        "source_status_id_str": "1058349495597977601",
+        "source_user_id": 574234148,
+        "source_user_id_str": "574234148"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254048122"
+}

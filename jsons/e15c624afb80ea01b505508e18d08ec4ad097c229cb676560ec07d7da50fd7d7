@@ -1,0 +1,139 @@
+{
+  "created_at": "Sat Nov 03 14:22:50 +0000 2018",
+  "id": 1058726198908399616,
+  "id_str": "1058726198908399616",
+  "text": "@mat2988 @antsa_masato @antsa_kanata @jjmiume @antsa_2369 @syabadabastep いやAMUちゃんも可愛いし天使😃😊😊",
+  "display_text_range": [
+    73,
+    91
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058724798820306944,
+  "in_reply_to_status_id_str": "1058724798820306944",
+  "in_reply_to_user_id": 421925749,
+  "in_reply_to_user_id_str": "421925749",
+  "in_reply_to_screen_name": "mat2988",
+  "user": {
+    "id": 1045930947512680448,
+    "id_str": "1045930947512680448",
+    "name": "宇宙(ソラ)  シル民♥  芝生w",
+    "screen_name": "silk_donaldlove",
+    "location": "日本 埼玉",
+    "url": null,
+    "description": "フィッシャーズとアナタシアとドナルドダックと踊り手さんとこーくさんと殺戮の天使とはたらく細胞とBANANA FISHと七つの大罪とその他もろもろ    YouTubeとアニメとダンスがとにかく大好き！#コンパス はBランクでマリア使ってる！気軽にフォローしてくれたら…大体フォロバするよん🤗ﾖﾛ(｀・ω・´)ｽｸ！です",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 32,
+    "friends_count": 140,
+    "listed_count": 0,
+    "favourites_count": 128,
+    "statuses_count": 184,
+    "created_at": "Sat Sep 29 06:59:05 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058596522575593472/-lJGzktS_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058596522575593472/-lJGzktS_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1045930947512680448/1540921174",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "mat2988",
+        "name": "AMU🐧11/3超パ",
+        "id": 421925749,
+        "id_str": "421925749",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "screen_name": "antsa_masato",
+        "name": "まさと@アナタシア",
+        "id": 1266078692,
+        "id_str": "1266078692",
+        "indices": [
+          9,
+          22
+        ]
+      },
+      {
+        "screen_name": "antsa_kanata",
+        "name": "カナタ@アナタシア",
+        "id": 3271024268,
+        "id_str": "3271024268",
+        "indices": [
+          23,
+          36
+        ]
+      },
+      {
+        "screen_name": "jjmiume",
+        "name": "みうめ COJIRASE THE TRIP",
+        "id": 96111615,
+        "id_str": "96111615",
+        "indices": [
+          37,
+          45
+        ]
+      },
+      {
+        "screen_name": "antsa_2369",
+        "name": "伝説の笠原ふみ(ふみろく)@アナタシア",
+        "id": 933663054100774913,
+        "id_str": "933663054100774913",
+        "indices": [
+          46,
+          57
+        ]
+      },
+      {
+        "screen_name": "syabadabastep",
+        "name": "しゃばだばSTEP",
+        "id": 3076387224,
+        "id_str": "3076387224",
+        "indices": [
+          58,
+          72
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254970658"
+}

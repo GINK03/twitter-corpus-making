@@ -1,0 +1,138 @@
+{
+  "created_at": "Sat Nov 03 13:53:40 +0000 2018",
+  "id": 1058718857374789634,
+  "id_str": "1058718857374789634",
+  "text": "ゲーム垢交換、買取します。やらなくなった垢や飽きてしまった垢などありましたらどうぞ。また垢の販売もしてます。\n\n#バンドリ\n#スクフェス\n#白テニ\n#デレステ\n#荒野行動\n#白猫\n#パズドラ\n#ドッカン\n#モンスト⁠ ⁠⁠ ⁠⁠ ⁠⁠ ⁠",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1056438195720605699,
+    "id_str": "1056438195720605699",
+    "name": "さい",
+    "screen_name": "Ed1Bq",
+    "location": null,
+    "url": null,
+    "description": "ゲーム、アニメが好きです。垢交換、垢買取してるのでよろしくお願いします。提案者側先送りお願いします。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 11,
+    "friends_count": 2,
+    "listed_count": 0,
+    "favourites_count": 0,
+    "statuses_count": 13,
+    "created_at": "Sun Oct 28 06:51:08 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056439774402109440/56xyCzLe_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056439774402109440/56xyCzLe_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056438195720605699/1540710026",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "バンドリ",
+        "indices": [
+          56,
+          61
+        ]
+      },
+      {
+        "text": "スクフェス",
+        "indices": [
+          62,
+          68
+        ]
+      },
+      {
+        "text": "白テニ",
+        "indices": [
+          69,
+          73
+        ]
+      },
+      {
+        "text": "デレステ",
+        "indices": [
+          74,
+          79
+        ]
+      },
+      {
+        "text": "荒野行動",
+        "indices": [
+          80,
+          85
+        ]
+      },
+      {
+        "text": "白猫",
+        "indices": [
+          86,
+          89
+        ]
+      },
+      {
+        "text": "パズドラ",
+        "indices": [
+          90,
+          95
+        ]
+      },
+      {
+        "text": "ドッカン",
+        "indices": [
+          96,
+          101
+        ]
+      },
+      {
+        "text": "モンスト",
+        "indices": [
+          102,
+          107
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253220300"
+}

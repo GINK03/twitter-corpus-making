@@ -1,0 +1,201 @@
+{
+  "created_at": "Sat Nov 03 14:11:26 +0000 2018",
+  "id": 1058723327336796160,
+  "id_str": "1058723327336796160",
+  "text": "高難易度終了〜。\n頼光さんに凸熊礼装であとはひたすらクリティカルで攻め続けてノー令呪クリア!\nやはり特攻礼装があるイベントは楽に感じるかな…?\n#FGO https://t.co/QlImxbEfqY",
+  "display_text_range": [
+    0,
+    76
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 440063548,
+    "id_str": "440063548",
+    "name": "アサシン鯖の豊津さん",
+    "screen_name": "toyotu_m",
+    "location": "愛知県",
+    "url": null,
+    "description": "ＦＧＯ頑張る勢。20年来の阪神ファン(横浜ファン兼任中)",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 76,
+    "friends_count": 128,
+    "listed_count": 1,
+    "favourites_count": 6,
+    "statuses_count": 15885,
+    "created_at": "Sun Dec 18 14:38:58 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1030074879196844032/oXk4n1Pe_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1030074879196844032/oXk4n1Pe_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/440063548/1534510444",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          72,
+          76
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058723293304250368,
+        "id_str": "1058723293304250368",
+        "indices": [
+          77,
+          100
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXOdTU4AA7gP_.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXOdTU4AA7gP_.jpg",
+        "url": "https://t.co/QlImxbEfqY",
+        "display_url": "pic.twitter.com/QlImxbEfqY",
+        "expanded_url": "https://twitter.com/toyotu_m/status/1058723327336796160/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058723293304250368,
+        "id_str": "1058723293304250368",
+        "indices": [
+          77,
+          100
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXOdTU4AA7gP_.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXOdTU4AA7gP_.jpg",
+        "url": "https://t.co/QlImxbEfqY",
+        "display_url": "pic.twitter.com/QlImxbEfqY",
+        "expanded_url": "https://twitter.com/toyotu_m/status/1058723327336796160/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058723314435186689,
+        "id_str": "1058723314435186689",
+        "indices": [
+          77,
+          100
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXPsBVYAE6qaw.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXPsBVYAE6qaw.jpg",
+        "url": "https://t.co/QlImxbEfqY",
+        "display_url": "pic.twitter.com/QlImxbEfqY",
+        "expanded_url": "https://twitter.com/toyotu_m/status/1058723327336796160/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254286022"
+}

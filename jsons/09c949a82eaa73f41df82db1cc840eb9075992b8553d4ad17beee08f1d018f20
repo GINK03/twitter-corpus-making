@@ -1,0 +1,273 @@
+{
+  "created_at": "Sat Nov 03 14:07:36 +0000 2018",
+  "id": 1058722364593033216,
+  "id_str": "1058722364593033216",
+  "text": "フレ募します。 条件はイベントなどちゃんとやることくらいで他は特にないです。\n#FGOフレンド募集 https://t.co/ct1k1eFIeq",
+  "display_text_range": [
+    0,
+    49
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 933669777633042434,
+    "id_str": "933669777633042434",
+    "name": "Ptりんこ@命楓。",
+    "screen_name": "Ptrinko",
+    "location": null,
+    "url": null,
+    "description": "インフェルノさんとか段蔵とかキュケ魔女とかジャンヌ系とかヒロインX系がすき。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 288,
+    "friends_count": 257,
+    "listed_count": 4,
+    "favourites_count": 302,
+    "statuses_count": 1618,
+    "created_at": "Thu Nov 23 12:13:16 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1050245845457625088/XO44QOnI_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050245845457625088/XO44QOnI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/933669777633042434/1541149607",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGOフレンド募集",
+        "indices": [
+          39,
+          49
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058722341922889728,
+        "id_str": "1058722341922889728",
+        "indices": [
+          50,
+          73
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWXFIVYAAn7_P.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWXFIVYAAn7_P.jpg",
+        "url": "https://t.co/ct1k1eFIeq",
+        "display_url": "pic.twitter.com/ct1k1eFIeq",
+        "expanded_url": "https://twitter.com/Ptrinko/status/1058722364593033216/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058722341922889728,
+        "id_str": "1058722341922889728",
+        "indices": [
+          50,
+          73
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWXFIVYAAn7_P.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWXFIVYAAn7_P.jpg",
+        "url": "https://t.co/ct1k1eFIeq",
+        "display_url": "pic.twitter.com/ct1k1eFIeq",
+        "expanded_url": "https://twitter.com/Ptrinko/status/1058722364593033216/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058722341805420547,
+        "id_str": "1058722341805420547",
+        "indices": [
+          50,
+          73
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWXEsU8AMNqVD.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWXEsU8AMNqVD.jpg",
+        "url": "https://t.co/ct1k1eFIeq",
+        "display_url": "pic.twitter.com/ct1k1eFIeq",
+        "expanded_url": "https://twitter.com/Ptrinko/status/1058722364593033216/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058722341834809345,
+        "id_str": "1058722341834809345",
+        "indices": [
+          50,
+          73
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWXEzVYAElFsw.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWXEzVYAElFsw.jpg",
+        "url": "https://t.co/ct1k1eFIeq",
+        "display_url": "pic.twitter.com/ct1k1eFIeq",
+        "expanded_url": "https://twitter.com/Ptrinko/status/1058722364593033216/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058722341914468353,
+        "id_str": "1058722341914468353",
+        "indices": [
+          50,
+          73
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWXFGU4AEfvxB.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWXFGU4AEfvxB.jpg",
+        "url": "https://t.co/ct1k1eFIeq",
+        "display_url": "pic.twitter.com/ct1k1eFIeq",
+        "expanded_url": "https://twitter.com/Ptrinko/status/1058722364593033216/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254056486"
+}

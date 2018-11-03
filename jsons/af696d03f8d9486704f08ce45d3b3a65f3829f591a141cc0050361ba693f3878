@@ -1,0 +1,165 @@
+{
+  "created_at": "Sat Nov 03 13:54:37 +0000 2018",
+  "id": 1058719095258902530,
+  "id_str": "1058719095258902530",
+  "text": "これはネタというか草\n\n#パズドラ https://t.co/fI3SpFGk9h",
+  "display_text_range": [
+    0,
+    17
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 987314408996024320,
+    "id_str": "987314408996024320",
+    "name": "oza☆",
+    "screen_name": "oza11257051",
+    "location": "日本",
+    "url": null,
+    "description": "aue.aⅠ-Ⅲ サッカー部#19/気軽にフォローしてください 同じ高校の人フォロバします！ 無言フォローすいません🙇🏻‍♂️/色々ゲームしてる/ゲスの極み乙女。 ジェニーハイ indigo la End back number ボカロ 歌い手さんなどなど/#浜辺美波/since5/17",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 116,
+    "friends_count": 167,
+    "listed_count": 0,
+    "favourites_count": 687,
+    "statuses_count": 147,
+    "created_at": "Fri Apr 20 12:57:53 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1052220407648989184/QGrnacS4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052220407648989184/QGrnacS4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/987314408996024320/1540645291",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラ",
+        "indices": [
+          12,
+          17
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058719089365925888,
+        "id_str": "1058719089365925888",
+        "indices": [
+          18,
+          41
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFTZwaUwAAs8HI.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFTZwaUwAAs8HI.jpg",
+        "url": "https://t.co/fI3SpFGk9h",
+        "display_url": "pic.twitter.com/fI3SpFGk9h",
+        "expanded_url": "https://twitter.com/oza11257051/status/1058719095258902530/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058719089365925888,
+        "id_str": "1058719089365925888",
+        "indices": [
+          18,
+          41
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFTZwaUwAAs8HI.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFTZwaUwAAs8HI.jpg",
+        "url": "https://t.co/fI3SpFGk9h",
+        "display_url": "pic.twitter.com/fI3SpFGk9h",
+        "expanded_url": "https://twitter.com/oza11257051/status/1058719095258902530/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253277016"
+}

@@ -1,0 +1,345 @@
+{
+  "created_at": "Sat Nov 03 14:14:13 +0000 2018",
+  "id": 1058724030474113024,
+  "id_str": "1058724030474113024",
+  "text": "わかりやすくシンプルにした結果理解力の無い層に伝わらないっていう悲しさ。1から10まで全部言わないと伝わらない(下手すりゃそれでも伝わらない) 時々ホンマ今までどうやって生きてきたんかって程頭使わんヤツがおってこっちがビビる😇",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 103745112,
+    "id_str": "103745112",
+    "name": "Moja",
+    "screen_name": "absolute_9",
+    "location": "japan",
+    "url": null,
+    "description": "Team Absolute/S14 V8 1UZ VVTI/'17Wekfest Jp Static Award/ドリフトは下手/V8はいいぞ/乗り物 機械 漫画 音楽 楽器 絵 歴史/twitter社想定通りの使い方をしております/話しかければ答えます/ff外通知offの為反応遅いです",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 542,
+    "friends_count": 1505,
+    "listed_count": 2,
+    "favourites_count": 74332,
+    "statuses_count": 4662,
+    "created_at": "Mon Jan 11 03:35:42 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "320F85",
+    "profile_sidebar_border_color": "13232B",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "9535DE",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1044034283764150273/hjPtWKTp_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044034283764150273/hjPtWKTp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/103745112/1494416652",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "quoted_status_id": 1058043484018339840,
+  "quoted_status_id_str": "1058043484018339840",
+  "quoted_status": {
+    "created_at": "Thu Nov 01 17:09:58 +0000 2018",
+    "id": 1058043484018339840,
+    "id_str": "1058043484018339840",
+    "text": "登場した当初、「オシャレすぎてわかりにくい」とテプラやシールの前に次々と敗北していった佐藤可士和デザインのセブンコーヒー、さっき改めてよく見たら、デフォルトで静かに降参していた。 https://t.co/lgHuGjA8LQ",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 424257117,
+      "id_str": "424257117",
+      "name": "まことぴ",
+      "screen_name": "makotopic",
+      "location": "東京",
+      "url": null,
+      "description": "酒と映画さえあれば、だいたい満足。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 9131,
+      "friends_count": 449,
+      "listed_count": 133,
+      "favourites_count": 14909,
+      "statuses_count": 38230,
+      "created_at": "Tue Nov 29 15:12:06 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2575558268/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2575558268/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/424257117/1391086233",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 75,
+    "reply_count": 11,
+    "retweet_count": 2343,
+    "favorite_count": 4096,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058043476820934657,
+          "id_str": "1058043476820934657",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq7s77jUwAE4Y2E.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq7s77jUwAE4Y2E.jpg",
+          "url": "https://t.co/lgHuGjA8LQ",
+          "display_url": "pic.twitter.com/lgHuGjA8LQ",
+          "expanded_url": "https://twitter.com/makotopic/status/1058043484018339840/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 489,
+              "h": 489,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 489,
+              "h": 489,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 489,
+              "h": 489,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058043476820934657,
+          "id_str": "1058043476820934657",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq7s77jUwAE4Y2E.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq7s77jUwAE4Y2E.jpg",
+          "url": "https://t.co/lgHuGjA8LQ",
+          "display_url": "pic.twitter.com/lgHuGjA8LQ",
+          "expanded_url": "https://twitter.com/makotopic/status/1058043484018339840/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 489,
+              "h": 489,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 489,
+              "h": 489,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 489,
+              "h": 489,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058043476833517568,
+          "id_str": "1058043476833517568",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq7s77mUwAAwJcQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq7s77mUwAAwJcQ.jpg",
+          "url": "https://t.co/lgHuGjA8LQ",
+          "display_url": "pic.twitter.com/lgHuGjA8LQ",
+          "expanded_url": "https://twitter.com/makotopic/status/1058043484018339840/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 498,
+              "h": 498,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 498,
+              "h": 498,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 498,
+              "h": 498,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058043476829331456,
+          "id_str": "1058043476829331456",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq7s77lU4AA-_vD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq7s77lU4AA-_vD.jpg",
+          "url": "https://t.co/lgHuGjA8LQ",
+          "display_url": "pic.twitter.com/lgHuGjA8LQ",
+          "expanded_url": "https://twitter.com/makotopic/status/1058043484018339840/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 582,
+              "h": 582,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 582,
+              "h": 582,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 582,
+              "h": 582,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        },
+        {
+          "id": 1058043476829384704,
+          "id_str": "1058043476829384704",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq7s77lVsAANfUK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq7s77lVsAANfUK.jpg",
+          "url": "https://t.co/lgHuGjA8LQ",
+          "display_url": "pic.twitter.com/lgHuGjA8LQ",
+          "expanded_url": "https://twitter.com/makotopic/status/1058043484018339840/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/tiQKYW3ezV",
+    "expanded": "https://twitter.com/makotopic/status/1058043484018339840",
+    "display": "twitter.com/makotopic/stat…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254453663"
+}

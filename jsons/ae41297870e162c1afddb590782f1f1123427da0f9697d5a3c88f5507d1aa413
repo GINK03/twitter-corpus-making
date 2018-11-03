@@ -1,0 +1,193 @@
+{
+  "created_at": "Sat Nov 03 14:13:50 +0000 2018",
+  "id": 1058723933984194560,
+  "id_str": "1058723933984194560",
+  "text": "やばい(ときに舐める)白い粉。\nアマゾンで千円ちょっとで買えるビタミンCそのもの。この時期は風邪予防のため毎日摂取。\nめっちゃすっぱい。\nすっぱさそのもの。 https://t.co/E9sS7ggc1b",
+  "display_text_range": [
+    0,
+    78
+  ],
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 461089102,
+    "id_str": "461089102",
+    "name": "稲垣僚祐(イナガキリョウスケ)",
+    "screen_name": "Ry0sukeInagaki",
+    "location": "岐阜/愛知/三重/他",
+    "url": null,
+    "description": "コメディアン・俳優・社会人落語家「名古屋亭龍燃」 2017年第4回名古屋演劇杯覇者。 2018年G/pitチャレンジフェスティバル大賞。 鉄道ネタ/ギター演奏/コスプレ 1990年1月生。岐阜出身。名古屋在住。元鉄道マン。\nたまにG／PITスタッフ。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2213,
+    "friends_count": 4995,
+    "listed_count": 17,
+    "favourites_count": 192,
+    "statuses_count": 4723,
+    "created_at": "Wed Jan 11 12:47:34 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "4A913C",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1047780217899560961/WpHLs5ic_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047780217899560961/WpHLs5ic_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/461089102/1503462282",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058723923930443776,
+        "id_str": "1058723923930443776",
+        "indices": [
+          79,
+          102
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXzKkU8AAq6vt.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXzKkU8AAq6vt.jpg",
+        "url": "https://t.co/E9sS7ggc1b",
+        "display_url": "pic.twitter.com/E9sS7ggc1b",
+        "expanded_url": "https://twitter.com/Ry0sukeInagaki/status/1058723933984194560/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058723923930443776,
+        "id_str": "1058723923930443776",
+        "indices": [
+          79,
+          102
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXzKkU8AAq6vt.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXzKkU8AAq6vt.jpg",
+        "url": "https://t.co/E9sS7ggc1b",
+        "display_url": "pic.twitter.com/E9sS7ggc1b",
+        "expanded_url": "https://twitter.com/Ry0sukeInagaki/status/1058723933984194560/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058723923913670659,
+        "id_str": "1058723923913670659",
+        "indices": [
+          79,
+          102
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXzKgVAAMsjH1.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXzKgVAAMsjH1.jpg",
+        "url": "https://t.co/E9sS7ggc1b",
+        "display_url": "pic.twitter.com/E9sS7ggc1b",
+        "expanded_url": "https://twitter.com/Ry0sukeInagaki/status/1058723933984194560/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254430658"
+}

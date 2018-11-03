@@ -1,0 +1,193 @@
+{
+  "created_at": "Sat Nov 03 14:16:53 +0000 2018",
+  "id": 1058724701546012673,
+  "id_str": "1058724701546012673",
+  "text": "頑張って中日集めしたけど難しい･･･ https://t.co/vb4GjxHG7A",
+  "display_text_range": [
+    0,
+    18
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1041611623759208448,
+    "id_str": "1041611623759208448",
+    "name": "センス･オープナー＠ソラノカナタ最高",
+    "screen_name": "ittun0615",
+    "location": "日本",
+    "url": null,
+    "description": "✨モンスト、プロスピ、マガジン后です✨気軽にフォローしてください！モンスト后フォロバ100パーです笑/無言フォローすみません モンスト、ランク208 プロスピ、レベル106",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 310,
+    "friends_count": 329,
+    "listed_count": 1,
+    "favourites_count": 5265,
+    "statuses_count": 165,
+    "created_at": "Mon Sep 17 08:55:38 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1041661013089648640/6eEpOyD4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1041661013089648640/6eEpOyD4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1041611623759208448/1537204113",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724671175020544,
+        "id_str": "1058724671175020544",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYeqRUUAAomVw.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYeqRUUAAomVw.jpg",
+        "url": "https://t.co/vb4GjxHG7A",
+        "display_url": "pic.twitter.com/vb4GjxHG7A",
+        "expanded_url": "https://twitter.com/ittun0615/status/1058724701546012673/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724671175020544,
+        "id_str": "1058724671175020544",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYeqRUUAAomVw.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYeqRUUAAomVw.jpg",
+        "url": "https://t.co/vb4GjxHG7A",
+        "display_url": "pic.twitter.com/vb4GjxHG7A",
+        "expanded_url": "https://twitter.com/ittun0615/status/1058724701546012673/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058724671233843201,
+        "id_str": "1058724671233843201",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYeqfV4AE6Pf3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYeqfV4AE6Pf3.jpg",
+        "url": "https://t.co/vb4GjxHG7A",
+        "display_url": "pic.twitter.com/vb4GjxHG7A",
+        "expanded_url": "https://twitter.com/ittun0615/status/1058724701546012673/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254613659"
+}

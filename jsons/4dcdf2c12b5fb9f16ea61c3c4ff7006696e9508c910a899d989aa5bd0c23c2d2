@@ -1,0 +1,93 @@
+{
+  "created_at": "Sat Nov 03 14:26:24 +0000 2018",
+  "id": 1058727096506142720,
+  "id_str": "1058727096506142720",
+  "text": "モイ！Androidからキャス配信中 -今日のリリイベ感想！(*^^*) https://t.co/D3GIRr9z1l #初心者",
+  "source": "<a href=\"http://twitcasting.tv/\" rel=\"nofollow\">TwitCasting</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2894931278,
+    "id_str": "2894931278",
+    "name": "玉葱剣士😇＝✋＋🍒",
+    "screen_name": "tamanegi_taso",
+    "location": "大阪",
+    "url": null,
+    "description": "専門1年の内田真礼さん(@maaya_taso)(@MaayaUchida)の大ファン！🍒FC会員🍒武道館当選/FCイベ落選 /リリイベ8th大阪/MagicNumber大阪参戦/新参者なのでお手柔らかにm(*_ _)m画像加工のリクエストはDMにて絡みのある人だけ受け付けてます(*^^*)",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 557,
+    "friends_count": 306,
+    "listed_count": 21,
+    "favourites_count": 52309,
+    "statuses_count": 19948,
+    "created_at": "Sun Nov 09 16:58:38 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1029647581398237185/SdnC_Cnq_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029647581398237185/SdnC_Cnq_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2894931278/1534328524",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "初心者",
+        "indices": [
+          61,
+          65
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/D3GIRr9z1l",
+        "expanded_url": "http://cas.st/1e0f95f0",
+        "display_url": "cas.st/1e0f95f0",
+        "indices": [
+          37,
+          60
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255184662"
+}

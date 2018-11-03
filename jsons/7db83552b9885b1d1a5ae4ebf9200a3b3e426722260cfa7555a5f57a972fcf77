@@ -1,0 +1,167 @@
+{
+  "created_at": "Sat Nov 03 14:25:09 +0000 2018",
+  "id": 1058726779341455361,
+  "id_str": "1058726779341455361",
+  "text": "【FGO】「英霊旅装あなたはどれを選んだ？」結果発表！トップに輝いたのは似合いすぎて可愛すぎるチャイナ服を着たあの人【アンケート】 https://t.co/Qiyw0YJhpf https://t.co/cCWKnR13OE",
+  "display_text_range": [
+    0,
+    89
+  ],
+  "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 745450806317486081,
+    "id_str": "745450806317486081",
+    "name": "たまもー＠FGO垢",
+    "screen_name": "fategotamamo",
+    "location": "スマホ",
+    "url": null,
+    "description": "スマホゲーに人生捧げてる人の垢。槍玉藻出るまで回して食費が消えたけど後悔はない。大体はFGOの攻略情報とか玉藻とか玉藻とか玉藻のことをつぶやいてます。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2280,
+    "friends_count": 2782,
+    "listed_count": 1,
+    "favourites_count": 1,
+    "statuses_count": 49837,
+    "created_at": "Wed Jun 22 02:58:16 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/764125140762423296/MhpIdd0g_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/764125140762423296/MhpIdd0g_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/745450806317486081/1471016581",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/Qiyw0YJhpf",
+        "expanded_url": "https://ift.tt/2PykWQD",
+        "display_url": "ift.tt/2PykWQD",
+        "indices": [
+          66,
+          89
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058726778007642112,
+        "id_str": "1058726778007642112",
+        "indices": [
+          90,
+          113
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaZS1W4AA1vcR.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaZS1W4AA1vcR.jpg",
+        "url": "https://t.co/cCWKnR13OE",
+        "display_url": "pic.twitter.com/cCWKnR13OE",
+        "expanded_url": "https://twitter.com/fategotamamo/status/1058726779341455361/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 356,
+            "h": 200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 356,
+            "h": 200,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 356,
+            "h": 200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058726778007642112,
+        "id_str": "1058726778007642112",
+        "indices": [
+          90,
+          113
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaZS1W4AA1vcR.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaZS1W4AA1vcR.jpg",
+        "url": "https://t.co/cCWKnR13OE",
+        "display_url": "pic.twitter.com/cCWKnR13OE",
+        "expanded_url": "https://twitter.com/fategotamamo/status/1058726779341455361/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 356,
+            "h": 200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 356,
+            "h": 200,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 356,
+            "h": 200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255109044"
+}

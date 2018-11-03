@@ -1,0 +1,174 @@
+{
+  "created_at": "Sat Nov 03 14:08:55 +0000 2018",
+  "id": 1058722698065522689,
+  "id_str": "1058722698065522689",
+  "text": "【艦これ】深夜の胸部装甲画像スレ みゃおーん 艦これ #艦これ https://t.co/4n0gwErFbs https://t.co/1KWHWTO7db",
+  "display_text_range": [
+    0,
+    55
+  ],
+  "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 293847562,
+    "id_str": "293847562",
+    "name": "艦これ新聞",
+    "screen_name": "kancolledaily",
+    "location": null,
+    "url": "http://kancolledaily.blog.fc2.com/",
+    "description": "艦これ関連のイラスト・動画をメインに紹介しているサイトです。艦隊これくしょん～艦これ～に関するトピックを毎日更新でご紹介します。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 19945,
+    "friends_count": 18561,
+    "listed_count": 128,
+    "favourites_count": 0,
+    "statuses_count": 51882,
+    "created_at": "Fri May 06 02:40:34 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000317590728/86e88ef5ecb98a7f6988b058129801c7_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000317590728/86e88ef5ecb98a7f6988b058129801c7_normal.png",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ",
+        "indices": [
+          27,
+          31
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/4n0gwErFbs",
+        "expanded_url": "https://ift.tt/2PBi716",
+        "display_url": "ift.tt/2PBi716",
+        "indices": [
+          32,
+          55
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058722696891113472,
+        "id_str": "1058722696891113472",
+        "indices": [
+          56,
+          79
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWrvfWoAA2beF.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWrvfWoAA2beF.jpg",
+        "url": "https://t.co/1KWHWTO7db",
+        "display_url": "pic.twitter.com/1KWHWTO7db",
+        "expanded_url": "https://twitter.com/kancolledaily/status/1058722698065522689/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 450,
+            "h": 629,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 450,
+            "h": 629,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 450,
+            "h": 629,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058722696891113472,
+        "id_str": "1058722696891113472",
+        "indices": [
+          56,
+          79
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWrvfWoAA2beF.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWrvfWoAA2beF.jpg",
+        "url": "https://t.co/1KWHWTO7db",
+        "display_url": "pic.twitter.com/1KWHWTO7db",
+        "expanded_url": "https://twitter.com/kancolledaily/status/1058722698065522689/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 450,
+            "h": 629,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 450,
+            "h": 629,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 450,
+            "h": 629,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254135992"
+}

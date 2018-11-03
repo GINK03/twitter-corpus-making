@@ -1,0 +1,96 @@
+{
+  "created_at": "Sat Nov 03 14:22:56 +0000 2018",
+  "id": 1058726224074223616,
+  "id_str": "1058726224074223616",
+  "text": "最近@asakaze_rebornがたくさんつぶやいてる言葉ランキング！\n\n第5位\n『ランド』\n\n第4位\n『ハロウィン』\n\n第3位\n『カード』\n\n第2位\n『オタク』\n\nそして注目の第1位は……\n\n『ラッシュ』\n https://t.co/54gdTJpQl1",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1286148060,
+    "id_str": "1286148060",
+    "name": "おっさん",
+    "screen_name": "asakaze_reborn",
+    "location": "Moorland Haunt",
+    "url": null,
+    "description": "スタン：BG/モダン：スピリット\n/レガシー：デスタク\n/pauper：エルフ/\nHearthStone 積みゲーを無くしたい人生だった",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 608,
+    "friends_count": 599,
+    "listed_count": 18,
+    "favourites_count": 14181,
+    "statuses_count": 82920,
+    "created_at": "Thu Mar 21 14:49:16 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1050027707180806144/3UR7FvqU_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050027707180806144/3UR7FvqU_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1286148060/1539180854",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/54gdTJpQl1",
+        "expanded_url": "http://appli-maker.jp/analytic_apps/5128",
+        "display_url": "appli-maker.jp/analytic_apps/…",
+        "indices": [
+          106,
+          129
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "asakaze_reborn",
+        "name": "おっさん",
+        "id": 1286148060,
+        "id_str": "1286148060",
+        "indices": [
+          2,
+          17
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254976658"
+}

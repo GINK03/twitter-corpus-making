@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:19:22 +0000 2018",
+  "id": 1058725326514094080,
+  "id_str": "1058725326514094080",
+  "text": "RT @under_sz64: ラルセイとスージィ https://t.co/zQUdQBjqbH",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1049980429053308929,
+    "id_str": "1049980429053308929",
+    "name": "即身仏",
+    "screen_name": "Saituyomonkey",
+    "location": "無敵要塞ザイガス",
+    "url": "https://www.mofa.go.jp/mofaj/area/gabon/index.html",
+    "description": "@Sugoituyoisaruの地下物語隔離垢 Switch版からの新参者です。 高卒済18↑ スターとおばけが好き NとP攻略済みG途中",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 53,
+    "friends_count": 82,
+    "listed_count": 1,
+    "favourites_count": 1248,
+    "statuses_count": 1622,
+    "created_at": "Wed Oct 10 11:10:16 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1057798477332209665/Djaf8B8V_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057798477332209665/Djaf8B8V_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1049980429053308929/1541236168",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:17:08 +0000 2018",
+    "id": 1058724764116672512,
+    "id_str": "1058724764116672512",
+    "text": "ラルセイとスージィ https://t.co/zQUdQBjqbH",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 743670865145954305,
+      "id_str": "743670865145954305",
+      "name": "すず虫（ＵＴ垢）@冬コミ日曜東2Ｚ34a",
+      "screen_name": "under_sz64",
+      "location": null,
+      "url": "http://pixiv.me/suzumusi114",
+      "description": "骨兄弟推しつつみんなすき　派生世界(fell,swapなど)のキャラも好き勝手に組み合わせる　公式日本語版も非公式パッチ版もプレイ済ですがやりこんだのが非公式パッチ版の方なので設定などはこちらを参考にしがちです。だいぶｱﾚなﾓﾉは@utail_TL に投げつけてます。 本垢@suzumusi114",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 3923,
+      "friends_count": 182,
+      "listed_count": 79,
+      "favourites_count": 5618,
+      "statuses_count": 3355,
+      "created_at": "Fri Jun 17 05:05:25 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/820529361145053185/XBm5W75e_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/820529361145053185/XBm5W75e_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/743670865145954305/1469703346",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 9,
+    "favorite_count": 25,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058724732055433216,
+          "id_str": "1058724732055433216",
+          "indices": [
+            10,
+            33
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFYiNEVsAA71UY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFYiNEVsAA71UY.jpg",
+          "url": "https://t.co/zQUdQBjqbH",
+          "display_url": "pic.twitter.com/zQUdQBjqbH",
+          "expanded_url": "https://twitter.com/under_sz64/status/1058724764116672512/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1131,
+              "h": 1029,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1131,
+              "h": 1029,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 619,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058724732055433216,
+          "id_str": "1058724732055433216",
+          "indices": [
+            10,
+            33
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFYiNEVsAA71UY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFYiNEVsAA71UY.jpg",
+          "url": "https://t.co/zQUdQBjqbH",
+          "display_url": "pic.twitter.com/zQUdQBjqbH",
+          "expanded_url": "https://twitter.com/under_sz64/status/1058724764116672512/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1131,
+              "h": 1029,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1131,
+              "h": 1029,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 619,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "under_sz64",
+        "name": "すず虫（ＵＴ垢）@冬コミ日曜東2Ｚ34a",
+        "id": 743670865145954305,
+        "id_str": "743670865145954305",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724732055433216,
+        "id_str": "1058724732055433216",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYiNEVsAA71UY.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYiNEVsAA71UY.jpg",
+        "url": "https://t.co/zQUdQBjqbH",
+        "display_url": "pic.twitter.com/zQUdQBjqbH",
+        "expanded_url": "https://twitter.com/under_sz64/status/1058724764116672512/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1131,
+            "h": 1029,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1131,
+            "h": 1029,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 619,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058724764116672512,
+        "source_status_id_str": "1058724764116672512",
+        "source_user_id": 743670865145954305,
+        "source_user_id_str": "743670865145954305"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724732055433216,
+        "id_str": "1058724732055433216",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYiNEVsAA71UY.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYiNEVsAA71UY.jpg",
+        "url": "https://t.co/zQUdQBjqbH",
+        "display_url": "pic.twitter.com/zQUdQBjqbH",
+        "expanded_url": "https://twitter.com/under_sz64/status/1058724764116672512/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1131,
+            "h": 1029,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1131,
+            "h": 1029,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 619,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058724764116672512,
+        "source_status_id_str": "1058724764116672512",
+        "source_user_id": 743670865145954305,
+        "source_user_id_str": "743670865145954305"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254762663"
+}

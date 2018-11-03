@@ -1,0 +1,165 @@
+{
+  "created_at": "Sat Nov 03 14:16:04 +0000 2018",
+  "id": 1058724496033476608,
+  "id_str": "1058724496033476608",
+  "text": "[波形] 23:15 北海道 足寄西、岐阜県 上宝 高山、愛媛県 砥部、秋田県 矢島、青森県 西目屋、千葉県 勝浦東 銚子中、熊本県 小国 波野 (地中) #地震 https://t.co/0v86N24DFS",
+  "display_text_range": [
+    0,
+    81
+  ],
+  "source": "<a href=\"http://kyomoniex.web.fc2.com/\" rel=\"nofollow\">Kyoshin Monitor Extension</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1680484418,
+    "id_str": "1680484418",
+    "name": "地震速報24h",
+    "screen_name": "Jasmine_Eq00",
+    "location": "Japan",
+    "url": "https://goo.gl/txAFmV",
+    "description": "終日運用。波形/緊急地震速報などを提供。統計データ等→https://goo.gl/yujQeN 強震モニタEx,EqWatch等、作者様に感謝。YouTubeLive 24時間配信中→https://goo.gl/txAFmV",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1674,
+    "friends_count": 36,
+    "listed_count": 147,
+    "favourites_count": 0,
+    "statuses_count": 2554857,
+    "created_at": "Sun Aug 18 11:15:59 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_text_color": "362720",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/587686899835240452/ZpJAcuIe_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/587686899835240452/ZpJAcuIe_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680484418/1414414747",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "地震",
+        "indices": [
+          78,
+          81
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724494515200002,
+        "id_str": "1058724494515200002",
+        "indices": [
+          82,
+          105
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYUYKVYAI-xYb.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYUYKVYAI-xYb.jpg",
+        "url": "https://t.co/0v86N24DFS",
+        "display_url": "pic.twitter.com/0v86N24DFS",
+        "expanded_url": "https://twitter.com/Jasmine_Eq00/status/1058724496033476608/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 352,
+            "h": 400,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 352,
+            "h": 400,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 352,
+            "h": 400,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724494515200002,
+        "id_str": "1058724494515200002",
+        "indices": [
+          82,
+          105
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYUYKVYAI-xYb.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYUYKVYAI-xYb.jpg",
+        "url": "https://t.co/0v86N24DFS",
+        "display_url": "pic.twitter.com/0v86N24DFS",
+        "expanded_url": "https://twitter.com/Jasmine_Eq00/status/1058724496033476608/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 352,
+            "h": 400,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 352,
+            "h": 400,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 352,
+            "h": 400,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254564661"
+}

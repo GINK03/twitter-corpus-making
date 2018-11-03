@@ -1,0 +1,537 @@
+{
+  "created_at": "Sat Nov 03 14:14:33 +0000 2018",
+  "id": 1058724114356027394,
+  "id_str": "1058724114356027394",
+  "text": "RT @knf55482265: #KNF\n本日の #KYOTONIPPONFESTIVAL\n如何でしたでしょうか！？\n北野天満宮での催事、「曲水の宴」に出演していただいた #乃木坂46 の\n#秋元真夏 さん #川後陽菜 さん\n#樋口日奈 さんもアート展に遊びに来てくれました！…",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 162652883,
+    "id_str": "162652883",
+    "name": "咎",
+    "screen_name": "togabito4989",
+    "location": null,
+    "url": null,
+    "description": "真夏さん一筋",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 33,
+    "friends_count": 149,
+    "listed_count": 0,
+    "favourites_count": 10583,
+    "statuses_count": 7184,
+    "created_at": "Sun Jul 04 08:55:44 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/784424942251016193/mJ9i6dR7_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/784424942251016193/mJ9i6dR7_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/162652883/1535776399",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 08:50:00 +0000 2018",
+    "id": 1058642439580266496,
+    "id_str": "1058642439580266496",
+    "text": "#KNF\n本日の #KYOTONIPPONFESTIVAL\n如何でしたでしょうか！？\n北野天満宮での催事、「曲水の宴」に出演していただいた #乃木坂46 の\n#秋元真夏 さん #川後陽菜 さん\n#樋口日奈 さんもアート展に遊びに来… https://t.co/5nY2RVgZmi",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 782901522891804672,
+      "id_str": "782901522891804672",
+      "name": "KYOTONIPPONFESTIVAL",
+      "screen_name": "knf55482265",
+      "location": "Kyoto",
+      "url": "http://www.kyotonippon.com",
+      "description": "京都 北野天満宮発、伝統文化とアート・⾷・⾳楽の融合型フェスティバル。  2018年10月6日(土)～12月2日(日) 京都 北野天満宮にて開催。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 7717,
+      "friends_count": 14,
+      "listed_count": 68,
+      "favourites_count": 124,
+      "statuses_count": 608,
+      "created_at": "Mon Oct 03 11:14:03 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "503073",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/910407485781024768/Wsr_bXh7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/910407485781024768/Wsr_bXh7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/782901522891804672/1505893075",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "#KNF\n本日の #KYOTONIPPONFESTIVAL\n如何でしたでしょうか！？\n北野天満宮での催事、「曲水の宴」に出演していただいた #乃木坂46 の\n#秋元真夏 さん #川後陽菜 さん\n#樋口日奈 さんもアート展に遊びに来てくれました！本人たちのメッセージやサインも必見です！\n明日からも是非いらして下さい！ https://t.co/rAM2xCecM3",
+      "display_text_range": [
+        0,
+        158
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "KNF",
+            "indices": [
+              0,
+              4
+            ]
+          },
+          {
+            "text": "KYOTONIPPONFESTIVAL",
+            "indices": [
+              9,
+              29
+            ]
+          },
+          {
+            "text": "乃木坂46",
+            "indices": [
+              70,
+              76
+            ]
+          },
+          {
+            "text": "秋元真夏",
+            "indices": [
+              79,
+              84
+            ]
+          },
+          {
+            "text": "川後陽菜",
+            "indices": [
+              88,
+              93
+            ]
+          },
+          {
+            "text": "樋口日奈",
+            "indices": [
+              97,
+              102
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058642405895761920,
+            "id_str": "1058642405895761920",
+            "indices": [
+              159,
+              182
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrENqMOU8AA58Us.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrENqMOU8AA58Us.jpg",
+            "url": "https://t.co/rAM2xCecM3",
+            "display_url": "pic.twitter.com/rAM2xCecM3",
+            "expanded_url": "https://twitter.com/knf55482265/status/1058642439580266496/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058642405941948417,
+            "id_str": "1058642405941948417",
+            "indices": [
+              159,
+              182
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrENqMZVsAEliaN.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrENqMZVsAEliaN.jpg",
+            "url": "https://t.co/rAM2xCecM3",
+            "display_url": "pic.twitter.com/rAM2xCecM3",
+            "expanded_url": "https://twitter.com/knf55482265/status/1058642439580266496/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058642405908312064,
+            "id_str": "1058642405908312064",
+            "indices": [
+              159,
+              182
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrENqMRUcAAQeFH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrENqMRUcAAQeFH.jpg",
+            "url": "https://t.co/rAM2xCecM3",
+            "display_url": "pic.twitter.com/rAM2xCecM3",
+            "expanded_url": "https://twitter.com/knf55482265/status/1058642439580266496/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058642405895761920,
+            "id_str": "1058642405895761920",
+            "indices": [
+              159,
+              182
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrENqMOU8AA58Us.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrENqMOU8AA58Us.jpg",
+            "url": "https://t.co/rAM2xCecM3",
+            "display_url": "pic.twitter.com/rAM2xCecM3",
+            "expanded_url": "https://twitter.com/knf55482265/status/1058642439580266496/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058642405941948417,
+            "id_str": "1058642405941948417",
+            "indices": [
+              159,
+              182
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrENqMZVsAEliaN.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrENqMZVsAEliaN.jpg",
+            "url": "https://t.co/rAM2xCecM3",
+            "display_url": "pic.twitter.com/rAM2xCecM3",
+            "expanded_url": "https://twitter.com/knf55482265/status/1058642439580266496/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058642405908312064,
+            "id_str": "1058642405908312064",
+            "indices": [
+              159,
+              182
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrENqMRUcAAQeFH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrENqMRUcAAQeFH.jpg",
+            "url": "https://t.co/rAM2xCecM3",
+            "display_url": "pic.twitter.com/rAM2xCecM3",
+            "expanded_url": "https://twitter.com/knf55482265/status/1058642439580266496/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 10,
+    "reply_count": 0,
+    "retweet_count": 175,
+    "favorite_count": 691,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "KNF",
+          "indices": [
+            0,
+            4
+          ]
+        },
+        {
+          "text": "KYOTONIPPONFESTIVAL",
+          "indices": [
+            9,
+            29
+          ]
+        },
+        {
+          "text": "乃木坂46",
+          "indices": [
+            70,
+            76
+          ]
+        },
+        {
+          "text": "秋元真夏",
+          "indices": [
+            79,
+            84
+          ]
+        },
+        {
+          "text": "川後陽菜",
+          "indices": [
+            88,
+            93
+          ]
+        },
+        {
+          "text": "樋口日奈",
+          "indices": [
+            97,
+            102
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5nY2RVgZmi",
+          "expanded_url": "https://twitter.com/i/web/status/1058642439580266496",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "KNF",
+        "indices": [
+          17,
+          21
+        ]
+      },
+      {
+        "text": "KYOTONIPPONFESTIVAL",
+        "indices": [
+          26,
+          46
+        ]
+      },
+      {
+        "text": "乃木坂46",
+        "indices": [
+          87,
+          93
+        ]
+      },
+      {
+        "text": "秋元真夏",
+        "indices": [
+          96,
+          101
+        ]
+      },
+      {
+        "text": "川後陽菜",
+        "indices": [
+          105,
+          110
+        ]
+      },
+      {
+        "text": "樋口日奈",
+        "indices": [
+          114,
+          119
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "knf55482265",
+        "name": "KYOTONIPPONFESTIVAL",
+        "id": 782901522891804672,
+        "id_str": "782901522891804672",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254473662"
+}

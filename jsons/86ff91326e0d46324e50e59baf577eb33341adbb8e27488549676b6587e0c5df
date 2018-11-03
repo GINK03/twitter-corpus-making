@@ -1,0 +1,396 @@
+{
+  "created_at": "Sat Nov 03 14:21:38 +0000 2018",
+  "id": 1058725896939495426,
+  "id_str": "1058725896939495426",
+  "text": "RT @kinkyunoyuyuta: 熱き決闘者たち https://t.co/mN9bOucjcx",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 805382463811829760,
+    "id_str": "805382463811829760",
+    "name": "白金デス子",
+    "screen_name": "pt_desuko",
+    "location": "幻想郷どこ？ここ？",
+    "url": "https://peing.net/ja/pt_desuko?event=6&event=6",
+    "description": "パーフェクト健全/誰が見ても健全/健全/先祖代々健全/健全の王/私以上の健全は居ない\nスナイパー/コミュニオン信者\nジーナさんは良いぞ……！\n#FGO飯テロ部",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1122,
+    "friends_count": 1196,
+    "listed_count": 23,
+    "favourites_count": 12130,
+    "statuses_count": 14966,
+    "created_at": "Sun Dec 04 12:05:17 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1054304315014184962/DafHOlX5_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054304315014184962/DafHOlX5_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/805382463811829760/1537191054",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Oct 30 13:31:30 +0000 2018",
+    "id": 1057263726951198721,
+    "id_str": "1057263726951198721",
+    "text": "熱き決闘者たち https://t.co/mN9bOucjcx",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1026033963603714048,
+      "id_str": "1026033963603714048",
+      "name": "ゆゆうた",
+      "screen_name": "kinkyunoyuyuta",
+      "location": "日本 東京",
+      "url": null,
+      "description": "三度目の正直",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 181863,
+      "friends_count": 608,
+      "listed_count": 438,
+      "favourites_count": 0,
+      "statuses_count": 398,
+      "created_at": "Sun Aug 05 09:15:34 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1056216384760233984/7p67_ATh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056216384760233984/7p67_ATh_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1026033963603714048/1533631250",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 974,
+    "reply_count": 544,
+    "retweet_count": 61083,
+    "favorite_count": 135829,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1057263341066846209,
+          "id_str": "1057263341066846209",
+          "indices": [
+            8,
+            31
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057263341066846209/pu/img/7yOpBZg5FFqL8Pgv.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057263341066846209/pu/img/7yOpBZg5FFqL8Pgv.jpg",
+          "url": "https://t.co/mN9bOucjcx",
+          "display_url": "pic.twitter.com/mN9bOucjcx",
+          "expanded_url": "https://twitter.com/kinkyunoyuyuta/status/1057263726951198721/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1057263341066846209,
+          "id_str": "1057263341066846209",
+          "indices": [
+            8,
+            31
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057263341066846209/pu/img/7yOpBZg5FFqL8Pgv.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057263341066846209/pu/img/7yOpBZg5FFqL8Pgv.jpg",
+          "url": "https://t.co/mN9bOucjcx",
+          "display_url": "pic.twitter.com/mN9bOucjcx",
+          "expanded_url": "https://twitter.com/kinkyunoyuyuta/status/1057263726951198721/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 80768,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1057263341066846209/pu/vid/640x360/KVB2XzWH9rT-aAT-.mp4?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1057263341066846209/pu/vid/320x180/dFSRgnra3vRXLSsr.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1057263341066846209/pu/vid/1280x720/W6_Be4CdsedJbQlJ.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1057263341066846209/pu/pl/6YOoyBvb6NV0ddYk.m3u8?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "kinkyunoyuyuta",
+        "name": "ゆゆうた",
+        "id": 1026033963603714048,
+        "id_str": "1026033963603714048",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1057263341066846209,
+        "id_str": "1057263341066846209",
+        "indices": [
+          28,
+          51
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057263341066846209/pu/img/7yOpBZg5FFqL8Pgv.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057263341066846209/pu/img/7yOpBZg5FFqL8Pgv.jpg",
+        "url": "https://t.co/mN9bOucjcx",
+        "display_url": "pic.twitter.com/mN9bOucjcx",
+        "expanded_url": "https://twitter.com/kinkyunoyuyuta/status/1057263726951198721/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057263726951198721,
+        "source_status_id_str": "1057263726951198721",
+        "source_user_id": 1026033963603714048,
+        "source_user_id_str": "1026033963603714048"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1057263341066846209,
+        "id_str": "1057263341066846209",
+        "indices": [
+          28,
+          51
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057263341066846209/pu/img/7yOpBZg5FFqL8Pgv.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057263341066846209/pu/img/7yOpBZg5FFqL8Pgv.jpg",
+        "url": "https://t.co/mN9bOucjcx",
+        "display_url": "pic.twitter.com/mN9bOucjcx",
+        "expanded_url": "https://twitter.com/kinkyunoyuyuta/status/1057263726951198721/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 80768,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1057263341066846209/pu/vid/640x360/KVB2XzWH9rT-aAT-.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1057263341066846209/pu/vid/320x180/dFSRgnra3vRXLSsr.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1057263341066846209/pu/vid/1280x720/W6_Be4CdsedJbQlJ.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1057263341066846209/pu/pl/6YOoyBvb6NV0ddYk.m3u8?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057263726951198721,
+        "source_status_id_str": "1057263726951198721",
+        "source_user_id": 1026033963603714048,
+        "source_user_id_str": "1026033963603714048"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254898663"
+}

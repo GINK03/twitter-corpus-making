@@ -1,0 +1,186 @@
+{
+  "created_at": "Sat Nov 03 14:14:33 +0000 2018",
+  "id": 1058724114368610304,
+  "id_str": "1058724114368610304",
+  "text": "気に入ってくれたらRT♪◔̯◔\n下から(*∩ω∩*)\nよっぱぴーーー🌱\nリクエストがあったからリアルタイムの生脚載せちゃいまー(*∩ω∩*)\nしちゃう~⁉️⁉️ｗ｡.ʚ https://t.co/1ZLQRRFatV",
+  "display_text_range": [
+    0,
+    84
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1057563401516240896,
+    "id_str": "1057563401516240896",
+    "name": "裏垢女子🌸つばき",
+    "screen_name": "savannahMyV",
+    "location": null,
+    "url": null,
+    "description": "合法ロリと一度だけ言われたことがある(´^ω^｀)ﾜﾛﾁ自発でお迎えっ！☺️雰囲気で生きてる▷いちごみるく買ってくれたらすぐ好きになるよ(*^^*)れずさんも仲良くしましょっ((o(*ω*)o))M子( ∩ˇωˇ∩)こんな私にお仕置きしてください(*´艸｀*)",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 13,
+    "friends_count": 144,
+    "listed_count": 0,
+    "favourites_count": 15,
+    "statuses_count": 50,
+    "created_at": "Wed Oct 31 09:22:18 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1057995076851326977/fQgYbwIf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057995076851326977/fQgYbwIf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1057563401516240896/1541080664",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724069833498624,
+        "id_str": "1058724069833498624",
+        "indices": [
+          85,
+          108
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058724069833498624/pu/img/2j2YaxXpX2_lY7ew.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058724069833498624/pu/img/2j2YaxXpX2_lY7ew.jpg",
+        "url": "https://t.co/1ZLQRRFatV",
+        "display_url": "pic.twitter.com/1ZLQRRFatV",
+        "expanded_url": "https://twitter.com/savannahMyV/status/1058724114368610304/video/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 480,
+            "h": 480,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 480,
+            "h": 480,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 480,
+            "h": 480,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724069833498624,
+        "id_str": "1058724069833498624",
+        "indices": [
+          85,
+          108
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058724069833498624/pu/img/2j2YaxXpX2_lY7ew.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058724069833498624/pu/img/2j2YaxXpX2_lY7ew.jpg",
+        "url": "https://t.co/1ZLQRRFatV",
+        "display_url": "pic.twitter.com/1ZLQRRFatV",
+        "expanded_url": "https://twitter.com/savannahMyV/status/1058724114368610304/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 43645,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058724069833498624/pu/vid/480x480/NUDAHeLzl51yEzn_.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058724069833498624/pu/pl/ChMhyvHb4E4Bb7C2.m3u8?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058724069833498624/pu/vid/240x240/33hWd--Rtbzbo5gu.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "small": {
+            "w": 480,
+            "h": 480,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 480,
+            "h": 480,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 480,
+            "h": 480,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254473665"
+}

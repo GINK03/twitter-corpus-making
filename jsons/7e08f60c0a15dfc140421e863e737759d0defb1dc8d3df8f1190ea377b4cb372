@@ -1,0 +1,191 @@
+{
+  "created_at": "Sat Nov 03 14:15:38 +0000 2018",
+  "id": 1058724386990055424,
+  "id_str": "1058724386990055424",
+  "text": "石川くんだー https://t.co/UEqEnECUvS",
+  "display_text_range": [
+    0,
+    6
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 189450965,
+    "id_str": "189450965",
+    "name": "¹¼",
+    "screen_name": "choi11040626",
+    "location": "VIP",
+    "url": null,
+    "description": "그리 길지는 않을 테니...",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 360,
+    "friends_count": 258,
+    "listed_count": 2,
+    "favourites_count": 6706,
+    "statuses_count": 42689,
+    "created_at": "Sat Sep 11 08:36:42 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/853826454408146944/dVC1vzN2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/853826454408146944/dVC1vzN2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/189450965/1529132848",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724313212186625,
+        "id_str": "1058724313212186625",
+        "indices": [
+          7,
+          30
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058724313212186625/pu/img/lFZODIv0eUAiHtxv.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058724313212186625/pu/img/lFZODIv0eUAiHtxv.jpg",
+        "url": "https://t.co/UEqEnECUvS",
+        "display_url": "pic.twitter.com/UEqEnECUvS",
+        "expanded_url": "https://twitter.com/choi11040626/status/1058724386990055424/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724313212186625,
+        "id_str": "1058724313212186625",
+        "indices": [
+          7,
+          30
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058724313212186625/pu/img/lFZODIv0eUAiHtxv.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058724313212186625/pu/img/lFZODIv0eUAiHtxv.jpg",
+        "url": "https://t.co/UEqEnECUvS",
+        "display_url": "pic.twitter.com/UEqEnECUvS",
+        "expanded_url": "https://twitter.com/choi11040626/status/1058724386990055424/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 8518,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058724313212186625/pu/vid/180x320/K4FyLgzfDRj1LMMs.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058724313212186625/pu/vid/720x1280/aHKu8ycPfK5jqjOC.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058724313212186625/pu/pl/WHnqN0a1Wo7Ckyb_.m3u8?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058724313212186625/pu/vid/360x640/88eBjRZOT9SB7E2e.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254538663"
+}

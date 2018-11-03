@@ -1,0 +1,390 @@
+{
+  "created_at": "Sat Nov 03 14:26:30 +0000 2018",
+  "id": 1058727121684652032,
+  "id_str": "1058727121684652032",
+  "text": "RT @kinbakumato11: GACKT &amp; 鬼龍院翔\n「オレンジの太陽」\n https://t.co/01sufsIscA",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 780718562633666560,
+    "id_str": "780718562633666560",
+    "name": "つなかん",
+    "screen_name": "can_yukibear",
+    "location": "日本 横浜",
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 26,
+    "friends_count": 47,
+    "listed_count": 0,
+    "favourites_count": 7010,
+    "statuses_count": 1924,
+    "created_at": "Tue Sep 27 10:39:45 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/964472203679956992/17NYaXq2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/964472203679956992/17NYaXq2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/780718562633666560/1523168815",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:08:06 +0000 2018",
+    "id": 1058722491076554752,
+    "id_str": "1058722491076554752",
+    "text": "GACKT &amp; 鬼龍院翔\n「オレンジの太陽」\n https://t.co/01sufsIscA",
+    "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 766628682932695042,
+      "id_str": "766628682932695042",
+      "name": "ゴールデンボンバーch",
+      "screen_name": "kinbakumato11",
+      "location": null,
+      "url": null,
+      "description": "ゴールデンボンバーの動画をアップしていきます。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 4750,
+      "friends_count": 3016,
+      "listed_count": 20,
+      "favourites_count": 1,
+      "statuses_count": 1519,
+      "created_at": "Fri Aug 19 13:31:36 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/766634667260862464/x91xCYyu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/766634667260862464/x91xCYyu_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/766628682932695042/1471614924",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 806064951156555776,
+          "id_str": "806064951156555776",
+          "indices": [
+            28,
+            51
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/806064951156555776/pu/img/Vwy-oSyT9FD5jTtj.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/806064951156555776/pu/img/Vwy-oSyT9FD5jTtj.jpg",
+          "url": "https://t.co/01sufsIscA",
+          "display_url": "pic.twitter.com/01sufsIscA",
+          "expanded_url": "https://twitter.com/kinbakumato11/status/806065197995565056/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 806065197995565056,
+          "source_status_id_str": "806065197995565056",
+          "source_user_id": 766628682932695042,
+          "source_user_id_str": "766628682932695042"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 806064951156555776,
+          "id_str": "806064951156555776",
+          "indices": [
+            28,
+            51
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/806064951156555776/pu/img/Vwy-oSyT9FD5jTtj.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/806064951156555776/pu/img/Vwy-oSyT9FD5jTtj.jpg",
+          "url": "https://t.co/01sufsIscA",
+          "display_url": "pic.twitter.com/01sufsIscA",
+          "expanded_url": "https://twitter.com/kinbakumato11/status/806065197995565056/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 140000,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/806064951156555776/pu/pl/TuhPN6dXdE5LK9ar.m3u8"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/806064951156555776/pu/vid/320x180/0rK2t7E0pSK2z_O9.mp4"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/806064951156555776/pu/vid/640x360/fMRcwdk-3gRSrxy7.mp4"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 806065197995565056,
+          "source_status_id_str": "806065197995565056",
+          "source_user_id": 766628682932695042,
+          "source_user_id_str": "766628682932695042"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "kinbakumato11",
+        "name": "ゴールデンボンバーch",
+        "id": 766628682932695042,
+        "id_str": "766628682932695042",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 806064951156555776,
+        "id_str": "806064951156555776",
+        "indices": [
+          47,
+          70
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/806064951156555776/pu/img/Vwy-oSyT9FD5jTtj.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/806064951156555776/pu/img/Vwy-oSyT9FD5jTtj.jpg",
+        "url": "https://t.co/01sufsIscA",
+        "display_url": "pic.twitter.com/01sufsIscA",
+        "expanded_url": "https://twitter.com/kinbakumato11/status/806065197995565056/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 960,
+            "h": 540,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 960,
+            "h": 540,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 806065197995565056,
+        "source_status_id_str": "806065197995565056",
+        "source_user_id": 766628682932695042,
+        "source_user_id_str": "766628682932695042"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 806064951156555776,
+        "id_str": "806064951156555776",
+        "indices": [
+          47,
+          70
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/806064951156555776/pu/img/Vwy-oSyT9FD5jTtj.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/806064951156555776/pu/img/Vwy-oSyT9FD5jTtj.jpg",
+        "url": "https://t.co/01sufsIscA",
+        "display_url": "pic.twitter.com/01sufsIscA",
+        "expanded_url": "https://twitter.com/kinbakumato11/status/806065197995565056/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 140000,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/806064951156555776/pu/pl/TuhPN6dXdE5LK9ar.m3u8"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/806064951156555776/pu/vid/320x180/0rK2t7E0pSK2z_O9.mp4"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/806064951156555776/pu/vid/640x360/fMRcwdk-3gRSrxy7.mp4"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 960,
+            "h": 540,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 960,
+            "h": 540,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 806065197995565056,
+        "source_status_id_str": "806065197995565056",
+        "source_user_id": 766628682932695042,
+        "source_user_id_str": "766628682932695042"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255190665"
+}

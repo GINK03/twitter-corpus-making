@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:14:02 +0000 2018",
+  "id": 1058723984315965440,
+  "id_str": "1058723984315965440",
+  "text": "RT @lets_go_dustbox: [Starry-Go-Round] 橘ありす https://t.co/yMK966xObT",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1536679698,
+    "id_str": "1536679698",
+    "name": "TDub",
+    "screen_name": "forthosewholaze",
+    "location": "Accursed",
+    "url": null,
+    "description": "Takagaki Kaede, Idolmaster, Tech, Kendo, Airsoft, and common weeb trash.\nAin't no party like a Squad Jam Party",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 427,
+    "friends_count": 3656,
+    "listed_count": 20,
+    "favourites_count": 103913,
+    "statuses_count": 119878,
+    "created_at": "Fri Jun 21 15:05:47 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/524928314998140929/kVSaXHxP_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/524928314998140929/kVSaXHxP_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536679698/1535316758",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 10:52:56 +0000 2018",
+    "id": 1058673374568767488,
+    "id_str": "1058673374568767488",
+    "text": "[Starry-Go-Round] 橘ありす https://t.co/yMK966xObT",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 701679637215055873,
+      "id_str": "701679637215055873",
+      "name": "可燃物P@3日目ユ-11b",
+      "screen_name": "lets_go_dustbox",
+      "location": "千葉",
+      "url": "http://touch.pixiv.net/member.php?id=2211659",
+      "description": "橘ありす担当のCoP・765では雪歩P |女の子の髪と脚を塗るのが好き。6thメラド2日目現地で成仏予定",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 4562,
+      "friends_count": 334,
+      "listed_count": 131,
+      "favourites_count": 5405,
+      "statuses_count": 5788,
+      "created_at": "Mon Feb 22 08:07:16 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024664827887673346/miVqaZ6X_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024664827887673346/miVqaZ6X_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/701679637215055873/1539096450",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 4,
+    "reply_count": 2,
+    "retweet_count": 414,
+    "favorite_count": 887,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058673363692863490,
+          "id_str": "1058673363692863490",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrEp0LAUwAIv89R.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrEp0LAUwAIv89R.jpg",
+          "url": "https://t.co/yMK966xObT",
+          "display_url": "pic.twitter.com/yMK966xObT",
+          "expanded_url": "https://twitter.com/lets_go_dustbox/status/1058673374568767488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 589,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1039,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1456,
+              "h": 1681,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058673363692863490,
+          "id_str": "1058673363692863490",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrEp0LAUwAIv89R.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrEp0LAUwAIv89R.jpg",
+          "url": "https://t.co/yMK966xObT",
+          "display_url": "pic.twitter.com/yMK966xObT",
+          "expanded_url": "https://twitter.com/lets_go_dustbox/status/1058673374568767488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 589,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1039,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1456,
+              "h": 1681,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "lets_go_dustbox",
+        "name": "可燃物P@3日目ユ-11b",
+        "id": 701679637215055873,
+        "id_str": "701679637215055873",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058673363692863490,
+        "id_str": "1058673363692863490",
+        "indices": [
+          44,
+          67
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrEp0LAUwAIv89R.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrEp0LAUwAIv89R.jpg",
+        "url": "https://t.co/yMK966xObT",
+        "display_url": "pic.twitter.com/yMK966xObT",
+        "expanded_url": "https://twitter.com/lets_go_dustbox/status/1058673374568767488/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 589,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1039,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1456,
+            "h": 1681,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058673374568767488,
+        "source_status_id_str": "1058673374568767488",
+        "source_user_id": 701679637215055873,
+        "source_user_id_str": "701679637215055873"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058673363692863490,
+        "id_str": "1058673363692863490",
+        "indices": [
+          44,
+          67
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrEp0LAUwAIv89R.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrEp0LAUwAIv89R.jpg",
+        "url": "https://t.co/yMK966xObT",
+        "display_url": "pic.twitter.com/yMK966xObT",
+        "expanded_url": "https://twitter.com/lets_go_dustbox/status/1058673374568767488/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 589,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1039,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1456,
+            "h": 1681,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058673374568767488,
+        "source_status_id_str": "1058673374568767488",
+        "source_user_id": 701679637215055873,
+        "source_user_id_str": "701679637215055873"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254442658"
+}

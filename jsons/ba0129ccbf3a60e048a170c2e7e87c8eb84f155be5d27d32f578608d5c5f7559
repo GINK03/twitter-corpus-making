@@ -1,0 +1,157 @@
+{
+  "created_at": "Sat Nov 03 14:16:00 +0000 2018",
+  "id": 1058724479256289281,
+  "id_str": "1058724479256289281",
+  "text": "某年夏、数百年おきに発生するリフレクターと原種との戦いが、また始まる。\n「これからよろしくね」 https://t.co/cXJ0f8tTEC",
+  "display_text_range": [
+    0,
+    47
+  ],
+  "source": "<a href=\"http://www.playstation.com\" rel=\"nofollow\">PlayStation(R)4</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 700662564015861760,
+    "id_str": "700662564015861760",
+    "name": "マキ",
+    "screen_name": "Lizha_Maki",
+    "location": "実は神奈川県以外は既に滅びている",
+    "url": null,
+    "description": "蒼天のイシュガルドとまどマギと百合が大好きな人。\nネタバレツイート常習犯。\n最近は「やがて君になる」が大好きでそれ関連のツイートしかしてない。\n少女の泣き顔とかも好き。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 118,
+    "friends_count": 784,
+    "listed_count": 3,
+    "favourites_count": 19654,
+    "statuses_count": 26330,
+    "created_at": "Fri Feb 19 12:45:47 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/889385017830285317/_MCmzwx6_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/889385017830285317/_MCmzwx6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/700662564015861760/1500015109",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724477054332928,
+        "id_str": "1058724477054332928",
+        "indices": [
+          48,
+          71
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYTXHVsAAqgYN.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYTXHVsAAqgYN.jpg",
+        "url": "https://t.co/cXJ0f8tTEC",
+        "display_url": "pic.twitter.com/cXJ0f8tTEC",
+        "expanded_url": "https://twitter.com/Lizha_Maki/status/1058724479256289281/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724477054332928,
+        "id_str": "1058724477054332928",
+        "indices": [
+          48,
+          71
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYTXHVsAAqgYN.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYTXHVsAAqgYN.jpg",
+        "url": "https://t.co/cXJ0f8tTEC",
+        "display_url": "pic.twitter.com/cXJ0f8tTEC",
+        "expanded_url": "https://twitter.com/Lizha_Maki/status/1058724479256289281/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254560661"
+}

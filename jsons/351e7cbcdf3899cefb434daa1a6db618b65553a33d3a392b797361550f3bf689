@@ -1,0 +1,100 @@
+{
+  "created_at": "Sat Nov 03 14:01:45 +0000 2018",
+  "id": 1058720893902381056,
+  "id_str": "1058720893902381056",
+  "text": "ひろ@fgoの質問箱です https://t.co/dEt6yKLarT #質問箱 #peing",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1897148282,
+    "id_str": "1897148282",
+    "name": "ひろ@fgo",
+    "screen_name": "gearfulcrum",
+    "location": "たぬきがちらほらいる田んぼ",
+    "url": null,
+    "description": "さくら国際卒 大宮子ども専門学校co1d→co2a →co3c 卒業 現在どこぞで施設長やっちゃってるよ #オタク だし #ゲーマー だし面倒くさがりだしけれどもなんとか生きてます  #fgo",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 242,
+    "friends_count": 276,
+    "listed_count": 0,
+    "favourites_count": 1527,
+    "statuses_count": 9633,
+    "created_at": "Mon Sep 23 12:20:00 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1028989867189911553/THVrnPod_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028989867189911553/THVrnPod_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897148282/1536344424",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "質問箱",
+        "indices": [
+          37,
+          41
+        ]
+      },
+      {
+        "text": "peing",
+        "indices": [
+          42,
+          48
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/dEt6yKLarT",
+        "expanded_url": "https://peing.net/ja/gearfulcrum",
+        "display_url": "peing.net/ja/gearfulcrum",
+        "indices": [
+          13,
+          36
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253705846"
+}

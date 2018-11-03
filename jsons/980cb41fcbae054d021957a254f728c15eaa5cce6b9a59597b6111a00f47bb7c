@@ -1,0 +1,166 @@
+{
+  "created_at": "Sat Nov 03 14:26:47 +0000 2018",
+  "id": 1058727192958525441,
+  "id_str": "1058727192958525441",
+  "text": "「本を読みまくっても頭は良くならない」研究結果にネット民「当たり前やろ」「大人でも同じ」 https://t.co/KIFLUAx2l4 https://t.co/bbgYqCTXcs",
+  "display_text_range": [
+    0,
+    68
+  ],
+  "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 821671597127901188,
+    "id_str": "821671597127901188",
+    "name": "ゲームまとめアンテナ",
+    "screen_name": "gameantennadayo",
+    "location": "あっちのほう",
+    "url": null,
+    "description": "まとめサイトを運営していますよ。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2416,
+    "friends_count": 2516,
+    "listed_count": 1,
+    "favourites_count": 0,
+    "statuses_count": 136196,
+    "created_at": "Wed Jan 18 10:52:29 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/848117356039516160/SmDb4uED_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/848117356039516160/SmDb4uED_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/KIFLUAx2l4",
+        "expanded_url": "https://gametena.com/2018/11/03/%e3%80%8c%e6%9c%ac%e3%82%92%e8%aa%ad%e3%81%bf%e3%81%be%e3%81%8f%e3%81%a3%e3%81%a6%e3%82%82%e9%a0%ad%e3%81%af%e8%89%af%e3%81%8f%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84%e3%80%8d%e7%a0%94%e7%a9%b6%e7%b5%90/",
+        "display_url": "gametena.com/2018/11/03/%e3…",
+        "indices": [
+          45,
+          68
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058727191360368641,
+        "id_str": "1058727191360368641",
+        "indices": [
+          69,
+          92
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaxWsU8AEZPbf.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaxWsU8AEZPbf.jpg",
+        "url": "https://t.co/bbgYqCTXcs",
+        "display_url": "pic.twitter.com/bbgYqCTXcs",
+        "expanded_url": "https://twitter.com/gameantennadayo/status/1058727192958525441/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 495,
+            "h": 240,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 495,
+            "h": 240,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 495,
+            "h": 240,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058727191360368641,
+        "id_str": "1058727191360368641",
+        "indices": [
+          69,
+          92
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaxWsU8AEZPbf.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaxWsU8AEZPbf.jpg",
+        "url": "https://t.co/bbgYqCTXcs",
+        "display_url": "pic.twitter.com/bbgYqCTXcs",
+        "expanded_url": "https://twitter.com/gameantennadayo/status/1058727192958525441/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 495,
+            "h": 240,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 495,
+            "h": 240,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 495,
+            "h": 240,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255207658"
+}

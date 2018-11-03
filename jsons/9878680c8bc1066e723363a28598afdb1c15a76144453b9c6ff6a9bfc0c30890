@@ -1,0 +1,404 @@
+{
+  "created_at": "Sat Nov 03 14:22:35 +0000 2018",
+  "id": 1058726135989592064,
+  "id_str": "1058726135989592064",
+  "text": "RT @futaitenbunko: 将太の寿司を読み終えたんで原作の味っ子にチャレンジしてるんですけど、話には聞いていた原作版丼兄弟、やばいですね。 https://t.co/BH6PKLuzNb",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 145649530,
+    "id_str": "145649530",
+    "name": "AR",
+    "screen_name": "A_R_S_3",
+    "location": null,
+    "url": null,
+    "description": "スタジオ非対応端末",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 439,
+    "friends_count": 763,
+    "listed_count": 22,
+    "favourites_count": 126,
+    "statuses_count": 140487,
+    "created_at": "Wed May 19 13:51:41 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1049249328026419201/R2V7FmXL_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1049249328026419201/R2V7FmXL_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/145649530/1430042376",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:00:22 +0000 2018",
+    "id": 1058720544881659904,
+    "id_str": "1058720544881659904",
+    "text": "将太の寿司を読み終えたんで原作の味っ子にチャレンジしてるんですけど、話には聞いていた原作版丼兄弟、やばいですね。 https://t.co/BH6PKLuzNb",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 95130578,
+      "id_str": "95130578",
+      "name": "ぶらり路上プロレSWA",
+      "screen_name": "futaitenbunko",
+      "location": "新東京番外地",
+      "url": "http://mixi.jp/show_profile.pl?id=755115",
+      "description": "特撮と黒の長髪とチャンピオン好き。面白ければ何でも平らげます。たぶん。最近はリリカルマジカルな方向にも理解を示しています（特にナカジマ家３女）が基本的にヨゴレ路線で美少女よりも怪獣怪人ですのでご了承ください。それはさておきぶらり路上プロレスで一番好きなのはディーノのキスや地獄門からの失神ムーブをこなす博多大吉です。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1570,
+      "friends_count": 1161,
+      "listed_count": 98,
+      "favourites_count": 17527,
+      "statuses_count": 577322,
+      "created_at": "Mon Dec 07 03:52:34 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/751011359249215488/am_d86B7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/751011359249215488/am_d86B7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/95130578/1514650131",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058720205579345920,
+          "id_str": "1058720205579345920",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFUauoV4AAtz2r.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFUauoV4AAtz2r.jpg",
+          "url": "https://t.co/BH6PKLuzNb",
+          "display_url": "pic.twitter.com/BH6PKLuzNb",
+          "expanded_url": "https://twitter.com/futaitenbunko/status/1058720544881659904/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 558,
+              "h": 819,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 558,
+              "h": 819,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 463,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058720205579345920,
+          "id_str": "1058720205579345920",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFUauoV4AAtz2r.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFUauoV4AAtz2r.jpg",
+          "url": "https://t.co/BH6PKLuzNb",
+          "display_url": "pic.twitter.com/BH6PKLuzNb",
+          "expanded_url": "https://twitter.com/futaitenbunko/status/1058720544881659904/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 558,
+              "h": 819,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 558,
+              "h": 819,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 463,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058720224369766402,
+          "id_str": "1058720224369766402",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFUb0oU8AIGCuK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFUb0oU8AIGCuK.jpg",
+          "url": "https://t.co/BH6PKLuzNb",
+          "display_url": "pic.twitter.com/BH6PKLuzNb",
+          "expanded_url": "https://twitter.com/futaitenbunko/status/1058720544881659904/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 560,
+              "h": 875,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 560,
+              "h": 875,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 435,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "futaitenbunko",
+        "name": "ぶらり路上プロレSWA",
+        "id": 95130578,
+        "id_str": "95130578",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058720205579345920,
+        "id_str": "1058720205579345920",
+        "indices": [
+          76,
+          99
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFUauoV4AAtz2r.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFUauoV4AAtz2r.jpg",
+        "url": "https://t.co/BH6PKLuzNb",
+        "display_url": "pic.twitter.com/BH6PKLuzNb",
+        "expanded_url": "https://twitter.com/futaitenbunko/status/1058720544881659904/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 558,
+            "h": 819,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 558,
+            "h": 819,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 463,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058720544881659904,
+        "source_status_id_str": "1058720544881659904",
+        "source_user_id": 95130578,
+        "source_user_id_str": "95130578"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058720205579345920,
+        "id_str": "1058720205579345920",
+        "indices": [
+          76,
+          99
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFUauoV4AAtz2r.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFUauoV4AAtz2r.jpg",
+        "url": "https://t.co/BH6PKLuzNb",
+        "display_url": "pic.twitter.com/BH6PKLuzNb",
+        "expanded_url": "https://twitter.com/futaitenbunko/status/1058720544881659904/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 558,
+            "h": 819,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 558,
+            "h": 819,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 463,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058720544881659904,
+        "source_status_id_str": "1058720544881659904",
+        "source_user_id": 95130578,
+        "source_user_id_str": "95130578"
+      },
+      {
+        "id": 1058720224369766402,
+        "id_str": "1058720224369766402",
+        "indices": [
+          76,
+          99
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFUb0oU8AIGCuK.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFUb0oU8AIGCuK.jpg",
+        "url": "https://t.co/BH6PKLuzNb",
+        "display_url": "pic.twitter.com/BH6PKLuzNb",
+        "expanded_url": "https://twitter.com/futaitenbunko/status/1058720544881659904/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 560,
+            "h": 875,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 560,
+            "h": 875,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 435,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058720544881659904,
+        "source_status_id_str": "1058720544881659904",
+        "source_user_id": 95130578,
+        "source_user_id_str": "95130578"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254955657"
+}

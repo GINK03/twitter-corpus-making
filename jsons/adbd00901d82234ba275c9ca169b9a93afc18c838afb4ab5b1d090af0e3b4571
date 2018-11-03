@@ -1,0 +1,496 @@
+{
+  "created_at": "Sat Nov 03 14:14:41 +0000 2018",
+  "id": 1058724147906338816,
+  "id_str": "1058724147906338816",
+  "text": "RT @junkudo_net: 23時を回ってかなり落ち着いてきました。住人の皆さん、読書に集中しています。\n#丸善ジュンク堂に住んでみる2018 https://t.co/yIQum9w2FW",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2998919719,
+    "id_str": "2998919719",
+    "name": "PHP衆知 公式WEB 🌀",
+    "screen_name": "PHP_shuchi",
+    "location": "東京都江東区豊洲",
+    "url": "https://shuchi.php.co.jp/",
+    "description": "ＰＨＰ研究所の公式WEBメディア「ＰＨＰオンライン衆知」の新着＆注目記事をお届け。衆知を集めて仕事と人生を応援します。他社の公式さんみたいに、おもしろいことはつぶやけません。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 4804,
+    "friends_count": 3606,
+    "listed_count": 66,
+    "favourites_count": 16101,
+    "statuses_count": 33276,
+    "created_at": "Wed Jan 28 02:33:09 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "3B94D9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "91D2FA",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1057773469184618497/kq40jMVx_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057773469184618497/kq40jMVx_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2998919719/1539451212",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:11:32 +0000 2018",
+    "id": 1058723355040264193,
+    "id_str": "1058723355040264193",
+    "text": "23時を回ってかなり落ち着いてきました。住人の皆さん、読書に集中しています。\n#丸善ジュンク堂に住んでみる2018 https://t.co/yIQum9w2FW",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 62215949,
+      "id_str": "62215949",
+      "name": "丸善ジュンク堂書店劇場@秋の読書キャンペ",
+      "screen_name": "junkudo_net",
+      "location": "東京都新宿区",
+      "url": "http://www.maruzenjunkudo.co.jp/",
+      "description": "丸善ジュンク堂書店のアカウントです。 公式アカウント(@maruzeninfo)とは違う切り口で、本や書店の面白さ、楽しさをお伝えすべく運用しています。 ※当アカウントではお問い合わせへのお返事ができない場合がございます。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 36887,
+      "friends_count": 3535,
+      "listed_count": 1728,
+      "favourites_count": 95,
+      "statuses_count": 43675,
+      "created_at": "Sun Aug 02 06:57:16 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "98D1D1",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "015A61",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DCF5EF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1058658841552809985/UImvczCN_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058658841552809985/UImvczCN_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/62215949/1541238910",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 10,
+    "favorite_count": 8,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "丸善ジュンク堂に住んでみる2018",
+          "indices": [
+            39,
+            57
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058723090291552256,
+          "id_str": "1058723090291552256",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFXCpBU8AAUZal.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFXCpBU8AAUZal.jpg",
+          "url": "https://t.co/yIQum9w2FW",
+          "display_url": "pic.twitter.com/yIQum9w2FW",
+          "expanded_url": "https://twitter.com/junkudo_net/status/1058723355040264193/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 608,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1830,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1072,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058723090291552256,
+          "id_str": "1058723090291552256",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFXCpBU8AAUZal.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFXCpBU8AAUZal.jpg",
+          "url": "https://t.co/yIQum9w2FW",
+          "display_url": "pic.twitter.com/yIQum9w2FW",
+          "expanded_url": "https://twitter.com/junkudo_net/status/1058723355040264193/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 608,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1830,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1072,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058723196751376384,
+          "id_str": "1058723196751376384",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFXI1nU8AAdnzs.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFXI1nU8AAdnzs.jpg",
+          "url": "https://t.co/yIQum9w2FW",
+          "display_url": "pic.twitter.com/yIQum9w2FW",
+          "expanded_url": "https://twitter.com/junkudo_net/status/1058723355040264193/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 2048,
+              "h": 1473,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 489,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 863,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058723270147563525,
+          "id_str": "1058723270147563525",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFXNHCV4AUGmSd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFXNHCV4AUGmSd.jpg",
+          "url": "https://t.co/yIQum9w2FW",
+          "display_url": "pic.twitter.com/yIQum9w2FW",
+          "expanded_url": "https://twitter.com/junkudo_net/status/1058723355040264193/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1679,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 984,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 557,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "丸善ジュンク堂に住んでみる2018",
+        "indices": [
+          56,
+          74
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "junkudo_net",
+        "name": "丸善ジュンク堂書店劇場@秋の読書キャンペ",
+        "id": 62215949,
+        "id_str": "62215949",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058723090291552256,
+        "id_str": "1058723090291552256",
+        "indices": [
+          75,
+          98
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXCpBU8AAUZal.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXCpBU8AAUZal.jpg",
+        "url": "https://t.co/yIQum9w2FW",
+        "display_url": "pic.twitter.com/yIQum9w2FW",
+        "expanded_url": "https://twitter.com/junkudo_net/status/1058723355040264193/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 608,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1830,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1072,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058723355040264193,
+        "source_status_id_str": "1058723355040264193",
+        "source_user_id": 62215949,
+        "source_user_id_str": "62215949"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058723090291552256,
+        "id_str": "1058723090291552256",
+        "indices": [
+          75,
+          98
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXCpBU8AAUZal.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXCpBU8AAUZal.jpg",
+        "url": "https://t.co/yIQum9w2FW",
+        "display_url": "pic.twitter.com/yIQum9w2FW",
+        "expanded_url": "https://twitter.com/junkudo_net/status/1058723355040264193/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 608,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1830,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1072,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058723355040264193,
+        "source_status_id_str": "1058723355040264193",
+        "source_user_id": 62215949,
+        "source_user_id_str": "62215949"
+      },
+      {
+        "id": 1058723196751376384,
+        "id_str": "1058723196751376384",
+        "indices": [
+          75,
+          98
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXI1nU8AAdnzs.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXI1nU8AAdnzs.jpg",
+        "url": "https://t.co/yIQum9w2FW",
+        "display_url": "pic.twitter.com/yIQum9w2FW",
+        "expanded_url": "https://twitter.com/junkudo_net/status/1058723355040264193/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 2048,
+            "h": 1473,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 489,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 863,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058723355040264193,
+        "source_status_id_str": "1058723355040264193",
+        "source_user_id": 62215949,
+        "source_user_id_str": "62215949"
+      },
+      {
+        "id": 1058723270147563525,
+        "id_str": "1058723270147563525",
+        "indices": [
+          75,
+          98
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXNHCV4AUGmSd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXNHCV4AUGmSd.jpg",
+        "url": "https://t.co/yIQum9w2FW",
+        "display_url": "pic.twitter.com/yIQum9w2FW",
+        "expanded_url": "https://twitter.com/junkudo_net/status/1058723355040264193/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1679,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 984,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 557,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058723355040264193,
+        "source_status_id_str": "1058723355040264193",
+        "source_user_id": 62215949,
+        "source_user_id_str": "62215949"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254481661"
+}

@@ -1,0 +1,526 @@
+{
+  "created_at": "Sat Nov 03 14:26:15 +0000 2018",
+  "id": 1058727058753302528,
+  "id_str": "1058727058753302528",
+  "text": "RT @takahide63: マーサ！誕生日おめでとう！！\nデブレバター下さい！！！（切実） https://t.co/xyD294eWEt",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1048821483269582848,
+    "id_str": "1048821483269582848",
+    "name": "流星群",
+    "screen_name": "m_u_k_r_1226",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 3,
+    "friends_count": 30,
+    "listed_count": 0,
+    "favourites_count": 616,
+    "statuses_count": 530,
+    "created_at": "Sun Oct 07 06:25:02 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056115430954168320/blYvystW_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056115430954168320/blYvystW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048821483269582848/1538897044",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:25:48 +0000 2018",
+    "id": 1058726946144641025,
+    "id_str": "1058726946144641025",
+    "text": "マーサ！誕生日おめでとう！！\nデブレバター下さい！！！（切実） https://t.co/xyD294eWEt",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1484123468,
+      "id_str": "1484123468",
+      "name": "石井 孝英",
+      "screen_name": "takahide63",
+      "location": "WITH LINE",
+      "url": "http://www.withline.jp/talent/?id=takahide_ishii",
+      "description": "WITH LINE所属／新人声優・石井孝英(いしい たかひで)の公式アカウント。主な出演作品【美男高校地球防衛部HAPPY KISS！】和倉七緒【快感❤︎フレーズCLIMAX】柊 北斗【Dimensionハイスクール】白山純平【紡ロジック】四辻優【チョクメ！】etc... ※事務所スタッフが呟くこともあります。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 8103,
+      "friends_count": 246,
+      "listed_count": 179,
+      "favourites_count": 1062,
+      "statuses_count": 6025,
+      "created_at": "Wed Jun 05 05:14:00 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1057648393873350656/2BYdaupX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057648393873350656/2BYdaupX_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1484123468/1534600961",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058724243985227776,
+    "quoted_status_id_str": "1058724243985227776",
+    "quoted_status": {
+      "created_at": "Sat Nov 03 14:15:04 +0000 2018",
+      "id": 1058724243985227776,
+      "id_str": "1058724243985227776",
+      "text": "遅くなりましたが、本日は手作りお菓子を「みんな～。食べて～」と笑顔で配るかわいい子・白骨マーサの誕生日です！おめでとうございます！\n#白骨マーサ生誕祭2018 https://t.co/xLurQDkFRq",
+      "display_text_range": [
+        0,
+        79
+      ],
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2713556671,
+        "id_str": "2713556671",
+        "name": "美男高校地球防衛部シリーズ公式",
+        "screen_name": "boueibu",
+        "location": null,
+        "url": "http://boueibu.com/",
+        "description": "オリジナルアニメ「美男高校地球防衛部」シリーズの公式アカウントです。原作馬谷くらり、監督高松信司。2018年4月より「美男高校地球防衛部HAPPY KISS！」放送開始！公式ハッシュタグは #boueibu です！",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 89584,
+        "friends_count": 0,
+        "listed_count": 1832,
+        "favourites_count": 0,
+        "statuses_count": 3756,
+        "created_at": "Thu Aug 07 02:55:35 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFF4EF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/966174015885889537/aUWLplt3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/966174015885889537/aUWLplt3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2713556671/1514775505",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 8,
+      "reply_count": 0,
+      "retweet_count": 279,
+      "favorite_count": 531,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "白骨マーサ生誕祭2018",
+            "indices": [
+              66,
+              79
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058723929907388416,
+            "id_str": "1058723929907388416",
+            "indices": [
+              80,
+              103
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFXzg1V4AAu-Mu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFXzg1V4AAu-Mu.jpg",
+            "url": "https://t.co/xLurQDkFRq",
+            "display_url": "pic.twitter.com/xLurQDkFRq",
+            "expanded_url": "https://twitter.com/boueibu/status/1058724243985227776/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1080,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058723929907388416,
+            "id_str": "1058723929907388416",
+            "indices": [
+              80,
+              103
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFXzg1V4AAu-Mu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFXzg1V4AAu-Mu.jpg",
+            "url": "https://t.co/xLurQDkFRq",
+            "display_url": "pic.twitter.com/xLurQDkFRq",
+            "expanded_url": "https://twitter.com/boueibu/status/1058724243985227776/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1080,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/xyD294eWEt",
+      "expanded": "https://twitter.com/boueibu/status/1058724243985227776",
+      "display": "twitter.com/boueibu/status…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 19,
+    "favorite_count": 29,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/xyD294eWEt",
+          "expanded_url": "https://twitter.com/boueibu/status/1058724243985227776",
+          "display_url": "twitter.com/boueibu/status…",
+          "indices": [
+            32,
+            55
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058724243985227776,
+  "quoted_status_id_str": "1058724243985227776",
+  "quoted_status": {
+    "created_at": "Sat Nov 03 14:15:04 +0000 2018",
+    "id": 1058724243985227776,
+    "id_str": "1058724243985227776",
+    "text": "遅くなりましたが、本日は手作りお菓子を「みんな～。食べて～」と笑顔で配るかわいい子・白骨マーサの誕生日です！おめでとうございます！\n#白骨マーサ生誕祭2018 https://t.co/xLurQDkFRq",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2713556671,
+      "id_str": "2713556671",
+      "name": "美男高校地球防衛部シリーズ公式",
+      "screen_name": "boueibu",
+      "location": null,
+      "url": "http://boueibu.com/",
+      "description": "オリジナルアニメ「美男高校地球防衛部」シリーズの公式アカウントです。原作馬谷くらり、監督高松信司。2018年4月より「美男高校地球防衛部HAPPY KISS！」放送開始！公式ハッシュタグは #boueibu です！",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 89584,
+      "friends_count": 0,
+      "listed_count": 1832,
+      "favourites_count": 0,
+      "statuses_count": 3756,
+      "created_at": "Thu Aug 07 02:55:35 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFF4EF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/966174015885889537/aUWLplt3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/966174015885889537/aUWLplt3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2713556671/1514775505",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 8,
+    "reply_count": 0,
+    "retweet_count": 279,
+    "favorite_count": 531,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "白骨マーサ生誕祭2018",
+          "indices": [
+            66,
+            79
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058723929907388416,
+          "id_str": "1058723929907388416",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFXzg1V4AAu-Mu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFXzg1V4AAu-Mu.jpg",
+          "url": "https://t.co/xLurQDkFRq",
+          "display_url": "pic.twitter.com/xLurQDkFRq",
+          "expanded_url": "https://twitter.com/boueibu/status/1058724243985227776/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058723929907388416,
+          "id_str": "1058723929907388416",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFXzg1V4AAu-Mu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFXzg1V4AAu-Mu.jpg",
+          "url": "https://t.co/xLurQDkFRq",
+          "display_url": "pic.twitter.com/xLurQDkFRq",
+          "expanded_url": "https://twitter.com/boueibu/status/1058724243985227776/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/xyD294eWEt",
+    "expanded": "https://twitter.com/boueibu/status/1058724243985227776",
+    "display": "twitter.com/boueibu/status…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/xyD294eWEt",
+        "expanded_url": "https://twitter.com/boueibu/status/1058724243985227776",
+        "display_url": "twitter.com/boueibu/status…",
+        "indices": [
+          48,
+          71
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "takahide63",
+        "name": "石井 孝英",
+        "id": 1484123468,
+        "id_str": "1484123468",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255175661"
+}

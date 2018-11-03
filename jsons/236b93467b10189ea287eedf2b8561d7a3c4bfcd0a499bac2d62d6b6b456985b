@@ -1,0 +1,165 @@
+{
+  "created_at": "Sat Nov 03 14:18:06 +0000 2018",
+  "id": 1058725007738589184,
+  "id_str": "1058725007738589184",
+  "text": "ルームID:7769314\nチャーム二枠↑設定してる方のみお願いします。部屋主vi、daにチャーム置いてます\n #デレステ協力 https://t.co/PqfprwGCn0",
+  "display_text_range": [
+    0,
+    63
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2917817245,
+    "id_str": "2917817245",
+    "name": "てすらん@第26期SSS",
+    "screen_name": "hazukinue",
+    "location": "新潟県",
+    "url": null,
+    "description": "デレステ、モバマス、ポップンミュージック(旧作)、BBTAG(ワレンハクメン)マキブ(イフリートギスⅢ試作2号ジオ)enjoy勢だよ。新堂敦士さんと大相撲のファンでもあるよ。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 101,
+    "friends_count": 356,
+    "listed_count": 2,
+    "favourites_count": 4748,
+    "statuses_count": 9246,
+    "created_at": "Wed Dec 03 16:29:16 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1054772973863821313/2JN8rHcx_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054772973863821313/2JN8rHcx_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2917817245/1541076165",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "デレステ協力",
+        "indices": [
+          56,
+          63
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724991330447360,
+        "id_str": "1058724991330447360",
+        "indices": [
+          64,
+          87
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYxS8UcAAxBpb.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYxS8UcAAxBpb.jpg",
+        "url": "https://t.co/PqfprwGCn0",
+        "display_url": "pic.twitter.com/PqfprwGCn0",
+        "expanded_url": "https://twitter.com/hazukinue/status/1058725007738589184/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724991330447360,
+        "id_str": "1058724991330447360",
+        "indices": [
+          64,
+          87
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYxS8UcAAxBpb.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYxS8UcAAxBpb.jpg",
+        "url": "https://t.co/PqfprwGCn0",
+        "display_url": "pic.twitter.com/PqfprwGCn0",
+        "expanded_url": "https://twitter.com/hazukinue/status/1058725007738589184/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254686661"
+}

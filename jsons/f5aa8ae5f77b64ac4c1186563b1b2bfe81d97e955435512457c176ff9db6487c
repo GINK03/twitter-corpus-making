@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:22:24 +0000 2018",
+  "id": 1058726089885798400,
+  "id_str": "1058726089885798400",
+  "text": "RT @unetoTVxxx: 昭和のカープファン https://t.co/Wft7fNdx5r",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2246123420,
+    "id_str": "2246123420",
+    "name": "ルルは静かに暮らしたい",
+    "screen_name": "lurururun",
+    "location": "S市杜王町",
+    "url": "https://peing.net/lurururun",
+    "description": "デレステ (奈緒志希蘭子担当) FROST1022位 やきう(楽天)現地観戦→(2018) 7勝16敗(2017)15勝13敗2分 (2016)16勝14敗1分 奈緒蘭子 E#37 #11",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1927,
+    "friends_count": 2104,
+    "listed_count": 82,
+    "favourites_count": 173113,
+    "statuses_count": 259087,
+    "created_at": "Sat Dec 14 20:42:27 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058630708216782850/CzuXU7FB_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058630708216782850/CzuXU7FB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2246123420/1540903017",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 07:59:11 +0000 2018",
+    "id": 1058629651424104449,
+    "id_str": "1058629651424104449",
+    "text": "昭和のカープファン https://t.co/Wft7fNdx5r",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 894901230085955584,
+      "id_str": "894901230085955584",
+      "name": "畝人TV＠うねたん☆",
+      "screen_name": "unetoTVxxx",
+      "location": "畝龍実の脳内",
+      "url": null,
+      "description": "⚾とあるカープファンの日常⚾ときどき畝龍実の精霊が乗り移ります\n🇨カープファンの人は無言フォローOK⛩️\n#カープ #CARP #堂林翔太 #大瀬良大地",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 158,
+      "friends_count": 161,
+      "listed_count": 1,
+      "favourites_count": 5037,
+      "statuses_count": 1971,
+      "created_at": "Tue Aug 08 12:40:54 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1058709054686523393/nyWw5evk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058709054686523393/nyWw5evk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/894901230085955584/1541250882",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 18,
+    "reply_count": 2,
+    "retweet_count": 306,
+    "favorite_count": 758,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058629648131678208,
+          "id_str": "1058629648131678208",
+          "indices": [
+            10,
+            33
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrECDl2V4AAt8GW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrECDl2V4AAt8GW.jpg",
+          "url": "https://t.co/Wft7fNdx5r",
+          "display_url": "pic.twitter.com/Wft7fNdx5r",
+          "expanded_url": "https://twitter.com/unetoTVxxx/status/1058629651424104449/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 320,
+              "h": 208,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 320,
+              "h": 208,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 320,
+              "h": 208,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058629648131678208,
+          "id_str": "1058629648131678208",
+          "indices": [
+            10,
+            33
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrECDl2V4AAt8GW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrECDl2V4AAt8GW.jpg",
+          "url": "https://t.co/Wft7fNdx5r",
+          "display_url": "pic.twitter.com/Wft7fNdx5r",
+          "expanded_url": "https://twitter.com/unetoTVxxx/status/1058629651424104449/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 320,
+              "h": 208,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 320,
+              "h": 208,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 320,
+              "h": 208,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "unetoTVxxx",
+        "name": "畝人TV＠うねたん☆",
+        "id": 894901230085955584,
+        "id_str": "894901230085955584",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058629648131678208,
+        "id_str": "1058629648131678208",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrECDl2V4AAt8GW.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrECDl2V4AAt8GW.jpg",
+        "url": "https://t.co/Wft7fNdx5r",
+        "display_url": "pic.twitter.com/Wft7fNdx5r",
+        "expanded_url": "https://twitter.com/unetoTVxxx/status/1058629651424104449/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 320,
+            "h": 208,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 320,
+            "h": 208,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 320,
+            "h": 208,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058629651424104449,
+        "source_status_id_str": "1058629651424104449",
+        "source_user_id": 894901230085955584,
+        "source_user_id_str": "894901230085955584"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058629648131678208,
+        "id_str": "1058629648131678208",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrECDl2V4AAt8GW.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrECDl2V4AAt8GW.jpg",
+        "url": "https://t.co/Wft7fNdx5r",
+        "display_url": "pic.twitter.com/Wft7fNdx5r",
+        "expanded_url": "https://twitter.com/unetoTVxxx/status/1058629651424104449/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 320,
+            "h": 208,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 320,
+            "h": 208,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 320,
+            "h": 208,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058629651424104449,
+        "source_status_id_str": "1058629651424104449",
+        "source_user_id": 894901230085955584,
+        "source_user_id_str": "894901230085955584"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254944665"
+}

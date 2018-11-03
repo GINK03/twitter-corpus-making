@@ -1,0 +1,742 @@
+{
+  "created_at": "Sat Nov 03 14:14:54 +0000 2018",
+  "id": 1058724202428039170,
+  "id_str": "1058724202428039170",
+  "text": "RT @sigekun: ＼アンダーバーは／ ＼最高です！／ https://t.co/EWKIzcpcjP",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 704101158076305408,
+    "id_str": "704101158076305408",
+    "name": "モイド",
+    "screen_name": "moiD_B0000",
+    "location": "今も昔も変わらない",
+    "url": "http://www.nicovideo.jp/watch/sm19399677?cp_webto=share_iosapp",
+    "description": "It can only be achieved by mutual understanding./音が好き/admire→http://nico.ms/sm25055817、http://nico.ms/sm29745851、http://nico.ms/sm23226869",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 7,
+    "friends_count": 97,
+    "listed_count": 0,
+    "favourites_count": 137,
+    "statuses_count": 6628,
+    "created_at": "Mon Feb 29 00:29:32 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/936511008234905600/UVmVgD7C_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/936511008234905600/UVmVgD7C_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/704101158076305408/1536111434",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:40:39 +0000 2018",
+    "id": 1058715583988944896,
+    "id_str": "1058715583988944896",
+    "text": "＼アンダーバーは／ ＼最高です！／ https://t.co/EWKIzcpcjP",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 72510674,
+      "id_str": "72510674",
+      "name": "（く）りたしげたか改",
+      "screen_name": "sigekun",
+      "location": "東京フリーダムが丘",
+      "url": "http://com.nicovideo.jp/community/co3775263",
+      "description": "栗田 穣崇 Shigetaka Kurita ドワンゴ取締役。カドカワ取締役。ニコニコ代表。エンゲージプリンセス総監督・開発責任者。個人アカウントのためニコニコへのご意見ご要望は運営窓口担当@nico_nico_talkまでお願いします。かつてドコモでiモードの企画・開発に携わり絵文字を作ったりもしました。横須賀鎮守府",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 17663,
+      "friends_count": 360,
+      "listed_count": 498,
+      "favourites_count": 17197,
+      "statuses_count": 58735,
+      "created_at": "Tue Sep 08 09:06:40 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "BA55D3",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "288DBB",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/817026440239529984/txn5EHct_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/817026440239529984/txn5EHct_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/72510674/1537865500",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058713668190228480,
+    "quoted_status_id_str": "1058713668190228480",
+    "quoted_status": {
+      "created_at": "Sat Nov 03 13:33:03 +0000 2018",
+      "id": 1058713668190228480,
+      "id_str": "1058713668190228480",
+      "text": "ニコニコ超パーティー2018ありがとうございました！今日はさいたまスーパーアリーナのステージをとにかく走りまくりながら歌ったぜ！！！最高に楽しかった！やっぱりここの仲間は最強だなぁ！\n#超パ2018 https://t.co/wg2a2uNR7B",
+      "display_text_range": [
+        0,
+        99
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 165401904,
+        "id_str": "165401904",
+        "name": "＿＿（アンダーバー）@11/3超パーティー",
+        "screen_name": "hybshybs",
+        "location": "地球",
+        "url": "http://un-san.com",
+        "description": "8/8シングル発売！お仕事のご依頼⇒【underbar.work@gmail.com】ニコニコCH→【https://goo.gl/MhSHMo】 YouTube→【https://goo.gl/i1Uvij】ブログ→【https://goo.gl/S5rDHM】アンダーバー情報局→【@underbar_info】",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 393904,
+        "friends_count": 258,
+        "listed_count": 5081,
+        "favourites_count": 33,
+        "statuses_count": 21592,
+        "created_at": "Sun Jul 11 13:20:16 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/980280534982049792/J85DxlgX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/980280534982049792/J85DxlgX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/165401904/1527424036",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 6,
+      "reply_count": 84,
+      "retweet_count": 319,
+      "favorite_count": 1340,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "超パ2018",
+            "indices": [
+              92,
+              99
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058713661936521216,
+            "id_str": "1058713661936521216",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFOd1qUUAAsIAh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFOd1qUUAAsIAh.jpg",
+            "url": "https://t.co/wg2a2uNR7B",
+            "display_url": "pic.twitter.com/wg2a2uNR7B",
+            "expanded_url": "https://twitter.com/hybshybs/status/1058713668190228480/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1108,
+                "h": 1478,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058713661936521216,
+            "id_str": "1058713661936521216",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFOd1qUUAAsIAh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFOd1qUUAAsIAh.jpg",
+            "url": "https://t.co/wg2a2uNR7B",
+            "display_url": "pic.twitter.com/wg2a2uNR7B",
+            "expanded_url": "https://twitter.com/hybshybs/status/1058713668190228480/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1108,
+                "h": 1478,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058713661466796032,
+            "id_str": "1058713661466796032",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFOdz6U4AAd9kZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFOdz6U4AAd9kZ.jpg",
+            "url": "https://t.co/wg2a2uNR7B",
+            "display_url": "pic.twitter.com/wg2a2uNR7B",
+            "expanded_url": "https://twitter.com/hybshybs/status/1058713668190228480/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1108,
+                "h": 1478,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058713661449990145,
+            "id_str": "1058713661449990145",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFOdz2UcAE7dzF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFOdz2UcAE7dzF.jpg",
+            "url": "https://t.co/wg2a2uNR7B",
+            "display_url": "pic.twitter.com/wg2a2uNR7B",
+            "expanded_url": "https://twitter.com/hybshybs/status/1058713668190228480/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1476,
+                "h": 1108,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 901,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058713661458415621,
+            "id_str": "1058713661458415621",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFOdz4VAAUs_gz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFOdz4VAAUs_gz.jpg",
+            "url": "https://t.co/wg2a2uNR7B",
+            "display_url": "pic.twitter.com/wg2a2uNR7B",
+            "expanded_url": "https://twitter.com/hybshybs/status/1058713668190228480/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1474,
+                "h": 1105,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/EWKIzcpcjP",
+      "expanded": "https://twitter.com/hybshybs/status/1058713668190228480",
+      "display": "twitter.com/hybshybs/statu…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 38,
+    "favorite_count": 71,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/EWKIzcpcjP",
+          "expanded_url": "https://twitter.com/hybshybs/status/1058713668190228480",
+          "display_url": "twitter.com/hybshybs/statu…",
+          "indices": [
+            18,
+            41
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058713668190228480,
+  "quoted_status_id_str": "1058713668190228480",
+  "quoted_status": {
+    "created_at": "Sat Nov 03 13:33:03 +0000 2018",
+    "id": 1058713668190228480,
+    "id_str": "1058713668190228480",
+    "text": "ニコニコ超パーティー2018ありがとうございました！今日はさいたまスーパーアリーナのステージをとにかく走りまくりながら歌ったぜ！！！最高に楽しかった！やっぱりここの仲間は最強だなぁ！\n#超パ2018 https://t.co/wg2a2uNR7B",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 165401904,
+      "id_str": "165401904",
+      "name": "＿＿（アンダーバー）@11/3超パーティー",
+      "screen_name": "hybshybs",
+      "location": "地球",
+      "url": "http://un-san.com",
+      "description": "8/8シングル発売！お仕事のご依頼⇒【underbar.work@gmail.com】ニコニコCH→【https://goo.gl/MhSHMo】 YouTube→【https://goo.gl/i1Uvij】ブログ→【https://goo.gl/S5rDHM】アンダーバー情報局→【@underbar_info】",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 393904,
+      "friends_count": 258,
+      "listed_count": 5081,
+      "favourites_count": 33,
+      "statuses_count": 21592,
+      "created_at": "Sun Jul 11 13:20:16 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/980280534982049792/J85DxlgX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/980280534982049792/J85DxlgX_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/165401904/1527424036",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 6,
+    "reply_count": 84,
+    "retweet_count": 319,
+    "favorite_count": 1340,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "超パ2018",
+          "indices": [
+            92,
+            99
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058713661936521216,
+          "id_str": "1058713661936521216",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFOd1qUUAAsIAh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFOd1qUUAAsIAh.jpg",
+          "url": "https://t.co/wg2a2uNR7B",
+          "display_url": "pic.twitter.com/wg2a2uNR7B",
+          "expanded_url": "https://twitter.com/hybshybs/status/1058713668190228480/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1108,
+              "h": 1478,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058713661936521216,
+          "id_str": "1058713661936521216",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFOd1qUUAAsIAh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFOd1qUUAAsIAh.jpg",
+          "url": "https://t.co/wg2a2uNR7B",
+          "display_url": "pic.twitter.com/wg2a2uNR7B",
+          "expanded_url": "https://twitter.com/hybshybs/status/1058713668190228480/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1108,
+              "h": 1478,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058713661466796032,
+          "id_str": "1058713661466796032",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFOdz6U4AAd9kZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFOdz6U4AAd9kZ.jpg",
+          "url": "https://t.co/wg2a2uNR7B",
+          "display_url": "pic.twitter.com/wg2a2uNR7B",
+          "expanded_url": "https://twitter.com/hybshybs/status/1058713668190228480/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1108,
+              "h": 1478,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058713661449990145,
+          "id_str": "1058713661449990145",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFOdz2UcAE7dzF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFOdz2UcAE7dzF.jpg",
+          "url": "https://t.co/wg2a2uNR7B",
+          "display_url": "pic.twitter.com/wg2a2uNR7B",
+          "expanded_url": "https://twitter.com/hybshybs/status/1058713668190228480/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1476,
+              "h": 1108,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 901,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058713661458415621,
+          "id_str": "1058713661458415621",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFOdz4VAAUs_gz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFOdz4VAAUs_gz.jpg",
+          "url": "https://t.co/wg2a2uNR7B",
+          "display_url": "pic.twitter.com/wg2a2uNR7B",
+          "expanded_url": "https://twitter.com/hybshybs/status/1058713668190228480/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1474,
+              "h": 1105,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/EWKIzcpcjP",
+    "expanded": "https://twitter.com/hybshybs/status/1058713668190228480",
+    "display": "twitter.com/hybshybs/statu…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/EWKIzcpcjP",
+        "expanded_url": "https://twitter.com/hybshybs/status/1058713668190228480",
+        "display_url": "twitter.com/hybshybs/statu…",
+        "indices": [
+          31,
+          54
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sigekun",
+        "name": "（く）りたしげたか改",
+        "id": 72510674,
+        "id_str": "72510674",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254494660"
+}

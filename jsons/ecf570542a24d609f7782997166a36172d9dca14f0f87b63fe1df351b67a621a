@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:15:51 +0000 2018",
+  "id": 1058724441507667968,
+  "id_str": "1058724441507667968",
+  "text": "RT @AlexNote0310: ヤマダ電機に展示していたPGバンシィを回収してきました。\nお疲れ様でした。 https://t.co/F8Um042ncJ",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2351843372,
+    "id_str": "2351843372",
+    "name": "🇻🇦 Elphelt",
+    "screen_name": "Elphelt_s",
+    "location": null,
+    "url": null,
+    "description": "The Sword of Damocles is hanging over my head ~",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 292,
+    "friends_count": 109,
+    "listed_count": 1,
+    "favourites_count": 2109,
+    "statuses_count": 1792,
+    "created_at": "Wed Feb 19 15:18:47 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "91D2FA",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056850510593118209/FZAi4hWD_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056850510593118209/FZAi4hWD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2351843372/1540810474",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:11:03 +0000 2018",
+    "id": 1058723234806263808,
+    "id_str": "1058723234806263808",
+    "text": "ヤマダ電機に展示していたPGバンシィを回収してきました。\nお疲れ様でした。 https://t.co/F8Um042ncJ",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1946839225,
+      "id_str": "1946839225",
+      "name": "ぜっつー(次はチカホ(作品のみ))",
+      "screen_name": "AlexNote0310",
+      "location": "神奈川県",
+      "url": null,
+      "description": "模型サークルOZ(仮)所属。\nGBWC2014ファイナリスト。\nHME2016｢野武一族模型倶楽部＆プラギルド｣HME大賞受賞。\nHME2017｢プラギルド＆OZ(仮)｣HME大賞受賞。\n個人で賞を頂いた事はありません。\nプラモは凄い改造はせずに人をひきつける事が出来るかという考えで作っています。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 4756,
+      "friends_count": 1278,
+      "listed_count": 96,
+      "favourites_count": 76471,
+      "statuses_count": 16459,
+      "created_at": "Tue Oct 08 12:44:31 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1030875728806469633/vqBQeNgu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1030875728806469633/vqBQeNgu_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946839225/1519378836",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058723222407901184,
+          "id_str": "1058723222407901184",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFXKVMUcAAZxq4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFXKVMUcAAZxq4.jpg",
+          "url": "https://t.co/F8Um042ncJ",
+          "display_url": "pic.twitter.com/F8Um042ncJ",
+          "expanded_url": "https://twitter.com/AlexNote0310/status/1058723234806263808/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1152,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058723222407901184,
+          "id_str": "1058723222407901184",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFXKVMUcAAZxq4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFXKVMUcAAZxq4.jpg",
+          "url": "https://t.co/F8Um042ncJ",
+          "display_url": "pic.twitter.com/F8Um042ncJ",
+          "expanded_url": "https://twitter.com/AlexNote0310/status/1058723234806263808/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1152,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "AlexNote0310",
+        "name": "ぜっつー(次はチカホ(作品のみ))",
+        "id": 1946839225,
+        "id_str": "1946839225",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058723222407901184,
+        "id_str": "1058723222407901184",
+        "indices": [
+          56,
+          79
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXKVMUcAAZxq4.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXKVMUcAAZxq4.jpg",
+        "url": "https://t.co/F8Um042ncJ",
+        "display_url": "pic.twitter.com/F8Um042ncJ",
+        "expanded_url": "https://twitter.com/AlexNote0310/status/1058723234806263808/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1152,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058723234806263808,
+        "source_status_id_str": "1058723234806263808",
+        "source_user_id": 1946839225,
+        "source_user_id_str": "1946839225"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058723222407901184,
+        "id_str": "1058723222407901184",
+        "indices": [
+          56,
+          79
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXKVMUcAAZxq4.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXKVMUcAAZxq4.jpg",
+        "url": "https://t.co/F8Um042ncJ",
+        "display_url": "pic.twitter.com/F8Um042ncJ",
+        "expanded_url": "https://twitter.com/AlexNote0310/status/1058723234806263808/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1152,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058723234806263808,
+        "source_status_id_str": "1058723234806263808",
+        "source_user_id": 1946839225,
+        "source_user_id_str": "1946839225"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254551661"
+}

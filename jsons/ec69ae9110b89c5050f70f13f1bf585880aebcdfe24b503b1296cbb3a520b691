@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:14:49 +0000 2018",
+  "id": 1058724181460668417,
+  "id_str": "1058724181460668417",
+  "text": "@naon9107 @bogummyhappykee naonさん 遅リプですみません🙇‍♂️\n喜んでいただけて とても嬉しいです💕\n\n次のファンミで ボゴムくんに 歌声を届けられたらいいですよねー(๑˃̵ᴗ˂̵)！",
+  "display_text_range": [
+    27,
+    108
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058626506518220800,
+  "in_reply_to_status_id_str": "1058626506518220800",
+  "in_reply_to_user_id": 938676456728666113,
+  "in_reply_to_user_id_str": "938676456728666113",
+  "in_reply_to_screen_name": "naon9107",
+  "user": {
+    "id": 967001743744647168,
+    "id_str": "967001743744647168",
+    "name": "nongachi",
+    "screen_name": "nongachi_bgm616",
+    "location": null,
+    "url": null,
+    "description": "ボゴム君のまなざしと素敵な声に落ち💕 イブFM🎄1人参戦🙌 クルクル変わる可愛い表情🦌も♡ Twitter初心者🙇‍♂️ですが ボゴミペンの皆さんと繋がれたら嬉しいです♡(๑˃̵ᴗ˂̵) ＃パクボゴム #박보검 ＃朴寶劍 @BOGUMMY",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 143,
+    "friends_count": 137,
+    "listed_count": 0,
+    "favourites_count": 24736,
+    "statuses_count": 3718,
+    "created_at": "Fri Feb 23 11:42:36 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1008009801165467648/o2ciDizm_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1008009801165467648/o2ciDizm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/967001743744647168/1534595380",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "naon9107",
+        "name": "naon",
+        "id": 938676456728666113,
+        "id_str": "938676456728666113",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "bogummyhappykee",
+        "name": "키미코 きみこ",
+        "id": 1007504873523273728,
+        "id_str": "1007504873523273728",
+        "indices": [
+          10,
+          26
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254489661"
+}

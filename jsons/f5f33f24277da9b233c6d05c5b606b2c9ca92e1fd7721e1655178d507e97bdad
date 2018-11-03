@@ -1,0 +1,480 @@
+{
+  "created_at": "Sat Nov 03 14:16:24 +0000 2018",
+  "id": 1058724579923750913,
+  "id_str": "1058724579923750913",
+  "text": "RT @na8c_hanayo: ほくほく線の高校生の件、普段は2両目のドアが開くのに当日はドアが開かず、結局乗れなかったて話なのかな。けどワンマン列車は1両目のドアしか開けないてHPにも書いてあるし…。乗降多いから他の運転士が現場判断で2両目も毎日開けてあげてたのかな？ ht…",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 341503762,
+    "id_str": "341503762",
+    "name": "白鷹",
+    "screen_name": "Hakutaka8989",
+    "location": "N型地区",
+    "url": "http://www.pixiv.net/member.php?id=3476941",
+    "description": "写真を撮る。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1221,
+    "friends_count": 1247,
+    "listed_count": 23,
+    "favourites_count": 133464,
+    "statuses_count": 244551,
+    "created_at": "Sun Jul 24 13:37:32 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "3D61F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0023D1",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/927902114638020608/VDC2hPYr_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/927902114638020608/VDC2hPYr_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/341503762/1538316905",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 16:09:37 +0000 2018",
+    "id": 1058390684158152705,
+    "id_str": "1058390684158152705",
+    "text": "ほくほく線の高校生の件、普段は2両目のドアが開くのに当日はドアが開かず、結局乗れなかったて話なのかな。けどワンマン列車は1両目のドアしか開けないてHPにも書いてあるし…。乗降多いから他の運転士が現場判断で2両目も毎日開けてあげてた… https://t.co/Kh4aa1y5mw",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3493849940,
+      "id_str": "3493849940",
+      "name": "ていね",
+      "screen_name": "na8c_hanayo",
+      "location": "幻想郷",
+      "url": null,
+      "description": "鉄を程々にやります。パパ鉄。EOS 1DX & EOS 7D/愛車 RX-7→ロードスター→インプレッサ 東方・カメラ・車",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 244,
+      "friends_count": 241,
+      "listed_count": 2,
+      "favourites_count": 10710,
+      "statuses_count": 7480,
+      "created_at": "Tue Sep 08 14:26:53 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/886956922028531713/YLJlG-hS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/886956922028531713/YLJlG-hS_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3493849940/1472815318",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "ほくほく線の高校生の件、普段は2両目のドアが開くのに当日はドアが開かず、結局乗れなかったて話なのかな。けどワンマン列車は1両目のドアしか開けないてHPにも書いてあるし…。乗降多いから他の運転士が現場判断で2両目も毎日開けてあげてたのかな？ https://t.co/bTYI5NJmQV",
+      "display_text_range": [
+        0,
+        119
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058390677308854277,
+            "id_str": "1058390677308854277",
+            "indices": [
+              120,
+              143
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrAotqKUUAUcTLg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrAotqKUUAUcTLg.jpg",
+            "url": "https://t.co/bTYI5NJmQV",
+            "display_url": "pic.twitter.com/bTYI5NJmQV",
+            "expanded_url": "https://twitter.com/na8c_hanayo/status/1058390684158152705/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058390677313118208,
+            "id_str": "1058390677313118208",
+            "indices": [
+              120,
+              143
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrAotqLVYAAIdUB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrAotqLVYAAIdUB.jpg",
+            "url": "https://t.co/bTYI5NJmQV",
+            "display_url": "pic.twitter.com/bTYI5NJmQV",
+            "expanded_url": "https://twitter.com/na8c_hanayo/status/1058390684158152705/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058390677304696832,
+            "id_str": "1058390677304696832",
+            "indices": [
+              120,
+              143
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrAotqJU4AAARqV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrAotqJU4AAARqV.jpg",
+            "url": "https://t.co/bTYI5NJmQV",
+            "display_url": "pic.twitter.com/bTYI5NJmQV",
+            "expanded_url": "https://twitter.com/na8c_hanayo/status/1058390684158152705/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058390677304659968,
+            "id_str": "1058390677304659968",
+            "indices": [
+              120,
+              143
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrAotqJUUAA2Q7-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrAotqJUUAA2Q7-.jpg",
+            "url": "https://t.co/bTYI5NJmQV",
+            "display_url": "pic.twitter.com/bTYI5NJmQV",
+            "expanded_url": "https://twitter.com/na8c_hanayo/status/1058390684158152705/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058390677308854277,
+            "id_str": "1058390677308854277",
+            "indices": [
+              120,
+              143
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrAotqKUUAUcTLg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrAotqKUUAUcTLg.jpg",
+            "url": "https://t.co/bTYI5NJmQV",
+            "display_url": "pic.twitter.com/bTYI5NJmQV",
+            "expanded_url": "https://twitter.com/na8c_hanayo/status/1058390684158152705/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058390677313118208,
+            "id_str": "1058390677313118208",
+            "indices": [
+              120,
+              143
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrAotqLVYAAIdUB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrAotqLVYAAIdUB.jpg",
+            "url": "https://t.co/bTYI5NJmQV",
+            "display_url": "pic.twitter.com/bTYI5NJmQV",
+            "expanded_url": "https://twitter.com/na8c_hanayo/status/1058390684158152705/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058390677304696832,
+            "id_str": "1058390677304696832",
+            "indices": [
+              120,
+              143
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrAotqJU4AAARqV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrAotqJU4AAARqV.jpg",
+            "url": "https://t.co/bTYI5NJmQV",
+            "display_url": "pic.twitter.com/bTYI5NJmQV",
+            "expanded_url": "https://twitter.com/na8c_hanayo/status/1058390684158152705/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058390677304659968,
+            "id_str": "1058390677304659968",
+            "indices": [
+              120,
+              143
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrAotqJUUAA2Q7-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrAotqJUUAA2Q7-.jpg",
+            "url": "https://t.co/bTYI5NJmQV",
+            "display_url": "pic.twitter.com/bTYI5NJmQV",
+            "expanded_url": "https://twitter.com/na8c_hanayo/status/1058390684158152705/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 5,
+    "reply_count": 0,
+    "retweet_count": 234,
+    "favorite_count": 189,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/Kh4aa1y5mw",
+          "expanded_url": "https://twitter.com/i/web/status/1058390684158152705",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "na8c_hanayo",
+        "name": "ていね",
+        "id": 3493849940,
+        "id_str": "3493849940",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254584662"
+}

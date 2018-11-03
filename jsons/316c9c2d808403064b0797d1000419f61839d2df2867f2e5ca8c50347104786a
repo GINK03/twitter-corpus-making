@@ -1,0 +1,500 @@
+{
+  "created_at": "Sat Nov 03 14:25:25 +0000 2018",
+  "id": 1058726849025429506,
+  "id_str": "1058726849025429506",
+  "text": "RT @natalie_mu: 【ライブレポート】浦島坂田船、幕張で夏ツアー完結「みんなと一緒に歳をとっていきたい」（写真19枚） https://t.co/ib0witg6CR https://t.co/iBqB9cCDWW",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3311000058,
+    "id_str": "3311000058",
+    "name": "ひとみ",
+    "screen_name": "Stitch_hw",
+    "location": null,
+    "url": null,
+    "description": "藤西1B かるた部【みっちゃん】基本いいねとRTしかしないよ😊",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 93,
+    "friends_count": 138,
+    "listed_count": 0,
+    "favourites_count": 1286,
+    "statuses_count": 433,
+    "created_at": "Mon Aug 10 02:44:27 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "F58EA8",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1043882806835912707/--5LpMMq_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043882806835912707/--5LpMMq_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3311000058/1537184491",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 09:02:07 +0000 2018",
+    "id": 1058283097765044225,
+    "id_str": "1058283097765044225",
+    "text": "【ライブレポート】浦島坂田船、幕張で夏ツアー完結「みんなと一緒に歳をとっていきたい」（写真19枚） https://t.co/ib0witg6CR https://t.co/iBqB9cCDWW",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "source": "<a href=\"http://natalie.mu/music\" rel=\"nofollow\">ナタリー</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 5649672,
+      "id_str": "5649672",
+      "name": "音楽ナタリー",
+      "screen_name": "natalie_mu",
+      "location": "東京",
+      "url": "http://natalie.mu/music",
+      "description": "国内No.1の情報量を誇る音楽ニュースサイト。コミックナタリー（@comic_natalie）、お笑いナタリー（@owarai_natalie）、映画ナタリー（@eiga_natalie）、ステージナタリー（@stage_natalie）、ナタリーストア（@natalie_store）もあわせてどうぞ。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 1259135,
+      "friends_count": 6,
+      "listed_count": 22166,
+      "favourites_count": 0,
+      "statuses_count": 148506,
+      "created_at": "Mon Apr 30 11:00:09 +0000 2007",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "E4E0D9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "F980BC",
+      "profile_sidebar_border_color": "E4E0D9",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/541889848726921216/idvp5jki_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/541889848726921216/idvp5jki_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/5649672/1418031562",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 219,
+    "reply_count": 192,
+    "retweet_count": 8216,
+    "favorite_count": 23324,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/ib0witg6CR",
+          "expanded_url": "https://natalie.mu/music/news/306331",
+          "display_url": "natalie.mu/music/news/306…",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058283091691589632,
+          "id_str": "1058283091691589632",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_G3WgUUAAYpW8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_G3WgUUAAYpW8.jpg",
+          "url": "https://t.co/iBqB9cCDWW",
+          "display_url": "pic.twitter.com/iBqB9cCDWW",
+          "expanded_url": "https://twitter.com/natalie_mu/status/1058283097765044225/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058283091691589632,
+          "id_str": "1058283091691589632",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_G3WgUUAAYpW8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_G3WgUUAAYpW8.jpg",
+          "url": "https://t.co/iBqB9cCDWW",
+          "display_url": "pic.twitter.com/iBqB9cCDWW",
+          "expanded_url": "https://twitter.com/natalie_mu/status/1058283097765044225/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058283093725835264,
+          "id_str": "1058283093725835264",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_G3eFUcAANLJw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_G3eFUcAANLJw.jpg",
+          "url": "https://t.co/iBqB9cCDWW",
+          "display_url": "pic.twitter.com/iBqB9cCDWW",
+          "expanded_url": "https://twitter.com/natalie_mu/status/1058283097765044225/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058283095592382464,
+          "id_str": "1058283095592382464",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_G3lCVsAA5n3a.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_G3lCVsAA5n3a.jpg",
+          "url": "https://t.co/iBqB9cCDWW",
+          "display_url": "pic.twitter.com/iBqB9cCDWW",
+          "expanded_url": "https://twitter.com/natalie_mu/status/1058283097765044225/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/ib0witg6CR",
+        "expanded_url": "https://natalie.mu/music/news/306331",
+        "display_url": "natalie.mu/music/news/306…",
+        "indices": [
+          66,
+          89
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "natalie_mu",
+        "name": "音楽ナタリー",
+        "id": 5649672,
+        "id_str": "5649672",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058283091691589632,
+        "id_str": "1058283091691589632",
+        "indices": [
+          90,
+          113
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_G3WgUUAAYpW8.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_G3WgUUAAYpW8.jpg",
+        "url": "https://t.co/iBqB9cCDWW",
+        "display_url": "pic.twitter.com/iBqB9cCDWW",
+        "expanded_url": "https://twitter.com/natalie_mu/status/1058283097765044225/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 640,
+            "h": 426,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 426,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 640,
+            "h": 426,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058283097765044225,
+        "source_status_id_str": "1058283097765044225",
+        "source_user_id": 5649672,
+        "source_user_id_str": "5649672"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058283091691589632,
+        "id_str": "1058283091691589632",
+        "indices": [
+          90,
+          113
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_G3WgUUAAYpW8.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_G3WgUUAAYpW8.jpg",
+        "url": "https://t.co/iBqB9cCDWW",
+        "display_url": "pic.twitter.com/iBqB9cCDWW",
+        "expanded_url": "https://twitter.com/natalie_mu/status/1058283097765044225/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 640,
+            "h": 426,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 426,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 640,
+            "h": 426,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058283097765044225,
+        "source_status_id_str": "1058283097765044225",
+        "source_user_id": 5649672,
+        "source_user_id_str": "5649672"
+      },
+      {
+        "id": 1058283093725835264,
+        "id_str": "1058283093725835264",
+        "indices": [
+          90,
+          113
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_G3eFUcAANLJw.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_G3eFUcAANLJw.jpg",
+        "url": "https://t.co/iBqB9cCDWW",
+        "display_url": "pic.twitter.com/iBqB9cCDWW",
+        "expanded_url": "https://twitter.com/natalie_mu/status/1058283097765044225/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 640,
+            "h": 426,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 426,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 640,
+            "h": 426,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058283097765044225,
+        "source_status_id_str": "1058283097765044225",
+        "source_user_id": 5649672,
+        "source_user_id_str": "5649672"
+      },
+      {
+        "id": 1058283095592382464,
+        "id_str": "1058283095592382464",
+        "indices": [
+          90,
+          113
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_G3lCVsAA5n3a.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_G3lCVsAA5n3a.jpg",
+        "url": "https://t.co/iBqB9cCDWW",
+        "display_url": "pic.twitter.com/iBqB9cCDWW",
+        "expanded_url": "https://twitter.com/natalie_mu/status/1058283097765044225/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 640,
+            "h": 426,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 426,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 640,
+            "h": 426,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058283097765044225,
+        "source_status_id_str": "1058283097765044225",
+        "source_user_id": 5649672,
+        "source_user_id_str": "5649672"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255125658"
+}

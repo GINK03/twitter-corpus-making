@@ -1,0 +1,440 @@
+{
+  "created_at": "Sat Nov 03 14:22:43 +0000 2018",
+  "id": 1058726169544032259,
+  "id_str": "1058726169544032259",
+  "text": "RT @stu48_yumianko: 今流行りのものを食べてみた 😋\n\n#チーズホットドック \n#甲斐心愛\n#森下舞羽 https://t.co/bvRsbudqiK",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1567517388,
+    "id_str": "1567517388",
+    "name": "マーシー",
+    "screen_name": "no1y58",
+    "location": null,
+    "url": null,
+    "description": "SKE48。ゆなな。立ち飲み屋はしご。マラソン。トレイルラン。カープ。在中文学习中、\n広島在住",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 88,
+    "friends_count": 120,
+    "listed_count": 0,
+    "favourites_count": 5619,
+    "statuses_count": 2112,
+    "created_at": "Thu Jul 04 06:59:17 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1034198721540448256/h4MGbMGp_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034198721540448256/h4MGbMGp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567517388/1535405854",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:38:08 +0000 2018",
+    "id": 1058714947310350341,
+    "id_str": "1058714947310350341",
+    "text": "今流行りのものを食べてみた 😋\n\n#チーズホットドック \n#甲斐心愛\n#森下舞羽 https://t.co/bvRsbudqiK",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1019830180917882880,
+      "id_str": "1019830180917882880",
+      "name": "瀧野 由美子",
+      "screen_name": "stu48_yumianko",
+      "location": null,
+      "url": null,
+      "description": "瀬戸内7県を拠点とするSTU48の たきのゆみこと申します 。本物にみせかけた本物です 。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 42609,
+      "friends_count": 183,
+      "listed_count": 541,
+      "favourites_count": 177,
+      "statuses_count": 239,
+      "created_at": "Thu Jul 19 06:23:57 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1021783143693479936/_Mc9xTk9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021783143693479936/_Mc9xTk9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1019830180917882880/1532448106",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 17,
+    "reply_count": 53,
+    "retweet_count": 199,
+    "favorite_count": 975,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "チーズホットドック",
+          "indices": [
+            17,
+            27
+          ]
+        },
+        {
+          "text": "甲斐心愛",
+          "indices": [
+            29,
+            34
+          ]
+        },
+        {
+          "text": "森下舞羽",
+          "indices": [
+            35,
+            40
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058714856549842944,
+          "id_str": "1058714856549842944",
+          "indices": [
+            41,
+            64
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058714856549842944/pu/img/a7hXEGR6qa2Re4p-.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058714856549842944/pu/img/a7hXEGR6qa2Re4p-.jpg",
+          "url": "https://t.co/bvRsbudqiK",
+          "display_url": "pic.twitter.com/bvRsbudqiK",
+          "expanded_url": "https://twitter.com/stu48_yumianko/status/1058714947310350341/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058714856549842944,
+          "id_str": "1058714856549842944",
+          "indices": [
+            41,
+            64
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058714856549842944/pu/img/a7hXEGR6qa2Re4p-.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058714856549842944/pu/img/a7hXEGR6qa2Re4p-.jpg",
+          "url": "https://t.co/bvRsbudqiK",
+          "display_url": "pic.twitter.com/bvRsbudqiK",
+          "expanded_url": "https://twitter.com/stu48_yumianko/status/1058714947310350341/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 32667,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058714856549842944/pu/vid/960x540/K3N23DMjIiZQwyby.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058714856549842944/pu/pl/5MujbTbBKsBohf3Y.m3u8?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058714856549842944/pu/vid/640x360/V-kNru5LpzWoqf8Y.mp4?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058714856549842944/pu/vid/320x180/0pkAuKE0l-FLKMY2.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "チーズホットドック",
+        "indices": [
+          37,
+          47
+        ]
+      },
+      {
+        "text": "甲斐心愛",
+        "indices": [
+          49,
+          54
+        ]
+      },
+      {
+        "text": "森下舞羽",
+        "indices": [
+          55,
+          60
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "stu48_yumianko",
+        "name": "瀧野 由美子",
+        "id": 1019830180917882880,
+        "id_str": "1019830180917882880",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058714856549842944,
+        "id_str": "1058714856549842944",
+        "indices": [
+          61,
+          84
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058714856549842944/pu/img/a7hXEGR6qa2Re4p-.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058714856549842944/pu/img/a7hXEGR6qa2Re4p-.jpg",
+        "url": "https://t.co/bvRsbudqiK",
+        "display_url": "pic.twitter.com/bvRsbudqiK",
+        "expanded_url": "https://twitter.com/stu48_yumianko/status/1058714947310350341/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 960,
+            "h": 540,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 960,
+            "h": 540,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058714947310350341,
+        "source_status_id_str": "1058714947310350341",
+        "source_user_id": 1019830180917882880,
+        "source_user_id_str": "1019830180917882880"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058714856549842944,
+        "id_str": "1058714856549842944",
+        "indices": [
+          61,
+          84
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058714856549842944/pu/img/a7hXEGR6qa2Re4p-.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058714856549842944/pu/img/a7hXEGR6qa2Re4p-.jpg",
+        "url": "https://t.co/bvRsbudqiK",
+        "display_url": "pic.twitter.com/bvRsbudqiK",
+        "expanded_url": "https://twitter.com/stu48_yumianko/status/1058714947310350341/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 32667,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058714856549842944/pu/vid/960x540/K3N23DMjIiZQwyby.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058714856549842944/pu/pl/5MujbTbBKsBohf3Y.m3u8?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058714856549842944/pu/vid/640x360/V-kNru5LpzWoqf8Y.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058714856549842944/pu/vid/320x180/0pkAuKE0l-FLKMY2.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 960,
+            "h": 540,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 960,
+            "h": 540,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058714947310350341,
+        "source_status_id_str": "1058714947310350341",
+        "source_user_id": 1019830180917882880,
+        "source_user_id_str": "1019830180917882880"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254963657"
+}

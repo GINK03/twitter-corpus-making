@@ -1,0 +1,100 @@
+{
+  "created_at": "Sat Nov 03 14:27:43 +0000 2018",
+  "id": 1058727427851993088,
+  "id_str": "1058727427851993088",
+  "text": "いつもの調子で\n「好き」と言う\n響×奏\n https://t.co/ChuX0XHFg7 #百合キュアスロット #スロットメーカー",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1615521402,
+    "id_str": "1615521402",
+    "name": "ガチャ禁しろ",
+    "screen_name": "homhom0160",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 713,
+    "friends_count": 1570,
+    "listed_count": 22,
+    "favourites_count": 105280,
+    "statuses_count": 37465,
+    "created_at": "Tue Jul 23 15:47:19 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "E81C4F",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056817063828762624/gbZMF4zE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056817063828762624/gbZMF4zE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1615521402/1497628152",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "百合キュアスロット",
+        "indices": [
+          45,
+          55
+        ]
+      },
+      {
+        "text": "スロットメーカー",
+        "indices": [
+          56,
+          65
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/ChuX0XHFg7",
+        "expanded_url": "https://slot-maker.com/slot/1614/",
+        "display_url": "slot-maker.com/slot/1614/",
+        "indices": [
+          21,
+          44
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255263661"
+}

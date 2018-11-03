@@ -1,0 +1,396 @@
+{
+  "created_at": "Sat Nov 03 14:25:14 +0000 2018",
+  "id": 1058726802909065217,
+  "id_str": "1058726802909065217",
+  "text": "RT @shin___geki: 病院ノート https://t.co/5bM7jQJpSY",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3064630950,
+    "id_str": "3064630950",
+    "name": "わしお",
+    "screen_name": "Wasio_desu",
+    "location": "なかよしクラブ",
+    "url": null,
+    "description": "ハンプティ・ダンプティ\n                                                  \nけいおん。。ヘタレボーカル \n副部長らしい           \n      \n                                   \nフォロバは多分する\n\n2代目さとやす",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 96,
+    "friends_count": 189,
+    "listed_count": 0,
+    "favourites_count": 662,
+    "statuses_count": 1271,
+    "created_at": "Fri Mar 06 11:27:08 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/945534345460170753/nvFhFRIQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/945534345460170753/nvFhFRIQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3064630950/1503015111",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 09:15:55 +0000 2018",
+    "id": 1058286570568994816,
+    "id_str": "1058286570568994816",
+    "text": "病院ノート https://t.co/5bM7jQJpSY",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2233625141,
+      "id_str": "2233625141",
+      "name": "しんらしんげ",
+      "screen_name": "shin___geki",
+      "location": "日本 福岡出身 ",
+      "url": "https://www.youtube.com/channel/UCHphbYRGjDNUcPRPCnUEknA",
+      "description": "shinrashinge http://Instagram.com/shin.2580 自分で作ったアート作品を投稿していきます。ドラえもん紙コップ動画が2016年度RT数国内1位になりました。お仕事のご依頼などは是非承ります、ＤＭメッセージの方からお願いします。 shinrashingeshin@gmail.com",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 47210,
+      "friends_count": 268,
+      "listed_count": 377,
+      "favourites_count": 395,
+      "statuses_count": 532,
+      "created_at": "Thu Dec 19 19:14:54 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1050922551122087941/-5RLnMW3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050922551122087941/-5RLnMW3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2233625141/1515596132",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 274,
+    "reply_count": 78,
+    "retweet_count": 7045,
+    "favorite_count": 15745,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058286297830158336,
+          "id_str": "1058286297830158336",
+          "indices": [
+            6,
+            29
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058286297830158336/pu/img/kRQKRjVYyrv4ri6v.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058286297830158336/pu/img/kRQKRjVYyrv4ri6v.jpg",
+          "url": "https://t.co/5bM7jQJpSY",
+          "display_url": "pic.twitter.com/5bM7jQJpSY",
+          "expanded_url": "https://twitter.com/shin___geki/status/1058286570568994816/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 960,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 1280,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058286297830158336,
+          "id_str": "1058286297830158336",
+          "indices": [
+            6,
+            29
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058286297830158336/pu/img/kRQKRjVYyrv4ri6v.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058286297830158336/pu/img/kRQKRjVYyrv4ri6v.jpg",
+          "url": "https://t.co/5bM7jQJpSY",
+          "display_url": "pic.twitter.com/5bM7jQJpSY",
+          "expanded_url": "https://twitter.com/shin___geki/status/1058286570568994816/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              4,
+              5
+            ],
+            "duration_millis": 133367,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058286297830158336/pu/vid/720x900/1R3jXVPJcoXozekO.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058286297830158336/pu/pl/jJpfOhL3Fm2mzHTj.m3u8?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058286297830158336/pu/vid/360x450/3SBbIzUMcE36vUwO.mp4?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058286297830158336/pu/vid/180x224/B--Ib6dP6UpPGO-y.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 960,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 1280,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "shin___geki",
+        "name": "しんらしんげ",
+        "id": 2233625141,
+        "id_str": "2233625141",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058286297830158336,
+        "id_str": "1058286297830158336",
+        "indices": [
+          23,
+          46
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058286297830158336/pu/img/kRQKRjVYyrv4ri6v.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058286297830158336/pu/img/kRQKRjVYyrv4ri6v.jpg",
+        "url": "https://t.co/5bM7jQJpSY",
+        "display_url": "pic.twitter.com/5bM7jQJpSY",
+        "expanded_url": "https://twitter.com/shin___geki/status/1058286570568994816/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 544,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 960,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 1280,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058286570568994816,
+        "source_status_id_str": "1058286570568994816",
+        "source_user_id": 2233625141,
+        "source_user_id_str": "2233625141"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058286297830158336,
+        "id_str": "1058286297830158336",
+        "indices": [
+          23,
+          46
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058286297830158336/pu/img/kRQKRjVYyrv4ri6v.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058286297830158336/pu/img/kRQKRjVYyrv4ri6v.jpg",
+        "url": "https://t.co/5bM7jQJpSY",
+        "display_url": "pic.twitter.com/5bM7jQJpSY",
+        "expanded_url": "https://twitter.com/shin___geki/status/1058286570568994816/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            4,
+            5
+          ],
+          "duration_millis": 133367,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058286297830158336/pu/vid/720x900/1R3jXVPJcoXozekO.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058286297830158336/pu/pl/jJpfOhL3Fm2mzHTj.m3u8?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058286297830158336/pu/vid/360x450/3SBbIzUMcE36vUwO.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058286297830158336/pu/vid/180x224/B--Ib6dP6UpPGO-y.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 544,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 960,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 1280,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058286570568994816,
+        "source_status_id_str": "1058286570568994816",
+        "source_user_id": 2233625141,
+        "source_user_id_str": "2233625141"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255114663"
+}

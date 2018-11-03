@@ -1,0 +1,191 @@
+{
+  "created_at": "Sat Nov 03 14:22:37 +0000 2018",
+  "id": 1058726144382517248,
+  "id_str": "1058726144382517248",
+  "text": "京急湯壺マリンパークのラッピング車 https://t.co/lUWr9aWRbn",
+  "display_text_range": [
+    0,
+    17
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1025602621136990208,
+    "id_str": "1025602621136990208",
+    "name": "鉄道男",
+    "screen_name": "Oc0P8YhlYQwDwHV",
+    "location": "神奈川川崎市",
+    "url": null,
+    "description": "無言フォロー失礼します！基本模型を上げて行きます！にわかにわかですけどおねがいします！スマホ鉄です！カント大好き学生です",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 207,
+    "friends_count": 310,
+    "listed_count": 0,
+    "favourites_count": 41,
+    "statuses_count": 30,
+    "created_at": "Sat Aug 04 04:41:34 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1028016303070633984/zGNdeosH_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028016303070633984/zGNdeosH_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1025602621136990208/1533933180",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058726080310198273,
+        "id_str": "1058726080310198273",
+        "indices": [
+          18,
+          41
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058726080310198273/pu/img/75v0cDjqQw8jg73a.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058726080310198273/pu/img/75v0cDjqQw8jg73a.jpg",
+        "url": "https://t.co/lUWr9aWRbn",
+        "display_url": "pic.twitter.com/lUWr9aWRbn",
+        "expanded_url": "https://twitter.com/Oc0P8YhlYQwDwHV/status/1058726144382517248/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058726080310198273,
+        "id_str": "1058726080310198273",
+        "indices": [
+          18,
+          41
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058726080310198273/pu/img/75v0cDjqQw8jg73a.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058726080310198273/pu/img/75v0cDjqQw8jg73a.jpg",
+        "url": "https://t.co/lUWr9aWRbn",
+        "display_url": "pic.twitter.com/lUWr9aWRbn",
+        "expanded_url": "https://twitter.com/Oc0P8YhlYQwDwHV/status/1058726144382517248/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 21080,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058726080310198273/pu/vid/640x360/S70v8yrv9BVR_Hsr.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058726080310198273/pu/vid/320x180/kch313tBYYAftVZO.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058726080310198273/pu/pl/KeDCNkrhwG3fEYWo.m3u8?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058726080310198273/pu/vid/1280x720/2UDNjlj0Ifbwk8jI.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254957658"
+}

@@ -1,0 +1,98 @@
+{
+  "created_at": "Sat Nov 03 14:21:19 +0000 2018",
+  "id": 1058725817256034304,
+  "id_str": "1058725817256034304",
+  "text": "@NK1eDpOG2uIX9ch @barbeejill3 質が悪い…その通りだと思う。",
+  "display_text_range": [
+    30,
+    44
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058710571544002560,
+  "in_reply_to_status_id_str": "1058710571544002560",
+  "in_reply_to_user_id": 1049805167183294464,
+  "in_reply_to_user_id_str": "1049805167183294464",
+  "in_reply_to_screen_name": "NK1eDpOG2uIX9ch",
+  "user": {
+    "id": 925501684838629376,
+    "id_str": "925501684838629376",
+    "name": "からっと12345",
+    "screen_name": "kYoYF3riEwneX8Y",
+    "location": null,
+    "url": null,
+    "description": "猫好きお花好き",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 127,
+    "friends_count": 182,
+    "listed_count": 0,
+    "favourites_count": 7922,
+    "statuses_count": 3262,
+    "created_at": "Tue Oct 31 23:16:11 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1053872429947179008/OWRPoW3w_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053872429947179008/OWRPoW3w_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "NK1eDpOG2uIX9ch",
+        "name": "Y.K",
+        "id": 1049805167183294464,
+        "id_str": "1049805167183294464",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "screen_name": "barbeejill3",
+        "name": "合法先生",
+        "id": 812815957,
+        "id_str": "812815957",
+        "indices": [
+          17,
+          29
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254879665"
+}

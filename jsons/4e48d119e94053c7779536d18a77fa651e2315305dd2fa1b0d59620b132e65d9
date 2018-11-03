@@ -1,0 +1,107 @@
+{
+  "created_at": "Sat Nov 03 14:15:06 +0000 2018",
+  "id": 1058724252780613632,
+  "id_str": "1058724252780613632",
+  "text": "なぜかセリフ枠(´°‐°｀)笑笑 / #初見歓迎 #nana民 #雑談 雑談しよ？コラボ〇 https://t.co/5JPKKwvZs3",
+  "source": "<a href=\"http://twitcasting.tv/\" rel=\"nofollow\">TwitCasting</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1055059444717936641,
+    "id_str": "1055059444717936641",
+    "name": "Ryu@たばこ",
+    "screen_name": "ryu_nana1321",
+    "location": "北海道",
+    "url": "https://nana-music.com/users/7473746/",
+    "description": "歌うの大好きな社会人！nana民のRyuと申します！りゅう と気軽に呼んで仲良くしてくださいな！！よろしくお願いします！！目指すは日々鍛錬しながら、いつかミックスボイス修得！！！٩(ˊᗜˋ*)و #nana民",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 45,
+    "friends_count": 48,
+    "listed_count": 1,
+    "favourites_count": 152,
+    "statuses_count": 197,
+    "created_at": "Wed Oct 24 11:32:28 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1055439316204294144/HcqU_6lI_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055439316204294144/HcqU_6lI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055059444717936641/1540381527",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "初見歓迎",
+        "indices": [
+          19,
+          24
+        ]
+      },
+      {
+        "text": "nana民",
+        "indices": [
+          25,
+          31
+        ]
+      },
+      {
+        "text": "雑談",
+        "indices": [
+          32,
+          35
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/5JPKKwvZs3",
+        "expanded_url": "https://cas.st/1e0f1d66",
+        "display_url": "cas.st/1e0f1d66",
+        "indices": [
+          46,
+          69
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254506665"
+}

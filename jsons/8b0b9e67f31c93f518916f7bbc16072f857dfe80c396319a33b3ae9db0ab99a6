@@ -1,0 +1,404 @@
+{
+  "created_at": "Sat Nov 03 14:25:41 +0000 2018",
+  "id": 1058726916134334464,
+  "id_str": "1058726916134334464",
+  "text": "RT @357Candy: 我が家の充電器かわいいやろ🤗 https://t.co/cMlK1tQsVM",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 603306478,
+    "id_str": "603306478",
+    "name": "시즈쿠",
+    "screen_name": "se05089",
+    "location": null,
+    "url": null,
+    "description": ".",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 66,
+    "friends_count": 241,
+    "listed_count": 0,
+    "favourites_count": 3776,
+    "statuses_count": 7634,
+    "created_at": "Sat Jun 09 04:23:03 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ko",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "89C9FA",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1012613729068859392/-4-QZRiT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012613729068859392/-4-QZRiT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/603306478/1422774668",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Sep 13 14:50:08 +0000 2018",
+    "id": 1040251287885901824,
+    "id_str": "1040251287885901824",
+    "text": "我が家の充電器かわいいやろ🤗 https://t.co/cMlK1tQsVM",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 562044153,
+      "id_str": "562044153",
+      "name": "ひかり",
+      "screen_name": "357Candy",
+      "location": null,
+      "url": null,
+      "description": "はちみつ大好きやが",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 462,
+      "friends_count": 395,
+      "listed_count": 28,
+      "favourites_count": 25497,
+      "statuses_count": 63983,
+      "created_at": "Tue Apr 24 12:00:10 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "85FFB6",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1057650751911018497/ITEfWaY8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057650751911018497/ITEfWaY8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/562044153/1460386143",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 296,
+    "reply_count": 62,
+    "retweet_count": 43401,
+    "favorite_count": 77380,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1040251271721054208,
+          "id_str": "1040251271721054208",
+          "indices": [
+            15,
+            38
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dm-3BSgU8AA0MVX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dm-3BSgU8AA0MVX.jpg",
+          "url": "https://t.co/cMlK1tQsVM",
+          "display_url": "pic.twitter.com/cMlK1tQsVM",
+          "expanded_url": "https://twitter.com/357Candy/status/1040251287885901824/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1040251271721054208,
+          "id_str": "1040251271721054208",
+          "indices": [
+            15,
+            38
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dm-3BSgU8AA0MVX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dm-3BSgU8AA0MVX.jpg",
+          "url": "https://t.co/cMlK1tQsVM",
+          "display_url": "pic.twitter.com/cMlK1tQsVM",
+          "expanded_url": "https://twitter.com/357Candy/status/1040251287885901824/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1040251271725207552,
+          "id_str": "1040251271725207552",
+          "indices": [
+            15,
+            38
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dm-3BShUUAAiB7d.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dm-3BShUUAAiB7d.jpg",
+          "url": "https://t.co/cMlK1tQsVM",
+          "display_url": "pic.twitter.com/cMlK1tQsVM",
+          "expanded_url": "https://twitter.com/357Candy/status/1040251287885901824/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "357Candy",
+        "name": "ひかり",
+        "id": 562044153,
+        "id_str": "562044153",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1040251271721054208,
+        "id_str": "1040251271721054208",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dm-3BSgU8AA0MVX.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dm-3BSgU8AA0MVX.jpg",
+        "url": "https://t.co/cMlK1tQsVM",
+        "display_url": "pic.twitter.com/cMlK1tQsVM",
+        "expanded_url": "https://twitter.com/357Candy/status/1040251287885901824/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 2048,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1040251287885901824,
+        "source_status_id_str": "1040251287885901824",
+        "source_user_id": 562044153,
+        "source_user_id_str": "562044153"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1040251271721054208,
+        "id_str": "1040251271721054208",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dm-3BSgU8AA0MVX.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dm-3BSgU8AA0MVX.jpg",
+        "url": "https://t.co/cMlK1tQsVM",
+        "display_url": "pic.twitter.com/cMlK1tQsVM",
+        "expanded_url": "https://twitter.com/357Candy/status/1040251287885901824/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 2048,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1040251287885901824,
+        "source_status_id_str": "1040251287885901824",
+        "source_user_id": 562044153,
+        "source_user_id_str": "562044153"
+      },
+      {
+        "id": 1040251271725207552,
+        "id_str": "1040251271725207552",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dm-3BShUUAAiB7d.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dm-3BShUUAAiB7d.jpg",
+        "url": "https://t.co/cMlK1tQsVM",
+        "display_url": "pic.twitter.com/cMlK1tQsVM",
+        "expanded_url": "https://twitter.com/357Candy/status/1040251287885901824/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 2048,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1040251287885901824,
+        "source_status_id_str": "1040251287885901824",
+        "source_user_id": 562044153,
+        "source_user_id_str": "562044153"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255141658"
+}

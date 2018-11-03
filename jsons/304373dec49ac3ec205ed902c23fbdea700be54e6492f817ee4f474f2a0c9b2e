@@ -1,0 +1,172 @@
+{
+  "created_at": "Sat Nov 03 14:12:26 +0000 2018",
+  "id": 1058723582660890624,
+  "id_str": "1058723582660890624",
+  "text": "FGO×ケロロ軍曹(⚠️クロスオーバー)落描き\n\nお竜さん「…カエルだぞ龍馬、食べていいか？」\n\n龍馬「だめだよ😓」\n\nケロロ(ふ、冬樹殿～！！助けて～!!!)\n\n#FGO #ケロロ軍曹 https://t.co/TTifM5hmn2",
+  "display_text_range": [
+    0,
+    93
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1020610559127871489,
+    "id_str": "1020610559127871489",
+    "name": "シノ",
+    "screen_name": "gOWjx4NZ8RFUgpX",
+    "location": null,
+    "url": null,
+    "description": "ケロロ大好きマンだいたい緑受けが好きです💚\n雑食です\n無言フォロー大変失礼致します🙇🙇🙇\n@ubumemouryou←雑多(基本FGO)垢",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 7,
+    "friends_count": 11,
+    "listed_count": 0,
+    "favourites_count": 644,
+    "statuses_count": 354,
+    "created_at": "Sat Jul 21 10:04:54 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1046000949473333248/h2PxBLdO_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046000949473333248/h2PxBLdO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1020610559127871489/1532167889",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          82,
+          86
+        ]
+      },
+      {
+        "text": "ケロロ軍曹",
+        "indices": [
+          87,
+          93
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058723567481761794,
+        "id_str": "1058723567481761794",
+        "indices": [
+          94,
+          117
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXeasVsAIrUL8.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXeasVsAIrUL8.jpg",
+        "url": "https://t.co/TTifM5hmn2",
+        "display_url": "pic.twitter.com/TTifM5hmn2",
+        "expanded_url": "https://twitter.com/gOWjx4NZ8RFUgpX/status/1058723582660890624/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 568,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 970,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 322,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058723567481761794,
+        "id_str": "1058723567481761794",
+        "indices": [
+          94,
+          117
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXeasVsAIrUL8.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXeasVsAIrUL8.jpg",
+        "url": "https://t.co/TTifM5hmn2",
+        "display_url": "pic.twitter.com/TTifM5hmn2",
+        "expanded_url": "https://twitter.com/gOWjx4NZ8RFUgpX/status/1058723582660890624/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 568,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 970,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 322,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254346896"
+}

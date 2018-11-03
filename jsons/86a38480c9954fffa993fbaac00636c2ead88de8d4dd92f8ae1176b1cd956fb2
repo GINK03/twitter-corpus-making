@@ -1,0 +1,157 @@
+{
+  "created_at": "Sat Nov 03 14:22:20 +0000 2018",
+  "id": 1058726073091813376,
+  "id_str": "1058726073091813376",
+  "text": "767の場合F席に一人掛けの座席がある。 https://t.co/2I0PR6I9XT",
+  "display_text_range": [
+    0,
+    20
+  ],
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 844150124871798784,
+    "id_str": "844150124871798784",
+    "name": "かぼちゃぁ〜GO！【改名中】(うp主のつぶやき。) 11/10運転会・11/17都営フェスタ",
+    "screen_name": "yt_pc0506",
+    "location": "FF外通知はOFFです。お別れはブロックまたはブロ解推奨。",
+    "url": "http://www.youtube.com/user/photoclub0506",
+    "description": "鉄道動画(YouTube)/#鉄オタ選手権 開催者/模型鉄/多趣味/航空(FlyTeamあり・JAL派)/ポケGO(TL37黄色)/アニポケ こちらはYouTube・photoclub0506チャンネルの公式Twitterです。YouTubeのチャンネル登録・フォロー・リムーブ・ミュート・ブロック・ブロ解はお気軽に。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 6809,
+    "friends_count": 7488,
+    "listed_count": 44,
+    "favourites_count": 43634,
+    "statuses_count": 60234,
+    "created_at": "Tue Mar 21 11:34:08 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1057814205343031296/KJXNY7xa_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057814205343031296/KJXNY7xa_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/844150124871798784/1540999774",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058726066062147585,
+        "id_str": "1058726066062147585",
+        "indices": [
+          21,
+          44
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZv2oUwAE3c1s.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZv2oUwAE3c1s.jpg",
+        "url": "https://t.co/2I0PR6I9XT",
+        "display_url": "pic.twitter.com/2I0PR6I9XT",
+        "expanded_url": "https://twitter.com/yt_pc0506/status/1058726073091813376/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 768,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 768,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058726066062147585,
+        "id_str": "1058726066062147585",
+        "indices": [
+          21,
+          44
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZv2oUwAE3c1s.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZv2oUwAE3c1s.jpg",
+        "url": "https://t.co/2I0PR6I9XT",
+        "display_url": "pic.twitter.com/2I0PR6I9XT",
+        "expanded_url": "https://twitter.com/yt_pc0506/status/1058726073091813376/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 768,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 768,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254940661"
+}

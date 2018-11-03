@@ -1,0 +1,342 @@
+{
+  "created_at": "Sat Nov 03 14:12:39 +0000 2018",
+  "id": 1058723634787667968,
+  "id_str": "1058723634787667968",
+  "text": "RT @hirame_sa: チタタプっていえ　#FGO https://t.co/7dKUlOBXd5",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2687840112,
+    "id_str": "2687840112",
+    "name": "とび/Ｋ１",
+    "screen_name": "hunceeee",
+    "location": "ほあ",
+    "url": null,
+    "description": "ツイッター初心者なのに裏垢勢   fgo民とスプラトゥーン民です！フォロバ100億%",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 58,
+    "friends_count": 718,
+    "listed_count": 0,
+    "favourites_count": 8578,
+    "statuses_count": 3735,
+    "created_at": "Mon Jul 28 16:21:41 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Oct 30 15:11:38 +0000 2018",
+    "id": 1057288925721444353,
+    "id_str": "1057288925721444353",
+    "text": "チタタプっていえ　#FGO https://t.co/7dKUlOBXd5",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1349499822,
+      "id_str": "1349499822",
+      "name": "芝石ひらめ",
+      "screen_name": "hirame_sa",
+      "location": "日本",
+      "url": null,
+      "description": "駄絵描きです。おもに型月作品。よろしくお願いします http://www.pixiv.net/member.php?id=3143223 お題箱http://odaibako.net/u/hirame_sa 連絡先(商業同人個人問わずお仕事のご相談ございましたら）→hirames232@gmail.com",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 77913,
+      "friends_count": 502,
+      "listed_count": 999,
+      "favourites_count": 4544,
+      "statuses_count": 16464,
+      "created_at": "Sat Apr 13 15:29:45 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1004978953826603009/9CBEOH-__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004978953826603009/9CBEOH-__normal.jpg",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 1,
+    "reply_count": 11,
+    "retweet_count": 1910,
+    "favorite_count": 5724,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            9,
+            13
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1057288876006359050,
+          "id_str": "1057288876006359050",
+          "indices": [
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dqw-oYdUwAoXbzD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dqw-oYdUwAoXbzD.jpg",
+          "url": "https://t.co/7dKUlOBXd5",
+          "display_url": "pic.twitter.com/7dKUlOBXd5",
+          "expanded_url": "https://twitter.com/hirame_sa/status/1057288925721444353/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 724,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 724,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1057288876006359050,
+          "id_str": "1057288876006359050",
+          "indices": [
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dqw-oYdUwAoXbzD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dqw-oYdUwAoXbzD.jpg",
+          "url": "https://t.co/7dKUlOBXd5",
+          "display_url": "pic.twitter.com/7dKUlOBXd5",
+          "expanded_url": "https://twitter.com/hirame_sa/status/1057288925721444353/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 724,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 724,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          24,
+          28
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "hirame_sa",
+        "name": "芝石ひらめ",
+        "id": 1349499822,
+        "id_str": "1349499822",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1057288876006359050,
+        "id_str": "1057288876006359050",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dqw-oYdUwAoXbzD.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dqw-oYdUwAoXbzD.jpg",
+        "url": "https://t.co/7dKUlOBXd5",
+        "display_url": "pic.twitter.com/7dKUlOBXd5",
+        "expanded_url": "https://twitter.com/hirame_sa/status/1057288925721444353/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 724,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 724,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 481,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057288925721444353,
+        "source_status_id_str": "1057288925721444353",
+        "source_user_id": 1349499822,
+        "source_user_id_str": "1349499822"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1057288876006359050,
+        "id_str": "1057288876006359050",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dqw-oYdUwAoXbzD.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dqw-oYdUwAoXbzD.jpg",
+        "url": "https://t.co/7dKUlOBXd5",
+        "display_url": "pic.twitter.com/7dKUlOBXd5",
+        "expanded_url": "https://twitter.com/hirame_sa/status/1057288925721444353/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 724,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 724,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 481,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057288925721444353,
+        "source_status_id_str": "1057288925721444353",
+        "source_user_id": 1349499822,
+        "source_user_id_str": "1349499822"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254359324"
+}

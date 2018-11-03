@@ -1,0 +1,402 @@
+{
+  "created_at": "Sat Nov 03 14:23:38 +0000 2018",
+  "id": 1058726400251711490,
+  "id_str": "1058726400251711490",
+  "text": "RT @SAKAMICHIWISE: 「凄く今、幸せです」いい話 #高山一実\n\n2年前の私、『夢がない』→今の私 https://t.co/ygl5VD1KNL",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 930611467937726466,
+    "id_str": "930611467937726466",
+    "name": "ふじもん🇪🇸@とにかくポエムなわかつき",
+    "screen_name": "nogi____toyusan",
+    "location": "キミなら なんだって、できる。何にだって、なれる。",
+    "url": "https://peing.net/ja/nogi____toyusan?event=6",
+    "description": "若月佑美さんは教祖です。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 202,
+    "friends_count": 401,
+    "listed_count": 4,
+    "favourites_count": 6953,
+    "statuses_count": 2003,
+    "created_at": "Wed Nov 15 01:40:38 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1041932773273919488/V2gZONjg_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1041932773273919488/V2gZONjg_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/930611467937726466/1540225882",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 11:23:58 +0000 2018",
+    "id": 1058681184815726592,
+    "id_str": "1058681184815726592",
+    "text": "「凄く今、幸せです」いい話 #高山一実\n\n2年前の私、『夢がない』→今の私 https://t.co/ygl5VD1KNL",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 962109656070897664,
+      "id_str": "962109656070897664",
+      "name": "Wise⊿",
+      "screen_name": "SAKAMICHIWISE",
+      "location": null,
+      "url": null,
+      "description": "坂道シリーズの動画像を主にツイート ,実況職人 気軽にフォローしてください 新垢 誤字脱字 多",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 19788,
+      "friends_count": 6,
+      "listed_count": 119,
+      "favourites_count": 1,
+      "statuses_count": 219,
+      "created_at": "Fri Feb 09 23:43:11 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/962264560437620736/dCzObk0s_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/962264560437620736/dCzObk0s_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/962109656070897664/1518256742",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 2,
+    "reply_count": 0,
+    "retweet_count": 97,
+    "favorite_count": 683,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "高山一実",
+          "indices": [
+            14,
+            19
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058680120494317570,
+          "id_str": "1058680120494317570",
+          "indices": [
+            38,
+            61
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058680120494317570/pu/img/bQ6bb5mh9qzUzYEg.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058680120494317570/pu/img/bQ6bb5mh9qzUzYEg.jpg",
+          "url": "https://t.co/ygl5VD1KNL",
+          "display_url": "pic.twitter.com/ygl5VD1KNL",
+          "expanded_url": "https://twitter.com/SAKAMICHIWISE/status/1058681184815726592/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058680120494317570,
+          "id_str": "1058680120494317570",
+          "indices": [
+            38,
+            61
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058680120494317570/pu/img/bQ6bb5mh9qzUzYEg.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058680120494317570/pu/img/bQ6bb5mh9qzUzYEg.jpg",
+          "url": "https://t.co/ygl5VD1KNL",
+          "display_url": "pic.twitter.com/ygl5VD1KNL",
+          "expanded_url": "https://twitter.com/SAKAMICHIWISE/status/1058681184815726592/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 109766,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058680120494317570/pu/pl/RVegi3NBsmSqxI5B.m3u8?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058680120494317570/pu/vid/320x180/U6tmoIOE1zmXQRtI.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058680120494317570/pu/vid/640x360/cLlXb9ykGb5N70pD.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "高山一実",
+        "indices": [
+          33,
+          38
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "SAKAMICHIWISE",
+        "name": "Wise⊿",
+        "id": 962109656070897664,
+        "id_str": "962109656070897664",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058680120494317570,
+        "id_str": "1058680120494317570",
+        "indices": [
+          57,
+          80
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058680120494317570/pu/img/bQ6bb5mh9qzUzYEg.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058680120494317570/pu/img/bQ6bb5mh9qzUzYEg.jpg",
+        "url": "https://t.co/ygl5VD1KNL",
+        "display_url": "pic.twitter.com/ygl5VD1KNL",
+        "expanded_url": "https://twitter.com/SAKAMICHIWISE/status/1058681184815726592/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058681184815726592,
+        "source_status_id_str": "1058681184815726592",
+        "source_user_id": 962109656070897664,
+        "source_user_id_str": "962109656070897664"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058680120494317570,
+        "id_str": "1058680120494317570",
+        "indices": [
+          57,
+          80
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058680120494317570/pu/img/bQ6bb5mh9qzUzYEg.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058680120494317570/pu/img/bQ6bb5mh9qzUzYEg.jpg",
+        "url": "https://t.co/ygl5VD1KNL",
+        "display_url": "pic.twitter.com/ygl5VD1KNL",
+        "expanded_url": "https://twitter.com/SAKAMICHIWISE/status/1058681184815726592/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 109766,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058680120494317570/pu/pl/RVegi3NBsmSqxI5B.m3u8?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058680120494317570/pu/vid/320x180/U6tmoIOE1zmXQRtI.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058680120494317570/pu/vid/640x360/cLlXb9ykGb5N70pD.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058681184815726592,
+        "source_status_id_str": "1058681184815726592",
+        "source_user_id": 962109656070897664,
+        "source_user_id_str": "962109656070897664"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255018662"
+}

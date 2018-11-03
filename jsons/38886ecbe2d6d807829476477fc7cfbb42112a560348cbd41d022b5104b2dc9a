@@ -1,0 +1,244 @@
+{
+  "created_at": "Sat Nov 03 14:18:04 +0000 2018",
+  "id": 1058724998523707395,
+  "id_str": "1058724998523707395",
+  "text": "FGOイベほぼ終了。素材集めが残っているけど自然回復で終わるかな。入手したフォウ君で金ぴかさんが最強に強まった。宝具は2だけど無課金なので上出来。 #FGO #FateGo https://t.co/vgkPcsYyHu",
+  "display_text_range": [
+    0,
+    86
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 153390572,
+    "id_str": "153390572",
+    "name": "さきち",
+    "screen_name": "sakichin66",
+    "location": null,
+    "url": null,
+    "description": "FGO／艦これ／アズールレーン／アニメ／マンガ／南の島で暮らしたい",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 151,
+    "friends_count": 276,
+    "listed_count": 15,
+    "favourites_count": 2214,
+    "statuses_count": 23975,
+    "created_at": "Tue Jun 08 12:33:52 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "9266CC",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/925046638015422464/jFvnZpSZ_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/925046638015422464/jFvnZpSZ_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/153390572/1469873830",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          74,
+          78
+        ]
+      },
+      {
+        "text": "FateGo",
+        "indices": [
+          79,
+          86
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724969113210880,
+        "id_str": "1058724969113210880",
+        "indices": [
+          87,
+          110
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYwALUUAAuKwi.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYwALUUAAuKwi.jpg",
+        "url": "https://t.co/vgkPcsYyHu",
+        "display_url": "pic.twitter.com/vgkPcsYyHu",
+        "expanded_url": "https://twitter.com/sakichin66/status/1058724998523707395/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 750,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 425,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724969113210880,
+        "id_str": "1058724969113210880",
+        "indices": [
+          87,
+          110
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYwALUUAAuKwi.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYwALUUAAuKwi.jpg",
+        "url": "https://t.co/vgkPcsYyHu",
+        "display_url": "pic.twitter.com/vgkPcsYyHu",
+        "expanded_url": "https://twitter.com/sakichin66/status/1058724998523707395/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 750,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 425,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058724977694765057,
+        "id_str": "1058724977694765057",
+        "indices": [
+          87,
+          110
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYwgJUcAEEAe0.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYwgJUcAEEAe0.jpg",
+        "url": "https://t.co/vgkPcsYyHu",
+        "display_url": "pic.twitter.com/vgkPcsYyHu",
+        "expanded_url": "https://twitter.com/sakichin66/status/1058724998523707395/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 425,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 750,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058724988159590400,
+        "id_str": "1058724988159590400",
+        "indices": [
+          87,
+          110
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYxHIVAAAXsSH.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYxHIVAAAXsSH.jpg",
+        "url": "https://t.co/vgkPcsYyHu",
+        "display_url": "pic.twitter.com/vgkPcsYyHu",
+        "expanded_url": "https://twitter.com/sakichin66/status/1058724998523707395/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 425,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 750,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254684464"
+}

@@ -1,0 +1,182 @@
+{
+  "created_at": "Sat Nov 03 14:00:12 +0000 2018",
+  "id": 1058720500510220296,
+  "id_str": "1058720500510220296",
+  "text": "【モンスト】渇血狸（かっちり）を集め放題！運枠で早速アイツが大活躍、評価が上昇きた！\nhttps://t.co/bvMrz0vgRn \n\n #モンスト #モンスト好きと繋がりたい https://t.co/pIEUlegoml",
+  "display_text_range": [
+    0,
+    89
+  ],
+  "source": "<a href=\"http://monst-bahha.net/\" rel=\"nofollow\">モンストバッハアンテナ</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4451202373,
+    "id_str": "4451202373",
+    "name": "モンストバッハアンテナ",
+    "screen_name": "bahha_antena",
+    "location": null,
+    "url": "http://monst-bahha.net/",
+    "description": "大人気のスマホゲーム【モンスト】の最新情報や攻略情報をお届けするアンテナサイトです！\n無言フォローやRT大歓迎♪\n＃モンスト　＃モンスターストライク",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 662,
+    "friends_count": 653,
+    "listed_count": 5,
+    "favourites_count": 74,
+    "statuses_count": 67393,
+    "created_at": "Fri Dec 04 08:49:00 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "04A40F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/802092301451309056/q0ax5brG_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/802092301451309056/q0ax5brG_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4451202373/1480068705",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "モンスト",
+        "indices": [
+          70,
+          75
+        ]
+      },
+      {
+        "text": "モンスト好きと繋がりたい",
+        "indices": [
+          76,
+          89
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/bvMrz0vgRn",
+        "expanded_url": "http://monst-bahha.net/feed/444080/",
+        "display_url": "monst-bahha.net/feed/444080/",
+        "indices": [
+          43,
+          66
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058720499348340737,
+        "id_str": "1058720499348340737",
+        "indices": [
+          90,
+          113
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFUr1AVAAEedN2.png",
+        "media_url_https": "https://pbs.twimg.com/media/DrFUr1AVAAEedN2.png",
+        "url": "https://t.co/pIEUlegoml",
+        "display_url": "pic.twitter.com/pIEUlegoml",
+        "expanded_url": "https://twitter.com/bahha_antena/status/1058720500510220296/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 300,
+            "h": 270,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 300,
+            "h": 270,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 300,
+            "h": 270,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058720499348340737,
+        "id_str": "1058720499348340737",
+        "indices": [
+          90,
+          113
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFUr1AVAAEedN2.png",
+        "media_url_https": "https://pbs.twimg.com/media/DrFUr1AVAAEedN2.png",
+        "url": "https://t.co/pIEUlegoml",
+        "display_url": "pic.twitter.com/pIEUlegoml",
+        "expanded_url": "https://twitter.com/bahha_antena/status/1058720500510220296/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 300,
+            "h": 270,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 300,
+            "h": 270,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 300,
+            "h": 270,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253612054"
+}

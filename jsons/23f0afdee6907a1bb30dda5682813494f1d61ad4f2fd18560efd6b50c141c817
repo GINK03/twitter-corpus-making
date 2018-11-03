@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:08:23 +0000 2018",
+  "id": 1058722560215408643,
+  "id_str": "1058722560215408643",
+  "text": "RT @Rima_Blanche_: FGOのナイチンゲール https://t.co/lHzR9t00zT",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3143146626,
+    "id_str": "3143146626",
+    "name": "⛩音黒フィリア⛩",
+    "screen_name": "kazne_misaki",
+    "location": "関東平野のまっさらな大地",
+    "url": "https://www.pixiv.net/member.php?id=16291498",
+    "description": "愛称は音黒(ネクロ) いろんな沼を渡り歩く人 最沼はFGO10割とヒプマイ10割と刀剣乱舞10割 最推しはFGOモードレッド ヒプマイ寂雷先生 女装したり化粧したり 細々コスしたり 筋肉娘大好きな人 作家目指して物書き",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 149,
+    "friends_count": 335,
+    "listed_count": 6,
+    "favourites_count": 33578,
+    "statuses_count": 55900,
+    "created_at": "Tue Apr 07 10:47:18 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1044990374064750592/FF2Klwm1_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044990374064750592/FF2Klwm1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3143146626/1534349680",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 05:41:31 +0000 2018",
+    "id": 1058232616229330944,
+    "id_str": "1058232616229330944",
+    "text": "FGOのナイチンゲール https://t.co/lHzR9t00zT",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1057632803733393409,
+      "id_str": "1057632803733393409",
+      "name": "リコリス",
+      "screen_name": "Rima_Blanche_",
+      "location": null,
+      "url": null,
+      "description": null,
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 7,
+      "friends_count": 33,
+      "listed_count": 0,
+      "favourites_count": 107,
+      "statuses_count": 47,
+      "created_at": "Wed Oct 31 13:58:05 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1057890924053716992/QqKDUce8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057890924053716992/QqKDUce8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1057632803733393409/1541048571",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 5,
+    "favorite_count": 13,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058232611917549568,
+          "id_str": "1058232611917549568",
+          "indices": [
+            12,
+            35
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq-Y9CsUUAAkTpN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq-Y9CsUUAAkTpN.jpg",
+          "url": "https://t.co/lHzR9t00zT",
+          "display_url": "pic.twitter.com/lHzR9t00zT",
+          "expanded_url": "https://twitter.com/Rima_Blanche_/status/1058232616229330944/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1236,
+              "h": 1678,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 501,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 884,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058232611917549568,
+          "id_str": "1058232611917549568",
+          "indices": [
+            12,
+            35
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq-Y9CsUUAAkTpN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq-Y9CsUUAAkTpN.jpg",
+          "url": "https://t.co/lHzR9t00zT",
+          "display_url": "pic.twitter.com/lHzR9t00zT",
+          "expanded_url": "https://twitter.com/Rima_Blanche_/status/1058232616229330944/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1236,
+              "h": 1678,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 501,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 884,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Rima_Blanche_",
+        "name": "リコリス",
+        "id": 1057632803733393409,
+        "id_str": "1057632803733393409",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058232611917549568,
+        "id_str": "1058232611917549568",
+        "indices": [
+          31,
+          54
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq-Y9CsUUAAkTpN.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq-Y9CsUUAAkTpN.jpg",
+        "url": "https://t.co/lHzR9t00zT",
+        "display_url": "pic.twitter.com/lHzR9t00zT",
+        "expanded_url": "https://twitter.com/Rima_Blanche_/status/1058232616229330944/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1236,
+            "h": 1678,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 501,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 884,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058232616229330944,
+        "source_status_id_str": "1058232616229330944",
+        "source_user_id": 1057632803733393409,
+        "source_user_id_str": "1057632803733393409"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058232611917549568,
+        "id_str": "1058232611917549568",
+        "indices": [
+          31,
+          54
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq-Y9CsUUAAkTpN.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq-Y9CsUUAAkTpN.jpg",
+        "url": "https://t.co/lHzR9t00zT",
+        "display_url": "pic.twitter.com/lHzR9t00zT",
+        "expanded_url": "https://twitter.com/Rima_Blanche_/status/1058232616229330944/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1236,
+            "h": 1678,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 501,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 884,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058232616229330944,
+        "source_status_id_str": "1058232616229330944",
+        "source_user_id": 1057632803733393409,
+        "source_user_id_str": "1057632803733393409"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254103126"
+}

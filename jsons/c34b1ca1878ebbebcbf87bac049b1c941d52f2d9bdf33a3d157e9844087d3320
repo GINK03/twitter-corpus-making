@@ -1,0 +1,168 @@
+{
+  "created_at": "Sat Nov 03 13:59:04 +0000 2018",
+  "id": 1058720218149605376,
+  "id_str": "1058720218149605376",
+  "text": "@turusan2017 FGOはやってないからセーフ(๑˘ᴗ˘๑) https://t.co/EtJMyfpw4i",
+  "display_text_range": [
+    13,
+    34
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058692318977417219,
+  "in_reply_to_status_id_str": "1058692318977417219",
+  "in_reply_to_user_id": 903268188778971136,
+  "in_reply_to_user_id_str": "903268188778971136",
+  "in_reply_to_screen_name": "turusan2017",
+  "user": {
+    "id": 302803106,
+    "id_str": "302803106",
+    "name": "つる/ぷぷ",
+    "screen_name": "turu_puppu",
+    "location": "ウサミン星3丁目3番地3号",
+    "url": null,
+    "description": "らきすたグルメ部＆ナナ恋 所属のウサミンP(ぷぷ)です。響子ちゃんとちゃまも担当してます。ぷぷみん道場(53651740)の方もよろしくです。たまにガレキなイベントで売り子してたりもします。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 349,
+    "friends_count": 455,
+    "listed_count": 38,
+    "favourites_count": 3230,
+    "statuses_count": 75341,
+    "created_at": "Sat May 21 19:45:54 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "F5ABB5",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1047189764808433664/b0OrvUp-_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047189764808433664/b0OrvUp-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/302803106/1495216856",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "turusan2017",
+        "name": "やや@FGOゆみ/旧モバマスななみ",
+        "id": 903268188778971136,
+        "id_str": "903268188778971136",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058720215716917248,
+        "id_str": "1058720215716917248",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFUbUZU8AAopn1.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFUbUZU8AAopn1.jpg",
+        "url": "https://t.co/EtJMyfpw4i",
+        "display_url": "pic.twitter.com/EtJMyfpw4i",
+        "expanded_url": "https://twitter.com/turu_puppu/status/1058720218149605376/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 450,
+            "h": 207,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 450,
+            "h": 207,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 450,
+            "h": 207,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058720215716917248,
+        "id_str": "1058720215716917248",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFUbUZU8AAopn1.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFUbUZU8AAopn1.jpg",
+        "url": "https://t.co/EtJMyfpw4i",
+        "display_url": "pic.twitter.com/EtJMyfpw4i",
+        "expanded_url": "https://twitter.com/turu_puppu/status/1058720218149605376/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 450,
+            "h": 207,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 450,
+            "h": 207,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 450,
+            "h": 207,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253544734"
+}

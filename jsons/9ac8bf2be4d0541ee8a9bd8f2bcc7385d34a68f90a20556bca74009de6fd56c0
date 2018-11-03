@@ -1,0 +1,123 @@
+{
+  "created_at": "Sat Nov 03 14:15:13 +0000 2018",
+  "id": 1058724282144968705,
+  "id_str": "1058724282144968705",
+  "text": "@yk8731 だいじんさんお疲れ様ですー！！いろいろ気にかけて貰ってすみませんでした😭😭ほんとうに助かりました楽しかったあああ！！！ありがとうございます🙏🙏\n🍓兄さま可愛いのに凛々しくてほんとうにすてき！！！\nさっと湯通し名言す… https://t.co/Ru5yhoVhjg",
+  "display_text_range": [
+    8,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": true,
+  "in_reply_to_status_id": 1058702200619249664,
+  "in_reply_to_status_id_str": "1058702200619249664",
+  "in_reply_to_user_id": 387139856,
+  "in_reply_to_user_id_str": "387139856",
+  "in_reply_to_screen_name": "yk8731",
+  "user": {
+    "id": 97653673,
+    "id_str": "97653673",
+    "name": "伊成。",
+    "screen_name": "17Ri",
+    "location": "ときお",
+    "url": null,
+    "description": "イナリ。ｵﾀｸ成人腐。筋肉ムチムチ受が大好物！筋肉にうるさい。最近はALLOUT!!と刀のタヌキ変わらず火神くん。わんぴ戦国BSR青エク黒バスペダルとにかく筋肉ムチムチ受が！大好物！時々コスプレ・時々々お絵描き・ほぼ日常。よく消す。お別れはリム希望。筋トレ食事メモ⇒#筋骨イナリ",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 337,
+    "friends_count": 299,
+    "listed_count": 14,
+    "favourites_count": 8788,
+    "statuses_count": 64617,
+    "created_at": "Fri Dec 18 12:18:51 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1055884394613927937/EW2asXTU_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055884394613927937/EW2asXTU_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/97653673/1527700526",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "@yk8731 だいじんさんお疲れ様ですー！！いろいろ気にかけて貰ってすみませんでした😭😭ほんとうに助かりました楽しかったあああ！！！ありがとうございます🙏🙏\n🍓兄さま可愛いのに凛々しくてほんとうにすてき！！！\nさっと湯通し名言すぎますよねw私も先日オフ会で聞いたのを完全に頂いてます！！問題ない👍🏻",
+    "display_text_range": [
+      8,
+      150
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "yk8731",
+          "name": "だいじん 3日全振🍓",
+          "id": 387139856,
+          "id_str": "387139856",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/Ru5yhoVhjg",
+        "expanded_url": "https://twitter.com/i/web/status/1058724282144968705",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "yk8731",
+        "name": "だいじん 3日全振🍓",
+        "id": 387139856,
+        "id_str": "387139856",
+        "indices": [
+          0,
+          7
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254513666"
+}

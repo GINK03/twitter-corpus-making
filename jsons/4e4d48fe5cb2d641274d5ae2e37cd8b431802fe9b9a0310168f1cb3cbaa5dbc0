@@ -1,0 +1,121 @@
+{
+  "created_at": "Sat Nov 03 14:24:35 +0000 2018",
+  "id": 1058726639318708224,
+  "id_str": "1058726639318708224",
+  "text": "@mpv6778 残念でございました😭",
+  "display_text_range": [
+    9,
+    19
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058676630275543040,
+  "in_reply_to_status_id_str": "1058676630275543040",
+  "in_reply_to_user_id": 801474589817589760,
+  "in_reply_to_user_id_str": "801474589817589760",
+  "in_reply_to_screen_name": "mpv6778",
+  "user": {
+    "id": 4350761,
+    "id_str": "4350761",
+    "name": "板倉健一(角源マルヰガス・アトム大網店)",
+    "screen_name": "itaken",
+    "location": "千葉県大網白里市",
+    "url": null,
+    "description": "通称『イタケン』。千葉県大網白里市で #住まいの何でも相談係 角源マルヰガス・アトム電器大網店をやってます。地元の方々の住まいの困ったを解決する為に日々奮闘中です。\n現在二児の父。毎日元気なチビ達に振り回されてます。/#リフォームにワクワクとドキドキを/#ガス屋さん/#まちのでんきや/#大網白里市/",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1838,
+    "friends_count": 1873,
+    "listed_count": 27,
+    "favourites_count": 103423,
+    "statuses_count": 18595,
+    "created_at": "Thu Apr 12 13:06:18 +0000 2007",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1010751283077083136/ve4Mfx8F_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010751283077083136/ve4Mfx8F_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4350761/1505807660",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "c2c4e3cd5575e7da",
+    "url": "https://api.twitter.com/1.1/geo/id/c2c4e3cd5575e7da.json",
+    "place_type": "city",
+    "name": "東金市",
+    "full_name": "千葉 東金市",
+    "country_code": "JP",
+    "country": "日本",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            140.286931,
+            35.500013
+          ],
+          [
+            140.286931,
+            35.6315
+          ],
+          [
+            140.435836,
+            35.6315
+          ],
+          [
+            140.435836,
+            35.500013
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "mpv6778",
+        "name": "■とも■ （金崎 智行）",
+        "id": 801474589817589760,
+        "id_str": "801474589817589760",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255075660"
+}

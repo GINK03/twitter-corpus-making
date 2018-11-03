@@ -1,0 +1,421 @@
+{
+  "created_at": "Sat Nov 03 14:21:29 +0000 2018",
+  "id": 1058725859169726465,
+  "id_str": "1058725859169726465",
+  "text": "RT @nobu_akiyama: この方、本当にUNSCEARの報告書を読んでいるのだろうか。このツイートでカギカッコ付きで引用した批判は、UNSCEARの報告書に対する批判としてはありえない。なぜなら、同報告書は世界中の300の論文から80を選んでレビューし分析したもので、…",
+  "source": "<a href=\"http://beeter.io\" rel=\"nofollow\">beeter (β)</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 92900484,
+    "id_str": "92900484",
+    "name": "ishida　manabu",
+    "screen_name": "b_ism",
+    "location": null,
+    "url": null,
+    "description": "女の子二人の父親です\r\n世の中捨てたものではない、と感じながら育って欲しい\r\n世の中、ちょっとでも良い方に変えたいです",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 158,
+    "friends_count": 157,
+    "listed_count": 5,
+    "favourites_count": 64398,
+    "statuses_count": 20664,
+    "created_at": "Fri Nov 27 04:17:32 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1899024456/P1000014_normal.JPG",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1899024456/P1000014_normal.JPG",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 07:04:38 +0000 2018",
+    "id": 1058615923437854722,
+    "id_str": "1058615923437854722",
+    "text": "この方、本当にUNSCEARの報告書を読んでいるのだろうか。このツイートでカギカッコ付きで引用した批判は、UNSCEARの報告書に対する批判としてはありえない。なぜなら、同報告書は世界中の300の論文から80を選んでレビューし分析… https://t.co/ILU4E9MzWS",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94788687,
+      "id_str": "94788687",
+      "name": "nobu akiyama",
+      "screen_name": "nobu_akiyama",
+      "location": "東京",
+      "url": null,
+      "description": "東京の郊外で国際安全保障の問題やってます。よく出没する場所：国立、霞が関、西麻布、八幡山、DC、NY、ウィーン、広島。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 4398,
+      "friends_count": 747,
+      "listed_count": 225,
+      "favourites_count": 1147,
+      "statuses_count": 20644,
+      "created_at": "Sat Dec 05 13:08:54 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "8B542B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "9D582E",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1699366188/TzRtIzgx_normal",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1699366188/TzRtIzgx_normal",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94788687/1375779320",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058363270770216960,
+    "quoted_status_id_str": "1058363270770216960",
+    "quoted_status": {
+      "created_at": "Fri Nov 02 14:20:41 +0000 2018",
+      "id": 1058363270770216960,
+      "id_str": "1058363270770216960",
+      "text": "国連特別報告者が日本政府の福島帰還政策に苦言を呈した。これに不満な人たちがよく言及するのが４年半前の国連科学委報告書。しかし、この報告書は当時、ＮＰＯや専門家から「日本政府や福島県などからの提供データで健康影響を予測」「信頼性は非… https://t.co/XwsWWG8T6L",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 130076591,
+        "id_str": "130076591",
+        "name": "佐藤 圭",
+        "screen_name": "tokyo_satokei",
+        "location": "東京都千代田区",
+        "url": "http://www.tokyo-np.co.jp",
+        "description": "新聞記者。神奈川県平塚市出身。1991年中日新聞社入社。三重総局、東京本社（東京新聞）政治部、東京特別報道部を経て、2018年１月から東京社会部。投稿内容は個人の意見です。フォローやリツイートが賛意を示しているとは限りません。",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "followers_count": 26375,
+        "friends_count": 989,
+        "listed_count": 1142,
+        "favourites_count": 4829,
+        "statuses_count": 5396,
+        "created_at": "Tue Apr 06 06:59:20 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "DD2E44",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "2C6090",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "1C1C1C",
+        "profile_text_color": "5C91B9",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/898341404363051008/_y6_5N14_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/898341404363051008/_y6_5N14_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "国連特別報告者が日本政府の福島帰還政策に苦言を呈した。これに不満な人たちがよく言及するのが４年半前の国連科学委報告書。しかし、この報告書は当時、ＮＰＯや専門家から「日本政府や福島県などからの提供データで健康影響を予測」「信頼性は非常に低い」と批判された。https://t.co/jjJbKAdMeo",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/jjJbKAdMeo",
+              "expanded_url": "http://www.unic.or.jp/news_press/info/7775/",
+              "display_url": "unic.or.jp/news_press/inf…",
+              "indices": [
+                127,
+                150
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        }
+      },
+      "quote_count": 112,
+      "reply_count": 89,
+      "retweet_count": 147,
+      "favorite_count": 86,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/XwsWWG8T6L",
+            "expanded_url": "https://twitter.com/i/web/status/1058363270770216960",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/xrXm6gNWuj",
+      "expanded": "https://twitter.com/tokyo_satokei/status/1058363270770216960",
+      "display": "twitter.com/tokyo_satokei/…"
+    },
+    "is_quote_status": true,
+    "extended_tweet": {
+      "full_text": "この方、本当にUNSCEARの報告書を読んでいるのだろうか。このツイートでカギカッコ付きで引用した批判は、UNSCEARの報告書に対する批判としてはありえない。なぜなら、同報告書は世界中の300の論文から80を選んでレビューし分析したもので、データを直接分析したものではないから。 https://t.co/xrXm6gNWuj",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/xrXm6gNWuj",
+            "expanded_url": "https://twitter.com/tokyo_satokei/status/1058363270770216960",
+            "display_url": "twitter.com/tokyo_satokei/…",
+            "indices": [
+              141,
+              164
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 57,
+    "favorite_count": 51,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/ILU4E9MzWS",
+          "expanded_url": "https://twitter.com/i/web/status/1058615923437854722",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058363270770216960,
+  "quoted_status_id_str": "1058363270770216960",
+  "quoted_status": {
+    "created_at": "Fri Nov 02 14:20:41 +0000 2018",
+    "id": 1058363270770216960,
+    "id_str": "1058363270770216960",
+    "text": "国連特別報告者が日本政府の福島帰還政策に苦言を呈した。これに不満な人たちがよく言及するのが４年半前の国連科学委報告書。しかし、この報告書は当時、ＮＰＯや専門家から「日本政府や福島県などからの提供データで健康影響を予測」「信頼性は非… https://t.co/XwsWWG8T6L",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 130076591,
+      "id_str": "130076591",
+      "name": "佐藤 圭",
+      "screen_name": "tokyo_satokei",
+      "location": "東京都千代田区",
+      "url": "http://www.tokyo-np.co.jp",
+      "description": "新聞記者。神奈川県平塚市出身。1991年中日新聞社入社。三重総局、東京本社（東京新聞）政治部、東京特別報道部を経て、2018年１月から東京社会部。投稿内容は個人の意見です。フォローやリツイートが賛意を示しているとは限りません。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 26375,
+      "friends_count": 989,
+      "listed_count": 1142,
+      "favourites_count": 4829,
+      "statuses_count": 5396,
+      "created_at": "Tue Apr 06 06:59:20 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "DD2E44",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "2C6090",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "1C1C1C",
+      "profile_text_color": "5C91B9",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/898341404363051008/_y6_5N14_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/898341404363051008/_y6_5N14_normal.jpg",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "国連特別報告者が日本政府の福島帰還政策に苦言を呈した。これに不満な人たちがよく言及するのが４年半前の国連科学委報告書。しかし、この報告書は当時、ＮＰＯや専門家から「日本政府や福島県などからの提供データで健康影響を予測」「信頼性は非常に低い」と批判された。https://t.co/jjJbKAdMeo",
+      "display_text_range": [
+        0,
+        150
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/jjJbKAdMeo",
+            "expanded_url": "http://www.unic.or.jp/news_press/info/7775/",
+            "display_url": "unic.or.jp/news_press/inf…",
+            "indices": [
+              127,
+              150
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      }
+    },
+    "quote_count": 112,
+    "reply_count": 89,
+    "retweet_count": 147,
+    "favorite_count": 86,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/XwsWWG8T6L",
+          "expanded_url": "https://twitter.com/i/web/status/1058363270770216960",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/xrXm6gNWuj",
+    "expanded": "https://twitter.com/tokyo_satokei/status/1058363270770216960",
+    "display": "twitter.com/tokyo_satokei/…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "nobu_akiyama",
+        "name": "nobu akiyama",
+        "id": 94788687,
+        "id_str": "94788687",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254889658"
+}

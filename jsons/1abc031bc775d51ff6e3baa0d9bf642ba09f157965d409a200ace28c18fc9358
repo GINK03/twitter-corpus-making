@@ -1,0 +1,327 @@
+{
+  "created_at": "Sat Nov 03 14:18:34 +0000 2018",
+  "id": 1058725125166522369,
+  "id_str": "1058725125166522369",
+  "text": "RT @3D6EDA: リズオンリー、お疲れ様でした🐡 https://t.co/dWvdfBtWg0",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 171537494,
+    "id_str": "171537494",
+    "name": "89siki",
+    "screen_name": "89sikin",
+    "location": null,
+    "url": null,
+    "description": "フクロウを自称するコウモリ　かもしれない。実はわが妹が作ったBOTの可能性もある。核兵器フェチです",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 773,
+    "friends_count": 934,
+    "listed_count": 62,
+    "favourites_count": 39941,
+    "statuses_count": 396366,
+    "created_at": "Tue Jul 27 15:44:52 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/816707537672077312/DV1P-VPK_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/816707537672077312/DV1P-VPK_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:11:50 +0000 2018",
+    "id": 1058723431703764992,
+    "id_str": "1058723431703764992",
+    "text": "リズオンリー、お疲れ様でした🐡 https://t.co/dWvdfBtWg0",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1017525887258857472,
+      "id_str": "1017525887258857472",
+      "name": "うつしいろ☔❄🎀🐻",
+      "screen_name": "3D6EDA",
+      "location": null,
+      "url": null,
+      "description": "百合を語りたがる異邦人■個人サークル「うつしいろ」",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 617,
+      "friends_count": 42,
+      "listed_count": 21,
+      "favourites_count": 259,
+      "statuses_count": 169,
+      "created_at": "Thu Jul 12 21:47:31 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "3D6EDA",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1017526212539760640/0fRtHW1z_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017526212539760640/0fRtHW1z_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017525887258857472/1531432198",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 23,
+    "favorite_count": 58,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058723131458605056,
+          "id_str": "1058723131458605056",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFXFCYUUAAPhUX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFXFCYUUAAPhUX.jpg",
+          "url": "https://t.co/dWvdfBtWg0",
+          "display_url": "pic.twitter.com/dWvdfBtWg0",
+          "expanded_url": "https://twitter.com/3D6EDA/status/1058723431703764992/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1036,
+              "h": 1261,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 986,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 559,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058723131458605056,
+          "id_str": "1058723131458605056",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFXFCYUUAAPhUX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFXFCYUUAAPhUX.jpg",
+          "url": "https://t.co/dWvdfBtWg0",
+          "display_url": "pic.twitter.com/dWvdfBtWg0",
+          "expanded_url": "https://twitter.com/3D6EDA/status/1058723431703764992/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1036,
+              "h": 1261,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 986,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 559,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "3D6EDA",
+        "name": "うつしいろ☔❄🎀🐻",
+        "id": 1017525887258857472,
+        "id_str": "1017525887258857472",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058723131458605056,
+        "id_str": "1058723131458605056",
+        "indices": [
+          28,
+          51
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXFCYUUAAPhUX.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXFCYUUAAPhUX.jpg",
+        "url": "https://t.co/dWvdfBtWg0",
+        "display_url": "pic.twitter.com/dWvdfBtWg0",
+        "expanded_url": "https://twitter.com/3D6EDA/status/1058723431703764992/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1036,
+            "h": 1261,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 986,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 559,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058723431703764992,
+        "source_status_id_str": "1058723431703764992",
+        "source_user_id": 1017525887258857472,
+        "source_user_id_str": "1017525887258857472"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058723131458605056,
+        "id_str": "1058723131458605056",
+        "indices": [
+          28,
+          51
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXFCYUUAAPhUX.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXFCYUUAAPhUX.jpg",
+        "url": "https://t.co/dWvdfBtWg0",
+        "display_url": "pic.twitter.com/dWvdfBtWg0",
+        "expanded_url": "https://twitter.com/3D6EDA/status/1058723431703764992/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1036,
+            "h": 1261,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 986,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 559,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058723431703764992,
+        "source_status_id_str": "1058723431703764992",
+        "source_user_id": 1017525887258857472,
+        "source_user_id_str": "1017525887258857472"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254714658"
+}

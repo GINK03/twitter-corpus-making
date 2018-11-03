@@ -1,0 +1,109 @@
+{
+  "created_at": "Sat Nov 03 14:27:00 +0000 2018",
+  "id": 1058727247496994816,
+  "id_str": "1058727247496994816",
+  "text": "@bekou_keyaki46 @ske46yas @keyaki_twice16 すっかり忘れてた笑",
+  "display_text_range": [
+    42,
+    51
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058726252624801792,
+  "in_reply_to_status_id_str": "1058726252624801792",
+  "in_reply_to_user_id": 989345271451545601,
+  "in_reply_to_user_id_str": "989345271451545601",
+  "in_reply_to_screen_name": "bekou_keyaki46",
+  "user": {
+    "id": 4323293832,
+    "id_str": "4323293832",
+    "name": "ろだ◢ ￨⁴⁶@ゆっかー推し",
+    "screen_name": "k_keya46",
+    "location": "わたなべ県",
+    "url": "https://peing.net/ja/k_keya46?p=auto",
+    "description": "96line/欅坂46/けやき坂46/菅井友香/東村芽依/齊藤京子/河田陽菜/上村莉菜/尾関梨香/無言フォロー失礼します🙏気軽にフォローお願いします🤲 【参戦歴】→ロッキン2017→2ndアニラ→共和国2018→全ツ2018@新潟",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 444,
+    "friends_count": 493,
+    "listed_count": 5,
+    "favourites_count": 518,
+    "statuses_count": 1070,
+    "created_at": "Sun Nov 22 13:21:05 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1042028978125529088/kJwx6fD__normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042028978125529088/kJwx6fD__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4323293832/1537629747",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "bekou_keyaki46",
+        "name": "べこう ◢ ￨⁴⁶",
+        "id": 989345271451545601,
+        "id_str": "989345271451545601",
+        "indices": [
+          0,
+          15
+        ]
+      },
+      {
+        "screen_name": "ske46yas",
+        "name": "すずせまる◢ ￨⁴⁶",
+        "id": 1042038097603510274,
+        "id_str": "1042038097603510274",
+        "indices": [
+          16,
+          25
+        ]
+      },
+      {
+        "screen_name": "keyaki_twice16",
+        "name": "みたく ◢ ￨⁴⁶",
+        "id": 1042066795731943424,
+        "id_str": "1042066795731943424",
+        "indices": [
+          26,
+          41
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255220661"
+}

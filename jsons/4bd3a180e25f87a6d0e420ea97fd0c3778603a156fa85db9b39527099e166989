@@ -1,0 +1,157 @@
+{
+  "created_at": "Sat Nov 03 14:15:13 +0000 2018",
+  "id": 1058724282140778501,
+  "id_str": "1058724282140778501",
+  "text": "僕強 https://t.co/OXQJesvb5G",
+  "display_text_range": [
+    0,
+    2
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1012342217493475328,
+    "id_str": "1012342217493475328",
+    "name": "くそだに Kusodanition",
+    "screen_name": "kusodani0228",
+    "location": "https://goo.gl/vcGnes",
+    "url": "https://goo.gl/vcGnes",
+    "description": "YouTubeやってます 登録者数2500人 くそだにのchannel→http://goo.gl/vcGnes  フォートナイト 虹6s pubg lol dbd ironsight\nフォロバなるべくする",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 57,
+    "friends_count": 57,
+    "listed_count": 0,
+    "favourites_count": 415,
+    "statuses_count": 481,
+    "created_at": "Thu Jun 28 14:29:27 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056439262348947456/OgDYoiQI_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056439262348947456/OgDYoiQI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1012342217493475328/1538495152",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724273244692480,
+        "id_str": "1058724273244692480",
+        "indices": [
+          3,
+          26
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYHf3VYAAhEzE.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYHf3VYAAhEzE.jpg",
+        "url": "https://t.co/OXQJesvb5G",
+        "display_url": "pic.twitter.com/OXQJesvb5G",
+        "expanded_url": "https://twitter.com/kusodani0228/status/1058724282140778501/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724273244692480,
+        "id_str": "1058724273244692480",
+        "indices": [
+          3,
+          26
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYHf3VYAAhEzE.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYHf3VYAAhEzE.jpg",
+        "url": "https://t.co/OXQJesvb5G",
+        "display_url": "pic.twitter.com/OXQJesvb5G",
+        "expanded_url": "https://twitter.com/kusodani0228/status/1058724282140778501/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254513665"
+}

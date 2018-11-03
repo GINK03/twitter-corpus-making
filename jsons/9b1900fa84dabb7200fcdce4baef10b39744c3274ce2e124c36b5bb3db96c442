@@ -1,0 +1,244 @@
+{
+  "created_at": "Sat Nov 03 14:15:08 +0000 2018",
+  "id": 1058724261135876096,
+  "id_str": "1058724261135876096",
+  "text": "@hi_ka_to 抽選結果をお伝えします。「ウチカフェスイーツ20円引クーポン」を差し上げます！クーポンコードは「C01612161」ご利用は11/15まで♪使い方⇒https://t.co/00wXAmytbL\n #ローソン… https://t.co/YnJVaExnKg",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "source": "<a href=\"https://www.uniquevision.co.jp/business/beluga_campaign\" rel=\"nofollow\">BelugaCampaignSEA</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 786193258770632704,
+  "in_reply_to_user_id_str": "786193258770632704",
+  "in_reply_to_screen_name": "hi_ka_to",
+  "user": {
+    "id": 115639376,
+    "id_str": "115639376",
+    "name": "ローソン",
+    "screen_name": "akiko_lawson",
+    "location": null,
+    "url": "http://lawson.co.jp",
+    "description": "【ローソン公式Twitter】ローソンクルー♪あきこです(^^)最新情報をマイペースでお知らせします。instagramは https://www.instagram.com/akiko_lawson/ ☆ youtubeはhttps://m.youtube.com/user/lawsonnews",
+    "translator_type": "none",
+    "protected": false,
+    "verified": true,
+    "followers_count": 3629344,
+    "friends_count": 194475,
+    "listed_count": 11877,
+    "favourites_count": 198,
+    "statuses_count": 33971756,
+    "created_at": "Fri Feb 19 11:16:00 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "F5ABB5",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/875517108884455426/q3HMm7hU_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/875517108884455426/q3HMm7hU_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/115639376/1541062438",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "@hi_ka_to 抽選結果をお伝えします。「ウチカフェスイーツ20円引クーポン」を差し上げます！クーポンコードは「C01612161」ご利用は11/15まで♪使い方⇒https://t.co/00wXAmytbL\n #ローソン ＃ごちろう https://t.co/td5hSP8K64",
+    "display_text_range": [
+      0,
+      120
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ローソン",
+          "indices": [
+            109,
+            114
+          ]
+        },
+        {
+          "text": "ごちろう",
+          "indices": [
+            115,
+            120
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/00wXAmytbL",
+          "expanded_url": "https://bit.ly/2LkTWTo?ts=20181103231508",
+          "display_url": "bit.ly/2LkTWTo?ts=201…",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "hi_ka_to",
+          "name": "ひのむ",
+          "id": 786193258770632704,
+          "id_str": "786193258770632704",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058690393737453568,
+          "id_str": "1058690393737453568",
+          "indices": [
+            121,
+            144
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrE5Tc3W4AAnTho.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrE5Tc3W4AAnTho.jpg",
+          "url": "https://t.co/td5hSP8K64",
+          "display_url": "pic.twitter.com/td5hSP8K64",
+          "expanded_url": "https://twitter.com/akiko_lawson/status/1058724261135876096/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058690393737453568,
+          "id_str": "1058690393737453568",
+          "indices": [
+            121,
+            144
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrE5Tc3W4AAnTho.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrE5Tc3W4AAnTho.jpg",
+          "url": "https://t.co/td5hSP8K64",
+          "display_url": "pic.twitter.com/td5hSP8K64",
+          "expanded_url": "https://twitter.com/akiko_lawson/status/1058724261135876096/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ローソン",
+        "indices": [
+          109,
+          114
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/00wXAmytbL",
+        "expanded_url": "https://bit.ly/2LkTWTo?ts=20181103231508",
+        "display_url": "bit.ly/2LkTWTo?ts=201…",
+        "indices": [
+          84,
+          107
+        ]
+      },
+      {
+        "url": "https://t.co/YnJVaExnKg",
+        "expanded_url": "https://twitter.com/i/web/status/1058724261135876096",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "hi_ka_to",
+        "name": "ひのむ",
+        "id": 786193258770632704,
+        "id_str": "786193258770632704",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254508657"
+}

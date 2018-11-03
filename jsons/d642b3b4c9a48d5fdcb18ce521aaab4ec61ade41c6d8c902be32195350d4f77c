@@ -1,0 +1,92 @@
+{
+  "created_at": "Sat Nov 03 14:22:45 +0000 2018",
+  "id": 1058726177966239744,
+  "id_str": "1058726177966239744",
+  "text": "SPRiNG決勝中11/2(金)〜11/11(日)21:59まで\n最終審査、絶対いくぞぉぉぉぉぉ♡♡♡\n次枠22:30～24:30\n#SPRiNG\nhttps://t.co/KWK5aunEe8",
+  "source": "<a href=\"https://www.showroom-live.com\" rel=\"nofollow\">SHOWROOM-LIVE</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 746845155915767809,
+    "id_str": "746845155915767809",
+    "name": "NEW TOSHI",
+    "screen_name": "4Ka7wtjdBwVzPjU",
+    "location": "大分市田尻",
+    "url": null,
+    "description": "心機一転",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 122,
+    "friends_count": 150,
+    "listed_count": 0,
+    "favourites_count": 18390,
+    "statuses_count": 74925,
+    "created_at": "Sat Jun 25 23:18:55 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/812707611975946240/uF0xvbv7_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/812707611975946240/uF0xvbv7_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "SPRiNG",
+        "indices": [
+          66,
+          73
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/KWK5aunEe8",
+        "expanded_url": "https://www.showroom-live.com/tomato-daichuki?r=i.21dcf424",
+        "display_url": "showroom-live.com/tomato-daichuk…",
+        "indices": [
+          74,
+          97
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254965665"
+}

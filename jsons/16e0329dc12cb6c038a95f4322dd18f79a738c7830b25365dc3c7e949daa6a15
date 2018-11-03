@@ -1,0 +1,168 @@
+{
+  "created_at": "Sat Nov 03 14:14:34 +0000 2018",
+  "id": 1058724118537822208,
+  "id_str": "1058724118537822208",
+  "text": "@RION_2JI50PUN ワイのクソ雑魚戦力早く戦力8000台にしたい。\n今やってる、レイド戦が辛くて仕方ない https://t.co/yoBIvcfCi3",
+  "display_text_range": [
+    15,
+    57
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058722179469045760,
+  "in_reply_to_status_id_str": "1058722179469045760",
+  "in_reply_to_user_id": 2645895294,
+  "in_reply_to_user_id_str": "2645895294",
+  "in_reply_to_screen_name": "RION_2JI50PUN",
+  "user": {
+    "id": 448516734,
+    "id_str": "448516734",
+    "name": "ワン太郎@ネコ目イノシシ科ゴリラ",
+    "screen_name": "takamatiwantaro",
+    "location": null,
+    "url": null,
+    "description": "ゆかり王国、姫を守る番犬、轟く遠吠えは忠誠の証。水瓶座アクエリアスの桃色聖闘士ワン太郎。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 231,
+    "friends_count": 302,
+    "listed_count": 14,
+    "favourites_count": 4229,
+    "statuses_count": 13235,
+    "created_at": "Wed Dec 28 02:53:32 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3466573865/5f22da43f5c45f49b0adf187dfb09291_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3466573865/5f22da43f5c45f49b0adf187dfb09291_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/448516734/1413062844",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "RION_2JI50PUN",
+        "name": "りおん",
+        "id": 2645895294,
+        "id_str": "2645895294",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724109176070147,
+        "id_str": "1058724109176070147",
+        "indices": [
+          58,
+          81
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFX98qU4AMQcCM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFX98qU4AMQcCM.jpg",
+        "url": "https://t.co/yoBIvcfCi3",
+        "display_url": "pic.twitter.com/yoBIvcfCi3",
+        "expanded_url": "https://twitter.com/takamatiwantaro/status/1058724118537822208/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724109176070147,
+        "id_str": "1058724109176070147",
+        "indices": [
+          58,
+          81
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFX98qU4AMQcCM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFX98qU4AMQcCM.jpg",
+        "url": "https://t.co/yoBIvcfCi3",
+        "display_url": "pic.twitter.com/yoBIvcfCi3",
+        "expanded_url": "https://twitter.com/takamatiwantaro/status/1058724118537822208/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254474659"
+}

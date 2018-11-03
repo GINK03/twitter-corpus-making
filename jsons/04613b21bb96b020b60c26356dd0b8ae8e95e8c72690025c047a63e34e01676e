@@ -1,0 +1,438 @@
+{
+  "created_at": "Sat Nov 03 14:24:01 +0000 2018",
+  "id": 1058726496699731969,
+  "id_str": "1058726496699731969",
+  "text": "RT @Sankei_news: 谷垣禎一氏が安倍首相と面会　２年３カ月ぶりに公の場\nhttps://t.co/7gaLVZFqSt\n\n　→谷垣氏は平成２８年７月の自転車事故で頸椎を損傷、自宅療養を続けていた\n　→車いすで官邸を訪れ、首相に事故で党幹事長を交代せざるを得なかった…",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3191880499,
+    "id_str": "3191880499",
+    "name": "ヤマボウシ",
+    "screen_name": "6yamabo",
+    "location": null,
+    "url": null,
+    "description": "猫",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 165,
+    "friends_count": 24,
+    "listed_count": 9,
+    "favourites_count": 60534,
+    "statuses_count": 38769,
+    "created_at": "Mon May 11 07:53:45 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "FA743E",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/862328993529307136/8l_nwJPC_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/862328993529307136/8l_nwJPC_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3191880499/1461213501",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Oct 31 04:42:36 +0000 2018",
+    "id": 1057493014153781248,
+    "id_str": "1057493014153781248",
+    "text": "谷垣禎一氏が安倍首相と面会　２年３カ月ぶりに公の場\nhttps://t.co/7gaLVZFqSt\n\n　→谷垣氏は平成２８年７月の自転車事故で頸椎を損傷、自宅療養を続けていた\n　→車いすで官邸を訪れ、首相に事故で党幹事長を交代せざ… https://t.co/Y1SaJU6bem",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 562773398,
+      "id_str": "562773398",
+      "name": "産経ニュース",
+      "screen_name": "Sankei_news",
+      "location": null,
+      "url": "http://www.sankei.com/",
+      "description": "産経新聞グループがお届けするニュースサイト「産経ニュース」の公式ツイッターです。facebookはこちら http://www.facebook.com/SankeiShimbun",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 280997,
+      "friends_count": 192,
+      "listed_count": 6036,
+      "favourites_count": 2,
+      "statuses_count": 159727,
+      "created_at": "Wed Apr 25 10:36:45 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "114488",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1051598198756630528/8a4rUyDd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051598198756630528/8a4rUyDd_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/562773398/1539555512",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "谷垣禎一氏が安倍首相と面会　２年３カ月ぶりに公の場\nhttps://t.co/7gaLVZFqSt\n\n　→谷垣氏は平成２８年７月の自転車事故で頸椎を損傷、自宅療養を続けていた\n　→車いすで官邸を訪れ、首相に事故で党幹事長を交代せざるを得なかったことを謝罪した https://t.co/ZYzzgD5JeO",
+      "display_text_range": [
+        0,
+        129
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/7gaLVZFqSt",
+            "expanded_url": "https://www.sankei.com/politics/news/181031/plt1810310029-n1.html",
+            "display_url": "sankei.com/politics/news/…",
+            "indices": [
+              26,
+              49
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1057492616340799489,
+            "id_str": "1057492616340799489",
+            "indices": [
+              130,
+              153
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dqz37oWXgAETav6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dqz37oWXgAETav6.jpg",
+            "url": "https://t.co/ZYzzgD5JeO",
+            "display_url": "pic.twitter.com/ZYzzgD5JeO",
+            "expanded_url": "https://twitter.com/Sankei_news/status/1057493014153781248/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 564,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 375,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 564,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          },
+          {
+            "id": 1057492616349208576,
+            "id_str": "1057492616349208576",
+            "indices": [
+              130,
+              153
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dqz37oYX0AADsZf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dqz37oYX0AADsZf.jpg",
+            "url": "https://t.co/ZYzzgD5JeO",
+            "display_url": "pic.twitter.com/ZYzzgD5JeO",
+            "expanded_url": "https://twitter.com/Sankei_news/status/1057493014153781248/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 683,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 683,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 454,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1057492616332369921,
+            "id_str": "1057492616332369921",
+            "indices": [
+              130,
+              153
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dqz37oUW4AEJxWX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dqz37oUW4AEJxWX.jpg",
+            "url": "https://t.co/ZYzzgD5JeO",
+            "display_url": "pic.twitter.com/ZYzzgD5JeO",
+            "expanded_url": "https://twitter.com/Sankei_news/status/1057493014153781248/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1024,
+                "h": 807,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 807,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1057492616340799489,
+            "id_str": "1057492616340799489",
+            "indices": [
+              130,
+              153
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dqz37oWXgAETav6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dqz37oWXgAETav6.jpg",
+            "url": "https://t.co/ZYzzgD5JeO",
+            "display_url": "pic.twitter.com/ZYzzgD5JeO",
+            "expanded_url": "https://twitter.com/Sankei_news/status/1057493014153781248/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 564,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 375,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 564,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          },
+          {
+            "id": 1057492616349208576,
+            "id_str": "1057492616349208576",
+            "indices": [
+              130,
+              153
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dqz37oYX0AADsZf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dqz37oYX0AADsZf.jpg",
+            "url": "https://t.co/ZYzzgD5JeO",
+            "display_url": "pic.twitter.com/ZYzzgD5JeO",
+            "expanded_url": "https://twitter.com/Sankei_news/status/1057493014153781248/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 683,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 683,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 454,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1057492616332369921,
+            "id_str": "1057492616332369921",
+            "indices": [
+              130,
+              153
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dqz37oUW4AEJxWX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dqz37oUW4AEJxWX.jpg",
+            "url": "https://t.co/ZYzzgD5JeO",
+            "display_url": "pic.twitter.com/ZYzzgD5JeO",
+            "expanded_url": "https://twitter.com/Sankei_news/status/1057493014153781248/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1024,
+                "h": 807,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 807,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 223,
+    "reply_count": 61,
+    "retweet_count": 1382,
+    "favorite_count": 1992,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/7gaLVZFqSt",
+          "expanded_url": "https://www.sankei.com/politics/news/181031/plt1810310029-n1.html",
+          "display_url": "sankei.com/politics/news/…",
+          "indices": [
+            26,
+            49
+          ]
+        },
+        {
+          "url": "https://t.co/Y1SaJU6bem",
+          "expanded_url": "https://twitter.com/i/web/status/1057493014153781248",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/7gaLVZFqSt",
+        "expanded_url": "https://www.sankei.com/politics/news/181031/plt1810310029-n1.html",
+        "display_url": "sankei.com/politics/news/…",
+        "indices": [
+          43,
+          66
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Sankei_news",
+        "name": "産経ニュース",
+        "id": 562773398,
+        "id_str": "562773398",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255041657"
+}

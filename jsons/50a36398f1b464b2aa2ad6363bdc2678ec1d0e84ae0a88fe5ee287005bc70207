@@ -1,0 +1,344 @@
+{
+  "created_at": "Sat Nov 03 14:15:41 +0000 2018",
+  "id": 1058724399577088000,
+  "id_str": "1058724399577088000",
+  "text": "RT @359456: さよ朝は実質シンフォギア\n#暴論 https://t.co/rR4iFCKSgB",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 581858342,
+    "id_str": "581858342",
+    "name": "ZET XV@🦒＜さよ朝を見てください。わかります",
+    "screen_name": "359456",
+    "location": "西風の吹く街",
+    "url": "http://nicovideo.jp/mylist/53011778",
+    "description": "MADをメインに作ったりしています／シンフォギアッ！ワイルドアームズッ！プリキュアッ！スタァライトッ！Fateッ！(勉強中)／無言フォロー大歓迎。こちらも無言フォロー失礼します／お題とか質問箱→https://bit.ly/2P3KGDX",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 885,
+    "friends_count": 967,
+    "listed_count": 30,
+    "favourites_count": 8194,
+    "statuses_count": 20090,
+    "created_at": "Wed May 16 14:01:10 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1024604371458248704/mlhwMtW8_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024604371458248704/mlhwMtW8_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/581858342/1520699849",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Mar 14 14:34:10 +0000 2018",
+    "id": 973930288333008896,
+    "id_str": "973930288333008896",
+    "text": "さよ朝は実質シンフォギア\n#暴論 https://t.co/rR4iFCKSgB",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 581858342,
+      "id_str": "581858342",
+      "name": "ZET XV@🦒＜さよ朝を見てください。わかります",
+      "screen_name": "359456",
+      "location": "西風の吹く街",
+      "url": "http://nicovideo.jp/mylist/53011778",
+      "description": "MADをメインに作ったりしています／シンフォギアッ！ワイルドアームズッ！プリキュアッ！スタァライトッ！Fateッ！(勉強中)／無言フォロー大歓迎。こちらも無言フォロー失礼します／お題とか質問箱→https://bit.ly/2P3KGDX",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 885,
+      "friends_count": 967,
+      "listed_count": 30,
+      "favourites_count": 8194,
+      "statuses_count": 20089,
+      "created_at": "Wed May 16 14:01:10 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024604371458248704/mlhwMtW8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024604371458248704/mlhwMtW8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/581858342/1520699849",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 18,
+    "favorite_count": 42,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "暴論",
+          "indices": [
+            13,
+            16
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 973930114504302593,
+          "id_str": "973930114504302593",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/DYQYR28VoAEIWMg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DYQYR28VoAEIWMg.jpg",
+          "url": "https://t.co/rR4iFCKSgB",
+          "display_url": "pic.twitter.com/rR4iFCKSgB",
+          "expanded_url": "https://twitter.com/359456/status/973930288333008896/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 251,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 966,
+              "h": 357,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 966,
+              "h": 357,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 973930114504302593,
+          "id_str": "973930114504302593",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/DYQYR28VoAEIWMg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DYQYR28VoAEIWMg.jpg",
+          "url": "https://t.co/rR4iFCKSgB",
+          "display_url": "pic.twitter.com/rR4iFCKSgB",
+          "expanded_url": "https://twitter.com/359456/status/973930288333008896/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 251,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 966,
+              "h": 357,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 966,
+              "h": 357,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "暴論",
+        "indices": [
+          25,
+          28
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "359456",
+        "name": "ZET XV@🦒＜さよ朝を見てください。わかります",
+        "id": 581858342,
+        "id_str": "581858342",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 973930114504302593,
+        "id_str": "973930114504302593",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/media/DYQYR28VoAEIWMg.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DYQYR28VoAEIWMg.jpg",
+        "url": "https://t.co/rR4iFCKSgB",
+        "display_url": "pic.twitter.com/rR4iFCKSgB",
+        "expanded_url": "https://twitter.com/359456/status/973930288333008896/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 251,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 966,
+            "h": 357,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 966,
+            "h": 357,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 973930288333008896,
+        "source_status_id_str": "973930288333008896",
+        "source_user_id": 581858342,
+        "source_user_id_str": "581858342"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 973930114504302593,
+        "id_str": "973930114504302593",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/media/DYQYR28VoAEIWMg.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DYQYR28VoAEIWMg.jpg",
+        "url": "https://t.co/rR4iFCKSgB",
+        "display_url": "pic.twitter.com/rR4iFCKSgB",
+        "expanded_url": "https://twitter.com/359456/status/973930288333008896/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 251,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 966,
+            "h": 357,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 966,
+            "h": 357,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 973930288333008896,
+        "source_status_id_str": "973930288333008896",
+        "source_user_id": 581858342,
+        "source_user_id_str": "581858342"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254541664"
+}

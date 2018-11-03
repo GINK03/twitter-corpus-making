@@ -1,0 +1,133 @@
+{
+  "created_at": "Sat Nov 03 14:24:24 +0000 2018",
+  "id": 1058726592128606208,
+  "id_str": "1058726592128606208",
+  "text": "【ロンドン ハイドパーク】50周\n頁12-骨11\n#FGO周回カウンタ https://t.co/sk5nN9rMHs\n\n--\n\n骨が33%も下振れるというスーパー塩ドロップ率だった(´；ω；｀)\nしかしなんとか直近で欲しかった頁… https://t.co/WJ9mG7nacc",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 909798779330600962,
+    "id_str": "909798779330600962",
+    "name": "こ＠FGO",
+    "screen_name": "ko_fgo",
+    "location": null,
+    "url": null,
+    "description": "FGOメインです。ライト勢でアナデン、FEH、バンドリもやっています（ ・∇・)  フレンド様へ：術枠は凸ランチ固定、サポに未凸礼装を置かない、の厳守をお願いします（もちろん私も守ります）",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2345,
+    "friends_count": 2320,
+    "listed_count": 39,
+    "favourites_count": 42234,
+    "statuses_count": 13757,
+    "created_at": "Mon Sep 18 15:18:27 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "585A5A",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/980519296689491970/HzAoZIDD_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/980519296689491970/HzAoZIDD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/909798779330600962/1522713114",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "【ロンドン ハイドパーク】50周\n頁12-骨11\n#FGO周回カウンタ https://t.co/sk5nN9rMHs\n\n--\n\n骨が33%も下振れるというスーパー塩ドロップ率だった(´；ω；｀)\nしかしなんとか直近で欲しかった頁96個がこれで集まったのでようやく冬木に行けます！（ ・∇・）",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO周回カウンタ",
+          "indices": [
+            25,
+            35
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sk5nN9rMHs",
+          "expanded_url": "http://aoshirobo.net/fatego/rc/",
+          "display_url": "aoshirobo.net/fatego/rc/",
+          "indices": [
+            36,
+            59
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO周回カウンタ",
+        "indices": [
+          25,
+          35
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/sk5nN9rMHs",
+        "expanded_url": "http://aoshirobo.net/fatego/rc/",
+        "display_url": "aoshirobo.net/fatego/rc/",
+        "indices": [
+          36,
+          59
+        ]
+      },
+      {
+        "url": "https://t.co/WJ9mG7nacc",
+        "expanded_url": "https://twitter.com/i/web/status/1058726592128606208",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255064409"
+}

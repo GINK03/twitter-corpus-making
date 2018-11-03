@@ -1,0 +1,157 @@
+{
+  "created_at": "Sat Nov 03 14:02:04 +0000 2018",
+  "id": 1058720971312381953,
+  "id_str": "1058720971312381953",
+  "text": "容量、ざっと見ようとしたら結構時間かかった…こんな感じでまさかのfgoがダントツで容量くってるのは草 https://t.co/KIVKUWlOFc",
+  "display_text_range": [
+    0,
+    50
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 138032055,
+    "id_str": "138032055",
+    "name": "ひろっぷ",
+    "screen_name": "hirop573",
+    "location": "関西",
+    "url": "http://twpf.jp/hirop573",
+    "description": "最近は黒猫やMA色々…ソシャゲ据え置き問わずゲーム色々でうるさい垢/成人腐/創作する/細かいのはツイプロへ     ▼ネタバレ兼避難垢→@765hirop573 ▼創作畑→@homo_hirop",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 616,
+    "friends_count": 600,
+    "listed_count": 53,
+    "favourites_count": 3205,
+    "statuses_count": 167054,
+    "created_at": "Wed Apr 28 12:52:33 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "FA743E",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1053280621319999488/4RaKTNMp_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053280621319999488/4RaKTNMp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/138032055/1492096491",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058720964861542406,
+        "id_str": "1058720964861542406",
+        "indices": [
+          51,
+          74
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFVG7LUwAY80xo.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFVG7LUwAY80xo.jpg",
+        "url": "https://t.co/KIVKUWlOFc",
+        "display_url": "pic.twitter.com/KIVKUWlOFc",
+        "expanded_url": "https://twitter.com/hirop573/status/1058720971312381953/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 527,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 750,
+            "h": 968,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 750,
+            "h": 968,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058720964861542406,
+        "id_str": "1058720964861542406",
+        "indices": [
+          51,
+          74
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFVG7LUwAY80xo.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFVG7LUwAY80xo.jpg",
+        "url": "https://t.co/KIVKUWlOFc",
+        "display_url": "pic.twitter.com/KIVKUWlOFc",
+        "expanded_url": "https://twitter.com/hirop573/status/1058720971312381953/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 527,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 750,
+            "h": 968,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 750,
+            "h": 968,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253724302"
+}

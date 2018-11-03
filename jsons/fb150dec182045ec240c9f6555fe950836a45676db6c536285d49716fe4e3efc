@@ -1,0 +1,180 @@
+{
+  "created_at": "Sat Nov 03 14:21:32 +0000 2018",
+  "id": 1058725871781998592,
+  "id_str": "1058725871781998592",
+  "text": "明日愛知県立芸術大学芸術祭最終日\n13:00　室内楽ホール来て欲しいです　推しのコンサート「たんぽぽ」\nフランスの作曲家ペソンの作品二曲の再演と、東京音楽大学大学院の尾方凜斗さんのエスクラリネット独奏曲の初演をします。　たんぽぽで… https://t.co/IvI014QRZf",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2692884956,
+    "id_str": "2692884956",
+    "name": "Junnosuke  Nomoto :",
+    "screen_name": "6chata25",
+    "location": null,
+    "url": null,
+    "description": "愛知県立芸術大学　clarinet　　　　　　　　　　　　",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 629,
+    "friends_count": 619,
+    "listed_count": 0,
+    "favourites_count": 1956,
+    "statuses_count": 773,
+    "created_at": "Wed Jul 30 13:21:28 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1023346050499637250/K4hKR9FE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1023346050499637250/K4hKR9FE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2692884956/1533192175",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "明日愛知県立芸術大学芸術祭最終日\n13:00　室内楽ホール来て欲しいです　推しのコンサート「たんぽぽ」\nフランスの作曲家ペソンの作品二曲の再演と、東京音楽大学大学院の尾方凜斗さんのエスクラリネット独奏曲の初演をします。　たんぽぽでしか聴けない音が響きます。是非です。 https://t.co/j7ANHlaU1L",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058725865192734720,
+          "id_str": "1058725865192734720",
+          "indices": [
+            134,
+            157
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFZkKVUwAADvPy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFZkKVUwAADvPy.jpg",
+          "url": "https://t.co/j7ANHlaU1L",
+          "display_url": "pic.twitter.com/j7ANHlaU1L",
+          "expanded_url": "https://twitter.com/6chata25/status/1058725871781998592/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 848,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1076,
+              "h": 1522,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058725865192734720,
+          "id_str": "1058725865192734720",
+          "indices": [
+            134,
+            157
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFZkKVUwAADvPy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFZkKVUwAADvPy.jpg",
+          "url": "https://t.co/j7ANHlaU1L",
+          "display_url": "pic.twitter.com/j7ANHlaU1L",
+          "expanded_url": "https://twitter.com/6chata25/status/1058725871781998592/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 848,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1076,
+              "h": 1522,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/IvI014QRZf",
+        "expanded_url": "https://twitter.com/i/web/status/1058725871781998592",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254892665"
+}

@@ -1,0 +1,123 @@
+{
+  "created_at": "Sat Nov 03 14:22:07 +0000 2018",
+  "id": 1058726018570043392,
+  "id_str": "1058726018570043392",
+  "text": "【救急連携：発生】[23:20頃]\n市川市鬼越1丁目14番付近\n（市川市消防局）\nhttps://t.co/uK2ztQyLWw https://t.co/t99NJK563h\n#ichikawa #市川 #消防 #災害",
+  "source": "<a href=\"http://www.mk-mode.com/\" rel=\"nofollow\">Mk00JapanBot</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4711220414,
+    "id_str": "4711220414",
+    "name": "消防災害：全国※非公式Bot",
+    "screen_name": "Mk00Japan",
+    "location": "Ruby City MATSUE 🇯🇵",
+    "url": "http://bit.ly/2w06maF",
+    "description": "全国の消防局／本部管内の災害／消防出動情報を著作権法上認められる範囲内で引用してツイート #消防 #災害 ※趣味の応用 ※正常にツイートできなかったり、予告なく運用を停止する可能性あり ※一覧／注意事項 http://bit.ly/2w06maF ★管理者 @rsm_mzk",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 4827,
+    "friends_count": 6,
+    "listed_count": 132,
+    "favourites_count": 0,
+    "statuses_count": 770978,
+    "created_at": "Tue Jan 05 01:15:57 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "B22222",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/899190955785371648/OVcY1BIk_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/899190955785371648/OVcY1BIk_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4711220414/1451956774",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ichikawa",
+        "indices": [
+          89,
+          98
+        ]
+      },
+      {
+        "text": "市川",
+        "indices": [
+          99,
+          102
+        ]
+      },
+      {
+        "text": "消防",
+        "indices": [
+          103,
+          106
+        ]
+      },
+      {
+        "text": "災害",
+        "indices": [
+          107,
+          110
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/uK2ztQyLWw",
+        "expanded_url": "http://bit.ly/1v0awYC",
+        "display_url": "bit.ly/1v0awYC",
+        "indices": [
+          41,
+          64
+        ]
+      },
+      {
+        "url": "https://t.co/t99NJK563h",
+        "expanded_url": "http://bit.ly/2w06maF",
+        "display_url": "bit.ly/2w06maF",
+        "indices": [
+          65,
+          88
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254927662"
+}

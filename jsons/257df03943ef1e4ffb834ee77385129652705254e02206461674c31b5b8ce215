@@ -1,0 +1,92 @@
+{
+  "created_at": "Sat Nov 03 14:05:28 +0000 2018",
+  "id": 1058721827910967296,
+  "id_str": "1058721827910967296",
+  "text": "【生放送】（蜘蛛男）『親愛なる隣人業、終盤』（グラブル/FGO/そのほか） を開始しました。 https://t.co/iTly7TJC1i #lv316667156",
+  "source": "<a href=\"http://www.nicovideo.jp/\" rel=\"nofollow\">niconico ニコレポ連携</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 241866049,
+    "id_str": "241866049",
+    "name": "ペシェ",
+    "screen_name": "pecher24nico",
+    "location": null,
+    "url": null,
+    "description": "放送用！！",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 60,
+    "friends_count": 53,
+    "listed_count": 3,
+    "favourites_count": 0,
+    "statuses_count": 5687,
+    "created_at": "Sun Jan 23 09:54:06 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1223444687/0b64eccb_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223444687/0b64eccb_normal.jpg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "lv316667156",
+        "indices": [
+          71,
+          83
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/iTly7TJC1i",
+        "expanded_url": "http://nico.ms/lv316667156?nicorepotwitter_live_start",
+        "display_url": "nico.ms/lv316667156?ni…",
+        "indices": [
+          47,
+          70
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253928531"
+}

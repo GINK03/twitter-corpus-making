@@ -1,0 +1,166 @@
+{
+  "created_at": "Sat Nov 03 14:27:24 +0000 2018",
+  "id": 1058727348168736769,
+  "id_str": "1058727348168736769",
+  "text": "和氣あず未ちゃん(24)がガチで可愛すぎる件 https://t.co/FhPRyLheot https://t.co/kyXcJPlIAv",
+  "display_text_range": [
+    0,
+    46
+  ],
+  "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 940533153499815936,
+    "id_str": "940533153499815936",
+    "name": "aya channel",
+    "screen_name": "aya47532957",
+    "location": null,
+    "url": null,
+    "description": "こんにちは☆無言フォロー失礼します😌アニメ、ゲーム大好きです😊 アニメやゲーム関連の情報をご提供いたします😁もちろん無言フォローokです😆",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 58,
+    "friends_count": 54,
+    "listed_count": 1,
+    "favourites_count": 96,
+    "statuses_count": 24627,
+    "created_at": "Tue Dec 12 10:45:52 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/940535132372451328/Wui6mVG2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/940535132372451328/Wui6mVG2_normal.jpg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/FhPRyLheot",
+        "expanded_url": "https://udanews.com/?p=58835",
+        "display_url": "udanews.com/?p=58835",
+        "indices": [
+          23,
+          46
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058727346310590465,
+        "id_str": "1058727346310590465",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFa6X7VsAERmJ5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFa6X7VsAERmJ5.jpg",
+        "url": "https://t.co/kyXcJPlIAv",
+        "display_url": "pic.twitter.com/kyXcJPlIAv",
+        "expanded_url": "https://twitter.com/aya47532957/status/1058727348168736769/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 300,
+            "h": 300,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 300,
+            "h": 300,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 300,
+            "h": 300,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058727346310590465,
+        "id_str": "1058727346310590465",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFa6X7VsAERmJ5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFa6X7VsAERmJ5.jpg",
+        "url": "https://t.co/kyXcJPlIAv",
+        "display_url": "pic.twitter.com/kyXcJPlIAv",
+        "expanded_url": "https://twitter.com/aya47532957/status/1058727348168736769/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 300,
+            "h": 300,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 300,
+            "h": 300,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 300,
+            "h": 300,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255244663"
+}

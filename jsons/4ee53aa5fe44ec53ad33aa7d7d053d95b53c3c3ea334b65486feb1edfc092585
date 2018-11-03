@@ -1,0 +1,420 @@
+{
+  "created_at": "Sat Nov 03 14:18:20 +0000 2018",
+  "id": 1058725066475692038,
+  "id_str": "1058725066475692038",
+  "text": "RT @kotorito_boo: 公式練習のとき、羽生くんが会場の上の方をじっと見ていた、というので…\n\n#羽生結弦 https://t.co/XtAi68PRZR",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3191932381,
+    "id_str": "3191932381",
+    "name": "Meily",
+    "screen_name": "meiflute27",
+    "location": "Жизнь только один раз.",
+    "url": "http://twpf.jp/meiflute27",
+    "description": "＊Favorite Sk8ers＊Yuzuru.H/Mitsuki.S/Rika.K/Satoko.M/Elizabet.T/Elizaveta.T/Boyang.J/Mai.M/Polina.T 19歳大学2年生・ロシア語専門 Next→全日本男子FS 今季の目標は全試合リアタイ",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 166,
+    "friends_count": 405,
+    "listed_count": 6,
+    "favourites_count": 86490,
+    "statuses_count": 45011,
+    "created_at": "Mon May 11 08:58:49 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/998075205154103296/2Mwv07sv_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/998075205154103296/2Mwv07sv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3191932381/1539264211",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 03:20:45 +0000 2018",
+    "id": 1058559579036864512,
+    "id_str": "1058559579036864512",
+    "text": "公式練習のとき、羽生くんが会場の上の方をじっと見ていた、というので…\n\n#羽生結弦 https://t.co/XtAi68PRZR",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 710106248629202944,
+      "id_str": "710106248629202944",
+      "name": "KENTA▼・ω・▼",
+      "screen_name": "kotorito_boo",
+      "location": "出生時：福岡",
+      "url": null,
+      "description": "きれい☆かわいい ♡楽しい♪大好き！ 羽生結弦くん応援中 ♡\nフォローするも外すも、ご自由にお願いします。わざわざDMいただいても本人気づかないこと多し！なのです、ごめんなさい。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 830,
+      "friends_count": 108,
+      "listed_count": 9,
+      "favourites_count": 8501,
+      "statuses_count": 24695,
+      "created_at": "Wed Mar 16 14:11:37 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "91D2FA",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/997114389986607105/xXxlIjNj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/997114389986607105/xXxlIjNj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/710106248629202944/1539918807",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 74,
+    "favorite_count": 360,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "羽生結弦",
+          "indices": [
+            36,
+            41
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058559257526718464,
+          "id_str": "1058559257526718464",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDCCUaU0AA1rvj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDCCUaU0AA1rvj.jpg",
+          "url": "https://t.co/XtAi68PRZR",
+          "display_url": "pic.twitter.com/XtAi68PRZR",
+          "expanded_url": "https://twitter.com/kotorito_boo/status/1058559579036864512/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 964,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 547,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1228,
+              "h": 987,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058559257526718464,
+          "id_str": "1058559257526718464",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDCCUaU0AA1rvj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDCCUaU0AA1rvj.jpg",
+          "url": "https://t.co/XtAi68PRZR",
+          "display_url": "pic.twitter.com/XtAi68PRZR",
+          "expanded_url": "https://twitter.com/kotorito_boo/status/1058559579036864512/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 964,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 547,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1228,
+              "h": 987,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058559282667352064,
+          "id_str": "1058559282667352064",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDCDyEUcAAf0oc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDCDyEUcAAf0oc.jpg",
+          "url": "https://t.co/XtAi68PRZR",
+          "display_url": "pic.twitter.com/XtAi68PRZR",
+          "expanded_url": "https://twitter.com/kotorito_boo/status/1058559579036864512/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 591,
+              "h": 402,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 591,
+              "h": 402,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 591,
+              "h": 402,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "羽生結弦",
+        "indices": [
+          54,
+          59
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "kotorito_boo",
+        "name": "KENTA▼・ω・▼",
+        "id": 710106248629202944,
+        "id_str": "710106248629202944",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058559257526718464,
+        "id_str": "1058559257526718464",
+        "indices": [
+          60,
+          83
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDCCUaU0AA1rvj.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDCCUaU0AA1rvj.jpg",
+        "url": "https://t.co/XtAi68PRZR",
+        "display_url": "pic.twitter.com/XtAi68PRZR",
+        "expanded_url": "https://twitter.com/kotorito_boo/status/1058559579036864512/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 964,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 547,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1228,
+            "h": 987,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058559579036864512,
+        "source_status_id_str": "1058559579036864512",
+        "source_user_id": 710106248629202944,
+        "source_user_id_str": "710106248629202944"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058559257526718464,
+        "id_str": "1058559257526718464",
+        "indices": [
+          60,
+          83
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDCCUaU0AA1rvj.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDCCUaU0AA1rvj.jpg",
+        "url": "https://t.co/XtAi68PRZR",
+        "display_url": "pic.twitter.com/XtAi68PRZR",
+        "expanded_url": "https://twitter.com/kotorito_boo/status/1058559579036864512/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 964,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 547,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1228,
+            "h": 987,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058559579036864512,
+        "source_status_id_str": "1058559579036864512",
+        "source_user_id": 710106248629202944,
+        "source_user_id_str": "710106248629202944"
+      },
+      {
+        "id": 1058559282667352064,
+        "id_str": "1058559282667352064",
+        "indices": [
+          60,
+          83
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDCDyEUcAAf0oc.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDCDyEUcAAf0oc.jpg",
+        "url": "https://t.co/XtAi68PRZR",
+        "display_url": "pic.twitter.com/XtAi68PRZR",
+        "expanded_url": "https://twitter.com/kotorito_boo/status/1058559579036864512/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 591,
+            "h": 402,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 591,
+            "h": 402,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 591,
+            "h": 402,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058559579036864512,
+        "source_status_id_str": "1058559579036864512",
+        "source_user_id": 710106248629202944,
+        "source_user_id_str": "710106248629202944"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254700665"
+}

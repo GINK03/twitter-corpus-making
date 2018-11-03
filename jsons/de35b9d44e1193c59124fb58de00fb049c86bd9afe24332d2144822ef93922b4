@@ -1,0 +1,123 @@
+{
+  "created_at": "Sat Nov 03 14:19:32 +0000 2018",
+  "id": 1058725368436219906,
+  "id_str": "1058725368436219906",
+  "text": "@genei_1 ん～～……まず轟くんは高いとこ大丈夫なのと……あとは肺活量の問題か……？？🤔🤔(真面目に考える)\nあの時点でもう完全に夫婦🙄🙄🙄←← アニメだと名前呼んでるしほんともうむりみが強すぎない？？？すき…🙄🙄💕💕🎊🎊… https://t.co/lKfsdNszDC",
+  "display_text_range": [
+    9,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": true,
+  "in_reply_to_status_id": 1058203283284623360,
+  "in_reply_to_status_id_str": "1058203283284623360",
+  "in_reply_to_user_id": 1000407266862891008,
+  "in_reply_to_user_id_str": "1000407266862891008",
+  "in_reply_to_screen_name": "genei_1",
+  "user": {
+    "id": 1027006317855047681,
+    "id_str": "1027006317855047681",
+    "name": "たまゆ",
+    "screen_name": "_Ta_m_A_",
+    "location": "とどいずロリポップランド",
+    "url": null,
+    "description": "18↑ MHA垢/轟出がすき ましゅまhttps://marshmallow-qa.com/_ta_m_a_?utm_medium=twitter&utm_source=answer",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 178,
+    "friends_count": 83,
+    "listed_count": 18,
+    "favourites_count": 4052,
+    "statuses_count": 4154,
+    "created_at": "Wed Aug 08 01:39:21 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1045844981645160449/cZ58kV8e_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045844981645160449/cZ58kV8e_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1027006317855047681/1540644853",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "@genei_1 ん～～……まず轟くんは高いとこ大丈夫なのと……あとは肺活量の問題か……？？🤔🤔(真面目に考える)\nあの時点でもう完全に夫婦🙄🙄🙄←← アニメだと名前呼んでるしほんともうむりみが強すぎない？？？すき…🙄🙄💕💕🎊🎊\n正常幻影ログアウトした…😢💦💦\nたまゆブランドパないね〜?!おいくらかな…🤭",
+    "display_text_range": [
+      9,
+      153
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "genei_1",
+          "name": "幻影",
+          "id": 1000407266862891008,
+          "id_str": "1000407266862891008",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/lKfsdNszDC",
+        "expanded_url": "https://twitter.com/i/web/status/1058725368436219906",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "genei_1",
+        "name": "幻影",
+        "id": 1000407266862891008,
+        "id_str": "1000407266862891008",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254772658"
+}

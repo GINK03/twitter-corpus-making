@@ -1,0 +1,265 @@
+{
+  "created_at": "Sat Nov 03 14:22:24 +0000 2018",
+  "id": 1058726089889988608,
+  "id_str": "1058726089889988608",
+  "text": "「あらー、お煎茶と抹茶大福ですかー。いいですねー」 https://t.co/1uRZFJL6As",
+  "display_text_range": [
+    0,
+    25
+  ],
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058717396947501056,
+  "in_reply_to_status_id_str": "1058717396947501056",
+  "in_reply_to_user_id": 759867593532448768,
+  "in_reply_to_user_id_str": "759867593532448768",
+  "in_reply_to_screen_name": "yamataka75217",
+  "user": {
+    "id": 759867593532448768,
+    "id_str": "759867593532448768",
+    "name": "やまと高岡房",
+    "screen_name": "yamataka75217",
+    "location": null,
+    "url": null,
+    "description": "駅メモ用アカウントです。 素晴らしいアイコンは 真夜中二時過ぎ(@__solo)さんより。素敵なヘッダー画像は なんでも部長(@Nurcy7)さんより。中の人は生え際とメタボが笑えなくなってきたmiddle 30'sです。 #駅メモウイスキー部 ほぼ毎日。 #でんことスイーツ 特別な日に。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 706,
+    "friends_count": 760,
+    "listed_count": 15,
+    "favourites_count": 49942,
+    "statuses_count": 30230,
+    "created_at": "Sun Jul 31 21:45:26 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1043114985289744386/e0UtI0tm_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043114985289744386/e0UtI0tm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/759867593532448768/1539190727",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058726082474430464,
+        "id_str": "1058726082474430464",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZwzxUUAAiIxG.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZwzxUUAAiIxG.jpg",
+        "url": "https://t.co/1uRZFJL6As",
+        "display_url": "pic.twitter.com/1uRZFJL6As",
+        "expanded_url": "https://twitter.com/yamataka75217/status/1058726089889988608/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 2048,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058726082474430464,
+        "id_str": "1058726082474430464",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZwzxUUAAiIxG.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZwzxUUAAiIxG.jpg",
+        "url": "https://t.co/1uRZFJL6As",
+        "display_url": "pic.twitter.com/1uRZFJL6As",
+        "expanded_url": "https://twitter.com/yamataka75217/status/1058726089889988608/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 2048,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058726082478657536,
+        "id_str": "1058726082478657536",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZwzyU0AAnz75.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZwzyU0AAnz75.jpg",
+        "url": "https://t.co/1uRZFJL6As",
+        "display_url": "pic.twitter.com/1uRZFJL6As",
+        "expanded_url": "https://twitter.com/yamataka75217/status/1058726089889988608/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 1136,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 1136,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058726082491236354,
+        "id_str": "1058726082491236354",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZwz1UwAIC57P.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZwz1UwAIC57P.jpg",
+        "url": "https://t.co/1uRZFJL6As",
+        "display_url": "pic.twitter.com/1uRZFJL6As",
+        "expanded_url": "https://twitter.com/yamataka75217/status/1058726089889988608/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 2048,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058726082487013377,
+        "id_str": "1058726082487013377",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZwz0UUAE7ujh.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZwz0UUAE7ujh.jpg",
+        "url": "https://t.co/1uRZFJL6As",
+        "display_url": "pic.twitter.com/1uRZFJL6As",
+        "expanded_url": "https://twitter.com/yamataka75217/status/1058726089889988608/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 640,
+            "h": 1136,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 1136,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254944666"
+}

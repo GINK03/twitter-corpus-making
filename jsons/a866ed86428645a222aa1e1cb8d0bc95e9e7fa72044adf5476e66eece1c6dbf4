@@ -1,0 +1,123 @@
+{
+  "created_at": "Sat Nov 03 14:05:46 +0000 2018",
+  "id": 1058721904507346946,
+  "id_str": "1058721904507346946",
+  "text": "@happy_hpmi なるほど！💡✨ \nFGOゆるゆるまったりやってます！ふふ✨ 杏子さんの推しが気になるところ🤔✨ わーっ💦下らない事ばかりなのに優しい💦\n身長順に並んでるのも可愛くてですね😂💓\nせんせは神ですから、どぽがこう… https://t.co/woCdczSSmL",
+  "display_text_range": [
+    12,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": true,
+  "in_reply_to_status_id": 1058690413395988482,
+  "in_reply_to_status_id_str": "1058690413395988482",
+  "in_reply_to_user_id": 1057635323155365889,
+  "in_reply_to_user_id_str": "1057635323155365889",
+  "in_reply_to_screen_name": "happy_hpmi",
+  "user": {
+    "id": 1359882416,
+    "id_str": "1359882416",
+    "name": "コハク(右)",
+    "screen_name": "tksks33",
+    "location": null,
+    "url": "http://twpf.jp/tksks33",
+    "description": "成人済みレイヤー。地雷なし。何でも美味しい。ぺど。無言ふぁぼフォローすみません！好きです！ 🌠🔧と💚💜と👔🥂を求め彷徨う\n好き:ヒプマイ/ペダル/キンプリ/鉄オル/商業BL/オトカドール/平沢進/ゼルダの伝説/幼女/ラブプラス",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 335,
+    "friends_count": 644,
+    "listed_count": 30,
+    "favourites_count": 23617,
+    "statuses_count": 12983,
+    "created_at": "Wed Apr 17 16:57:34 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056558421187616768/V2ADvzuO_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056558421187616768/V2ADvzuO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359882416/1523113820",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "@happy_hpmi なるほど！💡✨ \nFGOゆるゆるまったりやってます！ふふ✨ 杏子さんの推しが気になるところ🤔✨ わーっ💦下らない事ばかりなのに優しい💦\n身長順に並んでるのも可愛くてですね😂💓\nせんせは神ですから、どぽがこうなるのも分かります。笑\n「ふふ…💠」って言いながら撫でてますね！💓",
+    "display_text_range": [
+      12,
+      148
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "happy_hpmi",
+          "name": "🍔お絵かきﾊｯﾋﾟ–ｾｯﾄ🍟",
+          "id": 1057635323155365889,
+          "id_str": "1057635323155365889",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/woCdczSSmL",
+        "expanded_url": "https://twitter.com/i/web/status/1058721904507346946",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "happy_hpmi",
+        "name": "🍔お絵かきﾊｯﾋﾟ–ｾｯﾄ🍟",
+        "id": 1057635323155365889,
+        "id_str": "1057635323155365889",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253946793"
+}

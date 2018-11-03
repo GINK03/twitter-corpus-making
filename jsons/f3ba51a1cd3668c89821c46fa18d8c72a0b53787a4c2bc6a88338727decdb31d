@@ -1,0 +1,396 @@
+{
+  "created_at": "Sat Nov 03 14:26:03 +0000 2018",
+  "id": 1058727008429998081,
+  "id_str": "1058727008429998081",
+  "text": "RT @ryusan_14: アホすぎんだよなあ😂😂😂 https://t.co/T4wej9ZKsN",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2828133392,
+    "id_str": "2828133392",
+    "name": "ほうじ茶",
+    "screen_name": "Chrono_trigger5",
+    "location": "⑨番茶",
+    "url": null,
+    "description": "遊戯王など好きな人です  淫ク☆要素はあります｡   かなり不快なツイートしかしません",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1062,
+    "friends_count": 678,
+    "listed_count": 16,
+    "favourites_count": 54601,
+    "statuses_count": 42021,
+    "created_at": "Tue Sep 23 14:19:56 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056501836830539777/V9SuGbDX_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056501836830539777/V9SuGbDX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2828133392/1535221486",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Oct 31 12:08:35 +0000 2018",
+    "id": 1057605247684628481,
+    "id_str": "1057605247684628481",
+    "text": "アホすぎんだよなあ😂😂😂 https://t.co/T4wej9ZKsN",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3301624378,
+      "id_str": "3301624378",
+      "name": "ハイジ系男子スコ( •̀∀•́ )✧",
+      "screen_name": "ryusan_14",
+      "location": null,
+      "url": null,
+      "description": null,
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1356,
+      "friends_count": 653,
+      "listed_count": 6,
+      "favourites_count": 5667,
+      "statuses_count": 6827,
+      "created_at": "Thu May 28 11:06:22 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1057474326360809472/DhjJF-Ji_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057474326360809472/DhjJF-Ji_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3301624378/1536969524",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 70,
+    "reply_count": 36,
+    "retweet_count": 1921,
+    "favorite_count": 4818,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1057605188008067072,
+          "id_str": "1057605188008067072",
+          "indices": [
+            13,
+            36
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057605188008067072/pu/img/alLzxW62RSfxBx23.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057605188008067072/pu/img/alLzxW62RSfxBx23.jpg",
+          "url": "https://t.co/T4wej9ZKsN",
+          "display_url": "pic.twitter.com/T4wej9ZKsN",
+          "expanded_url": "https://twitter.com/ryusan_14/status/1057605247684628481/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1057605188008067072,
+          "id_str": "1057605188008067072",
+          "indices": [
+            13,
+            36
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057605188008067072/pu/img/alLzxW62RSfxBx23.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057605188008067072/pu/img/alLzxW62RSfxBx23.jpg",
+          "url": "https://t.co/T4wej9ZKsN",
+          "display_url": "pic.twitter.com/T4wej9ZKsN",
+          "expanded_url": "https://twitter.com/ryusan_14/status/1057605247684628481/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 10643,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1057605188008067072/pu/vid/360x640/j0zl61TNAaygXwO-.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1057605188008067072/pu/vid/720x1280/9-KI-B5-FCtkkPtj.mp4?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1057605188008067072/pu/vid/180x320/7WF1phclBysUdlan.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1057605188008067072/pu/pl/vbu5YQ2fiaKJtcDH.m3u8?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "ryusan_14",
+        "name": "ハイジ系男子スコ( •̀∀•́ )✧",
+        "id": 3301624378,
+        "id_str": "3301624378",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1057605188008067072,
+        "id_str": "1057605188008067072",
+        "indices": [
+          28,
+          51
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057605188008067072/pu/img/alLzxW62RSfxBx23.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057605188008067072/pu/img/alLzxW62RSfxBx23.jpg",
+        "url": "https://t.co/T4wej9ZKsN",
+        "display_url": "pic.twitter.com/T4wej9ZKsN",
+        "expanded_url": "https://twitter.com/ryusan_14/status/1057605247684628481/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057605247684628481,
+        "source_status_id_str": "1057605247684628481",
+        "source_user_id": 3301624378,
+        "source_user_id_str": "3301624378"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1057605188008067072,
+        "id_str": "1057605188008067072",
+        "indices": [
+          28,
+          51
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057605188008067072/pu/img/alLzxW62RSfxBx23.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057605188008067072/pu/img/alLzxW62RSfxBx23.jpg",
+        "url": "https://t.co/T4wej9ZKsN",
+        "display_url": "pic.twitter.com/T4wej9ZKsN",
+        "expanded_url": "https://twitter.com/ryusan_14/status/1057605247684628481/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 10643,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1057605188008067072/pu/vid/360x640/j0zl61TNAaygXwO-.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1057605188008067072/pu/vid/720x1280/9-KI-B5-FCtkkPtj.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1057605188008067072/pu/vid/180x320/7WF1phclBysUdlan.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1057605188008067072/pu/pl/vbu5YQ2fiaKJtcDH.m3u8?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057605247684628481,
+        "source_status_id_str": "1057605247684628481",
+        "source_user_id": 3301624378,
+        "source_user_id_str": "3301624378"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255163663"
+}

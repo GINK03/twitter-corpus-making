@@ -1,0 +1,193 @@
+{
+  "created_at": "Sat Nov 03 14:16:27 +0000 2018",
+  "id": 1058724592506662918,
+  "id_str": "1058724592506662918",
+  "text": "うそやん、、 https://t.co/IfGdS03jfs",
+  "display_text_range": [
+    0,
+    6
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 804700528202555393,
+    "id_str": "804700528202555393",
+    "name": "🎀:ぴぴまる!｡:*",
+    "screen_name": "ppares_",
+    "location": "剣道部がいる体育館",
+    "url": null,
+    "description": "❥❥ でぃらんおすくろるすきすきげいにん ⚔️💘 (( 無言フォローはブロ解してます🙏💦 ))",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 13,
+    "friends_count": 17,
+    "listed_count": 1,
+    "favourites_count": 59,
+    "statuses_count": 260,
+    "created_at": "Fri Dec 02 14:55:31 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1057283952552030209/c35wb22l_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057283952552030209/c35wb22l_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/804700528202555393/1541250798",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724582402646019,
+        "id_str": "1058724582402646019",
+        "indices": [
+          7,
+          30
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYZfkVYAMzDca.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYZfkVYAMzDca.jpg",
+        "url": "https://t.co/IfGdS03jfs",
+        "display_url": "pic.twitter.com/IfGdS03jfs",
+        "expanded_url": "https://twitter.com/ppares_/status/1058724592506662918/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 832,
+            "h": 471,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 832,
+            "h": 471,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 385,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724582402646019,
+        "id_str": "1058724582402646019",
+        "indices": [
+          7,
+          30
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYZfkVYAMzDca.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYZfkVYAMzDca.jpg",
+        "url": "https://t.co/IfGdS03jfs",
+        "display_url": "pic.twitter.com/IfGdS03jfs",
+        "expanded_url": "https://twitter.com/ppares_/status/1058724592506662918/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 832,
+            "h": 471,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 832,
+            "h": 471,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 385,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058724586085212160,
+        "id_str": "1058724586085212160",
+        "indices": [
+          7,
+          30
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYZtSU4AA5gaM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYZtSU4AA5gaM.jpg",
+        "url": "https://t.co/IfGdS03jfs",
+        "display_url": "pic.twitter.com/IfGdS03jfs",
+        "expanded_url": "https://twitter.com/ppares_/status/1058724592506662918/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 894,
+            "h": 469,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 357,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 894,
+            "h": 469,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254587662"
+}

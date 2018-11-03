@@ -1,0 +1,576 @@
+{
+  "created_at": "Sat Nov 03 14:25:22 +0000 2018",
+  "id": 1058726836450951170,
+  "id_str": "1058726836450951170",
+  "text": "RT @fashionpressnet: 紙の祭典「紙博」福岡・博多で初開催、人気マスキングテープやステーショナリーなど大集結 - https://t.co/nyYZ1n29K9 https://t.co/JJ7f4jsL7T",
+  "source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 131794038,
+    "id_str": "131794038",
+    "name": "咲夏☆めろ；D",
+    "screen_name": "samyu_sana_uno",
+    "location": "世界遺産登録されたってよ",
+    "url": null,
+    "description": "夢烏タカー歴史ガチ勢注意報。長谷部沼って底無しだよね。多趣味を目指して日々精進。基本人見知り。フォロー/RT ご自由にどうぞ★シャレマニ★世界樹★絶賛のんびりゲーマー★",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 57,
+    "friends_count": 317,
+    "listed_count": 4,
+    "favourites_count": 2439,
+    "statuses_count": 24573,
+    "created_at": "Sun Apr 11 10:21:23 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/720078757399105537/J9fDZVCR_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/720078757399105537/J9fDZVCR_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/131794038/1453990931",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:40:10 +0000 2018",
+    "id": 1058715460059820032,
+    "id_str": "1058715460059820032",
+    "text": "紙の祭典「紙博」福岡・博多で初開催、人気マスキングテープやステーショナリーなど大集結 - https://t.co/nyYZ1n29K9 https://t.co/JJ7f4jsL7T",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "source": "<a href=\"http://www.fashion-press.net/\" rel=\"nofollow\">Fashion Press</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 168816611,
+      "id_str": "168816611",
+      "name": "Fashion Press",
+      "screen_name": "fashionpressnet",
+      "location": null,
+      "url": "http://www.fashion-press.net/",
+      "description": "ファッションWEBマガジン「ファッションプレス」公式アカウント。 【Instagram】http://instagram.com/fashionpressjp【Facebook】http://www.facebook.com/FashionPress.net",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 3141030,
+      "friends_count": 1,
+      "listed_count": 11320,
+      "favourites_count": 1,
+      "statuses_count": 112381,
+      "created_at": "Tue Jul 20 21:38:17 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "343738",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/890882778878758913/U37FSz9D_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/890882778878758913/U37FSz9D_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/168816611/1444307408",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 21,
+    "reply_count": 0,
+    "retweet_count": 226,
+    "favorite_count": 379,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/nyYZ1n29K9",
+          "expanded_url": "https://www.fashion-press.net/news/44352",
+          "display_url": "fashion-press.net/news/44352",
+          "indices": [
+            45,
+            68
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058715446516412416,
+          "id_str": "1058715446516412416",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFQFtvUcAAz7Gu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFQFtvUcAAz7Gu.jpg",
+          "url": "https://t.co/JJ7f4jsL7T",
+          "display_url": "pic.twitter.com/JJ7f4jsL7T",
+          "expanded_url": "https://twitter.com/fashionpressnet/status/1058715460059820032/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 666,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 666,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058715446516412416,
+          "id_str": "1058715446516412416",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFQFtvUcAAz7Gu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFQFtvUcAAz7Gu.jpg",
+          "url": "https://t.co/JJ7f4jsL7T",
+          "display_url": "pic.twitter.com/JJ7f4jsL7T",
+          "expanded_url": "https://twitter.com/fashionpressnet/status/1058715460059820032/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 666,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 666,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058715449771212800,
+          "id_str": "1058715449771212800",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFQF53UwAAqhwP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFQF53UwAAqhwP.jpg",
+          "url": "https://t.co/JJ7f4jsL7T",
+          "display_url": "pic.twitter.com/JJ7f4jsL7T",
+          "expanded_url": "https://twitter.com/fashionpressnet/status/1058715460059820032/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 666,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 666,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058715454544347136,
+          "id_str": "1058715454544347136",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFQGLpVAAABdz_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFQGLpVAAABdz_.jpg",
+          "url": "https://t.co/JJ7f4jsL7T",
+          "display_url": "pic.twitter.com/JJ7f4jsL7T",
+          "expanded_url": "https://twitter.com/fashionpressnet/status/1058715460059820032/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 666,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 666,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058715457824317441,
+          "id_str": "1058715457824317441",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFQGX3VYAE2wYI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFQGX3VYAE2wYI.jpg",
+          "url": "https://t.co/JJ7f4jsL7T",
+          "display_url": "pic.twitter.com/JJ7f4jsL7T",
+          "expanded_url": "https://twitter.com/fashionpressnet/status/1058715460059820032/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 666,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 666,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/nyYZ1n29K9",
+        "expanded_url": "https://www.fashion-press.net/news/44352",
+        "display_url": "fashion-press.net/news/44352",
+        "indices": [
+          66,
+          89
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "fashionpressnet",
+        "name": "Fashion Press",
+        "id": 168816611,
+        "id_str": "168816611",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058715446516412416,
+        "id_str": "1058715446516412416",
+        "indices": [
+          90,
+          113
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFQFtvUcAAz7Gu.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFQFtvUcAAz7Gu.jpg",
+        "url": "https://t.co/JJ7f4jsL7T",
+        "display_url": "pic.twitter.com/JJ7f4jsL7T",
+        "expanded_url": "https://twitter.com/fashionpressnet/status/1058715460059820032/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1000,
+            "h": 666,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1000,
+            "h": 666,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058715460059820032,
+        "source_status_id_str": "1058715460059820032",
+        "source_user_id": 168816611,
+        "source_user_id_str": "168816611"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058715446516412416,
+        "id_str": "1058715446516412416",
+        "indices": [
+          90,
+          113
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFQFtvUcAAz7Gu.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFQFtvUcAAz7Gu.jpg",
+        "url": "https://t.co/JJ7f4jsL7T",
+        "display_url": "pic.twitter.com/JJ7f4jsL7T",
+        "expanded_url": "https://twitter.com/fashionpressnet/status/1058715460059820032/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1000,
+            "h": 666,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1000,
+            "h": 666,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058715460059820032,
+        "source_status_id_str": "1058715460059820032",
+        "source_user_id": 168816611,
+        "source_user_id_str": "168816611"
+      },
+      {
+        "id": 1058715449771212800,
+        "id_str": "1058715449771212800",
+        "indices": [
+          90,
+          113
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFQF53UwAAqhwP.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFQF53UwAAqhwP.jpg",
+        "url": "https://t.co/JJ7f4jsL7T",
+        "display_url": "pic.twitter.com/JJ7f4jsL7T",
+        "expanded_url": "https://twitter.com/fashionpressnet/status/1058715460059820032/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1000,
+            "h": 666,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1000,
+            "h": 666,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058715460059820032,
+        "source_status_id_str": "1058715460059820032",
+        "source_user_id": 168816611,
+        "source_user_id_str": "168816611"
+      },
+      {
+        "id": 1058715454544347136,
+        "id_str": "1058715454544347136",
+        "indices": [
+          90,
+          113
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFQGLpVAAABdz_.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFQGLpVAAABdz_.jpg",
+        "url": "https://t.co/JJ7f4jsL7T",
+        "display_url": "pic.twitter.com/JJ7f4jsL7T",
+        "expanded_url": "https://twitter.com/fashionpressnet/status/1058715460059820032/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1000,
+            "h": 666,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1000,
+            "h": 666,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058715460059820032,
+        "source_status_id_str": "1058715460059820032",
+        "source_user_id": 168816611,
+        "source_user_id_str": "168816611"
+      },
+      {
+        "id": 1058715457824317441,
+        "id_str": "1058715457824317441",
+        "indices": [
+          90,
+          113
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFQGX3VYAE2wYI.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFQGX3VYAE2wYI.jpg",
+        "url": "https://t.co/JJ7f4jsL7T",
+        "display_url": "pic.twitter.com/JJ7f4jsL7T",
+        "expanded_url": "https://twitter.com/fashionpressnet/status/1058715460059820032/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1000,
+            "h": 666,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1000,
+            "h": 666,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058715460059820032,
+        "source_status_id_str": "1058715460059820032",
+        "source_user_id": 168816611,
+        "source_user_id_str": "168816611"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255122660"
+}

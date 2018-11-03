@@ -1,0 +1,358 @@
+{
+  "created_at": "Sat Nov 03 13:53:51 +0000 2018",
+  "id": 1058718906083405824,
+  "id_str": "1058718906083405824",
+  "text": "RT @OekakiTapioka: 「マスターも…食べますか？」\n#FateGO #FGO https://t.co/CECMQYUYaW",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1043527160651292672,
+    "id_str": "1043527160651292672",
+    "name": "rose🌹 @samaichi ruined me, i love my boys",
+    "screen_name": "SAMATOKlS",
+    "location": "read card byf",
+    "url": "http://insania.carrd.co",
+    "description": "⚢ | you'll never find a rainbow if you're looking down | life is not fair | 左馬一 ♡ | fp × bb | kpop acc: @neebyuns",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 91,
+    "friends_count": 103,
+    "listed_count": 1,
+    "favourites_count": 206,
+    "statuses_count": 1936,
+    "created_at": "Sat Sep 22 15:47:17 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "91D2FA",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058072275029610496/MvCuUCdk_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058072275029610496/MvCuUCdk_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1043527160651292672/1541083196",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Oct 31 11:24:06 +0000 2018",
+    "id": 1057594056992145408,
+    "id_str": "1057594056992145408",
+    "text": "「マスターも…食べますか？」\n#FateGO #FGO https://t.co/CECMQYUYaW",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 766202958820347904,
+      "id_str": "766202958820347904",
+      "name": "たぴおか",
+      "screen_name": "OekakiTapioka",
+      "location": "日本",
+      "url": "https://pixiv.me/oekakitapioka",
+      "description": "絵描きです。イラストに反応いただけるとすごく嬉しいですー。インフェルノさんが好きです。お題箱設置しました⇨https://odaibako.net/u/OekakiTapioka",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1496,
+      "friends_count": 309,
+      "listed_count": 12,
+      "favourites_count": 2296,
+      "statuses_count": 4119,
+      "created_at": "Thu Aug 18 09:19:55 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "F58EA8",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1051453014362312704/B30wDbLN_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051453014362312704/B30wDbLN_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/766202958820347904/1533093679",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 2,
+    "reply_count": 13,
+    "retweet_count": 544,
+    "favorite_count": 1666,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FateGO",
+          "indices": [
+            15,
+            22
+          ]
+        },
+        {
+          "text": "FGO",
+          "indices": [
+            23,
+            27
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1057593501309820929,
+          "id_str": "1057593501309820929",
+          "indices": [
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq1Tr6JVYAEKodi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq1Tr6JVYAEKodi.jpg",
+          "url": "https://t.co/CECMQYUYaW",
+          "display_url": "pic.twitter.com/CECMQYUYaW",
+          "expanded_url": "https://twitter.com/OekakiTapioka/status/1057594056992145408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1191,
+              "h": 1684,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 849,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1057593501309820929,
+          "id_str": "1057593501309820929",
+          "indices": [
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq1Tr6JVYAEKodi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq1Tr6JVYAEKodi.jpg",
+          "url": "https://t.co/CECMQYUYaW",
+          "display_url": "pic.twitter.com/CECMQYUYaW",
+          "expanded_url": "https://twitter.com/OekakiTapioka/status/1057594056992145408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1191,
+              "h": 1684,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 849,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FateGO",
+        "indices": [
+          34,
+          41
+        ]
+      },
+      {
+        "text": "FGO",
+        "indices": [
+          42,
+          46
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "OekakiTapioka",
+        "name": "たぴおか",
+        "id": 766202958820347904,
+        "id_str": "766202958820347904",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1057593501309820929,
+        "id_str": "1057593501309820929",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq1Tr6JVYAEKodi.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq1Tr6JVYAEKodi.jpg",
+        "url": "https://t.co/CECMQYUYaW",
+        "display_url": "pic.twitter.com/CECMQYUYaW",
+        "expanded_url": "https://twitter.com/OekakiTapioka/status/1057594056992145408/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1191,
+            "h": 1684,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 849,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 481,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057594056992145408,
+        "source_status_id_str": "1057594056992145408",
+        "source_user_id": 766202958820347904,
+        "source_user_id_str": "766202958820347904"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1057593501309820929,
+        "id_str": "1057593501309820929",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq1Tr6JVYAEKodi.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq1Tr6JVYAEKodi.jpg",
+        "url": "https://t.co/CECMQYUYaW",
+        "display_url": "pic.twitter.com/CECMQYUYaW",
+        "expanded_url": "https://twitter.com/OekakiTapioka/status/1057594056992145408/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1191,
+            "h": 1684,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 849,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 481,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057594056992145408,
+        "source_status_id_str": "1057594056992145408",
+        "source_user_id": 766202958820347904,
+        "source_user_id_str": "766202958820347904"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253231913"
+}

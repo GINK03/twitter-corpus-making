@@ -1,0 +1,165 @@
+{
+  "created_at": "Sat Nov 03 14:04:07 +0000 2018",
+  "id": 1058721489527046146,
+  "id_str": "1058721489527046146",
+  "text": "おじいちゃん👍\n#パズドラ https://t.co/XGalMHbZkd",
+  "display_text_range": [
+    0,
+    13
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3165529004,
+    "id_str": "3165529004",
+    "name": "こうへい",
+    "screen_name": "ko_hamuhamu",
+    "location": null,
+    "url": null,
+    "description": "パズドラランク800↑のんびりまったり無課金で頑張ってます 無言フォローすみません🙏 社会人1年目頑張ります！",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 53,
+    "friends_count": 59,
+    "listed_count": 0,
+    "favourites_count": 205,
+    "statuses_count": 401,
+    "created_at": "Mon Apr 20 14:25:15 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/994196302249381889/2Z1I5iX7_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/994196302249381889/2Z1I5iX7_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3165529004/1525869884",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラ",
+        "indices": [
+          8,
+          13
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058721468131885056,
+        "id_str": "1058721468131885056",
+        "indices": [
+          14,
+          37
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFVkOAUwAAnE0m.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFVkOAUwAAnE0m.jpg",
+        "url": "https://t.co/XGalMHbZkd",
+        "display_url": "pic.twitter.com/XGalMHbZkd",
+        "expanded_url": "https://twitter.com/ko_hamuhamu/status/1058721489527046146/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058721468131885056,
+        "id_str": "1058721468131885056",
+        "indices": [
+          14,
+          37
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFVkOAUwAAnE0m.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFVkOAUwAAnE0m.jpg",
+        "url": "https://t.co/XGalMHbZkd",
+        "display_url": "pic.twitter.com/XGalMHbZkd",
+        "expanded_url": "https://twitter.com/ko_hamuhamu/status/1058721489527046146/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253847854"
+}

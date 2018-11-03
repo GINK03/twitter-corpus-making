@@ -1,0 +1,200 @@
+{
+  "created_at": "Sat Nov 03 14:25:41 +0000 2018",
+  "id": 1058726916146913280,
+  "id_str": "1058726916146913280",
+  "text": "RT @officematsunaga: 北海道大学で盗難された新種のジャガイモ → 韓国で特許出願される https://t.co/nmF8APhnzD @sharenewsjapan",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 842408784945324034,
+    "id_str": "842408784945324034",
+    "name": "ジャーマネ",
+    "screen_name": "sengai1750",
+    "location": "日本 東京",
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 18,
+    "friends_count": 187,
+    "listed_count": 0,
+    "favourites_count": 507,
+    "statuses_count": 2949,
+    "created_at": "Thu Mar 16 16:14:40 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/842620061357490176/QdY2v3fz_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/842620061357490176/QdY2v3fz_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Nov 01 20:25:34 +0000 2018",
+    "id": 1058092708378509312,
+    "id_str": "1058092708378509312",
+    "text": "北海道大学で盗難された新種のジャガイモ → 韓国で特許出願される https://t.co/nmF8APhnzD @sharenewsjapan",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 172680398,
+      "id_str": "172680398",
+      "name": "オフイス・マツナガ",
+      "screen_name": "officematsunaga",
+      "location": "officematsunaga",
+      "url": "https://twitter.com/officematsunaga/status/997425100805750784",
+      "description": "【オフイス・マツナガ新体制】 ・代表権付きの最高名誉顧問→ボス→現在、相場師見習い 　・代表権付きの代表→北岡 　・代表権なく執行権付きの副代表→オイラ記者 　・メンバー→その他記者、カッパ記者、僕記者 　・顧問→辻野記者 　・新規メンバー→匿名希望の政治記者（オイラ記者系） 　・監査→トレーダーの玄さん",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 24834,
+      "friends_count": 1763,
+      "listed_count": 1477,
+      "favourites_count": 145,
+      "statuses_count": 94718,
+      "created_at": "Fri Jul 30 09:18:47 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "CCCCCC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "999999",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "333333",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1095243981/______officematsunaga_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095243981/______officematsunaga_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/172680398/1392182763",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 218,
+    "reply_count": 147,
+    "retweet_count": 3942,
+    "favorite_count": 2576,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/nmF8APhnzD",
+          "expanded_url": "https://snjpn.net/archives/12164",
+          "display_url": "snjpn.net/archives/12164",
+          "indices": [
+            33,
+            56
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sharenewsjapan",
+          "name": "Share News Japan",
+          "id": 4916851874,
+          "id_str": "4916851874",
+          "indices": [
+            57,
+            72
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/nmF8APhnzD",
+        "expanded_url": "https://snjpn.net/archives/12164",
+        "display_url": "snjpn.net/archives/12164",
+        "indices": [
+          54,
+          77
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "officematsunaga",
+        "name": "オフイス・マツナガ",
+        "id": 172680398,
+        "id_str": "172680398",
+        "indices": [
+          3,
+          19
+        ]
+      },
+      {
+        "screen_name": "sharenewsjapan",
+        "name": "Share News Japan",
+        "id": 4916851874,
+        "id_str": "4916851874",
+        "indices": [
+          78,
+          93
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255141661"
+}

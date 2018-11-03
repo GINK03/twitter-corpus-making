@@ -1,0 +1,556 @@
+{
+  "created_at": "Sat Nov 03 14:16:24 +0000 2018",
+  "id": 1058724579936333827,
+  "id_str": "1058724579936333827",
+  "text": "RT @hiyayakkokuu: 埼玉県草加市役所HPに掲載されている、出産育児一時金申請書の記入例 https://t.co/9NODToBNWT",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3151065654,
+    "id_str": "3151065654",
+    "name": "たいだくん(固定ツイ見てね)",
+    "screen_name": "008511952374z",
+    "location": "my room",
+    "url": null,
+    "description": "絵を描くよ(たまに)",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1433,
+    "friends_count": 1815,
+    "listed_count": 6,
+    "favourites_count": 13519,
+    "statuses_count": 35618,
+    "created_at": "Sun Apr 12 09:41:14 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ABB8C2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1057609485680730112/6qwU90ge_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057609485680730112/6qwU90ge_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3151065654/1535980079",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 03:45:49 +0000 2018",
+    "id": 1058565888167698432,
+    "id_str": "1058565888167698432",
+    "text": "埼玉県草加市役所HPに掲載されている、出産育児一時金申請書の記入例 https://t.co/9NODToBNWT",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 964805968117710848,
+      "id_str": "964805968117710848",
+      "name": "ホーター・ピー",
+      "screen_name": "hiyayakkokuu",
+      "location": "東京都",
+      "url": null,
+      "description": "仮面ライダーについて真面目に語るアカウントです。リプ返はあまりできませんがフォロバはちゃんとします。（よく喋るサブ垢もよろしく！→@hiyayakkokuwan）",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 3821,
+      "friends_count": 3814,
+      "listed_count": 18,
+      "favourites_count": 2171,
+      "statuses_count": 1505,
+      "created_at": "Sat Feb 17 10:17:22 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1035400033389010944/RjVDRX2J_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035400033389010944/RjVDRX2J_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/964805968117710848/1540811644",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 29,
+    "reply_count": 20,
+    "retweet_count": 2128,
+    "favorite_count": 2905,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058565877258317829,
+          "id_str": "1058565877258317829",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDIDo1U8AUzesr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDIDo1U8AUzesr.jpg",
+          "url": "https://t.co/9NODToBNWT",
+          "display_url": "pic.twitter.com/9NODToBNWT",
+          "expanded_url": "https://twitter.com/hiyayakkokuu/status/1058565888167698432/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 389,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 686,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1124,
+              "h": 1966,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058565877258317829,
+          "id_str": "1058565877258317829",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDIDo1U8AUzesr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDIDo1U8AUzesr.jpg",
+          "url": "https://t.co/9NODToBNWT",
+          "display_url": "pic.twitter.com/9NODToBNWT",
+          "expanded_url": "https://twitter.com/hiyayakkokuu/status/1058565888167698432/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 389,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 686,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1124,
+              "h": 1966,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058565877262479360,
+          "id_str": "1058565877262479360",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDIDo2UcAAnfnP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDIDo2UcAAnfnP.jpg",
+          "url": "https://t.co/9NODToBNWT",
+          "display_url": "pic.twitter.com/9NODToBNWT",
+          "expanded_url": "https://twitter.com/hiyayakkokuu/status/1058565888167698432/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 877,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1124,
+              "h": 1538,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 497,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058565877258321922,
+          "id_str": "1058565877258321922",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDIDo1VAAItOjl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDIDo1VAAItOjl.jpg",
+          "url": "https://t.co/9NODToBNWT",
+          "display_url": "pic.twitter.com/9NODToBNWT",
+          "expanded_url": "https://twitter.com/hiyayakkokuu/status/1058565888167698432/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1124,
+              "h": 632,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 382,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1124,
+              "h": 632,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058565877270867969,
+          "id_str": "1058565877270867969",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDIDo4UcAEz-bU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDIDo4UcAEz-bU.jpg",
+          "url": "https://t.co/9NODToBNWT",
+          "display_url": "pic.twitter.com/9NODToBNWT",
+          "expanded_url": "https://twitter.com/hiyayakkokuu/status/1058565888167698432/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 607,
+              "h": 393,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 607,
+              "h": 393,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 607,
+              "h": 393,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "hiyayakkokuu",
+        "name": "ホーター・ピー",
+        "id": 964805968117710848,
+        "id_str": "964805968117710848",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058565877258317829,
+        "id_str": "1058565877258317829",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDIDo1U8AUzesr.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDIDo1U8AUzesr.jpg",
+        "url": "https://t.co/9NODToBNWT",
+        "display_url": "pic.twitter.com/9NODToBNWT",
+        "expanded_url": "https://twitter.com/hiyayakkokuu/status/1058565888167698432/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 389,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 686,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1124,
+            "h": 1966,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058565888167698432,
+        "source_status_id_str": "1058565888167698432",
+        "source_user_id": 964805968117710848,
+        "source_user_id_str": "964805968117710848"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058565877258317829,
+        "id_str": "1058565877258317829",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDIDo1U8AUzesr.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDIDo1U8AUzesr.jpg",
+        "url": "https://t.co/9NODToBNWT",
+        "display_url": "pic.twitter.com/9NODToBNWT",
+        "expanded_url": "https://twitter.com/hiyayakkokuu/status/1058565888167698432/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 389,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 686,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1124,
+            "h": 1966,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058565888167698432,
+        "source_status_id_str": "1058565888167698432",
+        "source_user_id": 964805968117710848,
+        "source_user_id_str": "964805968117710848"
+      },
+      {
+        "id": 1058565877262479360,
+        "id_str": "1058565877262479360",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDIDo2UcAAnfnP.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDIDo2UcAAnfnP.jpg",
+        "url": "https://t.co/9NODToBNWT",
+        "display_url": "pic.twitter.com/9NODToBNWT",
+        "expanded_url": "https://twitter.com/hiyayakkokuu/status/1058565888167698432/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 877,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1124,
+            "h": 1538,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 497,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058565888167698432,
+        "source_status_id_str": "1058565888167698432",
+        "source_user_id": 964805968117710848,
+        "source_user_id_str": "964805968117710848"
+      },
+      {
+        "id": 1058565877258321922,
+        "id_str": "1058565877258321922",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDIDo1VAAItOjl.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDIDo1VAAItOjl.jpg",
+        "url": "https://t.co/9NODToBNWT",
+        "display_url": "pic.twitter.com/9NODToBNWT",
+        "expanded_url": "https://twitter.com/hiyayakkokuu/status/1058565888167698432/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1124,
+            "h": 632,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1124,
+            "h": 632,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058565888167698432,
+        "source_status_id_str": "1058565888167698432",
+        "source_user_id": 964805968117710848,
+        "source_user_id_str": "964805968117710848"
+      },
+      {
+        "id": 1058565877270867969,
+        "id_str": "1058565877270867969",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDIDo4UcAEz-bU.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDIDo4UcAEz-bU.jpg",
+        "url": "https://t.co/9NODToBNWT",
+        "display_url": "pic.twitter.com/9NODToBNWT",
+        "expanded_url": "https://twitter.com/hiyayakkokuu/status/1058565888167698432/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 607,
+            "h": 393,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 607,
+            "h": 393,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 607,
+            "h": 393,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058565888167698432,
+        "source_status_id_str": "1058565888167698432",
+        "source_user_id": 964805968117710848,
+        "source_user_id_str": "964805968117710848"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254584665"
+}

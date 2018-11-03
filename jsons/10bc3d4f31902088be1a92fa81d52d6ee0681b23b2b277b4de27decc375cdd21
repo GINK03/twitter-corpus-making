@@ -1,0 +1,166 @@
+{
+  "created_at": "Sat Nov 03 14:17:04 +0000 2018",
+  "id": 1058724747704393728,
+  "id_str": "1058724747704393728",
+  "text": "Ora² me ハブラシは、#女の子のためのハブラシ！で応募 ＼ Ora²ｘ小松菜奈 オリジナルQUOカード500円分が当たる！ ／ 1. @Ora2girls_CP をフォロー 2. 動画を見て◯◯◯に入る言葉を選んでツイート… https://t.co/UWe2SmpZtR",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 943775660627050496,
+    "id_str": "943775660627050496",
+    "name": "mi",
+    "screen_name": "mi1024k",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 38,
+    "friends_count": 243,
+    "listed_count": 0,
+    "favourites_count": 0,
+    "statuses_count": 1477,
+    "created_at": "Thu Dec 21 09:30:26 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/953863670890561536/NgPpA-gs_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/953863670890561536/NgPpA-gs_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "Ora² me ハブラシは、#女の子のためのハブラシ！で応募 ＼ Ora²ｘ小松菜奈 オリジナルQUOカード500円分が当たる！ ／ 1. @Ora2girls_CP をフォロー 2. 動画を見て◯◯◯に入る言葉を選んでツイート 詳細は https://t.co/N3Vzf6rTAK #女の子のためのハブラシ #Ora2 #Ora2me",
+    "display_text_range": [
+      0,
+      169
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "女の子のためのハブラシ",
+          "indices": [
+            14,
+            26
+          ]
+        },
+        {
+          "text": "女の子のためのハブラシ",
+          "indices": [
+            143,
+            155
+          ]
+        },
+        {
+          "text": "Ora2",
+          "indices": [
+            156,
+            161
+          ]
+        },
+        {
+          "text": "Ora2me",
+          "indices": [
+            162,
+            169
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/N3Vzf6rTAK",
+          "expanded_url": "http://bit.ly/2p7q9jl",
+          "display_url": "bit.ly/2p7q9jl",
+          "indices": [
+            119,
+            142
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Ora2girls_CP",
+          "name": "オーラツー",
+          "id": 474609235,
+          "id_str": "474609235",
+          "indices": [
+            70,
+            83
+          ]
+        }
+      ],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "女の子のためのハブラシ",
+        "indices": [
+          14,
+          26
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/UWe2SmpZtR",
+        "expanded_url": "https://twitter.com/i/web/status/1058724747704393728",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Ora2girls_CP",
+        "name": "オーラツー",
+        "id": 474609235,
+        "id_str": "474609235",
+        "indices": [
+          70,
+          83
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254624664"
+}

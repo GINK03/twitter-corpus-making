@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:22:44 +0000 2018",
+  "id": 1058726173759365122,
+  "id_str": "1058726173759365122",
+  "text": "@YOUJOneki @lav_val_sekaowa いきたい！！！\nそうや最近職場でマリーナのナイトチケットもらったんですよ……",
+  "display_text_range": [
+    28,
+    66
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058725814357843968,
+  "in_reply_to_status_id_str": "1058725814357843968",
+  "in_reply_to_user_id": 3179161472,
+  "in_reply_to_user_id_str": "3179161472",
+  "in_reply_to_screen_name": "YOUJOneki",
+  "user": {
+    "id": 3275669772,
+    "id_str": "3275669772",
+    "name": "†┏┛かる┗┓†",
+    "screen_name": "karuchan_1124",
+    "location": "関西",
+    "url": null,
+    "description": "多趣味雑食な20↑🙋🏻たまにこすぷれ🤡🌟雑多垢で日常/趣味共に色々呟いてますので合わないなあと思ったら回れ右して下さい😌らぶちーむわかやま🐼🍊まなけいちがゆいころかる🚲💪",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 150,
+    "friends_count": 175,
+    "listed_count": 25,
+    "favourites_count": 16528,
+    "statuses_count": 26467,
+    "created_at": "Sat Jul 11 11:17:51 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056892219603353602/AhrxGHM2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056892219603353602/AhrxGHM2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3275669772/1534735344",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "YOUJOneki",
+        "name": "圭🐻💤",
+        "id": 3179161472,
+        "id_str": "3179161472",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "lav_val_sekaowa",
+        "name": "†┏┛mana┗┓†",
+        "id": 3017984203,
+        "id_str": "3017984203",
+        "indices": [
+          11,
+          27
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254964662"
+}

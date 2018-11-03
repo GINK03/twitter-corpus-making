@@ -1,0 +1,129 @@
+{
+  "created_at": "Sat Nov 03 14:21:29 +0000 2018",
+  "id": 1058725859199238147,
+  "id_str": "1058725859199238147",
+  "text": "コバのパーティの日程を間違えてそのままメスカ。土曜はフロンティアだ。 (@ Mescalito) https://t.co/273zFjGywK",
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 29718393,
+    "id_str": "29718393",
+    "name": "Hideyasu",
+    "screen_name": "Hidey_Kato",
+    "location": "都内 / 海 / たまに旅",
+    "url": "http://booklog.jp/users/Hideyasu",
+    "description": "読書 | 波乗り | ニュース | ラグビー | ラーメン | 旅写真 | CFA",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 361,
+    "friends_count": 218,
+    "listed_count": 17,
+    "favourites_count": 2888,
+    "statuses_count": 8581,
+    "created_at": "Wed Apr 08 13:50:35 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1838381594/429229_10150627912114910_586154909_8952964_1494438951_n_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1838381594/429229_10150627912114910_586154909_8952964_1494438951_n_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/29718393/1437401839",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      35.65573755,
+      139.69418114
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      139.69418114,
+      35.65573755
+    ]
+  },
+  "place": {
+    "id": "f7c22e0cf7b3af2b",
+    "url": "https://api.twitter.com/1.1/geo/id/f7c22e0cf7b3af2b.json",
+    "place_type": "city",
+    "name": "渋谷区",
+    "full_name": "東京 渋谷区",
+    "country_code": "JP",
+    "country": "日本",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            139.661368,
+            35.641564
+          ],
+          [
+            139.661368,
+            35.692138
+          ],
+          [
+            139.723884,
+            35.692138
+          ],
+          [
+            139.723884,
+            35.641564
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/273zFjGywK",
+        "expanded_url": "https://www.swarmapp.com/c/g4uuoFUhj0o",
+        "display_url": "swarmapp.com/c/g4uuoFUhj0o",
+        "indices": [
+          49,
+          72
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254889665"
+}

@@ -1,0 +1,89 @@
+{
+  "created_at": "Sat Nov 03 14:17:56 +0000 2018",
+  "id": 1058724965816532995,
+  "id_str": "1058724965816532995",
+  "text": "なんじゃコリャコリャ ってwww\n#中居正広ON_and_ON_AIR \n#サムガ",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2921406170,
+    "id_str": "2921406170",
+    "name": "エム子🖇",
+    "screen_name": "m818k1113",
+    "location": "九州",
+    "url": null,
+    "description": "新しい地図に楽しい絵を描いていこう。たったの5、60年でいいからSMAPと共に未来へ歩いていこう。SMAP5人(+1)が大好き。ファン歴あっという間の25年。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 54,
+    "friends_count": 90,
+    "listed_count": 0,
+    "favourites_count": 3698,
+    "statuses_count": 9988,
+    "created_at": "Sun Dec 07 07:50:34 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/901802891303829508/MpCfpB9V_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/901802891303829508/MpCfpB9V_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2921406170/1473955399",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "中居正広ON_and_ON_AIR",
+        "indices": [
+          17,
+          35
+        ]
+      },
+      {
+        "text": "サムガ",
+        "indices": [
+          37,
+          41
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254676666"
+}

@@ -1,0 +1,171 @@
+{
+  "created_at": "Sat Nov 03 13:55:05 +0000 2018",
+  "id": 1058719213034991616,
+  "id_str": "1058719213034991616",
+  "text": "#パズドラ\n#パズドラデータ販売\n内容は画像の通り\n課金額20万超え\nキャラが弱いので\n8000円販売 https://t.co/bHUfqeobSv",
+  "display_text_range": [
+    0,
+    51
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1058718269484363777,
+    "id_str": "1058718269484363777",
+    "name": "パズドラ課金アカウント販売",
+    "screen_name": "LuLUb26oC3tq3wo",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 0,
+    "friends_count": 0,
+    "listed_count": 0,
+    "favourites_count": 0,
+    "statuses_count": 1,
+    "created_at": "Sat Nov 03 13:51:20 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058718425910992896/ZyfJVtYC_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058718425910992896/ZyfJVtYC_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラ",
+        "indices": [
+          0,
+          5
+        ]
+      },
+      {
+        "text": "パズドラデータ販売",
+        "indices": [
+          6,
+          16
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058719175349198849,
+        "id_str": "1058719175349198849",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFTewuVYAEvXsK.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFTewuVYAEvXsK.jpg",
+        "url": "https://t.co/bHUfqeobSv",
+        "display_url": "pic.twitter.com/bHUfqeobSv",
+        "expanded_url": "https://twitter.com/LuLUb26oC3tq3wo/status/1058719213034991616/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 733,
+            "h": 1587,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 314,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 554,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058719175349198849,
+        "id_str": "1058719175349198849",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFTewuVYAEvXsK.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFTewuVYAEvXsK.jpg",
+        "url": "https://t.co/bHUfqeobSv",
+        "display_url": "pic.twitter.com/bHUfqeobSv",
+        "expanded_url": "https://twitter.com/LuLUb26oC3tq3wo/status/1058719213034991616/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 733,
+            "h": 1587,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 314,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 554,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253305096"
+}

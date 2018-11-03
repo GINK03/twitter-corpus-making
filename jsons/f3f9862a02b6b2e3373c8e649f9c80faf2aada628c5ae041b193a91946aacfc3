@@ -1,0 +1,100 @@
+{
+  "created_at": "Sat Nov 03 13:57:55 +0000 2018",
+  "id": 1058719926100275202,
+  "id_str": "1058719926100275202",
+  "text": "久しぶりのダイヤでのクラスマッチ！ 無双してやるぜ😎😎  #オセロニア  #Mirrativ で配信中！  https://t.co/tp9OZVdLNN",
+  "source": "<a href=\"https://www.mirrativ.com\" rel=\"nofollow\">Mirrativ</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 942382310401368065,
+    "id_str": "942382310401368065",
+    "name": "ぽむ@お嬢隊",
+    "screen_name": "K_S__pom",
+    "location": "2.19~forever",
+    "url": null,
+    "description": "くりむLOVE",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 28,
+    "friends_count": 29,
+    "listed_count": 0,
+    "favourites_count": 1292,
+    "statuses_count": 1635,
+    "created_at": "Sun Dec 17 13:13:46 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/996177696383107072/xi_gyx3B_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/996177696383107072/xi_gyx3B_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/942382310401368065/1526342247",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "オセロニア",
+        "indices": [
+          29,
+          35
+        ]
+      },
+      {
+        "text": "Mirrativ",
+        "indices": [
+          37,
+          46
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/tp9OZVdLNN",
+        "expanded_url": "https://www.mirrativ.com/live/CPu0MQ6wOdiNprpT9x_V-w",
+        "display_url": "mirrativ.com/live/CPu0MQ6wO…",
+        "indices": [
+          54,
+          77
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253475104"
+}

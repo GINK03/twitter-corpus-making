@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:23:08 +0000 2018",
+  "id": 1058726274418466816,
+  "id_str": "1058726274418466816",
+  "text": "@ODA_orz @kamimura52 タイミングが合えばそう言うのも楽しそうですなー。",
+  "display_text_range": [
+    21,
+    45
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058724305012326400,
+  "in_reply_to_status_id_str": "1058724305012326400",
+  "in_reply_to_user_id": 333943545,
+  "in_reply_to_user_id_str": "333943545",
+  "in_reply_to_screen_name": "ODA_orz",
+  "user": {
+    "id": 68701958,
+    "id_str": "68701958",
+    "name": "BANG-YOU（ばんゆう）",
+    "screen_name": "bang_you",
+    "location": "横浜",
+    "url": "http://nagaredamaya.blog72.fc2.com/",
+    "description": "流弾屋のエロ漫画描きなバイク乗り。初単行本『ストップウォッチャー』発売中！アンスリウム等で不定期に描かせて貰っています。 バイク初心者です。総走行距離40万キロ突破しました。 あとPENTAXが好き。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 26130,
+    "friends_count": 2654,
+    "listed_count": 559,
+    "favourites_count": 5315,
+    "statuses_count": 86782,
+    "created_at": "Tue Aug 25 14:10:31 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "F56B0E",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/640601475312320512/e7JpF7U5_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/640601475312320512/e7JpF7U5_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/68701958/1403204404",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "ODA_orz",
+        "name": "ODA 自作の銃や装備とか作って絵が仕事",
+        "id": 333943545,
+        "id_str": "333943545",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "screen_name": "kamimura52",
+        "name": "香深村れん＠トレンチフラワーズ1～3",
+        "id": 138373074,
+        "id_str": "138373074",
+        "indices": [
+          9,
+          20
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254988661"
+}

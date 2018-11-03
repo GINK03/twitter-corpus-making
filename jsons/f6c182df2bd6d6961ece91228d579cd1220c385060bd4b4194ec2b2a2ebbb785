@@ -1,0 +1,404 @@
+{
+  "created_at": "Sat Nov 03 14:16:16 +0000 2018",
+  "id": 1058724546369339392,
+  "id_str": "1058724546369339392",
+  "text": "RT @Amazonreviewman: 内田理央 over がんばりおより。 https://t.co/wZVHHmv7Ep",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 766929505696952320,
+    "id_str": "766929505696952320",
+    "name": "ひじり",
+    "screen_name": "hizirimaru",
+    "location": "あのへん",
+    "url": "http://amzn.asia/8TRuDEC",
+    "description": "ひじりです、よろしくね♪ 絵は模写しかしないです VOICEROID実況プレイ・ Kenshi動画あげ始めました ノアアカウント:@noanohea",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 134,
+    "friends_count": 167,
+    "listed_count": 10,
+    "favourites_count": 3619,
+    "statuses_count": 12684,
+    "created_at": "Sat Aug 20 09:26:57 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1046791298097676288/6NwYP-fp_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046791298097676288/6NwYP-fp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/766929505696952320/1526645476",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 02:34:25 +0000 2018",
+    "id": 1058185530863583233,
+    "id_str": "1058185530863583233",
+    "text": "内田理央 over がんばりおより。 https://t.co/wZVHHmv7Ep",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1054290075968663553,
+      "id_str": "1054290075968663553",
+      "name": "Amazon迷レビュー集",
+      "screen_name": "Amazonreviewman",
+      "location": "Amazonレビュー",
+      "url": null,
+      "description": "Amazonでの面白いレビューやおかしいレビューを上げていきます。 🚨みなさんからのネタ提供はなるべくdmにお願いしたいです！⚠️たまに名レビューもあります。一応botではないです。 中の人 @amatarousan1",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 9363,
+      "friends_count": 114,
+      "listed_count": 33,
+      "favourites_count": 743,
+      "statuses_count": 235,
+      "created_at": "Mon Oct 22 08:35:16 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1054290435701563392/bfk9kMGZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054290435701563392/bfk9kMGZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1054290075968663553/1541238231",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 10,
+    "reply_count": 7,
+    "retweet_count": 1158,
+    "favorite_count": 2230,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058185525209645056,
+          "id_str": "1058185525209645056",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq9uIPCUwAAp0Wa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq9uIPCUwAAp0Wa.jpg",
+          "url": "https://t.co/wZVHHmv7Ep",
+          "display_url": "pic.twitter.com/wZVHHmv7Ep",
+          "expanded_url": "https://twitter.com/Amazonreviewman/status/1058185530863583233/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1059,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1241,
+              "h": 1406,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 600,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058185525209645056,
+          "id_str": "1058185525209645056",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq9uIPCUwAAp0Wa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq9uIPCUwAAp0Wa.jpg",
+          "url": "https://t.co/wZVHHmv7Ep",
+          "display_url": "pic.twitter.com/wZVHHmv7Ep",
+          "expanded_url": "https://twitter.com/Amazonreviewman/status/1058185530863583233/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1059,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1241,
+              "h": 1406,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 600,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058185525226483712,
+          "id_str": "1058185525226483712",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq9uIPGVsAACk4w.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq9uIPGVsAACk4w.jpg",
+          "url": "https://t.co/wZVHHmv7Ep",
+          "display_url": "pic.twitter.com/wZVHHmv7Ep",
+          "expanded_url": "https://twitter.com/Amazonreviewman/status/1058185530863583233/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1241,
+              "h": 1274,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1169,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 662,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Amazonreviewman",
+        "name": "Amazon迷レビュー集",
+        "id": 1054290075968663553,
+        "id_str": "1054290075968663553",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058185525209645056,
+        "id_str": "1058185525209645056",
+        "indices": [
+          40,
+          63
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq9uIPCUwAAp0Wa.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq9uIPCUwAAp0Wa.jpg",
+        "url": "https://t.co/wZVHHmv7Ep",
+        "display_url": "pic.twitter.com/wZVHHmv7Ep",
+        "expanded_url": "https://twitter.com/Amazonreviewman/status/1058185530863583233/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1059,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1241,
+            "h": 1406,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 600,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058185530863583233,
+        "source_status_id_str": "1058185530863583233",
+        "source_user_id": 1054290075968663553,
+        "source_user_id_str": "1054290075968663553"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058185525209645056,
+        "id_str": "1058185525209645056",
+        "indices": [
+          40,
+          63
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq9uIPCUwAAp0Wa.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq9uIPCUwAAp0Wa.jpg",
+        "url": "https://t.co/wZVHHmv7Ep",
+        "display_url": "pic.twitter.com/wZVHHmv7Ep",
+        "expanded_url": "https://twitter.com/Amazonreviewman/status/1058185530863583233/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1059,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1241,
+            "h": 1406,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 600,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058185530863583233,
+        "source_status_id_str": "1058185530863583233",
+        "source_user_id": 1054290075968663553,
+        "source_user_id_str": "1054290075968663553"
+      },
+      {
+        "id": 1058185525226483712,
+        "id_str": "1058185525226483712",
+        "indices": [
+          40,
+          63
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq9uIPGVsAACk4w.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq9uIPGVsAACk4w.jpg",
+        "url": "https://t.co/wZVHHmv7Ep",
+        "display_url": "pic.twitter.com/wZVHHmv7Ep",
+        "expanded_url": "https://twitter.com/Amazonreviewman/status/1058185530863583233/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1241,
+            "h": 1274,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1169,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 662,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058185530863583233,
+        "source_status_id_str": "1058185530863583233",
+        "source_user_id": 1054290075968663553,
+        "source_user_id_str": "1054290075968663553"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254576662"
+}

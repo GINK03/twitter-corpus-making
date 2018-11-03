@@ -1,0 +1,124 @@
+{
+  "created_at": "Sat Nov 03 14:01:16 +0000 2018",
+  "id": 1058720771214725120,
+  "id_str": "1058720771214725120",
+  "text": "定期23　【提供】モンスト/乖離性MA/クラフィ/クラクラ/城ドラ/パズドラ/ブレフロ/パワプロ/白猫【求】FateGO(FGO)/白猫/コードレジスタ/バンドリ/カード類　提供画像と希望DMまでお願いします　＃モンスト　＃パズドラ　＃白猫　＃交換　＃販売　＃アカウント　＃提供",
+  "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 744465302893658113,
+    "id_str": "744465302893658113",
+    "name": "msd",
+    "screen_name": "msd_aop",
+    "location": null,
+    "url": null,
+    "description": "詳しくはDMまで/実績2",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 76,
+    "friends_count": 4,
+    "listed_count": 0,
+    "favourites_count": 0,
+    "statuses_count": 19795,
+    "created_at": "Sun Jun 19 09:42:14 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/807282916422086656/3De2oW4r_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/807282916422086656/3De2oW4r_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/744465302893658113/1481346303",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "モンスト",
+        "indices": [
+          105,
+          110
+        ]
+      },
+      {
+        "text": "パズドラ",
+        "indices": [
+          111,
+          116
+        ]
+      },
+      {
+        "text": "白猫",
+        "indices": [
+          117,
+          120
+        ]
+      },
+      {
+        "text": "交換",
+        "indices": [
+          121,
+          124
+        ]
+      },
+      {
+        "text": "販売",
+        "indices": [
+          125,
+          128
+        ]
+      },
+      {
+        "text": "アカウント",
+        "indices": [
+          129,
+          135
+        ]
+      },
+      {
+        "text": "提供",
+        "indices": [
+          136,
+          139
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253676595"
+}

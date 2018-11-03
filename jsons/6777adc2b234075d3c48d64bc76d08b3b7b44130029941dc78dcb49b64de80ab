@@ -1,0 +1,297 @@
+{
+  "created_at": "Sat Nov 03 14:20:00 +0000 2018",
+  "id": 1058725485872586753,
+  "id_str": "1058725485872586753",
+  "text": "メッシ、ロナウドに競り勝ったカカのバロンドールから記憶に新しいものトロフィーの数々 https://t.co/hR0PcSPwIJ",
+  "display_text_range": [
+    0,
+    41
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058718128342032384,
+  "in_reply_to_status_id_str": "1058718128342032384",
+  "in_reply_to_user_id": 836481818287300608,
+  "in_reply_to_user_id_str": "836481818287300608",
+  "in_reply_to_screen_name": "9ofcityzens",
+  "user": {
+    "id": 836481818287300608,
+    "id_str": "836481818287300608",
+    "name": "🇮🇹まなど一な🇬🇧",
+    "screen_name": "9ofcityzens",
+    "location": "🇨🇳🇮🇹🇬🇧",
+    "url": "http://twpf.jp/9ofcityzens",
+    "description": "#ゴミクズ大学生 #mancity #Barcelona #sbhawks #FIFA19 @PLIGA2018",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1026,
+    "friends_count": 993,
+    "listed_count": 15,
+    "favourites_count": 26727,
+    "statuses_count": 29531,
+    "created_at": "Tue Feb 28 07:43:01 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1054341766306910208/fbCd8DE__normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054341766306910208/fbCd8DE__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/836481818287300608/1537996921",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "31cf48ae6e2ea627",
+    "url": "https://api.twitter.com/1.1/geo/id/31cf48ae6e2ea627.json",
+    "place_type": "city",
+    "name": "Ferno",
+    "full_name": "Ferno, Lombardia",
+    "country_code": "IT",
+    "country": "Italia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            8.706314,
+            45.60602
+          ],
+          [
+            8.706314,
+            45.633489
+          ],
+          [
+            8.778486,
+            45.633489
+          ],
+          [
+            8.778486,
+            45.60602
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058725437684285442,
+        "id_str": "1058725437684285442",
+        "indices": [
+          42,
+          65
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZLRvXgAILdoZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZLRvXgAILdoZ.jpg",
+        "url": "https://t.co/hR0PcSPwIJ",
+        "display_url": "pic.twitter.com/hR0PcSPwIJ",
+        "expanded_url": "https://twitter.com/9ofcityzens/status/1058725485872586753/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058725437684285442,
+        "id_str": "1058725437684285442",
+        "indices": [
+          42,
+          65
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZLRvXgAILdoZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZLRvXgAILdoZ.jpg",
+        "url": "https://t.co/hR0PcSPwIJ",
+        "display_url": "pic.twitter.com/hR0PcSPwIJ",
+        "expanded_url": "https://twitter.com/9ofcityzens/status/1058725485872586753/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058725437692612608,
+        "id_str": "1058725437692612608",
+        "indices": [
+          42,
+          65
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZLRxWkAAgR_P.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZLRxWkAAgR_P.jpg",
+        "url": "https://t.co/hR0PcSPwIJ",
+        "display_url": "pic.twitter.com/hR0PcSPwIJ",
+        "expanded_url": "https://twitter.com/9ofcityzens/status/1058725485872586753/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058725437751336960,
+        "id_str": "1058725437751336960",
+        "indices": [
+          42,
+          65
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZLR_WoAAVBVY.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZLR_WoAAVBVY.jpg",
+        "url": "https://t.co/hR0PcSPwIJ",
+        "display_url": "pic.twitter.com/hR0PcSPwIJ",
+        "expanded_url": "https://twitter.com/9ofcityzens/status/1058725485872586753/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058725437944279041,
+        "id_str": "1058725437944279041",
+        "indices": [
+          42,
+          65
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZLStWsAEPy1f.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZLStWsAEPy1f.jpg",
+        "url": "https://t.co/hR0PcSPwIJ",
+        "display_url": "pic.twitter.com/hR0PcSPwIJ",
+        "expanded_url": "https://twitter.com/9ofcityzens/status/1058725485872586753/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1536,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254800657"
+}

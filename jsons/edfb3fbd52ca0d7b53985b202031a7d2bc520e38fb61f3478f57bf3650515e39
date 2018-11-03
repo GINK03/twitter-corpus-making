@@ -1,0 +1,193 @@
+{
+  "created_at": "Sat Nov 03 14:01:36 +0000 2018",
+  "id": 1058720853695782913,
+  "id_str": "1058720853695782913",
+  "text": "fgoのターン https://t.co/sKGL9mNE2C",
+  "display_text_range": [
+    0,
+    7
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058717784446652416,
+  "in_reply_to_status_id_str": "1058717784446652416",
+  "in_reply_to_user_id": 928624091778576386,
+  "in_reply_to_user_id_str": "928624091778576386",
+  "in_reply_to_screen_name": "nemunemunemumi3",
+  "user": {
+    "id": 928624091778576386,
+    "id_str": "928624091778576386",
+    "name": "ススス",
+    "screen_name": "nemunemunemumi3",
+    "location": "ドリミたのしい",
+    "url": "https://marshmallow-qa.com/nemunemunemumi3?utm_medium=twitter&utm_source=promotion",
+    "description": "ねむのきと申します。成人済み雑食腐ポエマー。エアリプとふぁぼ爆がうるさいのでフォロー非推奨。性癖が闇に寄ってるのですぐ推しを辛い目に合わせるけど幸せになってほしい。サードくらいからのさいどえむ新人P、レジェとかアルテの話をします。にわかだけど優しくしてください",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 173,
+    "friends_count": 356,
+    "listed_count": 4,
+    "favourites_count": 44886,
+    "statuses_count": 46238,
+    "created_at": "Thu Nov 09 14:03:31 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056916394225262592/Zk2AITc__normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056916394225262592/Zk2AITc__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/928624091778576386/1539818973",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058720838826881024,
+        "id_str": "1058720838826881024",
+        "indices": [
+          8,
+          31
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFU_lqUcAAp8a3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFU_lqUcAAp8a3.jpg",
+        "url": "https://t.co/sKGL9mNE2C",
+        "display_url": "pic.twitter.com/sKGL9mNE2C",
+        "expanded_url": "https://twitter.com/nemunemunemumi3/status/1058720853695782913/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2047,
+            "h": 1152,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058720838826881024,
+        "id_str": "1058720838826881024",
+        "indices": [
+          8,
+          31
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFU_lqUcAAp8a3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFU_lqUcAAp8a3.jpg",
+        "url": "https://t.co/sKGL9mNE2C",
+        "display_url": "pic.twitter.com/sKGL9mNE2C",
+        "expanded_url": "https://twitter.com/nemunemunemumi3/status/1058720853695782913/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2047,
+            "h": 1152,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058720838797545473,
+        "id_str": "1058720838797545473",
+        "indices": [
+          8,
+          31
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFU_ljU0AE_2Ix.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFU_ljU0AE_2Ix.jpg",
+        "url": "https://t.co/sKGL9mNE2C",
+        "display_url": "pic.twitter.com/sKGL9mNE2C",
+        "expanded_url": "https://twitter.com/nemunemunemumi3/status/1058720853695782913/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1151,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 674,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253696260"
+}

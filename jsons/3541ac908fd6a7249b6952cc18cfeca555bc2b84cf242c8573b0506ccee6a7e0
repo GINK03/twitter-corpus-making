@@ -1,0 +1,121 @@
+{
+  "created_at": "Sat Nov 03 14:27:03 +0000 2018",
+  "id": 1058727260092424192,
+  "id_str": "1058727260092424192",
+  "text": "お店で貰ったレシートを使って懸賞に応募しよう！賞金総額最高100万円！レシート応募懸賞アプリ「レシコレ」です。 https://t.co/XsLRTpIIzC #懸賞アプリ #懸賞 #無料 #アプリ #レシコレ",
+  "source": "<a href=\"http://frankart.jp/web/\" rel=\"nofollow\">レシコレ</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3320818693,
+    "id_str": "3320818693",
+    "name": "きーちゃん",
+    "screen_name": "YouYukisachi",
+    "location": "日本",
+    "url": null,
+    "description": "最近母になりました✨お得大好きで懸賞始めました✨色々当てたいです😃化粧品、食べ物、旅行、ダイビングが好き",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 500,
+    "friends_count": 959,
+    "listed_count": 0,
+    "favourites_count": 563,
+    "statuses_count": 2953,
+    "created_at": "Thu Aug 20 01:32:38 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/959272089038479360/CTsonDmt_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/959272089038479360/CTsonDmt_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3320818693/1532043464",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "懸賞アプリ",
+        "indices": [
+          80,
+          86
+        ]
+      },
+      {
+        "text": "懸賞",
+        "indices": [
+          87,
+          90
+        ]
+      },
+      {
+        "text": "無料",
+        "indices": [
+          91,
+          94
+        ]
+      },
+      {
+        "text": "アプリ",
+        "indices": [
+          95,
+          99
+        ]
+      },
+      {
+        "text": "レシコレ",
+        "indices": [
+          100,
+          105
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/XsLRTpIIzC",
+        "expanded_url": "http://recicore.jp",
+        "display_url": "recicore.jp",
+        "indices": [
+          56,
+          79
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255223664"
+}

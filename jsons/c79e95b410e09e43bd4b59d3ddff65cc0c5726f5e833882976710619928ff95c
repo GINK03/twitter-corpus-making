@@ -1,0 +1,400 @@
+{
+  "created_at": "Sat Nov 03 14:16:20 +0000 2018",
+  "id": 1058724563150749697,
+  "id_str": "1058724563150749697",
+  "text": "RT @minnano_dougaww: 砂丘で転んだ時はこうっ\n https://t.co/muYnH8vk2Y",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2891073853,
+    "id_str": "2891073853",
+    "name": "ともち",
+    "screen_name": "tomalienjon",
+    "location": null,
+    "url": "https://m.facebook.com/boasoultom?ref=bookmark",
+    "description": "色鉛筆で絵を描きます。(*^ｰ^)φ_+*",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 505,
+    "friends_count": 1547,
+    "listed_count": 5,
+    "favourites_count": 20888,
+    "statuses_count": 4962,
+    "created_at": "Wed Nov 05 17:47:17 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/612611657399799808/q5EjOATZ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/612611657399799808/q5EjOATZ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2891073853/1434892933",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 14:41:23 +0000 2018",
+    "id": 1058368477705068545,
+    "id_str": "1058368477705068545",
+    "text": "砂丘で転んだ時はこうっ\n https://t.co/muYnH8vk2Y",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 862326702898200576,
+      "id_str": "862326702898200576",
+      "name": "みんなの動画",
+      "screen_name": "minnano_dougaww",
+      "location": "あなたのスマホ",
+      "url": null,
+      "description": "更新率高めでいつ見ても飽きない暇潰し専用のアカウント！話題のみんなの動画をどんどん紹介するで！みんなで一緒にTwitterを盛り上げちゃおう！話題になった動画はいいねにあるで😘【Twitterの利用規約に従いスパムツイートは一切しません。引用元は明記してツイートしています。削除依頼はDMでお願いします】",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 160697,
+      "friends_count": 8722,
+      "listed_count": 489,
+      "favourites_count": 416,
+      "statuses_count": 2005,
+      "created_at": "Wed May 10 15:21:22 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/914398356260110336/IOvuG8NO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/914398356260110336/IOvuG8NO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/862326702898200576/1497161703",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 87,
+    "reply_count": 42,
+    "retweet_count": 5612,
+    "favorite_count": 16833,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058331222500237315,
+          "id_str": "1058331222500237315",
+          "indices": [
+            13,
+            36
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058331222500237315/pu/img/hPy1G4IEcJl4oXpp.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058331222500237315/pu/img/hPy1G4IEcJl4oXpp.jpg",
+          "url": "https://t.co/muYnH8vk2Y",
+          "display_url": "pic.twitter.com/muYnH8vk2Y",
+          "expanded_url": "https://twitter.com/bakuwara7777/status/1058331245669638144/video/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1058331245669638144,
+          "source_status_id_str": "1058331245669638144",
+          "source_user_id": 2941740252,
+          "source_user_id_str": "2941740252"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058331222500237315,
+          "id_str": "1058331222500237315",
+          "indices": [
+            13,
+            36
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058331222500237315/pu/img/hPy1G4IEcJl4oXpp.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058331222500237315/pu/img/hPy1G4IEcJl4oXpp.jpg",
+          "url": "https://t.co/muYnH8vk2Y",
+          "display_url": "pic.twitter.com/muYnH8vk2Y",
+          "expanded_url": "https://twitter.com/bakuwara7777/status/1058331245669638144/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 4400,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058331222500237315/pu/vid/240x240/GNvd9lbaQ3dSpolT.mp4?tag=5"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058331222500237315/pu/vid/640x640/Y30Ce5jaWaVL7fTS.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058331222500237315/pu/vid/480x480/WGPkUvays4LaS34x.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058331222500237315/pu/pl/CsJjVxqD_yNh56m6.m3u8?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "medium": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1058331245669638144,
+          "source_status_id_str": "1058331245669638144",
+          "source_user_id": 2941740252,
+          "source_user_id_str": "2941740252"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "minnano_dougaww",
+        "name": "みんなの動画",
+        "id": 862326702898200576,
+        "id_str": "862326702898200576",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058331222500237315,
+        "id_str": "1058331222500237315",
+        "indices": [
+          34,
+          57
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058331222500237315/pu/img/hPy1G4IEcJl4oXpp.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058331222500237315/pu/img/hPy1G4IEcJl4oXpp.jpg",
+        "url": "https://t.co/muYnH8vk2Y",
+        "display_url": "pic.twitter.com/muYnH8vk2Y",
+        "expanded_url": "https://twitter.com/bakuwara7777/status/1058331245669638144/video/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 640,
+            "h": 640,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 640,
+            "h": 640,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 640,
+            "h": 640,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058331245669638144,
+        "source_status_id_str": "1058331245669638144",
+        "source_user_id": 2941740252,
+        "source_user_id_str": "2941740252"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058331222500237315,
+        "id_str": "1058331222500237315",
+        "indices": [
+          34,
+          57
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058331222500237315/pu/img/hPy1G4IEcJl4oXpp.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058331222500237315/pu/img/hPy1G4IEcJl4oXpp.jpg",
+        "url": "https://t.co/muYnH8vk2Y",
+        "display_url": "pic.twitter.com/muYnH8vk2Y",
+        "expanded_url": "https://twitter.com/bakuwara7777/status/1058331245669638144/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 4400,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058331222500237315/pu/vid/240x240/GNvd9lbaQ3dSpolT.mp4?tag=5"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058331222500237315/pu/vid/640x640/Y30Ce5jaWaVL7fTS.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058331222500237315/pu/vid/480x480/WGPkUvays4LaS34x.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058331222500237315/pu/pl/CsJjVxqD_yNh56m6.m3u8?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "medium": {
+            "w": 640,
+            "h": 640,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 640,
+            "h": 640,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 640,
+            "h": 640,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058331245669638144,
+        "source_status_id_str": "1058331245669638144",
+        "source_user_id": 2941740252,
+        "source_user_id_str": "2941740252"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254580663"
+}

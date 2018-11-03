@@ -1,0 +1,412 @@
+{
+  "created_at": "Sat Nov 03 14:15:21 +0000 2018",
+  "id": 1058724315682693120,
+  "id_str": "1058724315682693120",
+  "text": "RT @ringoro119: 今日は #犬の日 という事なので、人間なのか犬なのか分からない柴犬の寝顔でもどうぞ(*´-`) https://t.co/6MBrO0380e",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 861513548794535936,
+    "id_str": "861513548794535936",
+    "name": "とりにく@バンドやろうぜ！",
+    "screen_name": "_satohaamai",
+    "location": null,
+    "url": null,
+    "description": "キャラdisお断り。さよならはブロック。返信は遅め。心が広いなんでも大丈夫な方よろしくお願いします。バンやろ/FGO/イナイレ…etc 毎期アニメはチェックしてます。成人済。裏垢→(@karaagehaoisii)",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 295,
+    "friends_count": 357,
+    "listed_count": 7,
+    "favourites_count": 2874,
+    "statuses_count": 7122,
+    "created_at": "Mon May 08 09:30:10 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1029705669463629824/wOQjbM2t_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029705669463629824/wOQjbM2t_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/861513548794535936/1533044027",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Nov 01 11:54:18 +0000 2018",
+    "id": 1057964044819152896,
+    "id_str": "1057964044819152896",
+    "text": "今日は #犬の日 という事なので、人間なのか犬なのか分からない柴犬の寝顔でもどうぞ(*´-`) https://t.co/6MBrO0380e",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 983925286260453378,
+      "id_str": "983925286260453378",
+      "name": "柴犬りんご郎",
+      "screen_name": "ringoro119",
+      "location": "三重県津市",
+      "url": "https://shiba-inu-ringoro.com",
+      "description": "僕はりんご郎🐶♂2018年1月19日に生まれたよ🌟🙎‍♂️おたかサンと🙎‍♀️おきみサン夫婦の 3人家族🌟 三重県に住んでるんだ🏠 僕の成長ブログをおたかさんが毎日かいてくれてるよ✏️ インスタ・YouTube #りんご郎",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 7808,
+      "friends_count": 263,
+      "listed_count": 117,
+      "favourites_count": 7010,
+      "statuses_count": 3898,
+      "created_at": "Wed Apr 11 04:30:43 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1035382207014088706/y9oHU6iD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035382207014088706/y9oHU6iD_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/983925286260453378/1526316569",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 84,
+    "reply_count": 36,
+    "retweet_count": 13896,
+    "favorite_count": 44652,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "犬の日",
+          "indices": [
+            4,
+            8
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1057964003002015745,
+          "id_str": "1057964003002015745",
+          "indices": [
+            48,
+            71
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057964003002015745/pu/img/LicPE3X0-IfeywwC.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057964003002015745/pu/img/LicPE3X0-IfeywwC.jpg",
+          "url": "https://t.co/6MBrO0380e",
+          "display_url": "pic.twitter.com/6MBrO0380e",
+          "expanded_url": "https://twitter.com/ringoro119/status/1057964044819152896/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1057964003002015745,
+          "id_str": "1057964003002015745",
+          "indices": [
+            48,
+            71
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057964003002015745/pu/img/LicPE3X0-IfeywwC.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057964003002015745/pu/img/LicPE3X0-IfeywwC.jpg",
+          "url": "https://t.co/6MBrO0380e",
+          "display_url": "pic.twitter.com/6MBrO0380e",
+          "expanded_url": "https://twitter.com/ringoro119/status/1057964044819152896/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 14453,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1057964003002015745/pu/vid/240x240/fuFHMxtvcnMGanAn.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1057964003002015745/pu/vid/480x480/Ta7rfcfmM0pb2RdC.mp4?tag=5"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1057964003002015745/pu/vid/720x720/04pM1MPYsEFxWxcA.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1057964003002015745/pu/pl/UE_-I-NAqveR1Yem.m3u8?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "犬の日",
+        "indices": [
+          20,
+          24
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "ringoro119",
+        "name": "柴犬りんご郎",
+        "id": 983925286260453378,
+        "id_str": "983925286260453378",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1057964003002015745,
+        "id_str": "1057964003002015745",
+        "indices": [
+          64,
+          87
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057964003002015745/pu/img/LicPE3X0-IfeywwC.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057964003002015745/pu/img/LicPE3X0-IfeywwC.jpg",
+        "url": "https://t.co/6MBrO0380e",
+        "display_url": "pic.twitter.com/6MBrO0380e",
+        "expanded_url": "https://twitter.com/ringoro119/status/1057964044819152896/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057964044819152896,
+        "source_status_id_str": "1057964044819152896",
+        "source_user_id": 983925286260453378,
+        "source_user_id_str": "983925286260453378"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1057964003002015745,
+        "id_str": "1057964003002015745",
+        "indices": [
+          64,
+          87
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057964003002015745/pu/img/LicPE3X0-IfeywwC.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057964003002015745/pu/img/LicPE3X0-IfeywwC.jpg",
+        "url": "https://t.co/6MBrO0380e",
+        "display_url": "pic.twitter.com/6MBrO0380e",
+        "expanded_url": "https://twitter.com/ringoro119/status/1057964044819152896/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 14453,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1057964003002015745/pu/vid/240x240/fuFHMxtvcnMGanAn.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1057964003002015745/pu/vid/480x480/Ta7rfcfmM0pb2RdC.mp4?tag=5"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1057964003002015745/pu/vid/720x720/04pM1MPYsEFxWxcA.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1057964003002015745/pu/pl/UE_-I-NAqveR1Yem.m3u8?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057964044819152896,
+        "source_status_id_str": "1057964044819152896",
+        "source_user_id": 983925286260453378,
+        "source_user_id_str": "983925286260453378"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254521662"
+}

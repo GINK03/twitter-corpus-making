@@ -1,0 +1,167 @@
+{
+  "created_at": "Sat Nov 03 14:07:48 +0000 2018",
+  "id": 1058722414123728896,
+  "id_str": "1058722414123728896",
+  "text": "【FGO/FateGO】みんなレアプリってfgoやり始めてどれくらいで手に入れたの？【Fate/GrandOrder】 https://t.co/2zaFMRRkeH https://t.co/m2O1YGtbK8",
+  "display_text_range": [
+    0,
+    83
+  ],
+  "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1042938028463861760,
+    "id_str": "1042938028463861760",
+    "name": "スマートフォン・IT情報メディア",
+    "screen_name": "ITPC_Media",
+    "location": "福岡県",
+    "url": "https://itpc-media.net",
+    "description": "スマートフォンやアプリ、PC等のIT情報を発信しています。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 706,
+    "friends_count": 1043,
+    "listed_count": 0,
+    "favourites_count": 1358,
+    "statuses_count": 26955,
+    "created_at": "Fri Sep 21 00:46:17 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1042942673542246400/qTFZhyG2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042942673542246400/qTFZhyG2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1042938028463861760/1537492264",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/2zaFMRRkeH",
+        "expanded_url": "https://itpc-media.net/?p=33381",
+        "display_url": "itpc-media.net/?p=33381",
+        "indices": [
+          60,
+          83
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058722412122988545,
+        "id_str": "1058722412122988545",
+        "indices": [
+          84,
+          107
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWbKpV4AE2uEQ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWbKpV4AE2uEQ.jpg",
+        "url": "https://t.co/m2O1YGtbK8",
+        "display_url": "pic.twitter.com/m2O1YGtbK8",
+        "expanded_url": "https://twitter.com/ITPC_Media/status/1058722414123728896/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 640,
+            "h": 359,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 359,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 359,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058722412122988545,
+        "id_str": "1058722412122988545",
+        "indices": [
+          84,
+          107
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWbKpV4AE2uEQ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWbKpV4AE2uEQ.jpg",
+        "url": "https://t.co/m2O1YGtbK8",
+        "display_url": "pic.twitter.com/m2O1YGtbK8",
+        "expanded_url": "https://twitter.com/ITPC_Media/status/1058722414123728896/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 640,
+            "h": 359,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 359,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 359,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254068295"
+}

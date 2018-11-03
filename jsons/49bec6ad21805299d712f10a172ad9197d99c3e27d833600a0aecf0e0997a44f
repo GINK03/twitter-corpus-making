@@ -1,0 +1,100 @@
+{
+  "created_at": "Sat Nov 03 14:16:39 +0000 2018",
+  "id": 1058724642846736384,
+  "id_str": "1058724642846736384",
+  "text": "好きです！奥ゆかしさというかなんというか？が好きです。あと日本語の美しさと響きも！\nマイナスのことを言うつもりはなかったのですが、勤勉すぎ・真面目過ぎなのはちょっと性に合わないですね。 \n\n#peing #質問箱 https://t.co/pRmv4zJake",
+  "source": "<a href=\"https://peing.net\" rel=\"nofollow\">Peing</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 716598269099442176,
+    "id_str": "716598269099442176",
+    "name": "なたじろう@受験生(らしい)",
+    "screen_name": "LoveLiver17tea",
+    "location": "第2理科室か会議室",
+    "url": "https://peing.net/ja/loveliver17tea",
+    "description": "山のあたりに住む副が付く会長。ヘタレ実行委員長。羽生くんとピアノと仙台と伊達武将隊とメロンパンが好き。元吹奏楽部の天然(後輩公認)生徒指揮。A.sax吹いてた。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 527,
+    "friends_count": 531,
+    "listed_count": 3,
+    "favourites_count": 24592,
+    "statuses_count": 8322,
+    "created_at": "Sun Apr 03 12:08:35 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "5AB9C1",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/978997914944004096/a2KwofUB_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/978997914944004096/a2KwofUB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/716598269099442176/1500714462",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "peing",
+        "indices": [
+          95,
+          101
+        ]
+      },
+      {
+        "text": "質問箱",
+        "indices": [
+          102,
+          106
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/pRmv4zJake",
+        "expanded_url": "https://peing.net/ja/qs/101129167",
+        "display_url": "peing.net/ja/qs/101129167",
+        "indices": [
+          107,
+          130
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254599664"
+}

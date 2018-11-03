@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:27:27 +0000 2018",
+  "id": 1058727360743202816,
+  "id_str": "1058727360743202816",
+  "text": "RT @v26qSc5YPtCb7b0: おはようございます、 今日も皆様良い一日をお過ごし下さい☺️ https://t.co/C0p0cPGtEd",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 868309956889526273,
+    "id_str": "868309956889526273",
+    "name": "辰悦丸",
+    "screen_name": "shinji6369",
+    "location": "英泉工房",
+    "url": "https://www.youtube.com/channel/UCvZjfVz4nSBDiIqrxgaoM7w",
+    "description": "漫画動画の投稿者",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 5338,
+    "friends_count": 5757,
+    "listed_count": 36,
+    "favourites_count": 33423,
+    "statuses_count": 25012,
+    "created_at": "Sat May 27 03:36:40 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058704110327750656/Y16_xHMN_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058704110327750656/Y16_xHMN_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/868309956889526273/1520252349",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 23:37:31 +0000 2018",
+    "id": 1058503402945044480,
+    "id_str": "1058503402945044480",
+    "text": "おはようございます、 今日も皆様良い一日をお過ごし下さい☺️ https://t.co/C0p0cPGtEd",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 885406452860436480,
+      "id_str": "885406452860436480",
+      "name": "まりぃ",
+      "screen_name": "v26qSc5YPtCb7b0",
+      "location": "日本 東京",
+      "url": null,
+      "description": "トイプードルとペキニーズのミックス ラン トイプードルの スー、 メイ の おかあさんやってます😊❤ 歌う事が大好きです",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1182,
+      "friends_count": 1184,
+      "listed_count": 13,
+      "favourites_count": 32557,
+      "statuses_count": 3133,
+      "created_at": "Thu Jul 13 07:52:03 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1013092163117125633/v2FikRLW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013092163117125633/v2FikRLW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/885406452860436480/1538844377",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 42,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058503393054871553,
+          "id_str": "1058503393054871553",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrCPOlCU0AEvtHt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrCPOlCU0AEvtHt.jpg",
+          "url": "https://t.co/C0p0cPGtEd",
+          "display_url": "pic.twitter.com/C0p0cPGtEd",
+          "expanded_url": "https://twitter.com/v26qSc5YPtCb7b0/status/1058503402945044480/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1440,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058503393054871553,
+          "id_str": "1058503393054871553",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrCPOlCU0AEvtHt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrCPOlCU0AEvtHt.jpg",
+          "url": "https://t.co/C0p0cPGtEd",
+          "display_url": "pic.twitter.com/C0p0cPGtEd",
+          "expanded_url": "https://twitter.com/v26qSc5YPtCb7b0/status/1058503402945044480/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1440,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "v26qSc5YPtCb7b0",
+        "name": "まりぃ",
+        "id": 885406452860436480,
+        "id_str": "885406452860436480",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058503393054871553,
+        "id_str": "1058503393054871553",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrCPOlCU0AEvtHt.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrCPOlCU0AEvtHt.jpg",
+        "url": "https://t.co/C0p0cPGtEd",
+        "display_url": "pic.twitter.com/C0p0cPGtEd",
+        "expanded_url": "https://twitter.com/v26qSc5YPtCb7b0/status/1058503402945044480/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1440,
+            "h": 1080,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058503402945044480,
+        "source_status_id_str": "1058503402945044480",
+        "source_user_id": 885406452860436480,
+        "source_user_id_str": "885406452860436480"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058503393054871553,
+        "id_str": "1058503393054871553",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrCPOlCU0AEvtHt.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrCPOlCU0AEvtHt.jpg",
+        "url": "https://t.co/C0p0cPGtEd",
+        "display_url": "pic.twitter.com/C0p0cPGtEd",
+        "expanded_url": "https://twitter.com/v26qSc5YPtCb7b0/status/1058503402945044480/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1440,
+            "h": 1080,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058503402945044480,
+        "source_status_id_str": "1058503402945044480",
+        "source_user_id": 885406452860436480,
+        "source_user_id_str": "885406452860436480"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255247661"
+}

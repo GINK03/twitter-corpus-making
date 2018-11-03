@@ -1,0 +1,167 @@
+{
+  "created_at": "Sat Nov 03 14:22:19 +0000 2018",
+  "id": 1058726068360790017,
+  "id_str": "1058726068360790017",
+  "text": "【FGO】「英霊旅装あなたはどれを選んだ？」結果発表！トップに輝いたのは似合いすぎて可愛すぎるチャイナ服を着たあの人【アンケート】 https://t.co/C1NQW2u8A6 https://t.co/B7Zb3JkiJF",
+  "display_text_range": [
+    0,
+    89
+  ],
+  "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 752345124680503296,
+    "id_str": "752345124680503296",
+    "name": "金とっきん",
+    "screen_name": "fffgotw",
+    "location": null,
+    "url": null,
+    "description": "ゴールデンな金時ファンの人。ライダー金時とタンデムしたい。FGO関連のニュースとか紹介しておりますよー！",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1758,
+    "friends_count": 2219,
+    "listed_count": 2,
+    "favourites_count": 0,
+    "statuses_count": 50410,
+    "created_at": "Mon Jul 11 03:33:50 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/752345493561176064/JBNJeI9f_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/752345493561176064/JBNJeI9f_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/752345124680503296/1468208303",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/C1NQW2u8A6",
+        "expanded_url": "https://ift.tt/2PykWQD",
+        "display_url": "ift.tt/2PykWQD",
+        "indices": [
+          66,
+          89
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058726067085688832,
+        "id_str": "1058726067085688832",
+        "indices": [
+          90,
+          113
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZv6cWwAAK-Km.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZv6cWwAAK-Km.jpg",
+        "url": "https://t.co/B7Zb3JkiJF",
+        "display_url": "pic.twitter.com/B7Zb3JkiJF",
+        "expanded_url": "https://twitter.com/fffgotw/status/1058726068360790017/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 356,
+            "h": 200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 356,
+            "h": 200,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 356,
+            "h": 200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058726067085688832,
+        "id_str": "1058726067085688832",
+        "indices": [
+          90,
+          113
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZv6cWwAAK-Km.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZv6cWwAAK-Km.jpg",
+        "url": "https://t.co/B7Zb3JkiJF",
+        "display_url": "pic.twitter.com/B7Zb3JkiJF",
+        "expanded_url": "https://twitter.com/fffgotw/status/1058726068360790017/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 356,
+            "h": 200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 356,
+            "h": 200,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 356,
+            "h": 200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254939533"
+}

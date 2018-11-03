@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:15:41 +0000 2018",
+  "id": 1058724399572893697,
+  "id_str": "1058724399572893697",
+  "text": "RT @aplerichi2: ワイトもそう思います https://t.co/1KuOk39Uqx",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 925716987484844033,
+    "id_str": "925716987484844033",
+    "name": "ねこまふまろ",
+    "screen_name": "sa_tankuro",
+    "location": "縁側",
+    "url": null,
+    "description": "猫好き/実況好き/RT多め/20↑",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 473,
+    "friends_count": 419,
+    "listed_count": 2,
+    "favourites_count": 43436,
+    "statuses_count": 34304,
+    "created_at": "Wed Nov 01 13:31:43 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1011996605694631938/byGateE0_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1011996605694631938/byGateE0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/925716987484844033/1519557816",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 12:46:59 +0000 2018",
+    "id": 1058702075385733120,
+    "id_str": "1058702075385733120",
+    "text": "ワイトもそう思います https://t.co/1KuOk39Uqx",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 278923817,
+      "id_str": "278923817",
+      "name": "つきみ＼( 'ω')／",
+      "screen_name": "aplerichi2",
+      "location": null,
+      "url": "http://aplerichi.tumblr.com",
+      "description": "MSSPさん中心に動画・生放送感想呟いたり、絵描いたりしてます(･ヮ･＊)無断転載禁止 ★ご一読お願いします : http://twpf.jp/aplerichi2 ★NEXT :🎄横浜夜",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 6118,
+      "friends_count": 72,
+      "listed_count": 136,
+      "favourites_count": 10883,
+      "statuses_count": 74785,
+      "created_at": "Fri Apr 08 07:11:38 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFF8D6",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "67D1EB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F38630",
+      "profile_text_color": "E0E4CC",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1057649135023665157/aM4ggi_Y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057649135023665157/aM4ggi_Y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/278923817/1536425114",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 32,
+    "favorite_count": 368,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058702001184206848,
+          "id_str": "1058702001184206848",
+          "indices": [
+            11,
+            34
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFD3F-UcAAk_TZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFD3F-UcAAk_TZ.jpg",
+          "url": "https://t.co/1KuOk39Uqx",
+          "display_url": "pic.twitter.com/1KuOk39Uqx",
+          "expanded_url": "https://twitter.com/aplerichi2/status/1058702075385733120/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 715,
+              "h": 539,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 513,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 715,
+              "h": 539,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058702001184206848,
+          "id_str": "1058702001184206848",
+          "indices": [
+            11,
+            34
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFD3F-UcAAk_TZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFD3F-UcAAk_TZ.jpg",
+          "url": "https://t.co/1KuOk39Uqx",
+          "display_url": "pic.twitter.com/1KuOk39Uqx",
+          "expanded_url": "https://twitter.com/aplerichi2/status/1058702075385733120/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 715,
+              "h": 539,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 513,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 715,
+              "h": 539,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "aplerichi2",
+        "name": "つきみ＼( 'ω')／",
+        "id": 278923817,
+        "id_str": "278923817",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058702001184206848,
+        "id_str": "1058702001184206848",
+        "indices": [
+          27,
+          50
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFD3F-UcAAk_TZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFD3F-UcAAk_TZ.jpg",
+        "url": "https://t.co/1KuOk39Uqx",
+        "display_url": "pic.twitter.com/1KuOk39Uqx",
+        "expanded_url": "https://twitter.com/aplerichi2/status/1058702075385733120/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 715,
+            "h": 539,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 513,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 715,
+            "h": 539,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058702075385733120,
+        "source_status_id_str": "1058702075385733120",
+        "source_user_id": 278923817,
+        "source_user_id_str": "278923817"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058702001184206848,
+        "id_str": "1058702001184206848",
+        "indices": [
+          27,
+          50
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFD3F-UcAAk_TZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFD3F-UcAAk_TZ.jpg",
+        "url": "https://t.co/1KuOk39Uqx",
+        "display_url": "pic.twitter.com/1KuOk39Uqx",
+        "expanded_url": "https://twitter.com/aplerichi2/status/1058702075385733120/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 715,
+            "h": 539,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 513,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 715,
+            "h": 539,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058702075385733120,
+        "source_status_id_str": "1058702075385733120",
+        "source_user_id": 278923817,
+        "source_user_id_str": "278923817"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254541663"
+}

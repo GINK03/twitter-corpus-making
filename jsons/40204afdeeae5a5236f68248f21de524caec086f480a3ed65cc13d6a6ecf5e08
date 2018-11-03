@@ -1,0 +1,166 @@
+{
+  "created_at": "Sat Nov 03 14:15:40 +0000 2018",
+  "id": 1058724395353432068,
+  "id_str": "1058724395353432068",
+  "text": "皆様の玩具です 74話を先読みしました。 https://t.co/nSmY7LfY1b https://t.co/DWU57t7HFc",
+  "display_text_range": [
+    0,
+    44
+  ],
+  "source": "<a href=\"https://www.mangabox.me\" rel=\"nofollow\">マンガボックス連携</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 776632996614987776,
+    "id_str": "776632996614987776",
+    "name": "シェア！",
+    "screen_name": "DzVppk",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2,
+    "friends_count": 1,
+    "listed_count": 0,
+    "favourites_count": 3,
+    "statuses_count": 2703,
+    "created_at": "Fri Sep 16 04:05:10 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/nSmY7LfY1b",
+        "expanded_url": "https://cards.twitter.com/cards/18ce53vq7ws/48px1",
+        "display_url": "cards.twitter.com/cards/18ce53vq…",
+        "indices": [
+          21,
+          44
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724392312569856,
+        "id_str": "1058724392312569856",
+        "indices": [
+          45,
+          68
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYObbVAAAbxKJ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYObbVAAAbxKJ.jpg",
+        "url": "https://t.co/DWU57t7HFc",
+        "display_url": "pic.twitter.com/DWU57t7HFc",
+        "expanded_url": "https://twitter.com/DzVppk/status/1058724395353432068/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 800,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 453,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 800,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724392312569856,
+        "id_str": "1058724392312569856",
+        "indices": [
+          45,
+          68
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYObbVAAAbxKJ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYObbVAAAbxKJ.jpg",
+        "url": "https://t.co/DWU57t7HFc",
+        "display_url": "pic.twitter.com/DWU57t7HFc",
+        "expanded_url": "https://twitter.com/DzVppk/status/1058724395353432068/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 800,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 453,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 800,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254540657"
+}

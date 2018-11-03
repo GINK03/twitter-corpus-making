@@ -1,0 +1,233 @@
+{
+  "created_at": "Sat Nov 03 14:15:01 +0000 2018",
+  "id": 1058724231809134592,
+  "id_str": "1058724231809134592",
+  "text": "素晴らしい1日になりました。\n#カスケード https://t.co/IzVX1sFH26",
+  "display_text_range": [
+    0,
+    21
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 65573489,
+    "id_str": "65573489",
+    "name": "30 Bucks",
+    "screen_name": "mGrEvoLusoN",
+    "location": "Brisbane, Queensland",
+    "url": null,
+    "description": "Brighton & Hove Albion/ Club de Valencia/Albirex Niigata/Mitchelton FC///See you next game...",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 582,
+    "friends_count": 168,
+    "listed_count": 42,
+    "favourites_count": 1101,
+    "statuses_count": 78148,
+    "created_at": "Fri Aug 14 05:46:41 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FBFF05",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "F22E41",
+    "profile_text_color": "080101",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1003430902154682368/IWM54QMy_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003430902154682368/IWM54QMy_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/65573489/1528071546",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "f7c22e0cf7b3af2b",
+    "url": "https://api.twitter.com/1.1/geo/id/f7c22e0cf7b3af2b.json",
+    "place_type": "city",
+    "name": "Shibuya-ku",
+    "full_name": "Shibuya-ku, Tokyo",
+    "country_code": "JP",
+    "country": "Japan",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            139.661368,
+            35.641564
+          ],
+          [
+            139.661368,
+            35.692138
+          ],
+          [
+            139.723884,
+            35.692138
+          ],
+          [
+            139.723884,
+            35.641564
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "カスケード",
+        "indices": [
+          15,
+          21
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724223802175488,
+        "id_str": "1058724223802175488",
+        "indices": [
+          22,
+          45
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYEnrUcAAob9U.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYEnrUcAAob9U.jpg",
+        "url": "https://t.co/IzVX1sFH26",
+        "display_url": "pic.twitter.com/IzVX1sFH26",
+        "expanded_url": "https://twitter.com/mGrEvoLusoN/status/1058724231809134592/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724223802175488,
+        "id_str": "1058724223802175488",
+        "indices": [
+          22,
+          45
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYEnrUcAAob9U.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYEnrUcAAob9U.jpg",
+        "url": "https://t.co/IzVX1sFH26",
+        "display_url": "pic.twitter.com/IzVX1sFH26",
+        "expanded_url": "https://twitter.com/mGrEvoLusoN/status/1058724231809134592/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058724223793848320,
+        "id_str": "1058724223793848320",
+        "indices": [
+          22,
+          45
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYEnpVYAAHuzG.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYEnpVYAAHuzG.jpg",
+        "url": "https://t.co/IzVX1sFH26",
+        "display_url": "pic.twitter.com/IzVX1sFH26",
+        "expanded_url": "https://twitter.com/mGrEvoLusoN/status/1058724231809134592/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254501665"
+}

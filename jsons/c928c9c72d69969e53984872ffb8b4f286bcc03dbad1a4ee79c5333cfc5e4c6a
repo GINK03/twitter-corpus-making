@@ -1,0 +1,396 @@
+{
+  "created_at": "Sat Nov 03 14:25:19 +0000 2018",
+  "id": 1058726823880667136,
+  "id_str": "1058726823880667136",
+  "text": "RT @norihito23: カチャーシーが出来ない。なんで？ https://t.co/K1FA9Cj5ra",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3065678448,
+    "id_str": "3065678448",
+    "name": "tenki~",
+    "screen_name": "HnTwi01tq5ZXcCi",
+    "location": "石垣島",
+    "url": null,
+    "description": "釣り 『釣垣島』",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 681,
+    "friends_count": 640,
+    "listed_count": 0,
+    "favourites_count": 1961,
+    "statuses_count": 3113,
+    "created_at": "Sat Mar 07 02:41:43 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/839489506214465536/6d7SK5Jm_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/839489506214465536/6d7SK5Jm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3065678448/1494178516",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 12:29:59 +0000 2018",
+    "id": 1058697799481483264,
+    "id_str": "1058697799481483264",
+    "text": "カチャーシーが出来ない。なんで？ https://t.co/K1FA9Cj5ra",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4882661814,
+      "id_str": "4882661814",
+      "name": "Nori~",
+      "screen_name": "norihito23",
+      "location": "TEAM釣垣島",
+      "url": null,
+      "description": "ボクシング🥊釣り🎣team釣垣島 打ち込み フカセ ルアー エギング",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1033,
+      "friends_count": 727,
+      "listed_count": 0,
+      "favourites_count": 5842,
+      "statuses_count": 2779,
+      "created_at": "Tue Feb 09 11:44:35 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1046062813070979075/Wj3Wtm2F_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046062813070979075/Wj3Wtm2F_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4882661814/1538459040",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 8,
+    "favorite_count": 23,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058697635228307456,
+          "id_str": "1058697635228307456",
+          "indices": [
+            17,
+            40
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058697635228307456/pu/img/U67p4zqFfuu4_IpG.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058697635228307456/pu/img/U67p4zqFfuu4_IpG.jpg",
+          "url": "https://t.co/K1FA9Cj5ra",
+          "display_url": "pic.twitter.com/K1FA9Cj5ra",
+          "expanded_url": "https://twitter.com/norihito23/status/1058697799481483264/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058697635228307456,
+          "id_str": "1058697635228307456",
+          "indices": [
+            17,
+            40
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058697635228307456/pu/img/U67p4zqFfuu4_IpG.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058697635228307456/pu/img/U67p4zqFfuu4_IpG.jpg",
+          "url": "https://t.co/K1FA9Cj5ra",
+          "display_url": "pic.twitter.com/K1FA9Cj5ra",
+          "expanded_url": "https://twitter.com/norihito23/status/1058697799481483264/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 39453,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058697635228307456/pu/vid/360x640/DlQDZH-7igcDQ24u.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058697635228307456/pu/pl/E8rrQi9giEvRRhNk.m3u8?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058697635228307456/pu/vid/180x320/BOc0DHaVgYjYdNry.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058697635228307456/pu/vid/720x1280/83PzxxPvidVUrapA.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "norihito23",
+        "name": "Nori~",
+        "id": 4882661814,
+        "id_str": "4882661814",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058697635228307456,
+        "id_str": "1058697635228307456",
+        "indices": [
+          33,
+          56
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058697635228307456/pu/img/U67p4zqFfuu4_IpG.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058697635228307456/pu/img/U67p4zqFfuu4_IpG.jpg",
+        "url": "https://t.co/K1FA9Cj5ra",
+        "display_url": "pic.twitter.com/K1FA9Cj5ra",
+        "expanded_url": "https://twitter.com/norihito23/status/1058697799481483264/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058697799481483264,
+        "source_status_id_str": "1058697799481483264",
+        "source_user_id": 4882661814,
+        "source_user_id_str": "4882661814"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058697635228307456,
+        "id_str": "1058697635228307456",
+        "indices": [
+          33,
+          56
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058697635228307456/pu/img/U67p4zqFfuu4_IpG.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058697635228307456/pu/img/U67p4zqFfuu4_IpG.jpg",
+        "url": "https://t.co/K1FA9Cj5ra",
+        "display_url": "pic.twitter.com/K1FA9Cj5ra",
+        "expanded_url": "https://twitter.com/norihito23/status/1058697799481483264/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 39453,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058697635228307456/pu/vid/360x640/DlQDZH-7igcDQ24u.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058697635228307456/pu/pl/E8rrQi9giEvRRhNk.m3u8?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058697635228307456/pu/vid/180x320/BOc0DHaVgYjYdNry.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058697635228307456/pu/vid/720x1280/83PzxxPvidVUrapA.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058697799481483264,
+        "source_status_id_str": "1058697799481483264",
+        "source_user_id": 4882661814,
+        "source_user_id_str": "4882661814"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255119663"
+}

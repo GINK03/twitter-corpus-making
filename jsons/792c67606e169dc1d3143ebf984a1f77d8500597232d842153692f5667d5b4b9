@@ -1,0 +1,232 @@
+{
+  "created_at": "Sat Nov 03 14:25:26 +0000 2018",
+  "id": 1058726853219774466,
+  "id_str": "1058726853219774466",
+  "text": "松川支所@ＪＡ松川祭2018ｉｎ松川町④\n\n🌟本日のネオンピンク担当ラリリ(一回目Ｌｉｖｅ)🌟\n\n#パラレルドリーム　#ネオンピンク担当ラリリ　#一回目Ｌｉｖｅ\n#松川支所　#ＪＡ松川祭2018　#松川町 https://t.co/qDIWzcmomM",
+  "display_text_range": [
+    0,
+    102
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 198690211,
+    "id_str": "198690211",
+    "name": "YOSHI♂@YUKA❤LOVE",
+    "screen_name": "YOSHI8088",
+    "location": "NAGANO JAPAN",
+    "url": "http://s.ameblo.jp/giants2009/",
+    "description": "◆長野県から世界へ発信型アイドルユニット☆パラレルドリーム★双子の姉イエロー担当/ゆかぽん(サブリーダー)[★ゆかぽんの超絶可愛い笑顔❤美しさ❤優しさにハートを撃ち撃ち抜かれてしまっただに～❤]ゆかぽん大好き❤❤本人からゆか生涯神推し第一号認定！！🍀派生ユニットvierklee🍀巨人⚾信濃グランセローズ応援⚾",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 140,
+    "friends_count": 200,
+    "listed_count": 3,
+    "favourites_count": 31182,
+    "statuses_count": 61438,
+    "created_at": "Tue Oct 05 00:14:26 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1027843626452185088/Kd5e15Rt_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1027843626452185088/Kd5e15Rt_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/198690211/1530084810",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "e0467eda7e2fe939",
+    "url": "https://api.twitter.com/1.1/geo/id/e0467eda7e2fe939.json",
+    "place_type": "city",
+    "name": "長野市",
+    "full_name": "長野 長野市",
+    "country_code": "JP",
+    "country": "日本",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.909523,
+            36.46083
+          ],
+          [
+            137.909523,
+            36.835755
+          ],
+          [
+            138.319022,
+            36.835755
+          ],
+          [
+            138.319022,
+            36.46083
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パラレルドリーム",
+        "indices": [
+          49,
+          58
+        ]
+      },
+      {
+        "text": "ネオンピンク担当ラリリ",
+        "indices": [
+          59,
+          71
+        ]
+      },
+      {
+        "text": "一回目Ｌｉｖｅ",
+        "indices": [
+          72,
+          80
+        ]
+      },
+      {
+        "text": "松川支所",
+        "indices": [
+          81,
+          86
+        ]
+      },
+      {
+        "text": "ＪＡ松川祭2018",
+        "indices": [
+          87,
+          97
+        ]
+      },
+      {
+        "text": "松川町",
+        "indices": [
+          98,
+          102
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058726840347516928,
+        "id_str": "1058726840347516928",
+        "indices": [
+          103,
+          126
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFac7EV4AA1m5k.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFac7EV4AA1m5k.jpg",
+        "url": "https://t.co/qDIWzcmomM",
+        "display_url": "pic.twitter.com/qDIWzcmomM",
+        "expanded_url": "https://twitter.com/YOSHI8088/status/1058726853219774466/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058726840347516928,
+        "id_str": "1058726840347516928",
+        "indices": [
+          103,
+          126
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFac7EV4AA1m5k.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFac7EV4AA1m5k.jpg",
+        "url": "https://t.co/qDIWzcmomM",
+        "display_url": "pic.twitter.com/qDIWzcmomM",
+        "expanded_url": "https://twitter.com/YOSHI8088/status/1058726853219774466/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255126658"
+}

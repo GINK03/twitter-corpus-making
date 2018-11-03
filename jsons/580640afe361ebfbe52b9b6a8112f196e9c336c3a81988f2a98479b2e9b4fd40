@@ -1,0 +1,556 @@
+{
+  "created_at": "Sat Nov 03 14:18:07 +0000 2018",
+  "id": 1058725011932901377,
+  "id_str": "1058725011932901377",
+  "text": "RT @hariton_345: いや、流石にやり過ぎやろ。こんなのが居るからホントに欲しい人が買えないんじゃん。ホント自己中、マジ引くわ。 https://t.co/4KYC6QIqh6",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1040319866685669376,
+    "id_str": "1040319866685669376",
+    "name": "KG 👳 ＋α/ALZee",
+    "screen_name": "zielgigas__",
+    "location": "あるじau三日と18日休み",
+    "url": null,
+    "description": "【#shadowverse】あるじキッズ代表次点者【#Yugioh】2016年日本代表次点者忘年会7.8",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 296,
+    "friends_count": 301,
+    "listed_count": 2,
+    "favourites_count": 309,
+    "statuses_count": 2193,
+    "created_at": "Thu Sep 13 19:22:39 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058363509627473920/2mddByAs_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058363509627473920/2mddByAs_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1040319866685669376/1539554281",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 03:42:19 +0000 2018",
+    "id": 1058565007594536960,
+    "id_str": "1058565007594536960",
+    "text": "いや、流石にやり過ぎやろ。こんなのが居るからホントに欲しい人が買えないんじゃん。ホント自己中、マジ引くわ。 https://t.co/4KYC6QIqh6",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 930556698527383552,
+      "id_str": "930556698527383552",
+      "name": "はりとん@ポケカ初心者",
+      "screen_name": "hariton_345",
+      "location": null,
+      "url": null,
+      "description": "ポケカを最近始めた初心者です\n\n夢はシロナのSRを100枚集める事です(無謀)",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 115,
+      "friends_count": 101,
+      "listed_count": 0,
+      "favourites_count": 92,
+      "statuses_count": 292,
+      "created_at": "Tue Nov 14 22:03:00 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1037547864983883776/UJCFxJj6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037547864983883776/UJCFxJj6_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/930556698527383552/1536205662",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 70,
+    "reply_count": 55,
+    "retweet_count": 1655,
+    "favorite_count": 1727,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058564924757073920,
+          "id_str": "1058564924757073920",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDHMMfVYAAJLJd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDHMMfVYAAJLJd.jpg",
+          "url": "https://t.co/4KYC6QIqh6",
+          "display_url": "pic.twitter.com/4KYC6QIqh6",
+          "expanded_url": "https://twitter.com/hariton_345/status/1058565007594536960/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1920,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058564924757073920,
+          "id_str": "1058564924757073920",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDHMMfVYAAJLJd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDHMMfVYAAJLJd.jpg",
+          "url": "https://t.co/4KYC6QIqh6",
+          "display_url": "pic.twitter.com/4KYC6QIqh6",
+          "expanded_url": "https://twitter.com/hariton_345/status/1058565007594536960/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1920,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058564942087905280,
+          "id_str": "1058564942087905280",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDHNNDU4AAzukz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDHNNDU4AAzukz.jpg",
+          "url": "https://t.co/4KYC6QIqh6",
+          "display_url": "pic.twitter.com/4KYC6QIqh6",
+          "expanded_url": "https://twitter.com/hariton_345/status/1058565007594536960/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1920,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058564979257798656,
+          "id_str": "1058564979257798656",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDHPXhUcAAOI7g.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDHPXhUcAAOI7g.jpg",
+          "url": "https://t.co/4KYC6QIqh6",
+          "display_url": "pic.twitter.com/4KYC6QIqh6",
+          "expanded_url": "https://twitter.com/hariton_345/status/1058565007594536960/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1920,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058564989731057664,
+          "id_str": "1058564989731057664",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDHP-iVsAAaoj4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDHP-iVsAAaoj4.jpg",
+          "url": "https://t.co/4KYC6QIqh6",
+          "display_url": "pic.twitter.com/4KYC6QIqh6",
+          "expanded_url": "https://twitter.com/hariton_345/status/1058565007594536960/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 745,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1272,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 422,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "hariton_345",
+        "name": "はりとん@ポケカ初心者",
+        "id": 930556698527383552,
+        "id_str": "930556698527383552",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058564924757073920,
+        "id_str": "1058564924757073920",
+        "indices": [
+          71,
+          94
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDHMMfVYAAJLJd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDHMMfVYAAJLJd.jpg",
+        "url": "https://t.co/4KYC6QIqh6",
+        "display_url": "pic.twitter.com/4KYC6QIqh6",
+        "expanded_url": "https://twitter.com/hariton_345/status/1058565007594536960/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1920,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058565007594536960,
+        "source_status_id_str": "1058565007594536960",
+        "source_user_id": 930556698527383552,
+        "source_user_id_str": "930556698527383552"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058564924757073920,
+        "id_str": "1058564924757073920",
+        "indices": [
+          71,
+          94
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDHMMfVYAAJLJd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDHMMfVYAAJLJd.jpg",
+        "url": "https://t.co/4KYC6QIqh6",
+        "display_url": "pic.twitter.com/4KYC6QIqh6",
+        "expanded_url": "https://twitter.com/hariton_345/status/1058565007594536960/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1920,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058565007594536960,
+        "source_status_id_str": "1058565007594536960",
+        "source_user_id": 930556698527383552,
+        "source_user_id_str": "930556698527383552"
+      },
+      {
+        "id": 1058564942087905280,
+        "id_str": "1058564942087905280",
+        "indices": [
+          71,
+          94
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDHNNDU4AAzukz.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDHNNDU4AAzukz.jpg",
+        "url": "https://t.co/4KYC6QIqh6",
+        "display_url": "pic.twitter.com/4KYC6QIqh6",
+        "expanded_url": "https://twitter.com/hariton_345/status/1058565007594536960/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1920,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058565007594536960,
+        "source_status_id_str": "1058565007594536960",
+        "source_user_id": 930556698527383552,
+        "source_user_id_str": "930556698527383552"
+      },
+      {
+        "id": 1058564979257798656,
+        "id_str": "1058564979257798656",
+        "indices": [
+          71,
+          94
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDHPXhUcAAOI7g.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDHPXhUcAAOI7g.jpg",
+        "url": "https://t.co/4KYC6QIqh6",
+        "display_url": "pic.twitter.com/4KYC6QIqh6",
+        "expanded_url": "https://twitter.com/hariton_345/status/1058565007594536960/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1920,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058565007594536960,
+        "source_status_id_str": "1058565007594536960",
+        "source_user_id": 930556698527383552,
+        "source_user_id_str": "930556698527383552"
+      },
+      {
+        "id": 1058564989731057664,
+        "id_str": "1058564989731057664",
+        "indices": [
+          71,
+          94
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDHP-iVsAAaoj4.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDHP-iVsAAaoj4.jpg",
+        "url": "https://t.co/4KYC6QIqh6",
+        "display_url": "pic.twitter.com/4KYC6QIqh6",
+        "expanded_url": "https://twitter.com/hariton_345/status/1058565007594536960/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 745,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1272,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 422,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058565007594536960,
+        "source_status_id_str": "1058565007594536960",
+        "source_user_id": 930556698527383552,
+        "source_user_id_str": "930556698527383552"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254687661"
+}

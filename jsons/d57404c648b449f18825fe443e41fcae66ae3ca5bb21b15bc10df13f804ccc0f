@@ -1,0 +1,332 @@
+{
+  "created_at": "Sat Nov 03 14:20:10 +0000 2018",
+  "id": 1058725527815516160,
+  "id_str": "1058725527815516160",
+  "text": "RT @_be_a_traveler: ラナイ島。ハワイ　https://t.co/g8KLfU7L0e",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 138487868,
+    "id_str": "138487868",
+    "name": "JI 🍶🍺🍸🏮二度寝マン",
+    "screen_name": "skyJI11",
+    "location": "日本 埼玉",
+    "url": null,
+    "description": "酒呑み　出張が多く各地の酒場を徘徊　日本酒好き　ウィスキーならバーボン　 酔うと誤字脱字変換ミス多くなります💦　最近は酔わなくても変換ミス…(｡･･) 　神社や城巡り　脱原発、自然エネルギー推進。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 632,
+    "friends_count": 691,
+    "listed_count": 5,
+    "favourites_count": 22291,
+    "statuses_count": 7348,
+    "created_at": "Thu Apr 29 17:49:03 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1020841943448707073/WVDPuixN_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020841943448707073/WVDPuixN_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/138487868/1507361151",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:17:01 +0000 2018",
+    "id": 1058724733078781952,
+    "id_str": "1058724733078781952",
+    "text": "ラナイ島。ハワイ　https://t.co/g8KLfU7L0e",
+    "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 873073321297944576,
+      "id_str": "873073321297944576",
+      "name": "「絶景」世界はこんなにも美しい",
+      "screen_name": "_be_a_traveler",
+      "location": null,
+      "url": null,
+      "description": "綺麗な風景は感動を与えてくれます。あなたが未だ見たことのない、美しい風景をつぶやいていきます。心が透き通って、穏やかなひと時があなたに訪れれば幸いです。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 4488,
+      "friends_count": 4034,
+      "listed_count": 15,
+      "favourites_count": 302,
+      "statuses_count": 634,
+      "created_at": "Fri Jun 09 07:04:35 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1032573031892144128/6ZWbYXHL_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032573031892144128/6ZWbYXHL_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/873073321297944576/1535019664",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 4,
+    "favorite_count": 14,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 478337582083084288,
+          "id_str": "478337582083084288",
+          "indices": [
+            9,
+            32
+          ],
+          "media_url": "http://pbs.twimg.com/media/BqNlfx7IEAAO6ag.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/BqNlfx7IEAAO6ag.jpg",
+          "url": "https://t.co/g8KLfU7L0e",
+          "display_url": "pic.twitter.com/g8KLfU7L0e",
+          "expanded_url": "https://twitter.com/IncredibleViews/status/478337583207186433/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 599,
+              "h": 589,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 599,
+              "h": 589,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 599,
+              "h": 589,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 478337583207186433,
+          "source_status_id_str": "478337583207186433",
+          "source_user_id": 126990459,
+          "source_user_id_str": "126990459"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 478337582083084288,
+          "id_str": "478337582083084288",
+          "indices": [
+            9,
+            32
+          ],
+          "media_url": "http://pbs.twimg.com/media/BqNlfx7IEAAO6ag.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/BqNlfx7IEAAO6ag.jpg",
+          "url": "https://t.co/g8KLfU7L0e",
+          "display_url": "pic.twitter.com/g8KLfU7L0e",
+          "expanded_url": "https://twitter.com/IncredibleViews/status/478337583207186433/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 599,
+              "h": 589,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 599,
+              "h": 589,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 599,
+              "h": 589,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 478337583207186433,
+          "source_status_id_str": "478337583207186433",
+          "source_user_id": 126990459,
+          "source_user_id_str": "126990459"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "_be_a_traveler",
+        "name": "「絶景」世界はこんなにも美しい",
+        "id": 873073321297944576,
+        "id_str": "873073321297944576",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 478337582083084288,
+        "id_str": "478337582083084288",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/media/BqNlfx7IEAAO6ag.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/BqNlfx7IEAAO6ag.jpg",
+        "url": "https://t.co/g8KLfU7L0e",
+        "display_url": "pic.twitter.com/g8KLfU7L0e",
+        "expanded_url": "https://twitter.com/IncredibleViews/status/478337583207186433/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 599,
+            "h": 589,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 599,
+            "h": 589,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 599,
+            "h": 589,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 478337583207186433,
+        "source_status_id_str": "478337583207186433",
+        "source_user_id": 126990459,
+        "source_user_id_str": "126990459"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 478337582083084288,
+        "id_str": "478337582083084288",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/media/BqNlfx7IEAAO6ag.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/BqNlfx7IEAAO6ag.jpg",
+        "url": "https://t.co/g8KLfU7L0e",
+        "display_url": "pic.twitter.com/g8KLfU7L0e",
+        "expanded_url": "https://twitter.com/IncredibleViews/status/478337583207186433/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 599,
+            "h": 589,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 599,
+            "h": 589,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 599,
+            "h": 589,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 478337583207186433,
+        "source_status_id_str": "478337583207186433",
+        "source_user_id": 126990459,
+        "source_user_id_str": "126990459"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254810657"
+}

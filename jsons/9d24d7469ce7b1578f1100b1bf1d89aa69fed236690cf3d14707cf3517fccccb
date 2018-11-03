@@ -1,0 +1,93 @@
+{
+  "created_at": "Sat Nov 03 14:16:23 +0000 2018",
+  "id": 1058724575746244609,
+  "id_str": "1058724575746244609",
+  "text": "【乃木恋】\n乃木恋の「しらいしはん軍団」です。\n軍団員みんな上位狙いプレイ中！\n興味のある方、軍団IDで検索してみてね！\n軍団ID：c96b2887\n※本軍団IDはiOS/Android対象となります\nhttps://t.co/YG21xjLYZT  #乃木恋",
+  "source": "<a href=\"https://nogikoi.jp/\" rel=\"nofollow\">[乃木坂46公式]乃木恋～坂道の下であの日僕は恋をした～</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 870508312713764864,
+    "id_str": "870508312713764864",
+    "name": "坂道⊿レアル",
+    "screen_name": "rma1197",
+    "location": "理々杏県北部",
+    "url": "https://peing.net/ja/rma1197?event=0",
+    "description": "乃木坂(メイン) 欅けやき(少し) #箱推し #ナスカ 98line #realmadrid リア友→@minami46ycu #asukamail #nanasemail #marikagram 乃木恋11期純奈31位 12期若様22位 #しらいしはん軍団 移行先@nogizakarma",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2862,
+    "friends_count": 2808,
+    "listed_count": 18,
+    "favourites_count": 14223,
+    "statuses_count": 12944,
+    "created_at": "Fri Jun 02 05:12:09 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1039137921847111682/sA1H22l1_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039137921847111682/sA1H22l1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/870508312713764864/1514781859",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "乃木恋",
+        "indices": [
+          126,
+          130
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/YG21xjLYZT",
+        "expanded_url": "http://nogikoi.jp/",
+        "display_url": "nogikoi.jp",
+        "indices": [
+          101,
+          124
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254583666"
+}

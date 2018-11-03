@@ -1,0 +1,157 @@
+{
+  "created_at": "Sat Nov 03 14:18:21 +0000 2018",
+  "id": 1058725068748972034,
+  "id_str": "1058725068748972034",
+  "text": "モンスト　ルシファーのヘッダー https://t.co/6gWKAsLoTz",
+  "display_text_range": [
+    0,
+    15
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1550624490,
+    "id_str": "1550624490",
+    "name": "ノクト",
+    "screen_name": "Aporo0728",
+    "location": "↓マルチのURL",
+    "url": "https://static.monster-strike.com/line/?pass_code=NzY1OTk1MjAz",
+    "description": "ソシャゲはモンスト、パズドラ、FGOやってます。 改造、垢販売、業者関係者は絡みません！依頼は受けません。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1926,
+    "friends_count": 1041,
+    "listed_count": 23,
+    "favourites_count": 57175,
+    "statuses_count": 53559,
+    "created_at": "Thu Jun 27 13:38:49 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "3B94D9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1046373985359818754/dH3rv_5E_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046373985359818754/dH3rv_5E_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1550624490/1541225116",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724905380851713,
+        "id_str": "1058724905380851713",
+        "indices": [
+          16,
+          39
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYsSwVsAEod4J.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYsSwVsAEod4J.jpg",
+        "url": "https://t.co/6gWKAsLoTz",
+        "display_url": "pic.twitter.com/6gWKAsLoTz",
+        "expanded_url": "https://twitter.com/Aporo0728/status/1058725068748972034/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 400,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1500,
+            "h": 500,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 227,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724905380851713,
+        "id_str": "1058724905380851713",
+        "indices": [
+          16,
+          39
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYsSwVsAEod4J.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYsSwVsAEod4J.jpg",
+        "url": "https://t.co/6gWKAsLoTz",
+        "display_url": "pic.twitter.com/6gWKAsLoTz",
+        "expanded_url": "https://twitter.com/Aporo0728/status/1058725068748972034/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 400,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1500,
+            "h": 500,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 227,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254701207"
+}

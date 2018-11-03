@@ -1,0 +1,89 @@
+{
+  "created_at": "Sat Nov 03 14:16:04 +0000 2018",
+  "id": 1058724496016736256,
+  "id_str": "1058724496016736256",
+  "text": "旧シリーズだとアイチも髪切ってたんだけどな\n#BS11 #cf_vanguard",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 81060295,
+    "id_str": "81060295",
+    "name": "No!Way!",
+    "screen_name": "schingo",
+    "location": "うらんこや",
+    "url": null,
+    "description": "もうすぐ10周年を迎えるリア垢兼趣味垢(9割趣味)\nアート/アニメ特撮/TCG(MTG・VG)/Charatクリエイターおじさん",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 214,
+    "friends_count": 309,
+    "listed_count": 10,
+    "favourites_count": 3194,
+    "statuses_count": 34088,
+    "created_at": "Fri Oct 09 08:17:06 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1590619141/sy1_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1590619141/sy1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/81060295/1487660928",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BS11",
+        "indices": [
+          22,
+          27
+        ]
+      },
+      {
+        "text": "cf_vanguard",
+        "indices": [
+          28,
+          40
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254564657"
+}

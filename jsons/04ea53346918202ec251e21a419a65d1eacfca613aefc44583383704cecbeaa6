@@ -1,0 +1,189 @@
+{
+  "created_at": "Sat Nov 03 14:23:19 +0000 2018",
+  "id": 1058726320564129792,
+  "id_str": "1058726320564129792",
+  "text": "食欲の晩秋、美食たちのささやきに耳を澄ませてみよう。\n彼らの温もりと出会うとき、新たな物語が始まる…\nhttps://t.co/hlB6H6RynM\n#フードファンタジー #フーファン #食霊のティアラ https://t.co/6rLnLqzimt",
+  "display_text_range": [
+    0,
+    101
+  ],
+  "source": "<a href=\"http://www.foodfantasy.jp\" rel=\"nofollow\">FoodFantasy</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1032334584,
+    "id_str": "1032334584",
+    "name": "潤",
+    "screen_name": "jhunld",
+    "location": "広島",
+    "url": null,
+    "description": "GE、テイルズ/HQ、キングダム、ダイヤのA/バラエティー/映画館大好きな広島県民。現在 dbd プレイしてます。夕方から夜にin、下手です(´-`) dbd垢作りました→ @tomako_b",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 40,
+    "friends_count": 67,
+    "listed_count": 3,
+    "favourites_count": 1077,
+    "statuses_count": 10040,
+    "created_at": "Mon Dec 24 10:00:21 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1034354383708815360/Fqzf5uJQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034354383708815360/Fqzf5uJQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1032334584/1464674259",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "フードファンタジー",
+        "indices": [
+          75,
+          85
+        ]
+      },
+      {
+        "text": "フーファン",
+        "indices": [
+          86,
+          92
+        ]
+      },
+      {
+        "text": "食霊のティアラ",
+        "indices": [
+          93,
+          101
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/hlB6H6RynM",
+        "expanded_url": "http://cv.foodfantasy.jp/zhutongfan",
+        "display_url": "cv.foodfantasy.jp/zhutongfan",
+        "indices": [
+          51,
+          74
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058726318416613376,
+        "id_str": "1058726318416613376",
+        "indices": [
+          102,
+          125
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZ-iuUUAAAQPS.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZ-iuUUAAAQPS.jpg",
+        "url": "https://t.co/6rLnLqzimt",
+        "display_url": "pic.twitter.com/6rLnLqzimt",
+        "expanded_url": "https://twitter.com/jhunld/status/1058726320564129792/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058726318416613376,
+        "id_str": "1058726318416613376",
+        "indices": [
+          102,
+          125
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZ-iuUUAAAQPS.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZ-iuUUAAAQPS.jpg",
+        "url": "https://t.co/6rLnLqzimt",
+        "display_url": "pic.twitter.com/6rLnLqzimt",
+        "expanded_url": "https://twitter.com/jhunld/status/1058726320564129792/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254999663"
+}

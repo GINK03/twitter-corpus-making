@@ -1,0 +1,418 @@
+{
+  "created_at": "Sat Nov 03 14:26:51 +0000 2018",
+  "id": 1058727209764966400,
+  "id_str": "1058727209764966400",
+  "text": "RT @kazarigiri: 前にもおすすめしたけどもスマホの容量いっぱいで目の前の写真撮るために大事な写真や動画泣く泣く消してる人…！GooglePhotoとかのクラウド系信用できないとかPCバックアップしても手元で見たいとか！このメモリに逃して持ち歩きで対応できる！iPh…",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2912028127,
+    "id_str": "2912028127",
+    "name": "ソラミュウ🦂🐿",
+    "screen_name": "soramew",
+    "location": "赤塚区",
+    "url": null,
+    "description": "20↑稀に仮装する。メイクと美容とコスメの話大好きマン。NARUTO/松/ギャグ日/ヘタ/デスノ/PP/エヴァ/パルマ/その他詳細→http://twpf.jp/soramew ヘッダーちはさん。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 322,
+    "friends_count": 259,
+    "listed_count": 35,
+    "favourites_count": 11269,
+    "statuses_count": 30249,
+    "created_at": "Thu Nov 27 15:34:30 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "9266CC",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1057990795720978432/21h9PX5S_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057990795720978432/21h9PX5S_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2912028127/1449666336",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Nov 01 00:45:16 +0000 2018",
+    "id": 1057795674354331648,
+    "id_str": "1057795674354331648",
+    "text": "前にもおすすめしたけどもスマホの容量いっぱいで目の前の写真撮るために大事な写真や動画泣く泣く消してる人…！GooglePhotoとかのクラウド系信用できないとかPCバックアップしても手元で見たいとか！このメモリに逃して持ち歩きで対… https://t.co/Aq7k3oWeaY",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1057795502794727425,
+    "in_reply_to_status_id_str": "1057795502794727425",
+    "in_reply_to_user_id": 2938734704,
+    "in_reply_to_user_id_str": "2938734704",
+    "in_reply_to_screen_name": "kazarigiri",
+    "user": {
+      "id": 2938734704,
+      "id_str": "2938734704",
+      "name": "かざり",
+      "screen_name": "kazarigiri",
+      "location": "ブログはここよ→",
+      "url": "http://www.kazarigiri.com",
+      "description": "ブログ「かざりび」運営。ライターやイラスト。Amazon芸人。2015冬男児&2017夏女児の母。わたしはわたし。あなたはあなた。アイコン描くよ→https://goo.gl/ioPgEb インスタ文字垢→https://www.instagram.com/kazarigiri2/",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 4827,
+      "friends_count": 300,
+      "listed_count": 70,
+      "favourites_count": 4397,
+      "statuses_count": 14616,
+      "created_at": "Sun Dec 21 23:21:06 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/991146934734802944/DnQs4OIu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/991146934734802944/DnQs4OIu_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2938734704/1526348707",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "前にもおすすめしたけどもスマホの容量いっぱいで目の前の写真撮るために大事な写真や動画泣く泣く消してる人…！GooglePhotoとかのクラウド系信用できないとかPCバックアップしても手元で見たいとか！このメモリに逃して持ち歩きで対応できる！iPhoneもAndroidも使えるよ！\nhttps://t.co/zxFAaly9y7 https://t.co/g3F9NnIyFL",
+      "display_text_range": [
+        0,
+        164
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/zxFAaly9y7",
+            "expanded_url": "https://amzn.to/2P0ECwR",
+            "display_url": "amzn.to/2P0ECwR",
+            "indices": [
+              141,
+              164
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1057795594704498688,
+            "id_str": "1057795594704498688",
+            "indices": [
+              165,
+              188
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq4LfStVsAAikf3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq4LfStVsAAikf3.jpg",
+            "url": "https://t.co/g3F9NnIyFL",
+            "display_url": "pic.twitter.com/g3F9NnIyFL",
+            "expanded_url": "https://twitter.com/kazarigiri/status/1057795674354331648/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 617,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1206,
+                "h": 1094,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1089,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1057795620197457920,
+            "id_str": "1057795620197457920",
+            "indices": [
+              165,
+              188
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq4LgxrVYAAs5Vd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq4LgxrVYAAs5Vd.jpg",
+            "url": "https://t.co/g3F9NnIyFL",
+            "display_url": "pic.twitter.com/g3F9NnIyFL",
+            "expanded_url": "https://twitter.com/kazarigiri/status/1057795674354331648/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1064,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 654,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1064,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1057795642423074824,
+            "id_str": "1057795642423074824",
+            "indices": [
+              165,
+              188
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq4LiEeVYAgaPjd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq4LiEeVYAgaPjd.jpg",
+            "url": "https://t.co/g3F9NnIyFL",
+            "display_url": "pic.twitter.com/g3F9NnIyFL",
+            "expanded_url": "https://twitter.com/kazarigiri/status/1057795674354331648/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 634,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1146,
+                "h": 1068,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1146,
+                "h": 1068,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1057795594704498688,
+            "id_str": "1057795594704498688",
+            "indices": [
+              165,
+              188
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq4LfStVsAAikf3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq4LfStVsAAikf3.jpg",
+            "url": "https://t.co/g3F9NnIyFL",
+            "display_url": "pic.twitter.com/g3F9NnIyFL",
+            "expanded_url": "https://twitter.com/kazarigiri/status/1057795674354331648/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 617,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1206,
+                "h": 1094,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1089,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1057795620197457920,
+            "id_str": "1057795620197457920",
+            "indices": [
+              165,
+              188
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq4LgxrVYAAs5Vd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq4LgxrVYAAs5Vd.jpg",
+            "url": "https://t.co/g3F9NnIyFL",
+            "display_url": "pic.twitter.com/g3F9NnIyFL",
+            "expanded_url": "https://twitter.com/kazarigiri/status/1057795674354331648/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1064,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 654,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1064,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1057795642423074824,
+            "id_str": "1057795642423074824",
+            "indices": [
+              165,
+              188
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq4LiEeVYAgaPjd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq4LiEeVYAgaPjd.jpg",
+            "url": "https://t.co/g3F9NnIyFL",
+            "display_url": "pic.twitter.com/g3F9NnIyFL",
+            "expanded_url": "https://twitter.com/kazarigiri/status/1057795674354331648/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 634,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1146,
+                "h": 1068,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1146,
+                "h": 1068,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 73,
+    "reply_count": 2,
+    "retweet_count": 5473,
+    "favorite_count": 9875,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/Aq7k3oWeaY",
+          "expanded_url": "https://twitter.com/i/web/status/1057795674354331648",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "kazarigiri",
+        "name": "かざり",
+        "id": 2938734704,
+        "id_str": "2938734704",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255211665"
+}

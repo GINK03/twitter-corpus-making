@@ -1,0 +1,434 @@
+{
+  "created_at": "Sat Nov 03 13:56:45 +0000 2018",
+  "id": 1058719632247279616,
+  "id_str": "1058719632247279616",
+  "text": "RT @miturugisugar: 衛生に考えたら指舐めしないかも許してな婦長と、照れ婦長\n#FGO #FateGO https://t.co/d0UUvuGqiD",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 117715087,
+    "id_str": "117715087",
+    "name": "鰯鰤",
+    "screen_name": "Iwashiburi",
+    "location": "千年杉の下",
+    "url": "http://blue.ap.teacup.com/8cloud_hurricane/",
+    "description": "おっぱいがあれば生きていける。 お姉さんが居れば笑顔が溢れる。 どっちもあったら狂喜乱舞。\n脊髄反射的にRTしまくるよ。たまに連続でつぶやいてる時は大体アニメ見てるよ。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 198,
+    "friends_count": 125,
+    "listed_count": 14,
+    "favourites_count": 56149,
+    "statuses_count": 237882,
+    "created_at": "Fri Feb 26 11:13:36 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "ABFCFF",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2010366183/kao_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2010366183/kao_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/117715087/1437998377",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Oct 30 11:01:54 +0000 2018",
+    "id": 1057226081265012736,
+    "id_str": "1057226081265012736",
+    "text": "衛生に考えたら指舐めしないかも許してな婦長と、照れ婦長\n#FGO #FateGO https://t.co/d0UUvuGqiD",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 836511241765937152,
+      "id_str": "836511241765937152",
+      "name": "御劔シュガー@絵描き・鬼滅の刃布教中",
+      "screen_name": "miturugisugar",
+      "location": "FGO世界線ルルハワ",
+      "url": "http://pixiv.me/mithurugi-sugar",
+      "description": "可愛いと格好いいは正義。 https://odaibako.net/u/miturugisugar←お題箱",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1030,
+      "friends_count": 665,
+      "listed_count": 23,
+      "favourites_count": 1218,
+      "statuses_count": 1731,
+      "created_at": "Tue Feb 28 09:39:56 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1052489153969979392/2ymn0X_I_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052489153969979392/2ymn0X_I_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/836511241765937152/1539787587",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 57,
+    "favorite_count": 174,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            28,
+            32
+          ]
+        },
+        {
+          "text": "FateGO",
+          "indices": [
+            33,
+            40
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1057226070984876033,
+          "id_str": "1057226070984876033",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqwFgphV4AEhECC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqwFgphV4AEhECC.jpg",
+          "url": "https://t.co/d0UUvuGqiD",
+          "display_url": "pic.twitter.com/d0UUvuGqiD",
+          "expanded_url": "https://twitter.com/miturugisugar/status/1057226081265012736/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1653,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 969,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 549,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1057226070984876033,
+          "id_str": "1057226070984876033",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqwFgphV4AEhECC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqwFgphV4AEhECC.jpg",
+          "url": "https://t.co/d0UUvuGqiD",
+          "display_url": "pic.twitter.com/d0UUvuGqiD",
+          "expanded_url": "https://twitter.com/miturugisugar/status/1057226081265012736/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1653,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 969,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 549,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1057226070997364741,
+          "id_str": "1057226070997364741",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqwFgpkUcAU3ppm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqwFgpkUcAU3ppm.jpg",
+          "url": "https://t.co/d0UUvuGqiD",
+          "display_url": "pic.twitter.com/d0UUvuGqiD",
+          "expanded_url": "https://twitter.com/miturugisugar/status/1057226081265012736/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 549,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1653,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 969,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          47,
+          51
+        ]
+      },
+      {
+        "text": "FateGO",
+        "indices": [
+          52,
+          59
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "miturugisugar",
+        "name": "御劔シュガー@絵描き・鬼滅の刃布教中",
+        "id": 836511241765937152,
+        "id_str": "836511241765937152",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1057226070984876033,
+        "id_str": "1057226070984876033",
+        "indices": [
+          60,
+          83
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqwFgphV4AEhECC.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqwFgphV4AEhECC.jpg",
+        "url": "https://t.co/d0UUvuGqiD",
+        "display_url": "pic.twitter.com/d0UUvuGqiD",
+        "expanded_url": "https://twitter.com/miturugisugar/status/1057226081265012736/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1653,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 969,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 549,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057226081265012736,
+        "source_status_id_str": "1057226081265012736",
+        "source_user_id": 836511241765937152,
+        "source_user_id_str": "836511241765937152"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1057226070984876033,
+        "id_str": "1057226070984876033",
+        "indices": [
+          60,
+          83
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqwFgphV4AEhECC.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqwFgphV4AEhECC.jpg",
+        "url": "https://t.co/d0UUvuGqiD",
+        "display_url": "pic.twitter.com/d0UUvuGqiD",
+        "expanded_url": "https://twitter.com/miturugisugar/status/1057226081265012736/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1653,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 969,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 549,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057226081265012736,
+        "source_status_id_str": "1057226081265012736",
+        "source_user_id": 836511241765937152,
+        "source_user_id_str": "836511241765937152"
+      },
+      {
+        "id": 1057226070997364741,
+        "id_str": "1057226070997364741",
+        "indices": [
+          60,
+          83
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqwFgpkUcAU3ppm.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqwFgpkUcAU3ppm.jpg",
+        "url": "https://t.co/d0UUvuGqiD",
+        "display_url": "pic.twitter.com/d0UUvuGqiD",
+        "expanded_url": "https://twitter.com/miturugisugar/status/1057226081265012736/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 549,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1653,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 969,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057226081265012736,
+        "source_status_id_str": "1057226081265012736",
+        "source_user_id": 836511241765937152,
+        "source_user_id_str": "836511241765937152"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253405044"
+}

@@ -1,0 +1,395 @@
+{
+  "created_at": "Sat Nov 03 14:16:57 +0000 2018",
+  "id": 1058724718335815680,
+  "id_str": "1058724718335815680",
+  "text": "RT @ys_bou: てｓ https://t.co/lLBk7EaiHY",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 849897505747681281,
+    "id_str": "849897505747681281",
+    "name": "✇継承🌙",
+    "screen_name": "Tsukichiru",
+    "location": "赴くままに",
+    "url": null,
+    "description": "東方やゆ実況やSCPやフリゲやアンテとか大好きな宇宙人です｡\nマスター始めました\n受験生やめたい(´；ω；｀)\n無言フォロー野郎です    \n話しかけてくれると喜びます！\n\n裏垢《＠tsukichiru_ura》",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 248,
+    "friends_count": 342,
+    "listed_count": 7,
+    "favourites_count": 17746,
+    "statuses_count": 5457,
+    "created_at": "Thu Apr 06 08:12:10 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "91D2FA",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/977852688724500480/6tXgYe0v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/977852688724500480/6tXgYe0v_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/849897505747681281/1531639321",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 14:31:19 +0000 2018",
+    "id": 1058365943510794240,
+    "id_str": "1058365943510794240",
+    "text": "てｓ https://t.co/lLBk7EaiHY",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1641229747,
+      "id_str": "1641229747",
+      "name": "ys",
+      "screen_name": "ys_bou",
+      "location": null,
+      "url": null,
+      "description": "惰眠",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 437,
+      "friends_count": 32,
+      "listed_count": 14,
+      "favourites_count": 39,
+      "statuses_count": 277,
+      "created_at": "Fri Aug 02 19:55:30 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/772420337224921088/9D1UXuYe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/772420337224921088/9D1UXuYe_normal.jpg",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 12,
+    "reply_count": 16,
+    "retweet_count": 1475,
+    "favorite_count": 3985,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058365863982641153,
+          "id_str": "1058365863982641153",
+          "indices": [
+            3,
+            26
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058365863982641153/pu/img/5e_gGRWatiV2TPp8.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058365863982641153/pu/img/5e_gGRWatiV2TPp8.jpg",
+          "url": "https://t.co/lLBk7EaiHY",
+          "display_url": "pic.twitter.com/lLBk7EaiHY",
+          "expanded_url": "https://twitter.com/ys_bou/status/1058365943510794240/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058365863982641153,
+          "id_str": "1058365863982641153",
+          "indices": [
+            3,
+            26
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058365863982641153/pu/img/5e_gGRWatiV2TPp8.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058365863982641153/pu/img/5e_gGRWatiV2TPp8.jpg",
+          "url": "https://t.co/lLBk7EaiHY",
+          "display_url": "pic.twitter.com/lLBk7EaiHY",
+          "expanded_url": "https://twitter.com/ys_bou/status/1058365943510794240/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 9500,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058365863982641153/pu/vid/240x240/mlv_9E2l2V9Pw27C.mp4?tag=5"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058365863982641153/pu/vid/720x720/oaqr5qbXKxvRE57_.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058365863982641153/pu/vid/480x480/xvGcTPzEXULf-aeZ.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058365863982641153/pu/pl/DQwMGx97F3Pqjn0O.m3u8?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "ys_bou",
+        "name": "ys",
+        "id": 1641229747,
+        "id_str": "1641229747",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058365863982641153,
+        "id_str": "1058365863982641153",
+        "indices": [
+          15,
+          38
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058365863982641153/pu/img/5e_gGRWatiV2TPp8.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058365863982641153/pu/img/5e_gGRWatiV2TPp8.jpg",
+        "url": "https://t.co/lLBk7EaiHY",
+        "display_url": "pic.twitter.com/lLBk7EaiHY",
+        "expanded_url": "https://twitter.com/ys_bou/status/1058365943510794240/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058365943510794240,
+        "source_status_id_str": "1058365943510794240",
+        "source_user_id": 1641229747,
+        "source_user_id_str": "1641229747"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058365863982641153,
+        "id_str": "1058365863982641153",
+        "indices": [
+          15,
+          38
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058365863982641153/pu/img/5e_gGRWatiV2TPp8.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058365863982641153/pu/img/5e_gGRWatiV2TPp8.jpg",
+        "url": "https://t.co/lLBk7EaiHY",
+        "display_url": "pic.twitter.com/lLBk7EaiHY",
+        "expanded_url": "https://twitter.com/ys_bou/status/1058365943510794240/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 9500,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058365863982641153/pu/vid/240x240/mlv_9E2l2V9Pw27C.mp4?tag=5"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058365863982641153/pu/vid/720x720/oaqr5qbXKxvRE57_.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058365863982641153/pu/vid/480x480/xvGcTPzEXULf-aeZ.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058365863982641153/pu/pl/DQwMGx97F3Pqjn0O.m3u8?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058365943510794240,
+        "source_status_id_str": "1058365943510794240",
+        "source_user_id": 1641229747,
+        "source_user_id_str": "1641229747"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254617662"
+}

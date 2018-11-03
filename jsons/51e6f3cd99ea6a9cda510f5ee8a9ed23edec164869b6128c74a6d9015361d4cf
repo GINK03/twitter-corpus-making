@@ -1,0 +1,168 @@
+{
+  "created_at": "Sat Nov 03 14:26:02 +0000 2018",
+  "id": 1058727004214747136,
+  "id_str": "1058727004214747136",
+  "text": "@new_you_kun 閉店時間になったから気になって見たら、、、出しすぎやで😱😱\n誕生日前に見事な大勝利やな👍 https://t.co/YkiIzE5iKK",
+  "display_text_range": [
+    13,
+    57
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058686159117725696,
+  "in_reply_to_status_id_str": "1058686159117725696",
+  "in_reply_to_user_id": 948210958949744640,
+  "in_reply_to_user_id_str": "948210958949744640",
+  "in_reply_to_screen_name": "new_you_kun",
+  "user": {
+    "id": 343835329,
+    "id_str": "343835329",
+    "name": "ワタサト",
+    "screen_name": "wataeva",
+    "location": " 東京＆千葉＆埼玉",
+    "url": null,
+    "description": "期待値ある台を求めてウロウロしてる身分です(-_-;) \n 2018年から稼働ネタがあったら呟いて行こうと思う。残り少ないであろうパチLIFEの為に、、、\n でちゃう＆DMM＆1GAMEを贔屓目にしてます。専業系＆業界人はほぼフォロバします。\n仮想通貨も勉強中(-ω☆)",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 395,
+    "friends_count": 206,
+    "listed_count": 1,
+    "favourites_count": 44,
+    "statuses_count": 8506,
+    "created_at": "Thu Jul 28 04:34:08 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/896989746026512384/BktJ3wcw_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/896989746026512384/BktJ3wcw_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/343835329/1536934183",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "new_you_kun",
+        "name": "YOU(よー)@DMMぱちタウン@江戸川区代表",
+        "id": 948210958949744640,
+        "id_str": "948210958949744640",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058726998003015680,
+        "id_str": "1058726998003015680",
+        "indices": [
+          58,
+          81
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFamGYV4AAsTpj.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFamGYV4AAsTpj.jpg",
+        "url": "https://t.co/YkiIzE5iKK",
+        "display_url": "pic.twitter.com/YkiIzE5iKK",
+        "expanded_url": "https://twitter.com/wataeva/status/1058727004214747136/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 754,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1719,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 427,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058726998003015680,
+        "id_str": "1058726998003015680",
+        "indices": [
+          58,
+          81
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFamGYV4AAsTpj.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFamGYV4AAsTpj.jpg",
+        "url": "https://t.co/YkiIzE5iKK",
+        "display_url": "pic.twitter.com/YkiIzE5iKK",
+        "expanded_url": "https://twitter.com/wataeva/status/1058727004214747136/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 754,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1719,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 427,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255162658"
+}

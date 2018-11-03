@@ -1,0 +1,344 @@
+{
+  "created_at": "Sat Nov 03 13:55:06 +0000 2018",
+  "id": 1058719220551176192,
+  "id_str": "1058719220551176192",
+  "text": "RT @nejikirio: タマモキャットとシトナイヌ。 #FGO https://t.co/unHf0o8gU1",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 134945600,
+    "id_str": "134945600",
+    "name": "ヲヲ(豆腐)",
+    "screen_name": "wowo_k",
+    "location": null,
+    "url": null,
+    "description": "Rubyあたりをよく触るSEもどき。他はゲームとかサンホラとか。最近は主にFGOのことしか話してない。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 46,
+    "friends_count": 35,
+    "listed_count": 3,
+    "favourites_count": 5614,
+    "statuses_count": 28610,
+    "created_at": "Mon Apr 19 22:41:48 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000687015913/0dee2b345175ec5503ce56521e813e58_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000687015913/0dee2b345175ec5503ce56521e813e58_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/134945600/1360928997",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Oct 27 09:05:41 +0000 2018",
+    "id": 1056109670165671938,
+    "id_str": "1056109670165671938",
+    "text": "タマモキャットとシトナイヌ。 #FGO https://t.co/unHf0o8gU1",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1971849012,
+      "id_str": "1971849012",
+      "name": "ネジキリオ🐾2日目 東A-44ab",
+      "screen_name": "nejikirio",
+      "location": "こえどのまち",
+      "url": "http://royalcat.xyz/",
+      "description": "ROYALCATのネジです。マンガやイラストを描いたりゲームしたりしてます。GIFTさんなどでイラストやデザインのお仕事をさせていただいてます。どうぞよろしくです🐾",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 68265,
+      "friends_count": 434,
+      "listed_count": 752,
+      "favourites_count": 7643,
+      "statuses_count": 10073,
+      "created_at": "Sat Oct 19 15:03:45 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "FAB81E",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1010153731508191232/Zo0OWi6O_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010153731508191232/Zo0OWi6O_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971849012/1538831333",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 8,
+    "reply_count": 66,
+    "retweet_count": 6992,
+    "favorite_count": 20124,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            15,
+            19
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1056109437264584704,
+          "id_str": "1056109437264584704",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqgN8AwX4AA65PP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqgN8AwX4AA65PP.jpg",
+          "url": "https://t.co/unHf0o8gU1",
+          "display_url": "pic.twitter.com/unHf0o8gU1",
+          "expanded_url": "https://twitter.com/nejikirio/status/1056109670165671938/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 1133,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 1133,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 480,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1056109437264584704,
+          "id_str": "1056109437264584704",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqgN8AwX4AA65PP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqgN8AwX4AA65PP.jpg",
+          "url": "https://t.co/unHf0o8gU1",
+          "display_url": "pic.twitter.com/unHf0o8gU1",
+          "expanded_url": "https://twitter.com/nejikirio/status/1056109670165671938/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 1133,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 1133,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 480,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          30,
+          34
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "nejikirio",
+        "name": "ネジキリオ🐾2日目 東A-44ab",
+        "id": 1971849012,
+        "id_str": "1971849012",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1056109437264584704,
+        "id_str": "1056109437264584704",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqgN8AwX4AA65PP.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqgN8AwX4AA65PP.jpg",
+        "url": "https://t.co/unHf0o8gU1",
+        "display_url": "pic.twitter.com/unHf0o8gU1",
+        "expanded_url": "https://twitter.com/nejikirio/status/1056109670165671938/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 800,
+            "h": 1133,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 800,
+            "h": 1133,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 480,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1056109670165671938,
+        "source_status_id_str": "1056109670165671938",
+        "source_user_id": 1971849012,
+        "source_user_id_str": "1971849012"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1056109437264584704,
+        "id_str": "1056109437264584704",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqgN8AwX4AA65PP.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqgN8AwX4AA65PP.jpg",
+        "url": "https://t.co/unHf0o8gU1",
+        "display_url": "pic.twitter.com/unHf0o8gU1",
+        "expanded_url": "https://twitter.com/nejikirio/status/1056109670165671938/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 800,
+            "h": 1133,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 800,
+            "h": 1133,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 480,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1056109670165671938,
+        "source_status_id_str": "1056109670165671938",
+        "source_user_id": 1971849012,
+        "source_user_id_str": "1971849012"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253306888"
+}

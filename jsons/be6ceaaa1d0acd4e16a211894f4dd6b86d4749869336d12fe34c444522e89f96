@@ -1,0 +1,358 @@
+{
+  "created_at": "Sat Nov 03 14:27:22 +0000 2018",
+  "id": 1058727339788398592,
+  "id_str": "1058727339788398592",
+  "text": "RT @tyannagi2010: #バンドリ\n#丸山彩\n丸山 https://t.co/FiuuX9cDAv",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1058685173133266944,
+    "id_str": "1058685173133266944",
+    "name": "ぼたん🐣ガルパ垢",
+    "screen_name": "yukinaa_botan26",
+    "location": null,
+    "url": null,
+    "description": "誰かのガルパ垢🐣友希那大好き😇💕💕                \nバンドリーマーさんはフォロバ率100％です✨✨下手っぴですがよろしくお願いします!!!🙇",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 11,
+    "friends_count": 20,
+    "listed_count": 0,
+    "favourites_count": 18,
+    "statuses_count": 11,
+    "created_at": "Sat Nov 03 11:39:49 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058704819358117889/fczmYZbJ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058704819358117889/fczmYZbJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058685173133266944/1541252613",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Nov 01 15:47:11 +0000 2018",
+    "id": 1058022649052286976,
+    "id_str": "1058022649052286976",
+    "text": "#バンドリ\n#丸山彩\n丸山 https://t.co/FiuuX9cDAv",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 969123481559314432,
+      "id_str": "969123481559314432",
+      "name": "ちゃんナギ",
+      "screen_name": "tyannagi2010",
+      "location": null,
+      "url": null,
+      "description": "ロリキャラの白髪、薄い青髪が大好きです、特に好きなのはチノちゃんと響ちゃんとイリヤちゃんです！好きな声優さんは悠木碧さんです、是非フォローお願いします",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 359,
+      "friends_count": 32,
+      "listed_count": 0,
+      "favourites_count": 1458,
+      "statuses_count": 77,
+      "created_at": "Thu Mar 01 08:13:38 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1052220063145648128/5Qaucoox_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052220063145648128/5Qaucoox_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/969123481559314432/1540054278",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "バンドリ",
+          "indices": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "丸山彩",
+          "indices": [
+            6,
+            10
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058022626935767040,
+          "id_str": "1058022626935767040",
+          "indices": [
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq7Z-TrVAAALpnk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq7Z-TrVAAALpnk.jpg",
+          "url": "https://t.co/FiuuX9cDAv",
+          "display_url": "pic.twitter.com/FiuuX9cDAv",
+          "expanded_url": "https://twitter.com/tyannagi2010/status/1058022649052286976/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 382,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1334,
+              "h": 750,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058022626935767040,
+          "id_str": "1058022626935767040",
+          "indices": [
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq7Z-TrVAAALpnk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq7Z-TrVAAALpnk.jpg",
+          "url": "https://t.co/FiuuX9cDAv",
+          "display_url": "pic.twitter.com/FiuuX9cDAv",
+          "expanded_url": "https://twitter.com/tyannagi2010/status/1058022649052286976/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 382,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1334,
+              "h": 750,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "バンドリ",
+        "indices": [
+          18,
+          23
+        ]
+      },
+      {
+        "text": "丸山彩",
+        "indices": [
+          24,
+          28
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "tyannagi2010",
+        "name": "ちゃんナギ",
+        "id": 969123481559314432,
+        "id_str": "969123481559314432",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058022626935767040,
+        "id_str": "1058022626935767040",
+        "indices": [
+          32,
+          55
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq7Z-TrVAAALpnk.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq7Z-TrVAAALpnk.jpg",
+        "url": "https://t.co/FiuuX9cDAv",
+        "display_url": "pic.twitter.com/FiuuX9cDAv",
+        "expanded_url": "https://twitter.com/tyannagi2010/status/1058022649052286976/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058022649052286976,
+        "source_status_id_str": "1058022649052286976",
+        "source_user_id": 969123481559314432,
+        "source_user_id_str": "969123481559314432"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058022626935767040,
+        "id_str": "1058022626935767040",
+        "indices": [
+          32,
+          55
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq7Z-TrVAAALpnk.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq7Z-TrVAAALpnk.jpg",
+        "url": "https://t.co/FiuuX9cDAv",
+        "display_url": "pic.twitter.com/FiuuX9cDAv",
+        "expanded_url": "https://twitter.com/tyannagi2010/status/1058022649052286976/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058022649052286976,
+        "source_status_id_str": "1058022649052286976",
+        "source_user_id": 969123481559314432,
+        "source_user_id_str": "969123481559314432"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255242665"
+}

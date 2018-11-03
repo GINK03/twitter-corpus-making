@@ -1,0 +1,172 @@
+{
+  "created_at": "Sat Nov 03 14:10:59 +0000 2018",
+  "id": 1058723216800210944,
+  "id_str": "1058723216800210944",
+  "text": "またお前かよ笑\n#パズドラ\n#アンケートゴッドフェス https://t.co/VIFocjegUn",
+  "display_text_range": [
+    0,
+    26
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1048183207105949696,
+    "id_str": "1048183207105949696",
+    "name": "三谷 まあくん        パズドラ＆トレクル",
+    "screen_name": "cW3eWiOdMJaPqUu",
+    "location": "マリンフォード",
+    "url": null,
+    "description": "三谷 まあくんのパズドラ＆トレクル垢でーす",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 6,
+    "friends_count": 14,
+    "listed_count": 0,
+    "favourites_count": 67,
+    "statuses_count": 11,
+    "created_at": "Fri Oct 05 12:08:45 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048813359968149504/mIKfE3H2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048813359968149504/mIKfE3H2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048183207105949696/1538891564",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラ",
+        "indices": [
+          8,
+          13
+        ]
+      },
+      {
+        "text": "アンケートゴッドフェス",
+        "indices": [
+          14,
+          26
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058723210378637312,
+        "id_str": "1058723210378637312",
+        "indices": [
+          27,
+          50
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXJoYUcAAVQAl.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXJoYUcAAVQAl.jpg",
+        "url": "https://t.co/VIFocjegUn",
+        "display_url": "pic.twitter.com/VIFocjegUn",
+        "expanded_url": "https://twitter.com/cW3eWiOdMJaPqUu/status/1058723216800210944/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 417,
+            "h": 396,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 417,
+            "h": 396,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 417,
+            "h": 396,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058723210378637312,
+        "id_str": "1058723210378637312",
+        "indices": [
+          27,
+          50
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXJoYUcAAVQAl.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXJoYUcAAVQAl.jpg",
+        "url": "https://t.co/VIFocjegUn",
+        "display_url": "pic.twitter.com/VIFocjegUn",
+        "expanded_url": "https://twitter.com/cW3eWiOdMJaPqUu/status/1058723216800210944/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 417,
+            "h": 396,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 417,
+            "h": 396,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 417,
+            "h": 396,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254259668"
+}

@@ -1,0 +1,172 @@
+{
+  "created_at": "Sat Nov 03 13:57:46 +0000 2018",
+  "id": 1058719891522351104,
+  "id_str": "1058719891522351104",
+  "text": "うちの無課金エイルパが、また一歩無課金を離れましたw\n(スキルマしんどい)\n #パズドラ\n#パズドラーと繋がりたい https://t.co/X22xKXEO62",
+  "display_text_range": [
+    0,
+    57
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 849126237310140416,
+    "id_str": "849126237310140416",
+    "name": "ゆきむん",
+    "screen_name": "rasunyanya",
+    "location": null,
+    "url": "https://www.mirrativ.com/user/3885021",
+    "description": "ミラティブにて毎日22時から放送中!! #パズドラ #シャドバ #ミトラス",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 96,
+    "friends_count": 86,
+    "listed_count": 0,
+    "favourites_count": 490,
+    "statuses_count": 356,
+    "created_at": "Tue Apr 04 05:07:25 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1043781388430979072/y0DZsoLA_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043781388430979072/y0DZsoLA_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/849126237310140416/1537893028",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラ",
+        "indices": [
+          39,
+          44
+        ]
+      },
+      {
+        "text": "パズドラーと繋がりたい",
+        "indices": [
+          45,
+          57
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058719886585647106,
+        "id_str": "1058719886585647106",
+        "indices": [
+          58,
+          81
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFUIKSUUAIMslt.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFUIKSUUAIMslt.jpg",
+        "url": "https://t.co/X22xKXEO62",
+        "display_url": "pic.twitter.com/X22xKXEO62",
+        "expanded_url": "https://twitter.com/rasunyanya/status/1058719891522351104/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 640,
+            "h": 1136,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 1136,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058719886585647106,
+        "id_str": "1058719886585647106",
+        "indices": [
+          58,
+          81
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFUIKSUUAIMslt.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFUIKSUUAIMslt.jpg",
+        "url": "https://t.co/X22xKXEO62",
+        "display_url": "pic.twitter.com/X22xKXEO62",
+        "expanded_url": "https://twitter.com/rasunyanya/status/1058719891522351104/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 640,
+            "h": 1136,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 1136,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253466860"
+}

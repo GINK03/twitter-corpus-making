@@ -1,0 +1,435 @@
+{
+  "created_at": "Sat Nov 03 14:24:47 +0000 2018",
+  "id": 1058726690174590977,
+  "id_str": "1058726690174590977",
+  "text": "RT @fukemachi: 夏コミの新刊の書店委託がメロンさんで始まりました！\nまた、BOOTHの方ではタペストリーとアクキーの通販も始めましたので、こちらもぜひぜひよろしくお願いします！(/・ω・)/\nSEIFUKU×FGO（20NT）の通販・購入はメロンブックス http…",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 63745619,
+    "id_str": "63745619",
+    "name": "ふけまち@2日目東D-17b",
+    "screen_name": "fukemachi",
+    "location": null,
+    "url": "http://www.pixiv.net/member.php?id=129822",
+    "description": "アニメーター 原画やってます◾︎同人も細々やってます、やきうたまに呟きます★boothあります！【http://fukemachi.booth.pm】⚫︎最近はFGOやってます。 ☆イラストのお仕事のご相談等はDMにお願いします(*⁰▿⁰*)",
+    "translator_type": "regular",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1362,
+    "friends_count": 476,
+    "listed_count": 64,
+    "favourites_count": 5668,
+    "statuses_count": 22222,
+    "created_at": "Fri Aug 07 15:10:29 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1011642534974480385/Y4VZMoit_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1011642534974480385/Y4VZMoit_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/63745619/1482408763",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Aug 20 14:41:48 +0000 2018",
+    "id": 1031551880575385605,
+    "id_str": "1031551880575385605",
+    "text": "夏コミの新刊の書店委託がメロンさんで始まりました！\nまた、BOOTHの方ではタペストリーとアクキーの通販も始めましたので、こちらもぜひぜひよろしくお願いします！(/・ω・)/\nSEIFUKU×FGO（20NT）の通販・購入はメロン… https://t.co/dfBuRVBAnx",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63745619,
+      "id_str": "63745619",
+      "name": "ふけまち@2日目東D-17b",
+      "screen_name": "fukemachi",
+      "location": null,
+      "url": "http://www.pixiv.net/member.php?id=129822",
+      "description": "アニメーター 原画やってます◾︎同人も細々やってます、やきうたまに呟きます★boothあります！【http://fukemachi.booth.pm】⚫︎最近はFGOやってます。 ☆イラストのお仕事のご相談等はDMにお願いします(*⁰▿⁰*)",
+      "translator_type": "regular",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1362,
+      "friends_count": 476,
+      "listed_count": 64,
+      "favourites_count": 5668,
+      "statuses_count": 22221,
+      "created_at": "Fri Aug 07 15:10:29 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1011642534974480385/Y4VZMoit_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1011642534974480385/Y4VZMoit_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/63745619/1482408763",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "夏コミの新刊の書店委託がメロンさんで始まりました！\nまた、BOOTHの方ではタペストリーとアクキーの通販も始めましたので、こちらもぜひぜひよろしくお願いします！(/・ω・)/\nSEIFUKU×FGO（20NT）の通販・購入はメロンブックス https://t.co/Wu1kvitCGS\nBOOTHはこちら→https://t.co/PwF18zd5B5　#FGO https://t.co/li4D9XleBH",
+      "display_text_range": [
+        0,
+        182
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "FGO",
+            "indices": [
+              178,
+              182
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Wu1kvitCGS",
+            "expanded_url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=400535",
+            "display_url": "melonbooks.co.jp/detail/detail.…",
+            "indices": [
+              120,
+              143
+            ]
+          },
+          {
+            "url": "https://t.co/PwF18zd5B5",
+            "expanded_url": "https://fukemachi.booth.pm/",
+            "display_url": "fukemachi.booth.pm",
+            "indices": [
+              154,
+              177
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1031551173772201985,
+            "id_str": "1031551173772201985",
+            "indices": [
+              183,
+              206
+            ],
+            "media_url": "http://pbs.twimg.com/media/DlDOU8BUUAEcW1u.png",
+            "media_url_https": "https://pbs.twimg.com/media/DlDOU8BUUAEcW1u.png",
+            "url": "https://t.co/li4D9XleBH",
+            "display_url": "pic.twitter.com/li4D9XleBH",
+            "expanded_url": "https://twitter.com/fukemachi/status/1031551880575385605/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1000,
+                "h": 1422,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 478,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 844,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          },
+          {
+            "id": 1031551295860011009,
+            "id_str": "1031551295860011009",
+            "indices": [
+              183,
+              206
+            ],
+            "media_url": "http://pbs.twimg.com/media/DlDOcC1UcAES0Up.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DlDOcC1UcAES0Up.jpg",
+            "url": "https://t.co/li4D9XleBH",
+            "display_url": "pic.twitter.com/li4D9XleBH",
+            "expanded_url": "https://twitter.com/fukemachi/status/1031551880575385605/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 482,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 850,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1000,
+                "h": 1412,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1031551358506229761,
+            "id_str": "1031551358506229761",
+            "indices": [
+              183,
+              206
+            ],
+            "media_url": "http://pbs.twimg.com/media/DlDOfsNV4AExZ-9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DlDOfsNV4AExZ-9.jpg",
+            "url": "https://t.co/li4D9XleBH",
+            "display_url": "pic.twitter.com/li4D9XleBH",
+            "expanded_url": "https://twitter.com/fukemachi/status/1031551880575385605/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 827,
+                "h": 1033,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 544,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 827,
+                "h": 1033,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1031551173772201985,
+            "id_str": "1031551173772201985",
+            "indices": [
+              183,
+              206
+            ],
+            "media_url": "http://pbs.twimg.com/media/DlDOU8BUUAEcW1u.png",
+            "media_url_https": "https://pbs.twimg.com/media/DlDOU8BUUAEcW1u.png",
+            "url": "https://t.co/li4D9XleBH",
+            "display_url": "pic.twitter.com/li4D9XleBH",
+            "expanded_url": "https://twitter.com/fukemachi/status/1031551880575385605/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1000,
+                "h": 1422,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 478,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 844,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          },
+          {
+            "id": 1031551295860011009,
+            "id_str": "1031551295860011009",
+            "indices": [
+              183,
+              206
+            ],
+            "media_url": "http://pbs.twimg.com/media/DlDOcC1UcAES0Up.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DlDOcC1UcAES0Up.jpg",
+            "url": "https://t.co/li4D9XleBH",
+            "display_url": "pic.twitter.com/li4D9XleBH",
+            "expanded_url": "https://twitter.com/fukemachi/status/1031551880575385605/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 482,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 850,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1000,
+                "h": 1412,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1031551358506229761,
+            "id_str": "1031551358506229761",
+            "indices": [
+              183,
+              206
+            ],
+            "media_url": "http://pbs.twimg.com/media/DlDOfsNV4AExZ-9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DlDOfsNV4AExZ-9.jpg",
+            "url": "https://t.co/li4D9XleBH",
+            "display_url": "pic.twitter.com/li4D9XleBH",
+            "expanded_url": "https://twitter.com/fukemachi/status/1031551880575385605/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 827,
+                "h": 1033,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 544,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 827,
+                "h": 1033,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 29,
+    "favorite_count": 82,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/dfBuRVBAnx",
+          "expanded_url": "https://twitter.com/i/web/status/1031551880575385605",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "fukemachi",
+        "name": "ふけまち@2日目東D-17b",
+        "id": 63745619,
+        "id_str": "63745619",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255087785"
+}

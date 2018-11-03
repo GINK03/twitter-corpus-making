@@ -1,0 +1,426 @@
+{
+  "created_at": "Sat Nov 03 14:20:43 +0000 2018",
+  "id": 1058725666240135174,
+  "id_str": "1058725666240135174",
+  "text": "RT @furirin_iC: ふりりんからの文化的メッセージです😎😎 #ふりりんは文化の日 #ふりりんは文化 https://t.co/mcPVyvWg9n",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1020912412218646529,
+    "id_str": "1020912412218646529",
+    "name": "黒澤Fam",
+    "screen_name": "sspharm7",
+    "location": null,
+    "url": null,
+    "description": "Ruby推し/Aqours推し/Aqours Live/韓国人/Aqours 4th Live 行きます。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 31,
+    "friends_count": 78,
+    "listed_count": 0,
+    "favourites_count": 213,
+    "statuses_count": 250,
+    "created_at": "Sun Jul 22 06:04:21 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1021008759190040576/aDJnkI29_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021008759190040576/aDJnkI29_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1020912412218646529/1532239859",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:04:26 +0000 2018",
+    "id": 1058721569223000065,
+    "id_str": "1058721569223000065",
+    "text": "ふりりんからの文化的メッセージです😎😎 #ふりりんは文化の日 #ふりりんは文化 https://t.co/mcPVyvWg9n",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1009436187876941824,
+      "id_str": "1009436187876941824",
+      "name": "ふりりんは文化",
+      "screen_name": "furirin_iC",
+      "location": null,
+      "url": "http://ch.nicovideo.jp/furirin",
+      "description": "降幡愛がMCをつとめる降幡愛のためのニコニコ生放送「ふりりんは文化」の公式アカウントです😋日本中のさまざまな文化を勉強しながら、ふりりんのお話も盛りだくさんでお送りします。そして、この番組から降幡愛の文化・ふりりん文化を日本全国、いずれは世界に！広めていこうという番組です。メッセージはbunka@furihata.ai",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 13362,
+      "friends_count": 2,
+      "listed_count": 200,
+      "favourites_count": 1014,
+      "statuses_count": 237,
+      "created_at": "Wed Jun 20 14:01:56 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1012160079984914433/-qzMgLAv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012160079984914433/-qzMgLAv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1009436187876941824/1530152729",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 18,
+    "reply_count": 42,
+    "retweet_count": 361,
+    "favorite_count": 719,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ふりりんは文化の日",
+          "indices": [
+            20,
+            30
+          ]
+        },
+        {
+          "text": "ふりりんは文化",
+          "indices": [
+            31,
+            39
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058721263277924354,
+          "id_str": "1058721263277924354",
+          "indices": [
+            40,
+            63
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058721263277924354/pu/img/3kxkydOxsgChBbxg.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058721263277924354/pu/img/3kxkydOxsgChBbxg.jpg",
+          "url": "https://t.co/mcPVyvWg9n",
+          "display_url": "pic.twitter.com/mcPVyvWg9n",
+          "expanded_url": "https://twitter.com/furirin_iC/status/1058721569223000065/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058721263277924354,
+          "id_str": "1058721263277924354",
+          "indices": [
+            40,
+            63
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058721263277924354/pu/img/3kxkydOxsgChBbxg.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058721263277924354/pu/img/3kxkydOxsgChBbxg.jpg",
+          "url": "https://t.co/mcPVyvWg9n",
+          "display_url": "pic.twitter.com/mcPVyvWg9n",
+          "expanded_url": "https://twitter.com/furirin_iC/status/1058721569223000065/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 71071,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058721263277924354/pu/pl/cKxSIaK7ohn2FeOL.m3u8?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058721263277924354/pu/vid/1280x720/3TgYGYL88HYVb2bb.mp4?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058721263277924354/pu/vid/320x180/ozbifYRYGUoAVqA2.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058721263277924354/pu/vid/640x360/ntOWD-HN_c7pAP1t.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ふりりんは文化の日",
+        "indices": [
+          36,
+          46
+        ]
+      },
+      {
+        "text": "ふりりんは文化",
+        "indices": [
+          47,
+          55
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "furirin_iC",
+        "name": "ふりりんは文化",
+        "id": 1009436187876941824,
+        "id_str": "1009436187876941824",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058721263277924354,
+        "id_str": "1058721263277924354",
+        "indices": [
+          56,
+          79
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058721263277924354/pu/img/3kxkydOxsgChBbxg.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058721263277924354/pu/img/3kxkydOxsgChBbxg.jpg",
+        "url": "https://t.co/mcPVyvWg9n",
+        "display_url": "pic.twitter.com/mcPVyvWg9n",
+        "expanded_url": "https://twitter.com/furirin_iC/status/1058721569223000065/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058721569223000065,
+        "source_status_id_str": "1058721569223000065",
+        "source_user_id": 1009436187876941824,
+        "source_user_id_str": "1009436187876941824"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058721263277924354,
+        "id_str": "1058721263277924354",
+        "indices": [
+          56,
+          79
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058721263277924354/pu/img/3kxkydOxsgChBbxg.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058721263277924354/pu/img/3kxkydOxsgChBbxg.jpg",
+        "url": "https://t.co/mcPVyvWg9n",
+        "display_url": "pic.twitter.com/mcPVyvWg9n",
+        "expanded_url": "https://twitter.com/furirin_iC/status/1058721569223000065/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 71071,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058721263277924354/pu/pl/cKxSIaK7ohn2FeOL.m3u8?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058721263277924354/pu/vid/1280x720/3TgYGYL88HYVb2bb.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058721263277924354/pu/vid/320x180/ozbifYRYGUoAVqA2.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058721263277924354/pu/vid/640x360/ntOWD-HN_c7pAP1t.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058721569223000065,
+        "source_status_id_str": "1058721569223000065",
+        "source_user_id": 1009436187876941824,
+        "source_user_id_str": "1009436187876941824"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254843660"
+}

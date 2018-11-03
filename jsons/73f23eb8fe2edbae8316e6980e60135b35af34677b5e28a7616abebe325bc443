@@ -1,0 +1,96 @@
+{
+  "created_at": "Sat Nov 03 14:21:42 +0000 2018",
+  "id": 1058725913716817921,
+  "id_str": "1058725913716817921",
+  "text": "次の @YouTube 動画を高く評価しました: https://t.co/cHgk252fwn Within The Ruins - Resurgence",
+  "source": "<a href=\"https://www.google.com/\" rel=\"nofollow\">Google</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 305517487,
+    "id_str": "305517487",
+    "name": "Ryo a.k.a R-METAL",
+    "screen_name": "R444BABYMETAL",
+    "location": "Tokyo",
+    "url": null,
+    "description": "Kolokol(佳凪きの🐤) BABYMETAL/BBTS/Crossfaith/HAMIDASYSTEM/NEVE SLIDE DOWN/TELECiDE/じゅじゅ(🍋ゆらね)/我儘ラキア/Arch Enemy/Dream Theater/Lamb Of God/Meshuggah",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1101,
+    "friends_count": 895,
+    "listed_count": 35,
+    "favourites_count": 40914,
+    "statuses_count": 23624,
+    "created_at": "Thu May 26 10:50:32 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "DBE9ED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/945336577072414720/bRtBzVKc_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/945336577072414720/bRtBzVKc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/305517487/1536416942",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/cHgk252fwn",
+        "expanded_url": "http://youtu.be/MYwoDAMSG7Y?a",
+        "display_url": "youtu.be/MYwoDAMSG7Y?a",
+        "indices": [
+          25,
+          48
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "YouTube",
+        "name": "YouTube",
+        "id": 10228272,
+        "id_str": "10228272",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254902663"
+}

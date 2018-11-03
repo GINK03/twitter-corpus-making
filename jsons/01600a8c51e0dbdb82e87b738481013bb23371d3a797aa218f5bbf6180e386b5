@@ -1,0 +1,165 @@
+{
+  "created_at": "Sat Nov 03 14:00:16 +0000 2018",
+  "id": 1058720519023878145,
+  "id_str": "1058720519023878145",
+  "text": "お前かよ...\n#モンスト https://t.co/OY8RWfzWXw",
+  "display_text_range": [
+    0,
+    13
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2208607574,
+    "id_str": "2208607574",
+    "name": "ZEROGAMES零@YouTuber",
+    "screen_name": "gakidayo2009",
+    "location": null,
+    "url": "https://www.youtube.com/channel/UCxeqWw4uVJOLkO9SGRtPwyA?app=desktop",
+    "description": "YouTubeでZEROGAMES 零で活動中  登録者420人突破！総再生回数１０万回突破！\n nana  http://nana-music.com/users/7223683/\n本家チャンネルURL↓",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 289,
+    "friends_count": 317,
+    "listed_count": 5,
+    "favourites_count": 100,
+    "statuses_count": 4207,
+    "created_at": "Fri Nov 22 08:39:29 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/943516719208742912/JNe76nua_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/943516719208742912/JNe76nua_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2208607574/1501437528",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "モンスト",
+        "indices": [
+          8,
+          13
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058720504926822403,
+        "id_str": "1058720504926822403",
+        "indices": [
+          14,
+          37
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFUsJyV4AMdPyw.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFUsJyV4AMdPyw.jpg",
+        "url": "https://t.co/OY8RWfzWXw",
+        "display_url": "pic.twitter.com/OY8RWfzWXw",
+        "expanded_url": "https://twitter.com/gakidayo2009/status/1058720519023878145/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058720504926822403,
+        "id_str": "1058720504926822403",
+        "indices": [
+          14,
+          37
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFUsJyV4AMdPyw.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFUsJyV4AMdPyw.jpg",
+        "url": "https://t.co/OY8RWfzWXw",
+        "display_url": "pic.twitter.com/OY8RWfzWXw",
+        "expanded_url": "https://twitter.com/gakidayo2009/status/1058720519023878145/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253616468"
+}

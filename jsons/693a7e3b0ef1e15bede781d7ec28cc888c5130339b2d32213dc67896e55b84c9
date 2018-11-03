@@ -1,0 +1,127 @@
+{
+  "created_at": "Sat Nov 03 14:16:58 +0000 2018",
+  "id": 1058724722542698496,
+  "id_str": "1058724722542698496",
+  "text": "【自作】ファンタジーなアイテム 作り方まとめ【コスプレ・中二病・スチームパンク】 - Togetter https://t.co/B5N6CMSHGz @togetter_jpより\n素晴らしいアイディが多数あり。\n凄い(*´∇｀*)",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 131542323,
+    "id_str": "131542323",
+    "name": "Hiroshi Ohta",
+    "screen_name": "hiro4pikaia",
+    "location": "千葉県",
+    "url": null,
+    "description": "アイコン変更。アンリ・ルソーの「戦争」の部分です。 pikaiaは先カンブリア期にいた脊椎動物の元祖とか言われていた生物。hiro4が使えないのでなんとなく追加してみた。別に化石化ているわけでは無い。現役の販売系のオッサンです。オタク暦ウン十年にもかかわらず一般人を装うも滲み出すモノを隠せ無い。なんてこったいｗｗｗ！",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 407,
+    "friends_count": 1719,
+    "listed_count": 6,
+    "favourites_count": 30511,
+    "statuses_count": 36099,
+    "created_at": "Sat Apr 10 15:49:46 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1210048065/tswitter-War_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1210048065/tswitter-War_normal.png",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "4c1c4868f96634ed",
+    "url": "https://api.twitter.com/1.1/geo/id/4c1c4868f96634ed.json",
+    "place_type": "city",
+    "name": "江東区",
+    "full_name": "東京 江東区",
+    "country_code": "JP",
+    "country": "日本",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            139.771307,
+            35.582057
+          ],
+          [
+            139.771307,
+            35.708066
+          ],
+          [
+            139.849007,
+            35.708066
+          ],
+          [
+            139.849007,
+            35.582057
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/B5N6CMSHGz",
+        "expanded_url": "https://togetter.com/li/873688",
+        "display_url": "togetter.com/li/873688",
+        "indices": [
+          52,
+          75
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "togetter_jp",
+        "name": "トゥギャッター公式",
+        "id": 72555864,
+        "id_str": "72555864",
+        "indices": [
+          76,
+          88
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254618665"
+}

@@ -1,0 +1,358 @@
+{
+  "created_at": "Sat Nov 03 14:24:47 +0000 2018",
+  "id": 1058726690183090176,
+  "id_str": "1058726690183090176",
+  "text": "RT @sakiyamama: バニー陸奥「あまり火遊びはしないでね。お願いよ？」\n #艦これ #艦隊これくしょん https://t.co/kaNBrgp54I",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 54020009,
+    "id_str": "54020009",
+    "name": "Antiquarian@CoN",
+    "screen_name": "AntiquarianZahn",
+    "location": "Pennsylvania, USA",
+    "url": null,
+    "description": "Senjougahara's Husband, Investment Banker -- Fighting Games, Anime, Idols --  Icon by @angiethebunnie, Header by @Tsuntenshi",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 757,
+    "friends_count": 404,
+    "listed_count": 11,
+    "favourites_count": 43267,
+    "statuses_count": 52329,
+    "created_at": "Sun Jul 05 21:58:35 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "803B67",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/940647694325960704/c11EZnJY_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/940647694325960704/c11EZnJY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/54020009/1540436619",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 10:04:04 +0000 2018",
+    "id": 1058661075812409344,
+    "id_str": "1058661075812409344",
+    "text": "バニー陸奥「あまり火遊びはしないでね。お願いよ？」\n #艦これ #艦隊これくしょん https://t.co/kaNBrgp54I",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 156367056,
+      "id_str": "156367056",
+      "name": "sakiyamamaサンクリA15b/日曜れ18a",
+      "screen_name": "sakiyamama",
+      "location": "お仕事のお問い合は takechangg★gmail.com（★→@",
+      "url": "http://www.pixiv.net/member.php?id=10948474",
+      "description": "イラストレーター/キャラデザ。温泉むすめ/層雲峡,リセfgo,ミライアカリアンソロ,GA文庫『虐げられた救世主〜』,リバドラ,潜レコ,不良道JOKER ,同人誌とら＆メロン。お仕事随時募集中。fanbox,weiboも。\nhttps://www.pixiv.net/fanbox/creator/10948474",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 112905,
+      "friends_count": 5818,
+      "listed_count": 2062,
+      "favourites_count": 49715,
+      "statuses_count": 147647,
+      "created_at": "Wed Jun 16 19:14:04 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "B2DFDA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/959769778960281600/kfTUKaWt_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/959769778960281600/kfTUKaWt_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/156367056/1537513815",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 9,
+    "reply_count": 77,
+    "retweet_count": 1437,
+    "favorite_count": 5421,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "艦これ",
+          "indices": [
+            27,
+            31
+          ]
+        },
+        {
+          "text": "艦隊これくしょん",
+          "indices": [
+            32,
+            41
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058660795444191233,
+          "id_str": "1058660795444191233",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrEeYmoVYAEzfIc.png",
+          "media_url_https": "https://pbs.twimg.com/media/DrEeYmoVYAEzfIc.png",
+          "url": "https://t.co/kaNBrgp54I",
+          "display_url": "pic.twitter.com/kaNBrgp54I",
+          "expanded_url": "https://twitter.com/sakiyamama/status/1058661075812409344/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 481,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 849,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1414,
+              "h": 1000,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058660795444191233,
+          "id_str": "1058660795444191233",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrEeYmoVYAEzfIc.png",
+          "media_url_https": "https://pbs.twimg.com/media/DrEeYmoVYAEzfIc.png",
+          "url": "https://t.co/kaNBrgp54I",
+          "display_url": "pic.twitter.com/kaNBrgp54I",
+          "expanded_url": "https://twitter.com/sakiyamama/status/1058661075812409344/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 481,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 849,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1414,
+              "h": 1000,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ",
+        "indices": [
+          43,
+          47
+        ]
+      },
+      {
+        "text": "艦隊これくしょん",
+        "indices": [
+          48,
+          57
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "sakiyamama",
+        "name": "sakiyamamaサンクリA15b/日曜れ18a",
+        "id": 156367056,
+        "id_str": "156367056",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058660795444191233,
+        "id_str": "1058660795444191233",
+        "indices": [
+          58,
+          81
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrEeYmoVYAEzfIc.png",
+        "media_url_https": "https://pbs.twimg.com/media/DrEeYmoVYAEzfIc.png",
+        "url": "https://t.co/kaNBrgp54I",
+        "display_url": "pic.twitter.com/kaNBrgp54I",
+        "expanded_url": "https://twitter.com/sakiyamama/status/1058661075812409344/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 481,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 849,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1414,
+            "h": 1000,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058661075812409344,
+        "source_status_id_str": "1058661075812409344",
+        "source_user_id": 156367056,
+        "source_user_id_str": "156367056"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058660795444191233,
+        "id_str": "1058660795444191233",
+        "indices": [
+          58,
+          81
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrEeYmoVYAEzfIc.png",
+        "media_url_https": "https://pbs.twimg.com/media/DrEeYmoVYAEzfIc.png",
+        "url": "https://t.co/kaNBrgp54I",
+        "display_url": "pic.twitter.com/kaNBrgp54I",
+        "expanded_url": "https://twitter.com/sakiyamama/status/1058661075812409344/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 481,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 849,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1414,
+            "h": 1000,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058661075812409344,
+        "source_status_id_str": "1058661075812409344",
+        "source_user_id": 156367056,
+        "source_user_id_str": "156367056"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255087787"
+}

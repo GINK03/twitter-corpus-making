@@ -1,0 +1,555 @@
+{
+  "created_at": "Sat Nov 03 14:07:04 +0000 2018",
+  "id": 1058722229641334790,
+  "id_str": "1058722229641334790",
+  "text": "RT @bengara0: 【FGO】まひるの夢【龍馬とお竜さん】 https://t.co/SjCod24kjh",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2438690041,
+    "id_str": "2438690041",
+    "name": "銀杏",
+    "screen_name": "25_ityou",
+    "location": "ジャンル雑食・ツイごちゃ混ぜ・♡🔃過多・重度のカプ厨",
+    "url": "http://twpf.jp/25_ityou",
+    "description": "腐ったイチョウ（成人済み）。\nツイフィール要必読。\nあんまりTL遡れません。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 84,
+    "friends_count": 142,
+    "listed_count": 2,
+    "favourites_count": 170209,
+    "statuses_count": 46907,
+    "created_at": "Fri Apr 11 15:26:09 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "FA743E",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/875627240419086336/Yavg8Her_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/875627240419086336/Yavg8Her_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2438690041/1538662936",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Jun 22 16:42:53 +0000 2018",
+    "id": 1010201470807863296,
+    "id_str": "1010201470807863296",
+    "text": "【FGO】まひるの夢【龍馬とお竜さん】 https://t.co/SjCod24kjh",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 130496296,
+      "id_str": "130496296",
+      "name": "弁柄丸",
+      "screen_name": "bengara0",
+      "location": "サンダーボルト宙域",
+      "url": "http://www.pixiv.net/member.php?id=1067501",
+      "description": "WEB拍手 http://clap.webclap.com/clap.php?id=bengara0   \nメモ用アカウント(一方通行 https://twitter.com/kanibazooka\n\nマシュマロ　https://marshmallow-qa.com/bengara0",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 3546,
+      "friends_count": 504,
+      "listed_count": 112,
+      "favourites_count": 10553,
+      "statuses_count": 115101,
+      "created_at": "Wed Apr 07 13:11:47 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "EBEBEB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "990000",
+      "profile_sidebar_border_color": "DFDFDF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/978450914489942016/c3RQXVOu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/978450914489942016/c3RQXVOu_normal.jpg",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 3,
+    "reply_count": 7,
+    "retweet_count": 2623,
+    "favorite_count": 9041,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1010201261075910656,
+          "id_str": "1010201261075910656",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/DgT0sdYU0AAisRc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DgT0sdYU0AAisRc.jpg",
+          "url": "https://t.co/SjCod24kjh",
+          "display_url": "pic.twitter.com/SjCod24kjh",
+          "expanded_url": "https://twitter.com/bengara0/status/1010201470807863296/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1010201261075910656,
+          "id_str": "1010201261075910656",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/DgT0sdYU0AAisRc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DgT0sdYU0AAisRc.jpg",
+          "url": "https://t.co/SjCod24kjh",
+          "display_url": "pic.twitter.com/SjCod24kjh",
+          "expanded_url": "https://twitter.com/bengara0/status/1010201470807863296/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1010201272417378304,
+          "id_str": "1010201272417378304",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/DgT0tHoV4AAXAWz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DgT0tHoV4AAXAWz.jpg",
+          "url": "https://t.co/SjCod24kjh",
+          "display_url": "pic.twitter.com/SjCod24kjh",
+          "expanded_url": "https://twitter.com/bengara0/status/1010201470807863296/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1010201280793403393,
+          "id_str": "1010201280793403393",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/DgT0tm1V4AE5Te3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DgT0tm1V4AE5Te3.jpg",
+          "url": "https://t.co/SjCod24kjh",
+          "display_url": "pic.twitter.com/SjCod24kjh",
+          "expanded_url": "https://twitter.com/bengara0/status/1010201470807863296/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1010201293682425858,
+          "id_str": "1010201293682425858",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/DgT0uW2UwAIkyiL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DgT0uW2UwAIkyiL.jpg",
+          "url": "https://t.co/SjCod24kjh",
+          "display_url": "pic.twitter.com/SjCod24kjh",
+          "expanded_url": "https://twitter.com/bengara0/status/1010201470807863296/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "bengara0",
+        "name": "弁柄丸",
+        "id": 130496296,
+        "id_str": "130496296",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1010201261075910656,
+        "id_str": "1010201261075910656",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/media/DgT0sdYU0AAisRc.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DgT0sdYU0AAisRc.jpg",
+        "url": "https://t.co/SjCod24kjh",
+        "display_url": "pic.twitter.com/SjCod24kjh",
+        "expanded_url": "https://twitter.com/bengara0/status/1010201470807863296/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1010201470807863296,
+        "source_status_id_str": "1010201470807863296",
+        "source_user_id": 130496296,
+        "source_user_id_str": "130496296"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1010201261075910656,
+        "id_str": "1010201261075910656",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/media/DgT0sdYU0AAisRc.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DgT0sdYU0AAisRc.jpg",
+        "url": "https://t.co/SjCod24kjh",
+        "display_url": "pic.twitter.com/SjCod24kjh",
+        "expanded_url": "https://twitter.com/bengara0/status/1010201470807863296/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1010201470807863296,
+        "source_status_id_str": "1010201470807863296",
+        "source_user_id": 130496296,
+        "source_user_id_str": "130496296"
+      },
+      {
+        "id": 1010201272417378304,
+        "id_str": "1010201272417378304",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/media/DgT0tHoV4AAXAWz.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DgT0tHoV4AAXAWz.jpg",
+        "url": "https://t.co/SjCod24kjh",
+        "display_url": "pic.twitter.com/SjCod24kjh",
+        "expanded_url": "https://twitter.com/bengara0/status/1010201470807863296/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1010201470807863296,
+        "source_status_id_str": "1010201470807863296",
+        "source_user_id": 130496296,
+        "source_user_id_str": "130496296"
+      },
+      {
+        "id": 1010201280793403393,
+        "id_str": "1010201280793403393",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/media/DgT0tm1V4AE5Te3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DgT0tm1V4AE5Te3.jpg",
+        "url": "https://t.co/SjCod24kjh",
+        "display_url": "pic.twitter.com/SjCod24kjh",
+        "expanded_url": "https://twitter.com/bengara0/status/1010201470807863296/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1010201470807863296,
+        "source_status_id_str": "1010201470807863296",
+        "source_user_id": 130496296,
+        "source_user_id_str": "130496296"
+      },
+      {
+        "id": 1010201293682425858,
+        "id_str": "1010201293682425858",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/media/DgT0uW2UwAIkyiL.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DgT0uW2UwAIkyiL.jpg",
+        "url": "https://t.co/SjCod24kjh",
+        "display_url": "pic.twitter.com/SjCod24kjh",
+        "expanded_url": "https://twitter.com/bengara0/status/1010201470807863296/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1010201470807863296,
+        "source_status_id_str": "1010201470807863296",
+        "source_user_id": 130496296,
+        "source_user_id_str": "130496296"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254024311"
+}

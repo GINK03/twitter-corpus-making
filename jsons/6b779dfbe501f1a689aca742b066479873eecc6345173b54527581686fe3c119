@@ -1,0 +1,754 @@
+{
+  "created_at": "Sat Nov 03 14:18:32 +0000 2018",
+  "id": 1058725116807274496,
+  "id_str": "1058725116807274496",
+  "text": "RT @asatsukido: 明日11/4（いいしっこの日！）はし～むす！in大阪の開催日です。よろしくです！ https://t.co/k54huGHdGo",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1042684715117961221,
+    "id_str": "1042684715117961221",
+    "name": "お子様ランチ＠新アカウント",
+    "screen_name": "okosama2018",
+    "location": "日本 埼玉",
+    "url": null,
+    "description": "同人サークル＆商業ネーム「お子様ランチ」の二人組（作画：西野沢かおり介・原作：ひらやん）。 冲方塾『駆け上がれ！ マルドゥック学園』、単行本『転生少女図鑑』、モバMAN『電動少女エコ』。 かわいやらしい作品をお求めの際はご一報ください。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 206,
+    "friends_count": 130,
+    "listed_count": 1,
+    "favourites_count": 63,
+    "statuses_count": 275,
+    "created_at": "Thu Sep 20 07:59:43 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1042845986958139392/BwJkM-a0_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042845986958139392/BwJkM-a0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1042684715117961221/1537470879",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 03:07:13 +0000 2018",
+    "id": 1058556174272843776,
+    "id_str": "1058556174272843776",
+    "text": "明日11/4（いいしっこの日！）はし～むす！in大阪の開催日です。よろしくです！ https://t.co/k54huGHdGo",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 975618015256633345,
+      "id_str": "975618015256633345",
+      "name": "夜歌(11/4し〜むす！大阪)",
+      "screen_name": "asatsukido",
+      "location": null,
+      "url": "https://pixiv.me/youta",
+      "description": "えっちな漫画描いたりします。ろりとかおしっことか。 単行本「恋するおしっ娘」発売中。同人はサークル朝月堂で活動してます。委託作品【とら】http://goo.gl/L1FpXA【メロン】http://goo.gl/asRXYm 【DLsite】http://b.dlsite.net/RG18340/",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 2565,
+      "friends_count": 1067,
+      "listed_count": 46,
+      "favourites_count": 3779,
+      "statuses_count": 9735,
+      "created_at": "Mon Mar 19 06:20:35 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/975975744479232000/d81TcAQ1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/975975744479232000/d81TcAQ1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/975618015256633345/1521463272",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1057575013342109701,
+    "quoted_status_id_str": "1057575013342109701",
+    "quoted_status": {
+      "created_at": "Wed Oct 31 10:08:26 +0000 2018",
+      "id": 1057575013342109701,
+      "id_str": "1057575013342109701",
+      "text": "11/4大阪開催のおしっ娘オンリーイベント「し～むす！18」の新刊できました。ねねっち百合おしっこ漫画「ねねっちっこ 第7話」です。イベント詳細は→https://t.co/AZVeehcHk4　ぜひ遊びに来てくださいね！… https://t.co/JoLzh7gqJU",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 975618015256633345,
+        "id_str": "975618015256633345",
+        "name": "夜歌(11/4し〜むす！大阪)",
+        "screen_name": "asatsukido",
+        "location": null,
+        "url": "https://pixiv.me/youta",
+        "description": "えっちな漫画描いたりします。ろりとかおしっことか。 単行本「恋するおしっ娘」発売中。同人はサークル朝月堂で活動してます。委託作品【とら】http://goo.gl/L1FpXA【メロン】http://goo.gl/asRXYm 【DLsite】http://b.dlsite.net/RG18340/",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2565,
+        "friends_count": 1067,
+        "listed_count": 46,
+        "favourites_count": 3779,
+        "statuses_count": 9735,
+        "created_at": "Mon Mar 19 06:20:35 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/975975744479232000/d81TcAQ1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/975975744479232000/d81TcAQ1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/975618015256633345/1521463272",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "11/4大阪開催のおしっ娘オンリーイベント「し～むす！18」の新刊できました。ねねっち百合おしっこ漫画「ねねっちっこ 第7話」です。イベント詳細は→https://t.co/AZVeehcHk4　ぜひ遊びに来てくださいね！　#し～むす！ https://t.co/dQgGnRSmjs",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "し～むす",
+              "indices": [
+                112,
+                117
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/AZVeehcHk4",
+              "expanded_url": "http://www.sdf-event.jp/cmus/",
+              "display_url": "sdf-event.jp/cmus/",
+              "indices": [
+                74,
+                97
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1057573836911071232,
+              "id_str": "1057573836911071232",
+              "indices": [
+                119,
+                142
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dq1BzSjU0AAWUFI.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dq1BzSjU0AAWUFI.jpg",
+              "url": "https://t.co/dQgGnRSmjs",
+              "display_url": "pic.twitter.com/dQgGnRSmjs",
+              "expanded_url": "https://twitter.com/asatsukido/status/1057575013342109701/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 538,
+                  "h": 759,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 538,
+                  "h": 759,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 482,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1057573846734127105,
+              "id_str": "1057573846734127105",
+              "indices": [
+                119,
+                142
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dq1Bz3JUwAE7J_I.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dq1Bz3JUwAE7J_I.jpg",
+              "url": "https://t.co/dQgGnRSmjs",
+              "display_url": "pic.twitter.com/dQgGnRSmjs",
+              "expanded_url": "https://twitter.com/asatsukido/status/1057575013342109701/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 482,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 538,
+                  "h": 759,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 538,
+                  "h": 759,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1057573836911071232,
+              "id_str": "1057573836911071232",
+              "indices": [
+                119,
+                142
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dq1BzSjU0AAWUFI.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dq1BzSjU0AAWUFI.jpg",
+              "url": "https://t.co/dQgGnRSmjs",
+              "display_url": "pic.twitter.com/dQgGnRSmjs",
+              "expanded_url": "https://twitter.com/asatsukido/status/1057575013342109701/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 538,
+                  "h": 759,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 538,
+                  "h": 759,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 482,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1057573846734127105,
+              "id_str": "1057573846734127105",
+              "indices": [
+                119,
+                142
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dq1Bz3JUwAE7J_I.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dq1Bz3JUwAE7J_I.jpg",
+              "url": "https://t.co/dQgGnRSmjs",
+              "display_url": "pic.twitter.com/dQgGnRSmjs",
+              "expanded_url": "https://twitter.com/asatsukido/status/1057575013342109701/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 482,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 538,
+                  "h": 759,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 538,
+                  "h": 759,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 33,
+      "favorite_count": 50,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/AZVeehcHk4",
+            "expanded_url": "http://www.sdf-event.jp/cmus/",
+            "display_url": "sdf-event.jp/cmus/",
+            "indices": [
+              74,
+              97
+            ]
+          },
+          {
+            "url": "https://t.co/JoLzh7gqJU",
+            "expanded_url": "https://twitter.com/i/web/status/1057575013342109701",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": true,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/k54huGHdGo",
+      "expanded": "https://twitter.com/asatsukido/status/1057575013342109701",
+      "display": "twitter.com/asatsukido/sta…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 19,
+    "favorite_count": 20,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/k54huGHdGo",
+          "expanded_url": "https://twitter.com/asatsukido/status/1057575013342109701",
+          "display_url": "twitter.com/asatsukido/sta…",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1057575013342109701,
+  "quoted_status_id_str": "1057575013342109701",
+  "quoted_status": {
+    "created_at": "Wed Oct 31 10:08:26 +0000 2018",
+    "id": 1057575013342109701,
+    "id_str": "1057575013342109701",
+    "text": "11/4大阪開催のおしっ娘オンリーイベント「し～むす！18」の新刊できました。ねねっち百合おしっこ漫画「ねねっちっこ 第7話」です。イベント詳細は→https://t.co/AZVeehcHk4　ぜひ遊びに来てくださいね！… https://t.co/JoLzh7gqJU",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 975618015256633345,
+      "id_str": "975618015256633345",
+      "name": "夜歌(11/4し〜むす！大阪)",
+      "screen_name": "asatsukido",
+      "location": null,
+      "url": "https://pixiv.me/youta",
+      "description": "えっちな漫画描いたりします。ろりとかおしっことか。 単行本「恋するおしっ娘」発売中。同人はサークル朝月堂で活動してます。委託作品【とら】http://goo.gl/L1FpXA【メロン】http://goo.gl/asRXYm 【DLsite】http://b.dlsite.net/RG18340/",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 2565,
+      "friends_count": 1067,
+      "listed_count": 46,
+      "favourites_count": 3779,
+      "statuses_count": 9735,
+      "created_at": "Mon Mar 19 06:20:35 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/975975744479232000/d81TcAQ1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/975975744479232000/d81TcAQ1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/975618015256633345/1521463272",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "11/4大阪開催のおしっ娘オンリーイベント「し～むす！18」の新刊できました。ねねっち百合おしっこ漫画「ねねっちっこ 第7話」です。イベント詳細は→https://t.co/AZVeehcHk4　ぜひ遊びに来てくださいね！　#し～むす！ https://t.co/dQgGnRSmjs",
+      "display_text_range": [
+        0,
+        118
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "し～むす",
+            "indices": [
+              112,
+              117
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AZVeehcHk4",
+            "expanded_url": "http://www.sdf-event.jp/cmus/",
+            "display_url": "sdf-event.jp/cmus/",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1057573836911071232,
+            "id_str": "1057573836911071232",
+            "indices": [
+              119,
+              142
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq1BzSjU0AAWUFI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq1BzSjU0AAWUFI.jpg",
+            "url": "https://t.co/dQgGnRSmjs",
+            "display_url": "pic.twitter.com/dQgGnRSmjs",
+            "expanded_url": "https://twitter.com/asatsukido/status/1057575013342109701/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 538,
+                "h": 759,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 538,
+                "h": 759,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 482,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1057573846734127105,
+            "id_str": "1057573846734127105",
+            "indices": [
+              119,
+              142
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq1Bz3JUwAE7J_I.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq1Bz3JUwAE7J_I.jpg",
+            "url": "https://t.co/dQgGnRSmjs",
+            "display_url": "pic.twitter.com/dQgGnRSmjs",
+            "expanded_url": "https://twitter.com/asatsukido/status/1057575013342109701/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 482,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 538,
+                "h": 759,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 538,
+                "h": 759,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1057573836911071232,
+            "id_str": "1057573836911071232",
+            "indices": [
+              119,
+              142
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq1BzSjU0AAWUFI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq1BzSjU0AAWUFI.jpg",
+            "url": "https://t.co/dQgGnRSmjs",
+            "display_url": "pic.twitter.com/dQgGnRSmjs",
+            "expanded_url": "https://twitter.com/asatsukido/status/1057575013342109701/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 538,
+                "h": 759,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 538,
+                "h": 759,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 482,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1057573846734127105,
+            "id_str": "1057573846734127105",
+            "indices": [
+              119,
+              142
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq1Bz3JUwAE7J_I.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq1Bz3JUwAE7J_I.jpg",
+            "url": "https://t.co/dQgGnRSmjs",
+            "display_url": "pic.twitter.com/dQgGnRSmjs",
+            "expanded_url": "https://twitter.com/asatsukido/status/1057575013342109701/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 482,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 538,
+                "h": 759,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 538,
+                "h": 759,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 33,
+    "favorite_count": 50,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/AZVeehcHk4",
+          "expanded_url": "http://www.sdf-event.jp/cmus/",
+          "display_url": "sdf-event.jp/cmus/",
+          "indices": [
+            74,
+            97
+          ]
+        },
+        {
+          "url": "https://t.co/JoLzh7gqJU",
+          "expanded_url": "https://twitter.com/i/web/status/1057575013342109701",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/k54huGHdGo",
+    "expanded": "https://twitter.com/asatsukido/status/1057575013342109701",
+    "display": "twitter.com/asatsukido/sta…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/k54huGHdGo",
+        "expanded_url": "https://twitter.com/asatsukido/status/1057575013342109701",
+        "display_url": "twitter.com/asatsukido/sta…",
+        "indices": [
+          57,
+          80
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "asatsukido",
+        "name": "夜歌(11/4し〜むす！大阪)",
+        "id": 975618015256633345,
+        "id_str": "975618015256633345",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254712665"
+}

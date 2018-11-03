@@ -1,0 +1,344 @@
+{
+  "created_at": "Sat Nov 03 13:56:51 +0000 2018",
+  "id": 1058719661267681280,
+  "id_str": "1058719661267681280",
+  "text": "RT @alec_09pu: シトナイ実装おめでとです〜！\nイリックマつき。\n#FGO https://t.co/dII8kibqWu",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 372700449,
+    "id_str": "372700449",
+    "name": "べっとら。",
+    "screen_name": "be1015",
+    "location": "カルデア東北支部",
+    "url": null,
+    "description": "ソニック(SEGA)は永遠にファン。ソニック、妖怪ウォッチ、ダンロン、ワンピース、モブサイコ100、左門くんはサモナー、FGO、声優さんがメイン。今はFGOのツイート多めです。巌窟王と以蔵さん推し。アイコンとトップ画は切り絵。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 103,
+    "friends_count": 351,
+    "listed_count": 8,
+    "favourites_count": 10791,
+    "statuses_count": 144574,
+    "created_at": "Tue Sep 13 07:55:51 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1029402229076180992/-WRO2S_-_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029402229076180992/-WRO2S_-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/372700449/1534264617",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Oct 24 13:17:06 +0000 2018",
+    "id": 1055085776470335488,
+    "id_str": "1055085776470335488",
+    "text": "シトナイ実装おめでとです〜！\nイリックマつき。\n#FGO https://t.co/dII8kibqWu",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1032153458864836608,
+      "id_str": "1032153458864836608",
+      "name": "ALEC",
+      "screen_name": "alec_09pu",
+      "location": null,
+      "url": "https://a-l-e-c-8.tumblr.com/",
+      "description": "お絵描きする人。PVSエンタープライズ様 恋愛ゲーム『えんじぇるぱにっく☆』立ち絵/フリーゲーム『黒い竜の育て方』/電子書籍表紙絵など。pixiv→https://goo.gl/W9hp5G。ご依頼はalec.info8@gmail.com ウィッシュhttp://amzn.asia/bcjwqDr。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 253,
+      "friends_count": 175,
+      "listed_count": 2,
+      "favourites_count": 820,
+      "statuses_count": 188,
+      "created_at": "Wed Aug 22 06:32:15 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "F58EA8",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1051841130239651840/RMlE8G_l_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051841130239651840/RMlE8G_l_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1032153458864836608/1540663463",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 2,
+    "reply_count": 4,
+    "retweet_count": 715,
+    "favorite_count": 1974,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            24,
+            28
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1055084930948984833,
+          "id_str": "1055084930948984833",
+          "indices": [
+            29,
+            52
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqRqJ5UU8AE9JHr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqRqJ5UU8AE9JHr.jpg",
+          "url": "https://t.co/dII8kibqWu",
+          "display_url": "pic.twitter.com/dII8kibqWu",
+          "expanded_url": "https://twitter.com/alec_09pu/status/1055085776470335488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 876,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 1403,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 496,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1055084930948984833,
+          "id_str": "1055084930948984833",
+          "indices": [
+            29,
+            52
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqRqJ5UU8AE9JHr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqRqJ5UU8AE9JHr.jpg",
+          "url": "https://t.co/dII8kibqWu",
+          "display_url": "pic.twitter.com/dII8kibqWu",
+          "expanded_url": "https://twitter.com/alec_09pu/status/1055085776470335488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 876,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 1403,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 496,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          39,
+          43
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "alec_09pu",
+        "name": "ALEC",
+        "id": 1032153458864836608,
+        "id_str": "1032153458864836608",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1055084930948984833,
+        "id_str": "1055084930948984833",
+        "indices": [
+          44,
+          67
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqRqJ5UU8AE9JHr.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqRqJ5UU8AE9JHr.jpg",
+        "url": "https://t.co/dII8kibqWu",
+        "display_url": "pic.twitter.com/dII8kibqWu",
+        "expanded_url": "https://twitter.com/alec_09pu/status/1055085776470335488/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 876,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 1403,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 496,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1055085776470335488,
+        "source_status_id_str": "1055085776470335488",
+        "source_user_id": 1032153458864836608,
+        "source_user_id_str": "1032153458864836608"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1055084930948984833,
+        "id_str": "1055084930948984833",
+        "indices": [
+          44,
+          67
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqRqJ5UU8AE9JHr.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqRqJ5UU8AE9JHr.jpg",
+        "url": "https://t.co/dII8kibqWu",
+        "display_url": "pic.twitter.com/dII8kibqWu",
+        "expanded_url": "https://twitter.com/alec_09pu/status/1055085776470335488/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 876,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 1403,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 496,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1055085776470335488,
+        "source_status_id_str": "1055085776470335488",
+        "source_user_id": 1032153458864836608,
+        "source_user_id_str": "1032153458864836608"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253411963"
+}

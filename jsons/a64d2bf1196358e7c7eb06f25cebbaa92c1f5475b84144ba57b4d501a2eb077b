@@ -1,0 +1,344 @@
+{
+  "created_at": "Sat Nov 03 14:18:03 +0000 2018",
+  "id": 1058724995155714048,
+  "id_str": "1058724995155714048",
+  "text": "RT @849oJpg: #グリムノーツ版お絵描き60分一本勝負 \nお題『別職が実装されていないヒーロー』 https://t.co/2C65L2GdOa",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1005671911748063232,
+    "id_str": "1005671911748063232",
+    "name": "サテラ",
+    "screen_name": "satera___723",
+    "location": "フォロバは基本0%(するとしたら仲良くなってから)",
+    "url": null,
+    "description": "ルートヴィッヒとアムネシア©とシャルルが好きです！ジャンルはバラバラですが、主に創作とグリムノーツを描きます！※雑絵 (サブ垢はフォローしません)",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 176,
+    "friends_count": 68,
+    "listed_count": 9,
+    "favourites_count": 1751,
+    "statuses_count": 924,
+    "created_at": "Sun Jun 10 04:44:03 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056197265331695617/eMZ0wEO4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056197265331695617/eMZ0wEO4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1005671911748063232/1540696068",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:14:43 +0000 2018",
+    "id": 1058724156349370368,
+    "id_str": "1058724156349370368",
+    "text": "#グリムノーツ版お絵描き60分一本勝負 \nお題『別職が実装されていないヒーロー』 https://t.co/2C65L2GdOa",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 923895523236462592,
+      "id_str": "923895523236462592",
+      "name": "🌾春星_もち米",
+      "screen_name": "849oJpg",
+      "location": null,
+      "url": "https://marshmallow-qa.com/849ojpg",
+      "description": "笠原ハルシです グリムノーツ・オンエア！・文スト迷ヰ犬 18↑ お題箱→ https://odaibako.net/u/849oJpg",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 316,
+      "friends_count": 196,
+      "listed_count": 15,
+      "favourites_count": 28663,
+      "statuses_count": 4222,
+      "created_at": "Fri Oct 27 12:53:52 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1038836832329334785/VUUtAEtQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1038836832329334785/VUUtAEtQ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/923895523236462592/1540441683",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 4,
+    "favorite_count": 9,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "グリムノーツ版お絵描き60分一本勝負",
+          "indices": [
+            0,
+            19
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058724146220228608,
+          "id_str": "1058724146220228608",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFYAGqV4AAbj_3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFYAGqV4AAbj_3.jpg",
+          "url": "https://t.co/2C65L2GdOa",
+          "display_url": "pic.twitter.com/2C65L2GdOa",
+          "expanded_url": "https://twitter.com/849oJpg/status/1058724156349370368/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 700,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 397,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 980,
+              "h": 1680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058724146220228608,
+          "id_str": "1058724146220228608",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFYAGqV4AAbj_3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFYAGqV4AAbj_3.jpg",
+          "url": "https://t.co/2C65L2GdOa",
+          "display_url": "pic.twitter.com/2C65L2GdOa",
+          "expanded_url": "https://twitter.com/849oJpg/status/1058724156349370368/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 700,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 397,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 980,
+              "h": 1680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "グリムノーツ版お絵描き60分一本勝負",
+        "indices": [
+          13,
+          32
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "849oJpg",
+        "name": "🌾春星_もち米",
+        "id": 923895523236462592,
+        "id_str": "923895523236462592",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724146220228608,
+        "id_str": "1058724146220228608",
+        "indices": [
+          54,
+          77
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYAGqV4AAbj_3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYAGqV4AAbj_3.jpg",
+        "url": "https://t.co/2C65L2GdOa",
+        "display_url": "pic.twitter.com/2C65L2GdOa",
+        "expanded_url": "https://twitter.com/849oJpg/status/1058724156349370368/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 700,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 397,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 980,
+            "h": 1680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058724156349370368,
+        "source_status_id_str": "1058724156349370368",
+        "source_user_id": 923895523236462592,
+        "source_user_id_str": "923895523236462592"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724146220228608,
+        "id_str": "1058724146220228608",
+        "indices": [
+          54,
+          77
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYAGqV4AAbj_3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYAGqV4AAbj_3.jpg",
+        "url": "https://t.co/2C65L2GdOa",
+        "display_url": "pic.twitter.com/2C65L2GdOa",
+        "expanded_url": "https://twitter.com/849oJpg/status/1058724156349370368/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 700,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 397,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 980,
+            "h": 1680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058724156349370368,
+        "source_status_id_str": "1058724156349370368",
+        "source_user_id": 923895523236462592,
+        "source_user_id_str": "923895523236462592"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254683661"
+}

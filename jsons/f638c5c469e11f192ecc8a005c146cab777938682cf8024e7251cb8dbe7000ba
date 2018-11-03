@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:12:24 +0000 2018",
+  "id": 1058723572418400256,
+  "id_str": "1058723572418400256",
+  "text": "RT @syatey_12: １ｺﾏFGO 「モナリザがモナリザの仮装」 https://t.co/gL98LKUMMh",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 129463827,
+    "id_str": "129463827",
+    "name": "夜猟兵:繁忙期ｳｳﾞｫｧｰ",
+    "screen_name": "nachtja",
+    "location": null,
+    "url": null,
+    "description": "FGO、始めました。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 100,
+    "friends_count": 363,
+    "listed_count": 2,
+    "favourites_count": 843,
+    "statuses_count": 22952,
+    "created_at": "Sun Apr 04 10:54:05 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1029330241922117633/7rMbdD9G_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029330241922117633/7rMbdD9G_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/129463827/1514013378",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Oct 31 13:16:20 +0000 2018",
+    "id": 1057622300885831685,
+    "id_str": "1057622300885831685",
+    "text": "１ｺﾏFGO 「モナリザがモナリザの仮装」 https://t.co/gL98LKUMMh",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 112486403,
+      "id_str": "112486403",
+      "name": "サテー@聖牌戦争",
+      "screen_name": "syatey_12",
+      "location": "日本：聖杯めいた全自動卓の中",
+      "url": "https://www.pixiv.net/fanbox/creator/2858550?utm_campaign=www_profile&utm_medium=site_flow&utm_sourc",
+      "description": "マシュおーだーのひと\nサークル「ロブスターの天敵」\n【Fate/mn聖牌戦争】連載中です。 https://t.co/CyWaGJ4oKr　 syatey(舎弟)と書いてサテー。「オサレ」的なニュアンスッス。 俗物的につぶやきます。リプライ等大切に読ませてもらっています。よくイイネ･スリケンを投げます",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 144456,
+      "friends_count": 978,
+      "listed_count": 1986,
+      "favourites_count": 19460,
+      "statuses_count": 16663,
+      "created_at": "Mon Feb 08 17:38:21 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "9266CC",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/803690148152033280/QOvcITNl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/803690148152033280/QOvcITNl_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/112486403/1451914531",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 17,
+    "reply_count": 39,
+    "retweet_count": 10230,
+    "favorite_count": 37119,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1057621964414574593,
+          "id_str": "1057621964414574593",
+          "indices": [
+            22,
+            45
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq1tkreU4AEm2cU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq1tkreU4AEm2cU.jpg",
+          "url": "https://t.co/gL98LKUMMh",
+          "display_url": "pic.twitter.com/gL98LKUMMh",
+          "expanded_url": "https://twitter.com/syatey_12/status/1057622300885831685/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 898,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 606,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 898,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1057621964414574593,
+          "id_str": "1057621964414574593",
+          "indices": [
+            22,
+            45
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq1tkreU4AEm2cU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq1tkreU4AEm2cU.jpg",
+          "url": "https://t.co/gL98LKUMMh",
+          "display_url": "pic.twitter.com/gL98LKUMMh",
+          "expanded_url": "https://twitter.com/syatey_12/status/1057622300885831685/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 898,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 606,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 898,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "syatey_12",
+        "name": "サテー@聖牌戦争",
+        "id": 112486403,
+        "id_str": "112486403",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1057621964414574593,
+        "id_str": "1057621964414574593",
+        "indices": [
+          37,
+          60
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq1tkreU4AEm2cU.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq1tkreU4AEm2cU.jpg",
+        "url": "https://t.co/gL98LKUMMh",
+        "display_url": "pic.twitter.com/gL98LKUMMh",
+        "expanded_url": "https://twitter.com/syatey_12/status/1057622300885831685/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 800,
+            "h": 898,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 606,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 800,
+            "h": 898,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057622300885831685,
+        "source_status_id_str": "1057622300885831685",
+        "source_user_id": 112486403,
+        "source_user_id_str": "112486403"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1057621964414574593,
+        "id_str": "1057621964414574593",
+        "indices": [
+          37,
+          60
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq1tkreU4AEm2cU.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq1tkreU4AEm2cU.jpg",
+        "url": "https://t.co/gL98LKUMMh",
+        "display_url": "pic.twitter.com/gL98LKUMMh",
+        "expanded_url": "https://twitter.com/syatey_12/status/1057622300885831685/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 800,
+            "h": 898,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 606,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 800,
+            "h": 898,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057622300885831685,
+        "source_status_id_str": "1057622300885831685",
+        "source_user_id": 112486403,
+        "source_user_id_str": "112486403"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254344454"
+}

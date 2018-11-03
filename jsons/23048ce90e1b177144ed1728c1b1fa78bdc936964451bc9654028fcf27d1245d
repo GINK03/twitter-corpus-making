@@ -1,0 +1,572 @@
+{
+  "created_at": "Sat Nov 03 14:25:43 +0000 2018",
+  "id": 1058726924552306689,
+  "id_str": "1058726924552306689",
+  "text": "RT @torakare: 台湾のプライドパレードで見かけたプラカードなどのメッセージを紹介してくれというリクエストがあったので貼りますー。 #ss954 https://t.co/Uerluy4QgF",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 401270346,
+    "id_str": "401270346",
+    "name": "千返(●´ϖ`●)",
+    "screen_name": "maggiefanss",
+    "location": "台灣",
+    "url": "https://www.facebook.com/maggiefanss",
+    "description": "中文🇹🇼\n80%🖌20%COSPLAY📸",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 136,
+    "friends_count": 1685,
+    "listed_count": 4,
+    "favourites_count": 2361,
+    "statuses_count": 9612,
+    "created_at": "Sun Oct 30 09:20:24 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "zh-TW",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "7FDBB6",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/907959985866383362/5VvPivbc_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/907959985866383362/5VvPivbc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/401270346/1505309320",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 05:41:58 +0000 2018",
+    "id": 1058595116753989633,
+    "id_str": "1058595116753989633",
+    "text": "台湾のプライドパレードで見かけたプラカードなどのメッセージを紹介してくれというリクエストがあったので貼りますー。 #ss954 https://t.co/Uerluy4QgF",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 50581493,
+      "id_str": "50581493",
+      "name": "荻上チキ",
+      "screen_name": "torakare",
+      "location": null,
+      "url": "http://stopijime.jp/",
+      "description": "評論家。著書『災害支援手帖』『いじめを生む教室』など、共著『社会運動の戸惑い』『新犯罪論』など。「TBSラジオ:Session-22」パーソナリティ。連載やら取材やら企画やらリサーチやらNPO法人やら色々やってます。連絡先：seijotcpあっとgmailどとこむ",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 127504,
+      "friends_count": 1896,
+      "listed_count": 4666,
+      "favourites_count": 485,
+      "statuses_count": 16201,
+      "created_at": "Thu Jun 25 07:29:34 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/696347393856438272/vCogXBDZ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/696347393856438272/vCogXBDZ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/50581493/1446018262",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 4,
+    "reply_count": 3,
+    "retweet_count": 84,
+    "favorite_count": 182,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ss954",
+          "indices": [
+            57,
+            63
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058594889452015617,
+          "id_str": "1058594889452015617",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDicXrU0AEjAbT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDicXrU0AEjAbT.jpg",
+          "url": "https://t.co/Uerluy4QgF",
+          "display_url": "pic.twitter.com/Uerluy4QgF",
+          "expanded_url": "https://twitter.com/torakare/status/1058595116753989633/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 801,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1500,
+              "h": 1001,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058594889452015617,
+          "id_str": "1058594889452015617",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDicXrU0AEjAbT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDicXrU0AEjAbT.jpg",
+          "url": "https://t.co/Uerluy4QgF",
+          "display_url": "pic.twitter.com/Uerluy4QgF",
+          "expanded_url": "https://twitter.com/torakare/status/1058595116753989633/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 801,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1500,
+              "h": 1001,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058594889800212480,
+          "id_str": "1058594889800212480",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDicY-V4AA9bn7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDicY-V4AA9bn7.jpg",
+          "url": "https://t.co/Uerluy4QgF",
+          "display_url": "pic.twitter.com/Uerluy4QgF",
+          "expanded_url": "https://twitter.com/torakare/status/1058595116753989633/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1500,
+              "h": 1001,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 801,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058594888776790016,
+          "id_str": "1058594888776790016",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDicVKVsAAbFfk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDicVKVsAAbFfk.jpg",
+          "url": "https://t.co/Uerluy4QgF",
+          "display_url": "pic.twitter.com/Uerluy4QgF",
+          "expanded_url": "https://twitter.com/torakare/status/1058595116753989633/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 801,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1500,
+              "h": 1001,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058594889049432065,
+          "id_str": "1058594889049432065",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDicWLV4AEpWlt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDicWLV4AEpWlt.jpg",
+          "url": "https://t.co/Uerluy4QgF",
+          "display_url": "pic.twitter.com/Uerluy4QgF",
+          "expanded_url": "https://twitter.com/torakare/status/1058595116753989633/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ss954",
+        "indices": [
+          71,
+          77
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "torakare",
+        "name": "荻上チキ",
+        "id": 50581493,
+        "id_str": "50581493",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058594889452015617,
+        "id_str": "1058594889452015617",
+        "indices": [
+          78,
+          101
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDicXrU0AEjAbT.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDicXrU0AEjAbT.jpg",
+        "url": "https://t.co/Uerluy4QgF",
+        "display_url": "pic.twitter.com/Uerluy4QgF",
+        "expanded_url": "https://twitter.com/torakare/status/1058595116753989633/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 801,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1500,
+            "h": 1001,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 454,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058595116753989633,
+        "source_status_id_str": "1058595116753989633",
+        "source_user_id": 50581493,
+        "source_user_id_str": "50581493"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058594889452015617,
+        "id_str": "1058594889452015617",
+        "indices": [
+          78,
+          101
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDicXrU0AEjAbT.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDicXrU0AEjAbT.jpg",
+        "url": "https://t.co/Uerluy4QgF",
+        "display_url": "pic.twitter.com/Uerluy4QgF",
+        "expanded_url": "https://twitter.com/torakare/status/1058595116753989633/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 801,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1500,
+            "h": 1001,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 454,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058595116753989633,
+        "source_status_id_str": "1058595116753989633",
+        "source_user_id": 50581493,
+        "source_user_id_str": "50581493"
+      },
+      {
+        "id": 1058594889800212480,
+        "id_str": "1058594889800212480",
+        "indices": [
+          78,
+          101
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDicY-V4AA9bn7.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDicY-V4AA9bn7.jpg",
+        "url": "https://t.co/Uerluy4QgF",
+        "display_url": "pic.twitter.com/Uerluy4QgF",
+        "expanded_url": "https://twitter.com/torakare/status/1058595116753989633/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1500,
+            "h": 1001,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 454,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 801,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058595116753989633,
+        "source_status_id_str": "1058595116753989633",
+        "source_user_id": 50581493,
+        "source_user_id_str": "50581493"
+      },
+      {
+        "id": 1058594888776790016,
+        "id_str": "1058594888776790016",
+        "indices": [
+          78,
+          101
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDicVKVsAAbFfk.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDicVKVsAAbFfk.jpg",
+        "url": "https://t.co/Uerluy4QgF",
+        "display_url": "pic.twitter.com/Uerluy4QgF",
+        "expanded_url": "https://twitter.com/torakare/status/1058595116753989633/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 801,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 454,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1500,
+            "h": 1001,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058595116753989633,
+        "source_status_id_str": "1058595116753989633",
+        "source_user_id": 50581493,
+        "source_user_id_str": "50581493"
+      },
+      {
+        "id": 1058594889049432065,
+        "id_str": "1058594889049432065",
+        "indices": [
+          78,
+          101
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDicWLV4AEpWlt.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDicWLV4AEpWlt.jpg",
+        "url": "https://t.co/Uerluy4QgF",
+        "display_url": "pic.twitter.com/Uerluy4QgF",
+        "expanded_url": "https://twitter.com/torakare/status/1058595116753989633/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1536,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058595116753989633,
+        "source_status_id_str": "1058595116753989633",
+        "source_user_id": 50581493,
+        "source_user_id_str": "50581493"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255143665"
+}

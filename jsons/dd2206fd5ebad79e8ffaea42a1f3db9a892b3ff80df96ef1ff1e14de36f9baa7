@@ -1,0 +1,372 @@
+{
+  "created_at": "Sat Nov 03 13:55:16 +0000 2018",
+  "id": 1058719260313190400,
+  "id_str": "1058719260313190400",
+  "text": "RT @korone_pan: ひぃろぉの笑い方\n#FGO #坂田金時 #酒呑童子 https://t.co/748pQh7ajv",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 93083966,
+    "id_str": "93083966",
+    "name": "ころねぱん",
+    "screen_name": "korone_pan",
+    "location": "神奈川のあたり",
+    "url": "http://blog.livedoor.jp/korone_pan/",
+    "description": "ころねぱんです。モバマスP（結城晴・的場梨沙） pixiv : http://pixiv.me/korone_pan mail:koronepan●http://gmail.com 欲しいものリスト： http://amzn.asia/hZAedGq",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 6263,
+    "friends_count": 999,
+    "listed_count": 205,
+    "favourites_count": 18460,
+    "statuses_count": 33094,
+    "created_at": "Sat Nov 28 00:40:00 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "4A913C",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/849152377873588224/7x4YzodF_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/849152377873588224/7x4YzodF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/93083966/1491288695",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 07:25:26 +0000 2018",
+    "id": 1058621155643293696,
+    "id_str": "1058621155643293696",
+    "text": "ひぃろぉの笑い方\n#FGO #坂田金時 #酒呑童子 https://t.co/748pQh7ajv",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 93083966,
+      "id_str": "93083966",
+      "name": "ころねぱん",
+      "screen_name": "korone_pan",
+      "location": "神奈川のあたり",
+      "url": "http://blog.livedoor.jp/korone_pan/",
+      "description": "ころねぱんです。モバマスP（結城晴・的場梨沙） pixiv : http://pixiv.me/korone_pan mail:koronepan●http://gmail.com 欲しいものリスト： http://amzn.asia/hZAedGq",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 6263,
+      "friends_count": 999,
+      "listed_count": 205,
+      "favourites_count": 18460,
+      "statuses_count": 33093,
+      "created_at": "Sat Nov 28 00:40:00 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/849152377873588224/7x4YzodF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/849152377873588224/7x4YzodF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/93083966/1491288695",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 233,
+    "favorite_count": 772,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            9,
+            13
+          ]
+        },
+        {
+          "text": "坂田金時",
+          "indices": [
+            14,
+            19
+          ]
+        },
+        {
+          "text": "酒呑童子",
+          "indices": [
+            20,
+            25
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058620807729971200,
+          "id_str": "1058620807729971200",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrD6BAyVAAA6HMQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrD6BAyVAAA6HMQ.jpg",
+          "url": "https://t.co/748pQh7ajv",
+          "display_url": "pic.twitter.com/748pQh7ajv",
+          "expanded_url": "https://twitter.com/korone_pan/status/1058621155643293696/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1133,
+              "h": 1576,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 489,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 863,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058620807729971200,
+          "id_str": "1058620807729971200",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrD6BAyVAAA6HMQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrD6BAyVAAA6HMQ.jpg",
+          "url": "https://t.co/748pQh7ajv",
+          "display_url": "pic.twitter.com/748pQh7ajv",
+          "expanded_url": "https://twitter.com/korone_pan/status/1058621155643293696/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1133,
+              "h": 1576,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 489,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 863,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          25,
+          29
+        ]
+      },
+      {
+        "text": "坂田金時",
+        "indices": [
+          30,
+          35
+        ]
+      },
+      {
+        "text": "酒呑童子",
+        "indices": [
+          36,
+          41
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "korone_pan",
+        "name": "ころねぱん",
+        "id": 93083966,
+        "id_str": "93083966",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058620807729971200,
+        "id_str": "1058620807729971200",
+        "indices": [
+          42,
+          65
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrD6BAyVAAA6HMQ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrD6BAyVAAA6HMQ.jpg",
+        "url": "https://t.co/748pQh7ajv",
+        "display_url": "pic.twitter.com/748pQh7ajv",
+        "expanded_url": "https://twitter.com/korone_pan/status/1058621155643293696/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1133,
+            "h": 1576,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 489,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 863,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058621155643293696,
+        "source_status_id_str": "1058621155643293696",
+        "source_user_id": 93083966,
+        "source_user_id_str": "93083966"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058620807729971200,
+        "id_str": "1058620807729971200",
+        "indices": [
+          42,
+          65
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrD6BAyVAAA6HMQ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrD6BAyVAAA6HMQ.jpg",
+        "url": "https://t.co/748pQh7ajv",
+        "display_url": "pic.twitter.com/748pQh7ajv",
+        "expanded_url": "https://twitter.com/korone_pan/status/1058621155643293696/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1133,
+            "h": 1576,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 489,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 863,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058621155643293696,
+        "source_status_id_str": "1058621155643293696",
+        "source_user_id": 93083966,
+        "source_user_id_str": "93083966"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253316368"
+}

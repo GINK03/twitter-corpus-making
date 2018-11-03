@@ -1,0 +1,128 @@
+{
+  "created_at": "Sat Nov 03 14:22:12 +0000 2018",
+  "id": 1058726039545729025,
+  "id_str": "1058726039545729025",
+  "text": "ねぇちょっとだけって感じの歌をぜひ聴きたい\n#SONGS #KinKiKids #堂本光一 #NHK @nhk_songs #井上芳雄 #ナイツテイル",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 754992291371061248,
+    "id_str": "754992291371061248",
+    "name": "ちよ(1011)",
+    "screen_name": "ftrtuwe",
+    "location": "瀬戸内の海",
+    "url": "http://twpf.jp/ftrtuwe",
+    "description": "∞/KinKi/青寄りのftr/20↑/無言フォロー失礼します",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 62,
+    "friends_count": 175,
+    "listed_count": 1,
+    "favourites_count": 10478,
+    "statuses_count": 7544,
+    "created_at": "Mon Jul 18 10:52:44 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "91D2FA",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/887943462544265216/o-Wyj8a2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/887943462544265216/o-Wyj8a2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/754992291371061248/1498116110",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "SONGS",
+        "indices": [
+          22,
+          28
+        ]
+      },
+      {
+        "text": "KinKiKids",
+        "indices": [
+          29,
+          39
+        ]
+      },
+      {
+        "text": "堂本光一",
+        "indices": [
+          40,
+          45
+        ]
+      },
+      {
+        "text": "NHK",
+        "indices": [
+          46,
+          50
+        ]
+      },
+      {
+        "text": "井上芳雄",
+        "indices": [
+          62,
+          67
+        ]
+      },
+      {
+        "text": "ナイツテイル",
+        "indices": [
+          68,
+          75
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "nhk_songs",
+        "name": "NHK　SONGS",
+        "id": 724503381130121216,
+        "id_str": "724503381130121216",
+        "indices": [
+          51,
+          61
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254932663"
+}

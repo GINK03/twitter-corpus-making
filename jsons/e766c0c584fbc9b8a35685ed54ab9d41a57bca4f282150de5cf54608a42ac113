@@ -1,0 +1,130 @@
+{
+  "created_at": "Sat Nov 03 14:14:58 +0000 2018",
+  "id": 1058724219217833985,
+  "id_str": "1058724219217833985",
+  "text": "@3110takepippi @jubilo_ymh ど突かなければ倒れませんけど？（真顔）",
+  "display_text_range": [
+    27,
+    46
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058614976141611011,
+  "in_reply_to_status_id_str": "1058614976141611011",
+  "in_reply_to_user_id": 705913252207681536,
+  "in_reply_to_user_id_str": "705913252207681536",
+  "in_reply_to_screen_name": "3110takepippi",
+  "user": {
+    "id": 924888777985687552,
+    "id_str": "924888777985687552",
+    "name": "け@王国復活",
+    "screen_name": "jubiketakata",
+    "location": null,
+    "url": null,
+    "description": "磐田の反撃〜黄金期からのジュビロファン、とりあえず残留！名波さん付いていきます。磐田サポフォローして下さい！",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 327,
+    "friends_count": 855,
+    "listed_count": 2,
+    "favourites_count": 926,
+    "statuses_count": 483,
+    "created_at": "Mon Oct 30 06:40:43 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/957281363383611394/JZB_itvX_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/957281363383611394/JZB_itvX_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "cd74cfac7fe84402",
+    "url": "https://api.twitter.com/1.1/geo/id/cd74cfac7fe84402.json",
+    "place_type": "city",
+    "name": "静岡市 駿河区",
+    "full_name": "静岡 静岡市 駿河区",
+    "country_code": "JP",
+    "country": "日本",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.291701,
+            34.898662
+          ],
+          [
+            138.291701,
+            35.003834
+          ],
+          [
+            138.482041,
+            35.003834
+          ],
+          [
+            138.482041,
+            34.898662
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "3110takepippi",
+        "name": "たけピッピ",
+        "id": 705913252207681536,
+        "id_str": "705913252207681536",
+        "indices": [
+          0,
+          14
+        ]
+      },
+      {
+        "screen_name": "jubilo_ymh",
+        "name": "TØMi",
+        "id": 883901308943482880,
+        "id_str": "883901308943482880",
+        "indices": [
+          15,
+          26
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254498663"
+}

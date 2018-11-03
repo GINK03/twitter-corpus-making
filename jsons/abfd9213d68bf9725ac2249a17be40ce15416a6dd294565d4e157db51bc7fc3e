@@ -1,0 +1,104 @@
+{
+  "created_at": "Sat Nov 03 14:13:47 +0000 2018",
+  "id": 1058723921405440001,
+  "id_str": "1058723921405440001",
+  "text": "モイ！  @AngelNumber96X さんと #コラボキャス を開始 - https://t.co/T3TWloZrkA",
+  "source": "<a href=\"http://twitcasting.tv/\" rel=\"nofollow\">TwitCasting</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1625032380,
+    "id_str": "1625032380",
+    "name": "オーレ・ネルノスキー @のけライ",
+    "screen_name": "hanyusaku",
+    "location": null,
+    "url": null,
+    "description": "男 ・オーレでございます。特撮、主に仮面ライダー＼東方＼ひぐらし＼うみねこ＼カービィ＼ゼルダの伝説＼零シリーズ＼けものフレンズ\\ その他。白猫プロジェクト段位12段",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1380,
+    "friends_count": 1350,
+    "listed_count": 24,
+    "favourites_count": 26782,
+    "statuses_count": 59114,
+    "created_at": "Sat Jul 27 09:21:00 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/890865070523113472/j8Hbs8hY_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/890865070523113472/j8Hbs8hY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1625032380/1528808039",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "コラボキャス",
+        "indices": [
+          25,
+          32
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/T3TWloZrkA",
+        "expanded_url": "https://cas.st/1e0f8172",
+        "display_url": "cas.st/1e0f8172",
+        "indices": [
+          39,
+          62
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "AngelNumber96X",
+        "name": "くろえ",
+        "id": 878427800515952641,
+        "id_str": "878427800515952641",
+        "indices": [
+          5,
+          20
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254427659"
+}

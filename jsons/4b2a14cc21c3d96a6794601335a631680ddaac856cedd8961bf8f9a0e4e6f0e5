@@ -1,0 +1,100 @@
+{
+  "created_at": "Sat Nov 03 14:07:58 +0000 2018",
+  "id": 1058722455991148544,
+  "id_str": "1058722455991148544",
+  "text": "適当  #パズドラ  #Mirrativ で配信中！  https://t.co/Wf0SrJqsUZ",
+  "source": "<a href=\"https://www.mirrativ.com\" rel=\"nofollow\">Mirrativ</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4680887174,
+    "id_str": "4680887174",
+    "name": "Lin",
+    "screen_name": "thatsrock1130",
+    "location": "ほっかいどぅ",
+    "url": null,
+    "description": "デスボ/ONE OK ROCK/洋楽/pay money to my pain/TheBONEZ/ELLEGARDEN/SiM/FACT/RIZE/MONOEYES/HI-STANDRAD",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 113,
+    "friends_count": 128,
+    "listed_count": 1,
+    "favourites_count": 2916,
+    "statuses_count": 2144,
+    "created_at": "Thu Dec 31 02:06:09 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/974626897400221697/3ywGg4vl_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/974626897400221697/3ywGg4vl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4680887174/1498999041",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラ",
+        "indices": [
+          4,
+          9
+        ]
+      },
+      {
+        "text": "Mirrativ",
+        "indices": [
+          11,
+          20
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/Wf0SrJqsUZ",
+        "expanded_url": "https://www.mirrativ.com/live/tBYTfin2R8_5gqEPoRxNFQ",
+        "display_url": "mirrativ.com/live/tBYTfin2R…",
+        "indices": [
+          28,
+          51
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254078277"
+}

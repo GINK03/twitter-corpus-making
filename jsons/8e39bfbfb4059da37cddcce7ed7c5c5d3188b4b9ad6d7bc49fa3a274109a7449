@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:16:19 +0000 2018",
+  "id": 1058724558931279872,
+  "id_str": "1058724558931279872",
+  "text": "@koharu_ito @ririkamotoshima お疲れ様〜( ˆ_ˆ )\n\n姉妹みたいね☆〜（ゝ。∂）\n\nおやすみ〜☆彡",
+  "display_text_range": [
+    29,
+    65
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058724285416493056,
+  "in_reply_to_status_id_str": "1058724285416493056",
+  "in_reply_to_user_id": 776668259483385856,
+  "in_reply_to_user_id_str": "776668259483385856",
+  "in_reply_to_screen_name": "koharu_ito",
+  "user": {
+    "id": 2761602186,
+    "id_str": "2761602186",
+    "name": "ひろ兄ぃ☆彡",
+    "screen_name": "miyumao_3191001",
+    "location": null,
+    "url": null,
+    "description": "ずっと悩みを抱えている　物語は続いてて　戻れない過去は涙に変えて",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 635,
+    "friends_count": 776,
+    "listed_count": 5,
+    "favourites_count": 59782,
+    "statuses_count": 83820,
+    "created_at": "Sun Aug 24 06:49:15 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1050248252207943680/vESgBcsv_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050248252207943680/vESgBcsv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2761602186/1541076334",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "koharu_ito",
+        "name": "伊藤小春（ふわふわ）",
+        "id": 776668259483385856,
+        "id_str": "776668259483385856",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "ririkamotoshima",
+        "name": "本島莉々果（ふわふわ）",
+        "id": 4516406654,
+        "id_str": "4516406654",
+        "indices": [
+          12,
+          28
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254579657"
+}

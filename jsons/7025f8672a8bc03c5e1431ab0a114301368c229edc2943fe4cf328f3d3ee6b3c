@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:19:26 +0000 2018",
+  "id": 1058725343282913281,
+  "id_str": "1058725343282913281",
+  "text": "RT @880880cm: ちぢませ https://t.co/2LHGhSqqxS",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 733673449579761669,
+    "id_str": "733673449579761669",
+    "name": "業  絶@死んでます",
+    "screen_name": "mha_0512",
+    "location": null,
+    "url": null,
+    "description": "業 絶(カルマ ゼツ)と読みます。成人済 最近はコナンにハマってます。 他にもヒロアカ、Fate、REBORN、BLEACH、HQ、ONE PIECE、ワートリ、アメコミ、MARVEL、人外などなど 創作オリキャラ描きます。#組織フロワ",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 854,
+    "friends_count": 889,
+    "listed_count": 152,
+    "favourites_count": 65907,
+    "statuses_count": 143844,
+    "created_at": "Fri May 20 14:59:16 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056359848118509568/R1_CQnVm_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056359848118509568/R1_CQnVm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/733673449579761669/1540992644",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 04:07:02 +0000 2018",
+    "id": 1058571228229718016,
+    "id_str": "1058571228229718016",
+    "text": "ちぢませ https://t.co/2LHGhSqqxS",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 936952013862010880,
+      "id_str": "936952013862010880",
+      "name": "つくも",
+      "screen_name": "880880cm",
+      "location": "快斗くん幸せになってくれ…",
+      "url": "http://twpf.jp/880880cm",
+      "description": "名探偵と大怪盗/日常込みのいろいろ自由に呟く　フォローの際ツイフィールご一読願います！ほぼ停止中なウラ→@nigiripan",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 2512,
+      "friends_count": 81,
+      "listed_count": 27,
+      "favourites_count": 2111,
+      "statuses_count": 5666,
+      "created_at": "Sat Dec 02 13:35:42 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1040853695448080384/0izArHdP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040853695448080384/0izArHdP_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/936952013862010880/1541227146",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 159,
+    "favorite_count": 1066,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058571101452685312,
+          "id_str": "1058571101452685312",
+          "indices": [
+            5,
+            28
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDMzueU0AAAMVm.png",
+          "media_url_https": "https://pbs.twimg.com/media/DrDMzueU0AAAMVm.png",
+          "url": "https://t.co/2LHGhSqqxS",
+          "display_url": "pic.twitter.com/2LHGhSqqxS",
+          "expanded_url": "https://twitter.com/880880cm/status/1058571228229718016/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 621,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1095,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1142,
+              "h": 1251,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058571101452685312,
+          "id_str": "1058571101452685312",
+          "indices": [
+            5,
+            28
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDMzueU0AAAMVm.png",
+          "media_url_https": "https://pbs.twimg.com/media/DrDMzueU0AAAMVm.png",
+          "url": "https://t.co/2LHGhSqqxS",
+          "display_url": "pic.twitter.com/2LHGhSqqxS",
+          "expanded_url": "https://twitter.com/880880cm/status/1058571228229718016/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 621,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1095,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1142,
+              "h": 1251,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "880880cm",
+        "name": "つくも",
+        "id": 936952013862010880,
+        "id_str": "936952013862010880",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058571101452685312,
+        "id_str": "1058571101452685312",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDMzueU0AAAMVm.png",
+        "media_url_https": "https://pbs.twimg.com/media/DrDMzueU0AAAMVm.png",
+        "url": "https://t.co/2LHGhSqqxS",
+        "display_url": "pic.twitter.com/2LHGhSqqxS",
+        "expanded_url": "https://twitter.com/880880cm/status/1058571228229718016/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 621,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1095,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1142,
+            "h": 1251,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058571228229718016,
+        "source_status_id_str": "1058571228229718016",
+        "source_user_id": 936952013862010880,
+        "source_user_id_str": "936952013862010880"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058571101452685312,
+        "id_str": "1058571101452685312",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDMzueU0AAAMVm.png",
+        "media_url_https": "https://pbs.twimg.com/media/DrDMzueU0AAAMVm.png",
+        "url": "https://t.co/2LHGhSqqxS",
+        "display_url": "pic.twitter.com/2LHGhSqqxS",
+        "expanded_url": "https://twitter.com/880880cm/status/1058571228229718016/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 621,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1095,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1142,
+            "h": 1251,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058571228229718016,
+        "source_status_id_str": "1058571228229718016",
+        "source_user_id": 936952013862010880,
+        "source_user_id_str": "936952013862010880"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254766661"
+}

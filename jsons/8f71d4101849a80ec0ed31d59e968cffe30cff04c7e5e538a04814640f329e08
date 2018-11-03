@@ -1,0 +1,404 @@
+{
+  "created_at": "Sat Nov 03 14:19:58 +0000 2018",
+  "id": 1058725477517484032,
+  "id_str": "1058725477517484032",
+  "text": "RT @yui_fairithm: では最後に猫の画像で場を締めようか。\n\n世界よ睡れ。\nDas Feenreich! https://t.co/nkmq474oio",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 524445267,
+    "id_str": "524445267",
+    "name": "蒼椸",
+    "screen_name": "naaru_25",
+    "location": "朽ちた屋敷",
+    "url": null,
+    "description": "あおい。ミュージカル関係（主に宝塚）アカウント他にあります。ATELIER-PIERROT/abilletage/妖精帝國臣民/HollowMellow/SoundHorizon/ALI PROJECT/窪田正孝さん/エリザベート/花總まりさん/柚香光さん/宝塚/花組/アイコン：いづき（@guchikochaaan ）",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 151,
+    "friends_count": 250,
+    "listed_count": 10,
+    "favourites_count": 28570,
+    "statuses_count": 45807,
+    "created_at": "Wed Mar 14 15:19:13 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/803563312138973184/Tt2ak3qY_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/803563312138973184/Tt2ak3qY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/524445267/1500213586",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:09:14 +0000 2018",
+    "id": 1058722774850592769,
+    "id_str": "1058722774850592769",
+    "text": "では最後に猫の画像で場を締めようか。\n\n世界よ睡れ。\nDas Feenreich! https://t.co/nkmq474oio",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 151533513,
+      "id_str": "151533513",
+      "name": "終身独裁官 ゆい",
+      "screen_name": "yui_fairithm",
+      "location": "妖精帝國",
+      "url": "http://www.dasfeenreich.com",
+      "description": "妖精帝國終身独裁官ゆいである。  人間達と人間界をもっと知るため、戯れで呟いてみることにした。  可能な限り臣民諸君の呟きに答えていこうと思っているが、我が帝國の機密事項などには答えられぬ場合もある。たまにBOTが宣伝を呟くからそのつもりで。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 26665,
+      "friends_count": 2063,
+      "listed_count": 1186,
+      "favourites_count": 73,
+      "statuses_count": 5516,
+      "created_at": "Thu Jun 03 16:33:43 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "970000",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/547981728426389504/GIgg0Nf__normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/547981728426389504/GIgg0Nf__normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/151533513/1419482854",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 11,
+    "retweet_count": 41,
+    "favorite_count": 113,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058722769230151680,
+          "id_str": "1058722769230151680",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFWv8-UwAAX6N3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFWv8-UwAAX6N3.jpg",
+          "url": "https://t.co/nkmq474oio",
+          "display_url": "pic.twitter.com/nkmq474oio",
+          "expanded_url": "https://twitter.com/yui_fairithm/status/1058722774850592769/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1254,
+              "h": 1254,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058722769230151680,
+          "id_str": "1058722769230151680",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFWv8-UwAAX6N3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFWv8-UwAAX6N3.jpg",
+          "url": "https://t.co/nkmq474oio",
+          "display_url": "pic.twitter.com/nkmq474oio",
+          "expanded_url": "https://twitter.com/yui_fairithm/status/1058722774850592769/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1254,
+              "h": 1254,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058722772166144000,
+          "id_str": "1058722772166144000",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFWwH6UcAAIgWD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFWwH6UcAAIgWD.jpg",
+          "url": "https://t.co/nkmq474oio",
+          "display_url": "pic.twitter.com/nkmq474oio",
+          "expanded_url": "https://twitter.com/yui_fairithm/status/1058722774850592769/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1254,
+              "h": 1254,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "yui_fairithm",
+        "name": "終身独裁官 ゆい",
+        "id": 151533513,
+        "id_str": "151533513",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058722769230151680,
+        "id_str": "1058722769230151680",
+        "indices": [
+          60,
+          83
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWv8-UwAAX6N3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWv8-UwAAX6N3.jpg",
+        "url": "https://t.co/nkmq474oio",
+        "display_url": "pic.twitter.com/nkmq474oio",
+        "expanded_url": "https://twitter.com/yui_fairithm/status/1058722774850592769/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1254,
+            "h": 1254,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058722774850592769,
+        "source_status_id_str": "1058722774850592769",
+        "source_user_id": 151533513,
+        "source_user_id_str": "151533513"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058722769230151680,
+        "id_str": "1058722769230151680",
+        "indices": [
+          60,
+          83
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWv8-UwAAX6N3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWv8-UwAAX6N3.jpg",
+        "url": "https://t.co/nkmq474oio",
+        "display_url": "pic.twitter.com/nkmq474oio",
+        "expanded_url": "https://twitter.com/yui_fairithm/status/1058722774850592769/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1254,
+            "h": 1254,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058722774850592769,
+        "source_status_id_str": "1058722774850592769",
+        "source_user_id": 151533513,
+        "source_user_id_str": "151533513"
+      },
+      {
+        "id": 1058722772166144000,
+        "id_str": "1058722772166144000",
+        "indices": [
+          60,
+          83
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWwH6UcAAIgWD.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWwH6UcAAIgWD.jpg",
+        "url": "https://t.co/nkmq474oio",
+        "display_url": "pic.twitter.com/nkmq474oio",
+        "expanded_url": "https://twitter.com/yui_fairithm/status/1058722774850592769/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1254,
+            "h": 1254,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058722774850592769,
+        "source_status_id_str": "1058722774850592769",
+        "source_user_id": 151533513,
+        "source_user_id_str": "151533513"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254798665"
+}

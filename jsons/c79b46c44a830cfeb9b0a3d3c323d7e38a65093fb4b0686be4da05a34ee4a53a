@@ -1,0 +1,179 @@
+{
+  "created_at": "Sat Nov 03 14:19:05 +0000 2018",
+  "id": 1058725255185743872,
+  "id_str": "1058725255185743872",
+  "text": "@hirac80 @kinghiro001 @milkmake @ginnosharin @miyazaki9999 @yossineisan @69_kazu @nyaitter @lotte_26warrior @arino_hito こんばんは！",
+  "display_text_range": [
+    120,
+    126
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058279458367369216,
+  "in_reply_to_status_id_str": "1058279458367369216",
+  "in_reply_to_user_id": 849174272178241536,
+  "in_reply_to_user_id_str": "849174272178241536",
+  "in_reply_to_screen_name": "hirac80",
+  "user": {
+    "id": 1100386152,
+    "id_str": "1100386152",
+    "name": "まさひろ（ロスインゴ）",
+    "screen_name": "kitousi1",
+    "location": "東京の僻地",
+    "url": null,
+    "description": "B型 天使様とは渡辺麻友／ 音楽／AKB48と8／BABYMETAL／大喜利／テレビなどが好き ミーハーなどでいろいろ呟きます 前垢からですがフォロー･フォロー返しは一切しておりません（理由は長くなるので）リプ頂ける方には100％致します よろしくお願いします。 認知症母親要介護2",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 732,
+    "friends_count": 164,
+    "listed_count": 25,
+    "favourites_count": 36,
+    "statuses_count": 256421,
+    "created_at": "Fri Jan 18 08:30:16 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058724656633397249/R0-5Ef8b_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058724656633397249/R0-5Ef8b_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1100386152/1539179284",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "hirac80",
+        "name": "ヒラくん(猫探しの探偵)",
+        "id": 849174272178241536,
+        "id_str": "849174272178241536",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "screen_name": "kinghiro001",
+        "name": "キングヒロ",
+        "id": 265164384,
+        "id_str": "265164384",
+        "indices": [
+          9,
+          21
+        ]
+      },
+      {
+        "screen_name": "milkmake",
+        "name": "だし",
+        "id": 115882620,
+        "id_str": "115882620",
+        "indices": [
+          22,
+          31
+        ]
+      },
+      {
+        "screen_name": "ginnosharin",
+        "name": "銀の車輪@木津590-5",
+        "id": 240224715,
+        "id_str": "240224715",
+        "indices": [
+          32,
+          44
+        ]
+      },
+      {
+        "screen_name": "miyazaki9999",
+        "name": "宮崎の貞子",
+        "id": 747260102671904768,
+        "id_str": "747260102671904768",
+        "indices": [
+          45,
+          58
+        ]
+      },
+      {
+        "screen_name": "yossineisan",
+        "name": "よっしー姐さん",
+        "id": 2395884516,
+        "id_str": "2395884516",
+        "indices": [
+          59,
+          71
+        ]
+      },
+      {
+        "screen_name": "69_kazu",
+        "name": "ふくろう、人生は10転び9起き(´；ω；`)ｳｩｩｰ",
+        "id": 217657073,
+        "id_str": "217657073",
+        "indices": [
+          72,
+          80
+        ]
+      },
+      {
+        "screen_name": "nyaitter",
+        "name": "にゃいった@大阪",
+        "id": 67878970,
+        "id_str": "67878970",
+        "indices": [
+          81,
+          90
+        ]
+      },
+      {
+        "screen_name": "lotte_26warrior",
+        "name": "食う寝る空気読めない鴎と弱い兎",
+        "id": 314498656,
+        "id_str": "314498656",
+        "indices": [
+          91,
+          107
+        ]
+      },
+      {
+        "screen_name": "arino_hito",
+        "name": "アリの人（挨拶は気まぐれ）",
+        "id": 430802543,
+        "id_str": "430802543",
+        "indices": [
+          108,
+          119
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254745657"
+}

@@ -1,0 +1,201 @@
+{
+  "created_at": "Sat Nov 03 14:01:23 +0000 2018",
+  "id": 1058720799605981184,
+  "id_str": "1058720799605981184",
+  "text": "11/17(土)福岡にてfgoの撮影をしていただけるカメラマン様を募集しております。\nお日にちちかく難しいと思いますがよろしくお願いします！\n不明点や気になることなどありましたらお気軽にDMいただけると嬉しいです！\n#カメラマン募集 https://t.co/MvHQfcweC5",
+  "display_text_range": [
+    0,
+    116
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3291414164,
+    "id_str": "3291414164",
+    "name": "わか",
+    "screen_name": "wakakos1106",
+    "location": null,
+    "url": null,
+    "description": "たまに関東、沖縄でコスプレしてます❤20⬆︎舞台だいすき🎀🌙🚀💎👑🌾fgo/サンリオ男子/A3夏/プリスト/ラブ米/ヒプマイ🍬/あんスタ/テニプリ/アイマス/セラムン/etcリプ返遅め⚠️ネタバレ、BL話",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2782,
+    "friends_count": 235,
+    "listed_count": 71,
+    "favourites_count": 31572,
+    "statuses_count": 68213,
+    "created_at": "Sat Jul 25 00:16:15 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056235341974327296/KQaONkdc_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056235341974327296/KQaONkdc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3291414164/1507125372",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "カメラマン募集",
+        "indices": [
+          108,
+          116
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058720792215609344,
+        "id_str": "1058720792215609344",
+        "indices": [
+          117,
+          140
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFU84BU4AAR51V.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFU84BU4AAR51V.jpg",
+        "url": "https://t.co/MvHQfcweC5",
+        "display_url": "pic.twitter.com/MvHQfcweC5",
+        "expanded_url": "https://twitter.com/wakakos1106/status/1058720799605981184/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1110,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 750,
+            "h": 1110,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 459,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058720792215609344,
+        "id_str": "1058720792215609344",
+        "indices": [
+          117,
+          140
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFU84BU4AAR51V.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFU84BU4AAR51V.jpg",
+        "url": "https://t.co/MvHQfcweC5",
+        "display_url": "pic.twitter.com/MvHQfcweC5",
+        "expanded_url": "https://twitter.com/wakakos1106/status/1058720799605981184/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1110,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 750,
+            "h": 1110,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 459,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058720792215605253,
+        "id_str": "1058720792215605253",
+        "indices": [
+          117,
+          140
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFU84BU0AUS4p3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFU84BU0AUS4p3.jpg",
+        "url": "https://t.co/MvHQfcweC5",
+        "display_url": "pic.twitter.com/MvHQfcweC5",
+        "expanded_url": "https://twitter.com/wakakos1106/status/1058720799605981184/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 660,
+            "h": 594,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 660,
+            "h": 594,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 660,
+            "h": 594,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253683364"
+}

@@ -1,0 +1,174 @@
+{
+  "created_at": "Sat Nov 03 14:18:34 +0000 2018",
+  "id": 1058725125187547136,
+  "id_str": "1058725125187547136",
+  "text": "浅田真央サンクスツアー ー アメブロを更新しました\n#真央ちゃん\nhttps://t.co/CAesqfhJvH https://t.co/deS4Cos3j8",
+  "display_text_range": [
+    0,
+    56
+  ],
+  "source": "<a href=\"http://www.ameba.jp\" rel=\"nofollow\">Ameba smartphone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 268629878,
+    "id_str": "268629878",
+    "name": "大ちゃん",
+    "screen_name": "amazingossan",
+    "location": "兵庫県三田～大阪",
+    "url": "http://blog.zaq.ne.jp/daitikyuu/",
+    "description": "阪神ﾀｲｶﾞｰｽと浅田真央をこよなく応援するJAZZman！\r\nBAND活動と週末ｶﾞｰﾃﾞﾅｰ、B級ｸﾞﾙﾒと仕事以外は大忙しなのだ。\r\nBlogは”私たちは地球の一部なんだ2”",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 11,
+    "friends_count": 31,
+    "listed_count": 0,
+    "favourites_count": 20,
+    "statuses_count": 1567,
+    "created_at": "Sat Mar 19 04:36:48 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1280237464/bob-marley-1_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280237464/bob-marley-1_normal.jpg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "真央ちゃん",
+        "indices": [
+          26,
+          32
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/CAesqfhJvH",
+        "expanded_url": "https://ameblo.jp/daitikyuu/entry-12416556614.html?timestamp=1541254714",
+        "display_url": "ameblo.jp/daitikyuu/entr…",
+        "indices": [
+          33,
+          56
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058725122721275904,
+        "id_str": "1058725122721275904",
+        "indices": [
+          57,
+          80
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFY48aVYAA6XOF.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFY48aVYAA6XOF.jpg",
+        "url": "https://t.co/deS4Cos3j8",
+        "display_url": "pic.twitter.com/deS4Cos3j8",
+        "expanded_url": "https://twitter.com/amazingossan/status/1058725125187547136/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 810,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 810,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058725122721275904,
+        "id_str": "1058725122721275904",
+        "indices": [
+          57,
+          80
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFY48aVYAA6XOF.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFY48aVYAA6XOF.jpg",
+        "url": "https://t.co/deS4Cos3j8",
+        "display_url": "pic.twitter.com/deS4Cos3j8",
+        "expanded_url": "https://twitter.com/amazingossan/status/1058725125187547136/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 810,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 810,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254714663"
+}

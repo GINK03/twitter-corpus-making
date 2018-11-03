@@ -1,0 +1,418 @@
+{
+  "created_at": "Sat Nov 03 14:23:57 +0000 2018",
+  "id": 1058726479947681793,
+  "id_str": "1058726479947681793",
+  "text": "RT @shinji10241: 松任谷由実 – やさしさに包まれたなら – https://t.co/5q4M04LyTi",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 865205329520283654,
+    "id_str": "865205329520283654",
+    "name": "HATO",
+    "screen_name": "HATO_w13",
+    "location": null,
+    "url": null,
+    "description": "多趣味☆\n\n☆性格☆\n薪を割った感じで\nマイペース\n超絶気分屋😂\n\nログレス\n☆ワールド8、9、13☆\n\n愛犬は\nポメラニアン☆\n\n☆毎日家事勉強練習☆\n\nよろしくお願い致します☆\n\n(職歴)\n元ホテル受付\n元ブリーダー\n元清掃\n元パチ屋\n現在自営業☆",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 123,
+    "friends_count": 122,
+    "listed_count": 0,
+    "favourites_count": 2138,
+    "statuses_count": 618,
+    "created_at": "Thu May 18 14:00:00 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1037156576493105152/osUGbkI5_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037156576493105152/osUGbkI5_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/865205329520283654/1519592436",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Oct 13 23:01:33 +0000 2018",
+    "id": 1051246591317700608,
+    "id_str": "1051246591317700608",
+    "text": "松任谷由実 – やさしさに包まれたなら – https://t.co/5q4M04LyTi",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 971652381162131456,
+      "id_str": "971652381162131456",
+      "name": "リンゴ",
+      "screen_name": "shinji10241",
+      "location": "日本",
+      "url": null,
+      "description": "某ファストフード店で、ピクルス担当です。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 2248,
+      "friends_count": 1059,
+      "listed_count": 26,
+      "favourites_count": 98812,
+      "statuses_count": 3864,
+      "created_at": "Thu Mar 08 07:42:34 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/971653594721107969/PmaGtkJP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/971653594721107969/PmaGtkJP_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/971652381162131456/1522815266",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "ad39e8439def2ef9",
+      "url": "https://api.twitter.com/1.1/geo/id/ad39e8439def2ef9.json",
+      "place_type": "city",
+      "name": "神戸市 中央区",
+      "full_name": "兵庫 神戸市 中央区",
+      "country_code": "JP",
+      "country": "日本",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.16625,
+              34.628508
+            ],
+            [
+              135.16625,
+              34.733465
+            ],
+            [
+              135.245679,
+              34.733465
+            ],
+            [
+              135.245679,
+              34.628508
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 1,
+    "reply_count": 6,
+    "retweet_count": 51,
+    "favorite_count": 370,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1051246520354230272,
+          "id_str": "1051246520354230272",
+          "indices": [
+            22,
+            45
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1051246520354230272/pu/img/EfKRxJDn8tDYmS2A.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1051246520354230272/pu/img/EfKRxJDn8tDYmS2A.jpg",
+          "url": "https://t.co/5q4M04LyTi",
+          "display_url": "pic.twitter.com/5q4M04LyTi",
+          "expanded_url": "https://twitter.com/shinji10241/status/1051246591317700608/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 636,
+              "h": 360,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 636,
+              "h": 360,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 636,
+              "h": 360,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1051246520354230272,
+          "id_str": "1051246520354230272",
+          "indices": [
+            22,
+            45
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1051246520354230272/pu/img/EfKRxJDn8tDYmS2A.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1051246520354230272/pu/img/EfKRxJDn8tDYmS2A.jpg",
+          "url": "https://t.co/5q4M04LyTi",
+          "display_url": "pic.twitter.com/5q4M04LyTi",
+          "expanded_url": "https://twitter.com/shinji10241/status/1051246591317700608/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              53,
+              30
+            ],
+            "duration_millis": 113189,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1051246520354230272/pu/vid/318x180/M4PPCJdeEOhDp0Z6.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1051246520354230272/pu/vid/636x360/Dbo6edJO1OYw29rA.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1051246520354230272/pu/pl/3v1xFzZ3Nxjxf7Ep.m3u8?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 636,
+              "h": 360,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 636,
+              "h": 360,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 636,
+              "h": 360,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "shinji10241",
+        "name": "リンゴ",
+        "id": 971652381162131456,
+        "id_str": "971652381162131456",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1051246520354230272,
+        "id_str": "1051246520354230272",
+        "indices": [
+          39,
+          62
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1051246520354230272/pu/img/EfKRxJDn8tDYmS2A.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1051246520354230272/pu/img/EfKRxJDn8tDYmS2A.jpg",
+        "url": "https://t.co/5q4M04LyTi",
+        "display_url": "pic.twitter.com/5q4M04LyTi",
+        "expanded_url": "https://twitter.com/shinji10241/status/1051246591317700608/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 636,
+            "h": 360,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 636,
+            "h": 360,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 636,
+            "h": 360,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1051246591317700608,
+        "source_status_id_str": "1051246591317700608",
+        "source_user_id": 971652381162131456,
+        "source_user_id_str": "971652381162131456"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1051246520354230272,
+        "id_str": "1051246520354230272",
+        "indices": [
+          39,
+          62
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1051246520354230272/pu/img/EfKRxJDn8tDYmS2A.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1051246520354230272/pu/img/EfKRxJDn8tDYmS2A.jpg",
+        "url": "https://t.co/5q4M04LyTi",
+        "display_url": "pic.twitter.com/5q4M04LyTi",
+        "expanded_url": "https://twitter.com/shinji10241/status/1051246591317700608/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            53,
+            30
+          ],
+          "duration_millis": 113189,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1051246520354230272/pu/vid/318x180/M4PPCJdeEOhDp0Z6.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1051246520354230272/pu/vid/636x360/Dbo6edJO1OYw29rA.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1051246520354230272/pu/pl/3v1xFzZ3Nxjxf7Ep.m3u8?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 636,
+            "h": 360,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 636,
+            "h": 360,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 636,
+            "h": 360,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1051246591317700608,
+        "source_status_id_str": "1051246591317700608",
+        "source_user_id": 971652381162131456,
+        "source_user_id_str": "971652381162131456"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255037663"
+}

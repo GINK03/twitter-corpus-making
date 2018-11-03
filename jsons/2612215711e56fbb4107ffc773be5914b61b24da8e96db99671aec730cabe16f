@@ -1,0 +1,390 @@
+{
+  "created_at": "Sat Nov 03 14:18:11 +0000 2018",
+  "id": 1058725028705914880,
+  "id_str": "1058725028705914880",
+  "text": "RT @ri_gk2: 約6万のジャケットと10万の靴はいて普通にソウルの街中歩いてるジミンちゃんやべえ https://t.co/tZ2hZEnw0b",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 885767440356958212,
+    "id_str": "885767440356958212",
+    "name": "ㅇㄹ",
+    "screen_name": "banana_loey",
+    "location": null,
+    "url": null,
+    "description": "(98) EXO 雑食イムニダ。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 12,
+    "friends_count": 162,
+    "listed_count": 0,
+    "favourites_count": 26293,
+    "statuses_count": 13243,
+    "created_at": "Fri Jul 14 07:46:29 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1020735591040741376/osqwEjpN_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020735591040741376/osqwEjpN_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/885767440356958212/1500020391",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 14:18:40 +0000 2018",
+    "id": 1058362761879506944,
+    "id_str": "1058362761879506944",
+    "text": "約6万のジャケットと10万の靴はいて普通にソウルの街中歩いてるジミンちゃんやべえ https://t.co/tZ2hZEnw0b",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 949293204322402305,
+      "id_str": "949293204322402305",
+      "name": "리",
+      "screen_name": "ri_gk2",
+      "location": null,
+      "url": null,
+      "description": null,
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 349,
+      "friends_count": 276,
+      "listed_count": 5,
+      "favourites_count": 17150,
+      "statuses_count": 4271,
+      "created_at": "Fri Jan 05 14:55:11 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1056559368248807424/ZQa3V7o-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056559368248807424/ZQa3V7o-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/949293204322402305/1537878850",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 5,
+    "reply_count": 0,
+    "retweet_count": 371,
+    "favorite_count": 2548,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058019567098716160,
+          "id_str": "1058019567098716160",
+          "indices": [
+            41,
+            64
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058019567098716160/pu/img/KXJ4vtOgLJGdZ6Zj.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058019567098716160/pu/img/KXJ4vtOgLJGdZ6Zj.jpg",
+          "url": "https://t.co/tZ2hZEnw0b",
+          "display_url": "pic.twitter.com/tZ2hZEnw0b",
+          "expanded_url": "https://twitter.com/EricaShen25/status/1058019722459963394/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 360,
+              "h": 640,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 360,
+              "h": 640,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 360,
+              "h": 640,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1058019722459963394,
+          "source_status_id_str": "1058019722459963394",
+          "source_user_id": 792098292595249152,
+          "source_user_id_str": "792098292595249152"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058019567098716160,
+          "id_str": "1058019567098716160",
+          "indices": [
+            41,
+            64
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058019567098716160/pu/img/KXJ4vtOgLJGdZ6Zj.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058019567098716160/pu/img/KXJ4vtOgLJGdZ6Zj.jpg",
+          "url": "https://t.co/tZ2hZEnw0b",
+          "display_url": "pic.twitter.com/tZ2hZEnw0b",
+          "expanded_url": "https://twitter.com/EricaShen25/status/1058019722459963394/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 21833,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058019567098716160/pu/vid/360x640/-ge6p7zY3YOJxXb6.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058019567098716160/pu/pl/UeNSyY6-OJsnOzT4.m3u8?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058019567098716160/pu/vid/180x320/xStbHZYaBrtO3OAq.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 360,
+              "h": 640,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 360,
+              "h": 640,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 360,
+              "h": 640,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1058019722459963394,
+          "source_status_id_str": "1058019722459963394",
+          "source_user_id": 792098292595249152,
+          "source_user_id_str": "792098292595249152"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "ri_gk2",
+        "name": "리",
+        "id": 949293204322402305,
+        "id_str": "949293204322402305",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058019567098716160,
+        "id_str": "1058019567098716160",
+        "indices": [
+          53,
+          76
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058019567098716160/pu/img/KXJ4vtOgLJGdZ6Zj.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058019567098716160/pu/img/KXJ4vtOgLJGdZ6Zj.jpg",
+        "url": "https://t.co/tZ2hZEnw0b",
+        "display_url": "pic.twitter.com/tZ2hZEnw0b",
+        "expanded_url": "https://twitter.com/EricaShen25/status/1058019722459963394/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 360,
+            "h": 640,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 360,
+            "h": 640,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 360,
+            "h": 640,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058019722459963394,
+        "source_status_id_str": "1058019722459963394",
+        "source_user_id": 792098292595249152,
+        "source_user_id_str": "792098292595249152"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058019567098716160,
+        "id_str": "1058019567098716160",
+        "indices": [
+          53,
+          76
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058019567098716160/pu/img/KXJ4vtOgLJGdZ6Zj.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058019567098716160/pu/img/KXJ4vtOgLJGdZ6Zj.jpg",
+        "url": "https://t.co/tZ2hZEnw0b",
+        "display_url": "pic.twitter.com/tZ2hZEnw0b",
+        "expanded_url": "https://twitter.com/EricaShen25/status/1058019722459963394/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 21833,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058019567098716160/pu/vid/360x640/-ge6p7zY3YOJxXb6.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058019567098716160/pu/pl/UeNSyY6-OJsnOzT4.m3u8?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058019567098716160/pu/vid/180x320/xStbHZYaBrtO3OAq.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 360,
+            "h": 640,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 360,
+            "h": 640,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 360,
+            "h": 640,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058019722459963394,
+        "source_status_id_str": "1058019722459963394",
+        "source_user_id": 792098292595249152,
+        "source_user_id_str": "792098292595249152"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254691660"
+}

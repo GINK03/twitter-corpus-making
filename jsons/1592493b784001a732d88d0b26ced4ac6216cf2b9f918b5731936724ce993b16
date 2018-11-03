@@ -1,0 +1,215 @@
+{
+  "created_at": "Sat Nov 03 14:16:21 +0000 2018",
+  "id": 1058724567328280576,
+  "id_str": "1058724567328280576",
+  "text": "体力の限界が @AbemaTV で視聴中 https://t.co/88laNCAq92 #クラウンが当たる特番放送中 https://t.co/pX6YpuaMNV",
+  "display_text_range": [
+    0,
+    59
+  ],
+  "source": "<a href=\"https://abema.tv\" rel=\"nofollow\">AbemaTV</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1474709916,
+    "id_str": "1474709916",
+    "name": "八雲",
+    "screen_name": "yakumo_mai",
+    "location": null,
+    "url": null,
+    "description": "安穏と暮らしたい",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 56,
+    "friends_count": 1576,
+    "listed_count": 0,
+    "favourites_count": 623,
+    "statuses_count": 821,
+    "created_at": "Sat Jun 01 13:34:21 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056235858242797568/po3p-KCn_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056235858242797568/po3p-KCn_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1474709916/1389462078",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "クラウンが当たる特番放送中",
+        "indices": [
+          45,
+          59
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/88laNCAq92",
+        "expanded_url": "https://gxyt4.app.goo.gl/eDyca",
+        "display_url": "gxyt4.app.goo.gl/eDyca",
+        "indices": [
+          21,
+          44
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "AbemaTV",
+        "name": "AbemaTV@今日の番組表から",
+        "id": 3255473401,
+        "id_str": "3255473401",
+        "indices": [
+          7,
+          15
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724554460164096,
+        "id_str": "1058724554460164096",
+        "indices": [
+          60,
+          83
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058724554460164096/pu/img/Y-Tv9ApjrmwWe35k.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058724554460164096/pu/img/Y-Tv9ApjrmwWe35k.jpg",
+        "url": "https://t.co/pX6YpuaMNV",
+        "display_url": "pic.twitter.com/pX6YpuaMNV",
+        "expanded_url": "https://twitter.com/yakumo_mai/status/1058724567328280576/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724554460164096,
+        "id_str": "1058724554460164096",
+        "indices": [
+          60,
+          83
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058724554460164096/pu/img/Y-Tv9ApjrmwWe35k.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058724554460164096/pu/img/Y-Tv9ApjrmwWe35k.jpg",
+        "url": "https://t.co/pX6YpuaMNV",
+        "display_url": "pic.twitter.com/pX6YpuaMNV",
+        "expanded_url": "https://twitter.com/yakumo_mai/status/1058724567328280576/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 16735,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058724554460164096/pu/vid/320x180/sUfT9LLI-z7Ephgt.mp4?tag=1"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058724554460164096/pu/vid/640x360/BdgVOsgyTBsNkEDB.mp4?tag=1"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058724554460164096/pu/pl/6lsxxSrT9nuWPIL1.m3u8?tag=1"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254581659"
+}

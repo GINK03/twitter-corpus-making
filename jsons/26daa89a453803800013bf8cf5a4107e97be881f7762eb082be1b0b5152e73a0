@@ -1,0 +1,535 @@
+{
+  "created_at": "Sat Nov 03 14:13:31 +0000 2018",
+  "id": 1058723854325956609,
+  "id_str": "1058723854325956609",
+  "text": "RT @nikkansports: 【ソフトバンクが連覇！4連勝で日本一】（終了）\nソ000 110 000=2\n広000 000 000=0\n【ソ】バンデンハーク 武田 嘉弥真 森\n【広】ジョンソン 一岡 フランスア\n【本】グラシアル1号\n#carp #sbhawks #日本…",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 337769998,
+    "id_str": "337769998",
+    "name": "MINAKO 1026",
+    "screen_name": "MINAKO1026",
+    "location": "北九州市",
+    "url": null,
+    "description": "コブクロ    back number  ♪♪♪",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 244,
+    "friends_count": 388,
+    "listed_count": 0,
+    "favourites_count": 13222,
+    "statuses_count": 102,
+    "created_at": "Mon Jul 18 15:13:15 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1028464566378754048/oHP_CI21_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028464566378754048/oHP_CI21_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/337769998/1534040036",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 12:48:16 +0000 2018",
+    "id": 1058702401337606145,
+    "id_str": "1058702401337606145",
+    "text": "【ソフトバンクが連覇！4連勝で日本一】（終了）\nソ000 110 000=2\n広000 000 000=0\n【ソ】バンデンハーク 武田 嘉弥真 森\n【広】ジョンソン 一岡 フランスア\n【本】グラシアル1号\n#carp… https://t.co/cBOfOSWHRc",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 46058599,
+      "id_str": "46058599",
+      "name": "日刊スポーツ",
+      "screen_name": "nikkansports",
+      "location": "中央区築地",
+      "url": "http://www.nikkansports.com/",
+      "description": "日刊スポーツ新聞社の公式アカウントです。芸能、野球、サッカー、スポーツのニュース速報を配信します。日刊スポーツのアカウント一覧はこちら → http://goo.gl/kbSF7E",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 307106,
+      "friends_count": 23366,
+      "listed_count": 10125,
+      "favourites_count": 1547,
+      "statuses_count": 313172,
+      "created_at": "Wed Jun 10 07:11:30 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/530600276302909440/fbD0sFZK_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/530600276302909440/fbD0sFZK_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/46058599/1472445144",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "【ソフトバンクが連覇！4連勝で日本一】（終了）\nソ000 110 000=2\n広000 000 000=0\n【ソ】バンデンハーク 武田 嘉弥真 森\n【広】ジョンソン 一岡 フランスア\n【本】グラシアル1号\n#carp #sbhawks #日本シリーズ\n※詳細は↓\nhttps://t.co/ngLjFbmKpH https://t.co/8Nq3AeU7xi",
+      "display_text_range": [
+        0,
+        155
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "carp",
+            "indices": [
+              103,
+              108
+            ]
+          },
+          {
+            "text": "sbhawks",
+            "indices": [
+              109,
+              117
+            ]
+          },
+          {
+            "text": "日本シリーズ",
+            "indices": [
+              118,
+              125
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ngLjFbmKpH",
+            "expanded_url": "http://goo.gl/w1FifV",
+            "display_url": "goo.gl/w1FifV",
+            "indices": [
+              132,
+              155
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058702286996664323,
+            "id_str": "1058702286996664323",
+            "indices": [
+              156,
+              179
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFEHutUcAM2QdH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFEHutUcAM2QdH.jpg",
+            "url": "https://t.co/8Nq3AeU7xi",
+            "display_url": "pic.twitter.com/8Nq3AeU7xi",
+            "expanded_url": "https://twitter.com/nikkansports/status/1058702401337606145/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 546,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1541,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 963,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058702312447692806,
+            "id_str": "1058702312447692806",
+            "indices": [
+              156,
+              179
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFEJNhUUAY4Lhv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFEJNhUUAY4Lhv.jpg",
+            "url": "https://t.co/8Nq3AeU7xi",
+            "display_url": "pic.twitter.com/8Nq3AeU7xi",
+            "expanded_url": "https://twitter.com/nikkansports/status/1058702401337606145/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1920,
+                "h": 1854,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 657,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1159,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058702344718704641,
+            "id_str": "1058702344718704641",
+            "indices": [
+              156,
+              179
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFELFvU4AEdhBU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFELFvU4AEdhBU.jpg",
+            "url": "https://t.co/8Nq3AeU7xi",
+            "display_url": "pic.twitter.com/8Nq3AeU7xi",
+            "expanded_url": "https://twitter.com/nikkansports/status/1058702401337606145/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1038,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 588,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1660,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058702376670908416,
+            "id_str": "1058702376670908416",
+            "indices": [
+              156,
+              179
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFEM8xU0AAi7Te.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFEM8xU0AAi7Te.jpg",
+            "url": "https://t.co/8Nq3AeU7xi",
+            "display_url": "pic.twitter.com/8Nq3AeU7xi",
+            "expanded_url": "https://twitter.com/nikkansports/status/1058702401337606145/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 544,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058702286996664323,
+            "id_str": "1058702286996664323",
+            "indices": [
+              156,
+              179
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFEHutUcAM2QdH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFEHutUcAM2QdH.jpg",
+            "url": "https://t.co/8Nq3AeU7xi",
+            "display_url": "pic.twitter.com/8Nq3AeU7xi",
+            "expanded_url": "https://twitter.com/nikkansports/status/1058702401337606145/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 546,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1541,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 963,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058702312447692806,
+            "id_str": "1058702312447692806",
+            "indices": [
+              156,
+              179
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFEJNhUUAY4Lhv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFEJNhUUAY4Lhv.jpg",
+            "url": "https://t.co/8Nq3AeU7xi",
+            "display_url": "pic.twitter.com/8Nq3AeU7xi",
+            "expanded_url": "https://twitter.com/nikkansports/status/1058702401337606145/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1920,
+                "h": 1854,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 657,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1159,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058702344718704641,
+            "id_str": "1058702344718704641",
+            "indices": [
+              156,
+              179
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFELFvU4AEdhBU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFELFvU4AEdhBU.jpg",
+            "url": "https://t.co/8Nq3AeU7xi",
+            "display_url": "pic.twitter.com/8Nq3AeU7xi",
+            "expanded_url": "https://twitter.com/nikkansports/status/1058702401337606145/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1038,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 588,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1660,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058702376670908416,
+            "id_str": "1058702376670908416",
+            "indices": [
+              156,
+              179
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFEM8xU0AAi7Te.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFEM8xU0AAi7Te.jpg",
+            "url": "https://t.co/8Nq3AeU7xi",
+            "display_url": "pic.twitter.com/8Nq3AeU7xi",
+            "expanded_url": "https://twitter.com/nikkansports/status/1058702401337606145/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 544,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 18,
+    "reply_count": 1,
+    "retweet_count": 338,
+    "favorite_count": 346,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "carp",
+          "indices": [
+            103,
+            108
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cBOfOSWHRc",
+          "expanded_url": "https://twitter.com/i/web/status/1058702401337606145",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "carp",
+        "indices": [
+          121,
+          126
+        ]
+      },
+      {
+        "text": "sbhawks",
+        "indices": [
+          127,
+          135
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "nikkansports",
+        "name": "日刊スポーツ",
+        "id": 46058599,
+        "id_str": "46058599",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254411666"
+}

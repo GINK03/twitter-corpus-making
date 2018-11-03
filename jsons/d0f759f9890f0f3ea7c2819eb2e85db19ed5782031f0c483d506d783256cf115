@@ -1,0 +1,417 @@
+{
+  "created_at": "Sat Nov 03 14:15:44 +0000 2018",
+  "id": 1058724412164255745,
+  "id_str": "1058724412164255745",
+  "text": "RT @muumi5x15: 台湾のポケモンGOおじちゃん......\n#台南\n#奇美博物館\n#PokemonGO \n#ポケモンGO https://t.co/e4qs7YgRqo",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1053377076747677696,
+    "id_str": "1053377076747677696",
+    "name": "いんてる入ってない",
+    "screen_name": "nek914",
+    "location": "大阪 大阪市 淀川区",
+    "url": null,
+    "description": "tech/diy/python/gcp/sns/marketing",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 28,
+    "friends_count": 296,
+    "listed_count": 0,
+    "favourites_count": 581,
+    "statuses_count": 45,
+    "created_at": "Fri Oct 19 20:07:20 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056396431337021440/cyxAD2-L_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056396431337021440/cyxAD2-L_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 01:59:17 +0000 2018",
+    "id": 1058539077299884035,
+    "id_str": "1058539077299884035",
+    "text": "台湾のポケモンGOおじちゃん......\n#台南\n#奇美博物館\n#PokemonGO \n#ポケモンGO https://t.co/e4qs7YgRqo",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 780775184844279808,
+      "id_str": "780775184844279808",
+      "name": "ロキ",
+      "screen_name": "muumi5x15",
+      "location": "Taiwan",
+      "url": null,
+      "description": "🔻 20170226 SEKAI NO OWARI 🔻20170902 ナノ5th 🔻 20180622 あいみょん 🔻 20180811 RADWIMPS asialivetour2018 🔻 20180918 J series FESTIVAL TAIWAN",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 28,
+      "friends_count": 172,
+      "listed_count": 0,
+      "favourites_count": 2909,
+      "statuses_count": 699,
+      "created_at": "Tue Sep 27 14:24:44 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "zh-TW",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1056746360848830464/-kTv80h-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056746360848830464/-kTv80h-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/780775184844279808/1528345806",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "00b51c7d1aee21d3",
+      "url": "https://api.twitter.com/1.1/geo/id/00b51c7d1aee21d3.json",
+      "place_type": "city",
+      "name": "台南市",
+      "full_name": "台南市, 台灣",
+      "country_code": "TW",
+      "country": "台灣",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.03428,
+              22.887312
+            ],
+            [
+              120.03428,
+              23.413785
+            ],
+            [
+              120.656268,
+              23.413785
+            ],
+            [
+              120.656268,
+              22.887312
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 12,
+    "favorite_count": 22,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "台南",
+          "indices": [
+            21,
+            24
+          ]
+        },
+        {
+          "text": "奇美博物館",
+          "indices": [
+            25,
+            31
+          ]
+        },
+        {
+          "text": "PokemonGO",
+          "indices": [
+            32,
+            42
+          ]
+        },
+        {
+          "text": "ポケモンGO",
+          "indices": [
+            44,
+            51
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058539070278627328,
+          "id_str": "1058539070278627328",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrCvrRDUcAA7ZZR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrCvrRDUcAA7ZZR.jpg",
+          "url": "https://t.co/e4qs7YgRqo",
+          "display_url": "pic.twitter.com/e4qs7YgRqo",
+          "expanded_url": "https://twitter.com/muumi5x15/status/1058539077299884035/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 535,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 945,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1125,
+              "h": 1429,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058539070278627328,
+          "id_str": "1058539070278627328",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrCvrRDUcAA7ZZR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrCvrRDUcAA7ZZR.jpg",
+          "url": "https://t.co/e4qs7YgRqo",
+          "display_url": "pic.twitter.com/e4qs7YgRqo",
+          "expanded_url": "https://twitter.com/muumi5x15/status/1058539077299884035/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 535,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 945,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1125,
+              "h": 1429,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "台南",
+        "indices": [
+          36,
+          39
+        ]
+      },
+      {
+        "text": "奇美博物館",
+        "indices": [
+          40,
+          46
+        ]
+      },
+      {
+        "text": "PokemonGO",
+        "indices": [
+          47,
+          57
+        ]
+      },
+      {
+        "text": "ポケモンGO",
+        "indices": [
+          59,
+          66
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "muumi5x15",
+        "name": "ロキ",
+        "id": 780775184844279808,
+        "id_str": "780775184844279808",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058539070278627328,
+        "id_str": "1058539070278627328",
+        "indices": [
+          67,
+          90
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrCvrRDUcAA7ZZR.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrCvrRDUcAA7ZZR.jpg",
+        "url": "https://t.co/e4qs7YgRqo",
+        "display_url": "pic.twitter.com/e4qs7YgRqo",
+        "expanded_url": "https://twitter.com/muumi5x15/status/1058539077299884035/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 535,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 945,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1125,
+            "h": 1429,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058539077299884035,
+        "source_status_id_str": "1058539077299884035",
+        "source_user_id": 780775184844279808,
+        "source_user_id_str": "780775184844279808"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058539070278627328,
+        "id_str": "1058539070278627328",
+        "indices": [
+          67,
+          90
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrCvrRDUcAA7ZZR.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrCvrRDUcAA7ZZR.jpg",
+        "url": "https://t.co/e4qs7YgRqo",
+        "display_url": "pic.twitter.com/e4qs7YgRqo",
+        "expanded_url": "https://twitter.com/muumi5x15/status/1058539077299884035/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 535,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 945,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1125,
+            "h": 1429,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058539077299884035,
+        "source_status_id_str": "1058539077299884035",
+        "source_user_id": 780775184844279808,
+        "source_user_id_str": "780775184844279808"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254544665"
+}

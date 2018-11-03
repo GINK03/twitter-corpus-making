@@ -1,0 +1,202 @@
+{
+  "created_at": "Sat Nov 03 14:27:38 +0000 2018",
+  "id": 1058727406893035520,
+  "id_str": "1058727406893035520",
+  "text": "@rosegame308 初めまして。本日昼アルバート体験しました。アンケートも回答させて頂きましたので、少しでもお役に立てればと思います。友人の体験や他の部屋で起きたことなど謎が深まるばかりなので、リゼさんの考察を読ませて頂けた… https://t.co/I9EbIjmJe2",
+  "display_text_range": [
+    13,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": true,
+  "in_reply_to_status_id": 1056170744692977664,
+  "in_reply_to_status_id_str": "1056170744692977664",
+  "in_reply_to_user_id": 1050231558555070466,
+  "in_reply_to_user_id_str": "1050231558555070466",
+  "in_reply_to_screen_name": "rosegame308",
+  "user": {
+    "id": 2878306255,
+    "id_str": "2878306255",
+    "name": "さよ",
+    "screen_name": "SqUvw",
+    "location": null,
+    "url": null,
+    "description": "神戸/社会人/25↑♡≫木村達成/猪野広樹/UVERworld/ハイステ/ハイキュー‼︎/進撃/文スト/刀剣▷🔰審神者",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 17,
+    "friends_count": 40,
+    "listed_count": 0,
+    "favourites_count": 25,
+    "statuses_count": 34,
+    "created_at": "Sun Oct 26 12:48:52 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/526361254227492865/zKvwxcar_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/526361254227492865/zKvwxcar_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2878306255/1414329277",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "@rosegame308 初めまして。本日昼アルバート体験しました。アンケートも回答させて頂きましたので、少しでもお役に立てればと思います。友人の体験や他の部屋で起きたことなど謎が深まるばかりなので、リゼさんの考察を読ませて頂けたらと思います。よろしくお願い致します。 https://t.co/2hunfMkyA4",
+    "display_text_range": [
+      13,
+      134
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "rosegame308",
+          "name": "リゼ♦308",
+          "id": 1050231558555070466,
+          "id_str": "1050231558555070466",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058727400433901573,
+          "id_str": "1058727400433901573",
+          "indices": [
+            135,
+            158
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFa9hjV4AUDu-X.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFa9hjV4AUDu-X.jpg",
+          "url": "https://t.co/2hunfMkyA4",
+          "display_url": "pic.twitter.com/2hunfMkyA4",
+          "expanded_url": "https://twitter.com/SqUvw/status/1058727406893035520/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 493,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 742,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 742,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058727400433901573,
+          "id_str": "1058727400433901573",
+          "indices": [
+            135,
+            158
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFa9hjV4AUDu-X.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFa9hjV4AUDu-X.jpg",
+          "url": "https://t.co/2hunfMkyA4",
+          "display_url": "pic.twitter.com/2hunfMkyA4",
+          "expanded_url": "https://twitter.com/SqUvw/status/1058727406893035520/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 493,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 742,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 742,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/I9EbIjmJe2",
+        "expanded_url": "https://twitter.com/i/web/status/1058727406893035520",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "rosegame308",
+        "name": "リゼ♦308",
+        "id": 1050231558555070466,
+        "id_str": "1050231558555070466",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255258664"
+}

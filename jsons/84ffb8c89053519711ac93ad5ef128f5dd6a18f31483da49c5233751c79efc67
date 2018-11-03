@@ -1,0 +1,420 @@
+{
+  "created_at": "Sat Nov 03 14:01:53 +0000 2018",
+  "id": 1058720927821656064,
+  "id_str": "1058720927821656064",
+  "text": "RT @shu24436176: ギルガメッシュ中心に古代王描きます。よろしくお願いします！\n#fgo https://t.co/kNc3xBbVfD",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1058696341272981504,
+    "id_str": "1058696341272981504",
+    "name": "おふ",
+    "screen_name": "kifmi7CtvPIOF17",
+    "location": null,
+    "url": null,
+    "description": "趣味垢です!/BL､百合､NL等なんでも食べます/最近は主にFateシリーズ/仲良くして貰えるとめっちゃ喜びます(ˊᗜˋ*)",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 0,
+    "friends_count": 8,
+    "listed_count": 0,
+    "favourites_count": 9,
+    "statuses_count": 5,
+    "created_at": "Sat Nov 03 12:24:12 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058712221075664897/cT4sBMn-_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058712221075664897/cT4sBMn-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058696341272981504/1541251627",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 16:46:07 +0000 2018",
+    "id": 1058399867712598016,
+    "id_str": "1058399867712598016",
+    "text": "ギルガメッシュ中心に古代王描きます。よろしくお願いします！\n#fgo https://t.co/kNc3xBbVfD",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1058399249757462528,
+      "id_str": "1058399249757462528",
+      "name": "shu",
+      "screen_name": "shu24436176",
+      "location": null,
+      "url": null,
+      "description": "FGO/古代王、メソポタミア",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 3,
+      "friends_count": 23,
+      "listed_count": 0,
+      "favourites_count": 19,
+      "statuses_count": 2,
+      "created_at": "Fri Nov 02 16:43:40 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1058403595656130560/1kNwA3JY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058403595656130560/1kNwA3JY_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058399249757462528/1541177213",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "fgo",
+          "indices": [
+            30,
+            34
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058399860842356737,
+          "id_str": "1058399860842356737",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrAxENfU4AEKje7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrAxENfU4AEKje7.jpg",
+          "url": "https://t.co/kNc3xBbVfD",
+          "display_url": "pic.twitter.com/kNc3xBbVfD",
+          "expanded_url": "https://twitter.com/shu24436176/status/1058399867712598016/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1448,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 848,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058399860842356737,
+          "id_str": "1058399860842356737",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrAxENfU4AEKje7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrAxENfU4AEKje7.jpg",
+          "url": "https://t.co/kNc3xBbVfD",
+          "display_url": "pic.twitter.com/kNc3xBbVfD",
+          "expanded_url": "https://twitter.com/shu24436176/status/1058399867712598016/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1448,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 848,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058399863077920768,
+          "id_str": "1058399863077920768",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrAxEV0U4AAwz-E.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrAxEV0U4AAwz-E.jpg",
+          "url": "https://t.co/kNc3xBbVfD",
+          "display_url": "pic.twitter.com/kNc3xBbVfD",
+          "expanded_url": "https://twitter.com/shu24436176/status/1058399867712598016/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 481,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 848,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1448,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "fgo",
+        "indices": [
+          47,
+          51
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "shu24436176",
+        "name": "shu",
+        "id": 1058399249757462528,
+        "id_str": "1058399249757462528",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058399860842356737,
+        "id_str": "1058399860842356737",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrAxENfU4AEKje7.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrAxENfU4AEKje7.jpg",
+        "url": "https://t.co/kNc3xBbVfD",
+        "display_url": "pic.twitter.com/kNc3xBbVfD",
+        "expanded_url": "https://twitter.com/shu24436176/status/1058399867712598016/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1448,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 481,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 848,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058399867712598016,
+        "source_status_id_str": "1058399867712598016",
+        "source_user_id": 1058399249757462528,
+        "source_user_id_str": "1058399249757462528"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058399860842356737,
+        "id_str": "1058399860842356737",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrAxENfU4AEKje7.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrAxENfU4AEKje7.jpg",
+        "url": "https://t.co/kNc3xBbVfD",
+        "display_url": "pic.twitter.com/kNc3xBbVfD",
+        "expanded_url": "https://twitter.com/shu24436176/status/1058399867712598016/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1448,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 481,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 848,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058399867712598016,
+        "source_status_id_str": "1058399867712598016",
+        "source_user_id": 1058399249757462528,
+        "source_user_id_str": "1058399249757462528"
+      },
+      {
+        "id": 1058399863077920768,
+        "id_str": "1058399863077920768",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrAxEV0U4AAwz-E.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrAxEV0U4AAwz-E.jpg",
+        "url": "https://t.co/kNc3xBbVfD",
+        "display_url": "pic.twitter.com/kNc3xBbVfD",
+        "expanded_url": "https://twitter.com/shu24436176/status/1058399867712598016/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 481,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 848,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1448,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058399867712598016,
+        "source_status_id_str": "1058399867712598016",
+        "source_user_id": 1058399249757462528,
+        "source_user_id_str": "1058399249757462528"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253713933"
+}

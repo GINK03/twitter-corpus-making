@@ -1,0 +1,344 @@
+{
+  "created_at": "Sat Nov 03 14:18:44 +0000 2018",
+  "id": 1058725167109554182,
+  "id_str": "1058725167109554182",
+  "text": "RT @ki15no: ジェラトーニコーデ！ #北条加蓮 https://t.co/2eYIMLaNBj",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 220523585,
+    "id_str": "220523585",
+    "name": "(葵)",
+    "screen_name": "aoi0380",
+    "location": "リリアン女学院まで歩いていけるあたり",
+    "url": null,
+    "description": "趣味はTRPG。ここ数年、声優ライブ。声優ラジオで時間が足りない。 アイマス（765：千早、ミリオン：恵美、シンデレラ：加蓮）。 ラブライブ：海未、サンシャイン：梨子。 WUGは少々。 TrySail、Pyxis、東山奈央、鈴木このみetc.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 437,
+    "friends_count": 950,
+    "listed_count": 23,
+    "favourites_count": 1827,
+    "statuses_count": 125205,
+    "created_at": "Sun Nov 28 01:32:45 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1011776026630737920/yPH9eYFl_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1011776026630737920/yPH9eYFl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/220523585/1530061163",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:46:43 +0000 2018",
+    "id": 1058717108740096002,
+    "id_str": "1058717108740096002",
+    "text": "ジェラトーニコーデ！ #北条加蓮 https://t.co/2eYIMLaNBj",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4023487752,
+      "id_str": "4023487752",
+      "name": "きの",
+      "screen_name": "ki15no",
+      "location": "OSINOUNAZI",
+      "url": null,
+      "description": "二次元アイドル まれに絵",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 358,
+      "friends_count": 32,
+      "listed_count": 28,
+      "favourites_count": 633,
+      "statuses_count": 753,
+      "created_at": "Mon Oct 26 10:49:50 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "91D2FA",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1058717159663132674/rGeQ9y0x_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058717159663132674/rGeQ9y0x_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4023487752/1541252878",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 21,
+    "favorite_count": 43,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "北条加蓮",
+          "indices": [
+            11,
+            16
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058717089723109377,
+          "id_str": "1058717089723109377",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFRlXKU0AEPyOS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFRlXKU0AEPyOS.jpg",
+          "url": "https://t.co/2eYIMLaNBj",
+          "display_url": "pic.twitter.com/2eYIMLaNBj",
+          "expanded_url": "https://twitter.com/ki15no/status/1058717108740096002/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1500,
+              "h": 2000,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058717089723109377,
+          "id_str": "1058717089723109377",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFRlXKU0AEPyOS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFRlXKU0AEPyOS.jpg",
+          "url": "https://t.co/2eYIMLaNBj",
+          "display_url": "pic.twitter.com/2eYIMLaNBj",
+          "expanded_url": "https://twitter.com/ki15no/status/1058717108740096002/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1500,
+              "h": 2000,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "北条加蓮",
+        "indices": [
+          23,
+          28
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "ki15no",
+        "name": "きの",
+        "id": 4023487752,
+        "id_str": "4023487752",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058717089723109377,
+        "id_str": "1058717089723109377",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFRlXKU0AEPyOS.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFRlXKU0AEPyOS.jpg",
+        "url": "https://t.co/2eYIMLaNBj",
+        "display_url": "pic.twitter.com/2eYIMLaNBj",
+        "expanded_url": "https://twitter.com/ki15no/status/1058717108740096002/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1500,
+            "h": 2000,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058717108740096002,
+        "source_status_id_str": "1058717108740096002",
+        "source_user_id": 4023487752,
+        "source_user_id_str": "4023487752"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058717089723109377,
+        "id_str": "1058717089723109377",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFRlXKU0AEPyOS.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFRlXKU0AEPyOS.jpg",
+        "url": "https://t.co/2eYIMLaNBj",
+        "display_url": "pic.twitter.com/2eYIMLaNBj",
+        "expanded_url": "https://twitter.com/ki15no/status/1058717108740096002/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1500,
+            "h": 2000,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058717108740096002,
+        "source_status_id_str": "1058717108740096002",
+        "source_user_id": 4023487752,
+        "source_user_id_str": "4023487752"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254724658"
+}

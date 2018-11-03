@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:13:47 +0000 2018",
+  "id": 1058723921397080064,
+  "id_str": "1058723921397080064",
+  "text": "@Oz65672302 @yokkazu_1222 器用ガチャは死ぬほど回しましたね…あげくに頭ぶっ壊れてPWRspd金売りましたw",
+  "display_text_range": [
+    26,
+    66
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058723549379100672,
+  "in_reply_to_status_id_str": "1058723549379100672",
+  "in_reply_to_user_id": 1024206016911618050,
+  "in_reply_to_user_id_str": "1024206016911618050",
+  "in_reply_to_screen_name": "Oz65672302",
+  "user": {
+    "id": 987332799592976384,
+    "id_str": "987332799592976384",
+    "name": "しょぼ",
+    "screen_name": "sho_bonbom",
+    "location": "身体はガチャで出来ている",
+    "url": null,
+    "description": "デジモンリアライズ 用垢 ‡tri.‡所属",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 76,
+    "friends_count": 95,
+    "listed_count": 0,
+    "favourites_count": 66,
+    "statuses_count": 412,
+    "created_at": "Fri Apr 20 14:10:57 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1052954287272165377/D5punLND_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052954287272165377/D5punLND_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/987332799592976384/1537601545",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Oz65672302",
+        "name": "Oz@デジモンリアライズ",
+        "id": 1024206016911618050,
+        "id_str": "1024206016911618050",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "yokkazu_1222",
+        "name": "和義",
+        "id": 3028774454,
+        "id_str": "3028774454",
+        "indices": [
+          12,
+          25
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254427657"
+}

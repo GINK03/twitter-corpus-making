@@ -1,0 +1,203 @@
+{
+  "created_at": "Sat Nov 03 14:20:39 +0000 2018",
+  "id": 1058725649488142337,
+  "id_str": "1058725649488142337",
+  "text": "というか日本や東京に置き換えても成立しそう",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19062849,
+    "id_str": "19062849",
+    "name": "日本に停班停課を導入させる会@🇹🇼次回未定🇺🇸も行きたい",
+    "screen_name": "aaagn",
+    "location": "東京 世田谷区",
+    "url": null,
+    "description": "多摩地方出身。 すべて個人的な見解であり、RTやリンクは必ずしも賛意したものではありません。 フォロー返しは友人知り合いと興味のあること以外はあまりしません。 たまに出没する国→🇹🇼🇺🇸",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 416,
+    "friends_count": 338,
+    "listed_count": 15,
+    "favourites_count": 220,
+    "statuses_count": 105374,
+    "created_at": "Fri Jan 16 11:32:47 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "4A913C",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "19CF86",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "013015",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/622034457336221696/lu5z2tR9_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/622034457336221696/lu5z2tR9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/19062849/1460970073",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "1b0cfebe3424e14f",
+    "url": "https://api.twitter.com/1.1/geo/id/1b0cfebe3424e14f.json",
+    "place_type": "city",
+    "name": "世田谷区",
+    "full_name": "東京 世田谷区",
+    "country_code": "JP",
+    "country": "日本",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            139.582428,
+            35.590036
+          ],
+          [
+            139.582428,
+            35.682992
+          ],
+          [
+            139.686603,
+            35.682992
+          ],
+          [
+            139.686603,
+            35.590036
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "quoted_status_id": 1058725401386639361,
+  "quoted_status_id_str": "1058725401386639361",
+  "quoted_status": {
+    "created_at": "Sat Nov 03 14:19:40 +0000 2018",
+    "id": 1058725401386639361,
+    "id_str": "1058725401386639361",
+    "text": "ああなんかこれわかる。香港を台湾に置き換えたら同じだもん（笑） https://t.co/xFykajhTPA",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3193715799,
+      "id_str": "3193715799",
+      "name": "台湾史.jp",
+      "screen_name": "TaiwanHistoryJP",
+      "location": "日本",
+      "url": "https://parupuntenobu.hatenablog.jp/",
+      "description": "日台関係は現在良好ですが、日本人の台湾への認識は食べ物美味しいくらいしかありません。台湾を更に深く理解するには歴史を学ぶこと。日本人の、日本人による、日本人のための台湾史を、日本統治時代と戦後史を中心に「日本語で」ツイートします。日常や日本史(近代史)関連は@yonezawakoujiでやっています。 #台湾史",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1086,
+      "friends_count": 89,
+      "listed_count": 22,
+      "favourites_count": 4819,
+      "statuses_count": 2497,
+      "created_at": "Wed Apr 22 06:42:43 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1044880184384647168/AhX-SMFo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044880184384647168/AhX-SMFo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3193715799/1537608418",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058722838738198528,
+    "quoted_status_id_str": "1058722838738198528",
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/xFykajhTPA",
+          "expanded_url": "https://twitter.com/japanavi/status/1058722838738198528",
+          "display_url": "twitter.com/japanavi/statu…",
+          "indices": [
+            32,
+            55
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/IolpObzNc9",
+    "expanded": "https://twitter.com/TaiwanHistoryJP/status/1058725401386639361",
+    "display": "twitter.com/TaiwanHistoryJ…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254839666"
+}

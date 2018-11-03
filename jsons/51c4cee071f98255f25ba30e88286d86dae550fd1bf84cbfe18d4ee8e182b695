@@ -1,0 +1,160 @@
+{
+  "created_at": "Sat Nov 03 14:15:47 +0000 2018",
+  "id": 1058724424721948673,
+  "id_str": "1058724424721948673",
+  "text": "103AB04A :参戦ID\n参加者募集！\nLv100 ユグドラシル・マグナ\nhttps://t.co/ythKIPx5Mc",
+  "source": "<a href=\"http://granbluefantasy.jp/\" rel=\"nofollow\">グランブルー ファンタジー</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4593876805,
+    "id_str": "4593876805",
+    "name": "rng",
+    "screen_name": "rng1269",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 0,
+    "friends_count": 1,
+    "listed_count": 1,
+    "favourites_count": 1,
+    "statuses_count": 7927,
+    "created_at": "Fri Dec 18 12:57:42 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 684657666719789056,
+        "id_str": "684657666719789056",
+        "indices": [
+          39,
+          62
+        ],
+        "media_url": "http://pbs.twimg.com/media/CYBkhTmUsAAPjgu.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/CYBkhTmUsAAPjgu.jpg",
+        "url": "https://t.co/ythKIPx5Mc",
+        "display_url": "pic.twitter.com/ythKIPx5Mc",
+        "expanded_url": "http://twitter.com/twihelp_pic/status/684657667478958081/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 340,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 684657667478958081,
+        "source_status_id_str": "684657667478958081",
+        "source_user_id": 4253479160,
+        "source_user_id_str": "4253479160"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 684657666719789056,
+        "id_str": "684657666719789056",
+        "indices": [
+          39,
+          62
+        ],
+        "media_url": "http://pbs.twimg.com/media/CYBkhTmUsAAPjgu.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/CYBkhTmUsAAPjgu.jpg",
+        "url": "https://t.co/ythKIPx5Mc",
+        "display_url": "pic.twitter.com/ythKIPx5Mc",
+        "expanded_url": "http://twitter.com/twihelp_pic/status/684657667478958081/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 340,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 684657667478958081,
+        "source_status_id_str": "684657667478958081",
+        "source_user_id": 4253479160,
+        "source_user_id_str": "4253479160"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254547659"
+}

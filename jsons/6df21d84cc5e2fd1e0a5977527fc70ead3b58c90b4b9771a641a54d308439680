@@ -1,0 +1,109 @@
+{
+  "created_at": "Sat Nov 03 14:18:26 +0000 2018",
+  "id": 1058725091637252096,
+  "id_str": "1058725091637252096",
+  "text": "お小遣いが欲しい方、脱サラしたい方、努力次第で稼げます！チームで稼ぐため、自分だけが頑張らなくても良いシステムです！ ##副業 #在宅勤務  #初期費用無料 #完全在宅ワーク #不労所得",
+  "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1051658254458089472,
+    "id_str": "1051658254458089472",
+    "name": "nami",
+    "screen_name": "qGsiegQcKu8zgB3",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 32,
+    "friends_count": 90,
+    "listed_count": 0,
+    "favourites_count": 0,
+    "statuses_count": 74,
+    "created_at": "Mon Oct 15 02:17:21 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1053586609101107201/SiztjySI_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053586609101107201/SiztjySI_normal.png",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "副業",
+        "indices": [
+          60,
+          63
+        ]
+      },
+      {
+        "text": "在宅勤務",
+        "indices": [
+          64,
+          69
+        ]
+      },
+      {
+        "text": "初期費用無料",
+        "indices": [
+          71,
+          78
+        ]
+      },
+      {
+        "text": "完全在宅ワーク",
+        "indices": [
+          79,
+          87
+        ]
+      },
+      {
+        "text": "不労所得",
+        "indices": [
+          88,
+          93
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254706664"
+}

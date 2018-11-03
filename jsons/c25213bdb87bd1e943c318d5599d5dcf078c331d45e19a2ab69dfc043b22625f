@@ -1,0 +1,677 @@
+{
+  "created_at": "Sat Nov 03 14:26:49 +0000 2018",
+  "id": 1058727201380564992,
+  "id_str": "1058727201380564992",
+  "text": "RT @yoshidakoichiro: 中国からの移民が増えれば、日本でも起きるかもしれない事件。 https://t.co/BUdSD5lrC5",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 950082270223785984,
+    "id_str": "950082270223785984",
+    "name": "われわれはゴキブリではない",
+    "screen_name": "dwsym20181",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 83,
+    "friends_count": 200,
+    "listed_count": 1,
+    "favourites_count": 9355,
+    "statuses_count": 8377,
+    "created_at": "Sun Jan 07 19:10:39 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/950093040022052864/lP1rjBLV_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/950093040022052864/lP1rjBLV_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:59:31 +0000 2018",
+    "id": 1058720331785883648,
+    "id_str": "1058720331785883648",
+    "text": "中国からの移民が増えれば、日本でも起きるかもしれない事件。 https://t.co/BUdSD5lrC5",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 173849677,
+      "id_str": "173849677",
+      "name": "吉田康一郎",
+      "screen_name": "yoshidakoichiro",
+      "location": null,
+      "url": "http://k-yoshida.jp",
+      "description": "日本の安全と繁栄を願う。「育児支援と防災緑地と平らな歩道の中野を創る会」代表。元都議2期。都議時代、H22年、都青少年条例案に最初に反対し否決に導く。同年、都議会史上初めて朝鮮学校の補助金を削除。H24年、都に初めて複合災害時に０m地帯が水没する恐れを認めさせ、対策を始めさせた。３つの社団法人役員。商店街会長。防災士。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 32643,
+      "friends_count": 23204,
+      "listed_count": 562,
+      "favourites_count": 63012,
+      "statuses_count": 15418,
+      "created_at": "Mon Aug 02 14:27:37 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/484624310842040320/btRYBPvf_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/484624310842040320/btRYBPvf_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/173849677/1404377580",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058511926160875520,
+    "quoted_status_id_str": "1058511926160875520",
+    "quoted_status": {
+      "created_at": "Sat Nov 03 00:11:24 +0000 2018",
+      "id": 1058511926160875520,
+      "id_str": "1058511926160875520",
+      "text": "中国重慶市 10月28日\n\n路線バスが川に転落した事故\n\n車内放送を聞き逃し、目的地で降りられなかった乗客がその場で降ろしてほしいと運転手に要求したが、バス停でしか停車できないと拒否された。そのうち口論となり、殴り合いに発展。殴り… https://t.co/3LtyMX03nV",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 705590518139396097,
+        "id_str": "705590518139396097",
+        "name": "地蛋",
+        "screen_name": "Wl9uZ",
+        "location": null,
+        "url": null,
+        "description": "帰化人として外国人参政権大反対。中国民主化支持。中共がいる限り、日中友好は日本人の片思いにすぎない。マスコミに隠された中国実態を暴き、中共の危険さを平和ボケした日本人に伝えたい。 在日中国人永住も帰化も勇気を出して声をあげよう。人間として少しでも良識が残っているなら、中共を庇ってはいけません！日本語下手でごめんなさい",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 12247,
+        "friends_count": 169,
+        "listed_count": 188,
+        "favourites_count": 2969,
+        "statuses_count": 2982,
+        "created_at": "Fri Mar 04 03:07:43 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/738180184654766080/pbQWVnSG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/738180184654766080/pbQWVnSG_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "中国重慶市 10月28日\n\n路線バスが川に転落した事故\n\n車内放送を聞き逃し、目的地で降りられなかった乗客がその場で降ろしてほしいと運転手に要求したが、バス停でしか停車できないと拒否された。そのうち口論となり、殴り合いに発展。殴り合い中バス転落し、15人死亡。\n\n当時の映像をご覧下さい！ https://t.co/6venZOnyv1",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "entities": {
+          "hashtags": [],
+          "urls": [],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1058511175346868224,
+              "id_str": "1058511175346868224",
+              "indices": [
+                145,
+                168
+              ],
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058511175346868224/pu/img/GAz7jLIz5KpJoTii.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058511175346868224/pu/img/GAz7jLIz5KpJoTii.jpg",
+              "url": "https://t.co/6venZOnyv1",
+              "display_url": "pic.twitter.com/6venZOnyv1",
+              "expanded_url": "https://twitter.com/Wl9uZ/status/1058511926160875520/video/1",
+              "type": "video",
+              "video_info": {
+                "aspect_ratio": [
+                  41,
+                  34
+                ],
+                "duration_millis": 13467,
+                "variants": [
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1058511175346868224/pu/vid/216x180/IXBGHmtJvfvu8Y5r.mp4?tag=5"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1058511175346868224/pu/vid/656x544/zdjM5n7-iFaFL1CT.mp4?tag=5"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1058511175346868224/pu/pl/JRSe6cF2rCAX4mFe.m3u8?tag=5"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1058511175346868224/pu/vid/434x360/rEzTthpLUWZQGwAd.mp4?tag=5"
+                  }
+                ]
+              },
+              "sizes": {
+                "large": {
+                  "w": 656,
+                  "h": 544,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 656,
+                  "h": 544,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 656,
+                  "h": 544,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1058511175346868224,
+              "id_str": "1058511175346868224",
+              "indices": [
+                145,
+                168
+              ],
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058511175346868224/pu/img/GAz7jLIz5KpJoTii.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058511175346868224/pu/img/GAz7jLIz5KpJoTii.jpg",
+              "url": "https://t.co/6venZOnyv1",
+              "display_url": "pic.twitter.com/6venZOnyv1",
+              "expanded_url": "https://twitter.com/Wl9uZ/status/1058511926160875520/video/1",
+              "type": "video",
+              "video_info": {
+                "aspect_ratio": [
+                  41,
+                  34
+                ],
+                "duration_millis": 13467,
+                "variants": [
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1058511175346868224/pu/vid/216x180/IXBGHmtJvfvu8Y5r.mp4?tag=5"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1058511175346868224/pu/vid/656x544/zdjM5n7-iFaFL1CT.mp4?tag=5"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1058511175346868224/pu/pl/JRSe6cF2rCAX4mFe.m3u8?tag=5"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1058511175346868224/pu/vid/434x360/rEzTthpLUWZQGwAd.mp4?tag=5"
+                  }
+                ]
+              },
+              "sizes": {
+                "large": {
+                  "w": 656,
+                  "h": 544,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 656,
+                  "h": 544,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 656,
+                  "h": 544,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 105,
+      "reply_count": 99,
+      "retweet_count": 926,
+      "favorite_count": 709,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/3LtyMX03nV",
+            "expanded_url": "https://twitter.com/i/web/status/1058511926160875520",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": true,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/BUdSD5lrC5",
+      "expanded": "https://twitter.com/Wl9uZ/status/1058511926160875520",
+      "display": "twitter.com/Wl9uZ/status/1…"
+    },
+    "is_quote_status": true,
+    "quote_count": 2,
+    "reply_count": 4,
+    "retweet_count": 87,
+    "favorite_count": 69,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/BUdSD5lrC5",
+          "expanded_url": "https://twitter.com/Wl9uZ/status/1058511926160875520",
+          "display_url": "twitter.com/Wl9uZ/status/1…",
+          "indices": [
+            30,
+            53
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058511926160875520,
+  "quoted_status_id_str": "1058511926160875520",
+  "quoted_status": {
+    "created_at": "Sat Nov 03 00:11:24 +0000 2018",
+    "id": 1058511926160875520,
+    "id_str": "1058511926160875520",
+    "text": "中国重慶市 10月28日\n\n路線バスが川に転落した事故\n\n車内放送を聞き逃し、目的地で降りられなかった乗客がその場で降ろしてほしいと運転手に要求したが、バス停でしか停車できないと拒否された。そのうち口論となり、殴り合いに発展。殴り… https://t.co/3LtyMX03nV",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 705590518139396097,
+      "id_str": "705590518139396097",
+      "name": "地蛋",
+      "screen_name": "Wl9uZ",
+      "location": null,
+      "url": null,
+      "description": "帰化人として外国人参政権大反対。中国民主化支持。中共がいる限り、日中友好は日本人の片思いにすぎない。マスコミに隠された中国実態を暴き、中共の危険さを平和ボケした日本人に伝えたい。 在日中国人永住も帰化も勇気を出して声をあげよう。人間として少しでも良識が残っているなら、中共を庇ってはいけません！日本語下手でごめんなさい",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 12247,
+      "friends_count": 169,
+      "listed_count": 188,
+      "favourites_count": 2969,
+      "statuses_count": 2982,
+      "created_at": "Fri Mar 04 03:07:43 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738180184654766080/pbQWVnSG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738180184654766080/pbQWVnSG_normal.jpg",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "中国重慶市 10月28日\n\n路線バスが川に転落した事故\n\n車内放送を聞き逃し、目的地で降りられなかった乗客がその場で降ろしてほしいと運転手に要求したが、バス停でしか停車できないと拒否された。そのうち口論となり、殴り合いに発展。殴り合い中バス転落し、15人死亡。\n\n当時の映像をご覧下さい！ https://t.co/6venZOnyv1",
+      "display_text_range": [
+        0,
+        144
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058511175346868224,
+            "id_str": "1058511175346868224",
+            "indices": [
+              145,
+              168
+            ],
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058511175346868224/pu/img/GAz7jLIz5KpJoTii.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058511175346868224/pu/img/GAz7jLIz5KpJoTii.jpg",
+            "url": "https://t.co/6venZOnyv1",
+            "display_url": "pic.twitter.com/6venZOnyv1",
+            "expanded_url": "https://twitter.com/Wl9uZ/status/1058511926160875520/video/1",
+            "type": "video",
+            "video_info": {
+              "aspect_ratio": [
+                41,
+                34
+              ],
+              "duration_millis": 13467,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1058511175346868224/pu/vid/216x180/IXBGHmtJvfvu8Y5r.mp4?tag=5"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1058511175346868224/pu/vid/656x544/zdjM5n7-iFaFL1CT.mp4?tag=5"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1058511175346868224/pu/pl/JRSe6cF2rCAX4mFe.m3u8?tag=5"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1058511175346868224/pu/vid/434x360/rEzTthpLUWZQGwAd.mp4?tag=5"
+                }
+              ]
+            },
+            "sizes": {
+              "large": {
+                "w": 656,
+                "h": 544,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 656,
+                "h": 544,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 656,
+                "h": 544,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058511175346868224,
+            "id_str": "1058511175346868224",
+            "indices": [
+              145,
+              168
+            ],
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058511175346868224/pu/img/GAz7jLIz5KpJoTii.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058511175346868224/pu/img/GAz7jLIz5KpJoTii.jpg",
+            "url": "https://t.co/6venZOnyv1",
+            "display_url": "pic.twitter.com/6venZOnyv1",
+            "expanded_url": "https://twitter.com/Wl9uZ/status/1058511926160875520/video/1",
+            "type": "video",
+            "video_info": {
+              "aspect_ratio": [
+                41,
+                34
+              ],
+              "duration_millis": 13467,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1058511175346868224/pu/vid/216x180/IXBGHmtJvfvu8Y5r.mp4?tag=5"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1058511175346868224/pu/vid/656x544/zdjM5n7-iFaFL1CT.mp4?tag=5"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1058511175346868224/pu/pl/JRSe6cF2rCAX4mFe.m3u8?tag=5"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1058511175346868224/pu/vid/434x360/rEzTthpLUWZQGwAd.mp4?tag=5"
+                }
+              ]
+            },
+            "sizes": {
+              "large": {
+                "w": 656,
+                "h": 544,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 656,
+                "h": 544,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 656,
+                "h": 544,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 105,
+    "reply_count": 99,
+    "retweet_count": 926,
+    "favorite_count": 709,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/3LtyMX03nV",
+          "expanded_url": "https://twitter.com/i/web/status/1058511926160875520",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/BUdSD5lrC5",
+    "expanded": "https://twitter.com/Wl9uZ/status/1058511926160875520",
+    "display": "twitter.com/Wl9uZ/status/1…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/BUdSD5lrC5",
+        "expanded_url": "https://twitter.com/Wl9uZ/status/1058511926160875520",
+        "display_url": "twitter.com/Wl9uZ/status/1…",
+        "indices": [
+          51,
+          74
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "yoshidakoichiro",
+        "name": "吉田康一郎",
+        "id": 173849677,
+        "id_str": "173849677",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255209666"
+}

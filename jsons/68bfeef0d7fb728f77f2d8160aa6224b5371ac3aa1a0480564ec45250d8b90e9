@@ -1,0 +1,93 @@
+{
+  "created_at": "Sat Nov 03 14:23:49 +0000 2018",
+  "id": 1058726446380679169,
+  "id_str": "1058726446380679169",
+  "text": "飴さんの性格を漢字四文字で表すと\n\n【妄想無双】\n#あなたの性格を漢字四文字で\nhttps://t.co/388sacmUP1\n(&gt;_&gt;)",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 915582675997487104,
+    "id_str": "915582675997487104",
+    "name": "🍬飴@",
+    "screen_name": "candy_toshi",
+    "location": "ツバサ様の隣",
+    "url": null,
+    "description": "都市240↑のユーザー 推しはツバサ キリカ セツナ ミナモ アキト パズドラとかペルソナも好きです キリカちゃんお迎えできました 絵もちょくちょく描きます MARVEL好き",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 283,
+    "friends_count": 331,
+    "listed_count": 13,
+    "favourites_count": 18954,
+    "statuses_count": 14641,
+    "created_at": "Wed Oct 04 14:21:35 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058525460424929280/bT7jz0CQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058525460424929280/bT7jz0CQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/915582675997487104/1541069597",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "あなたの性格を漢字四文字で",
+        "indices": [
+          25,
+          39
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/388sacmUP1",
+        "expanded_url": "https://shindanmaker.com/841212",
+        "display_url": "shindanmaker.com/841212",
+        "indices": [
+          40,
+          63
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255029660"
+}

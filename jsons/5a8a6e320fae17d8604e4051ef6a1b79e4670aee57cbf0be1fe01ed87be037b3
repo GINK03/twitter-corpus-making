@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:20:25 +0000 2018",
+  "id": 1058725590763679744,
+  "id_str": "1058725590763679744",
+  "text": "RT @yukkuri495: 霞に大好きと言ってみた https://t.co/yk59ZDs2hr",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 852447743897247744,
+    "id_str": "852447743897247744",
+    "name": "羊kun (ﾟ∀ﾟ｡)ﾃﾞｽ!!",
+    "screen_name": "aniishkun_s",
+    "location": "『Å 取締役専務』国立魔法大学付属第一高等学校",
+    "url": null,
+    "description": "アニメとラノベ読むのが好きです！アニメのオススメがあればぜひ教えて下さい！ 絵描き見習い🔰バナナうめぇ〜〜🤤🍌🍌アイコン➫@DamiensBeluga",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 489,
+    "friends_count": 620,
+    "listed_count": 2,
+    "favourites_count": 14044,
+    "statuses_count": 8570,
+    "created_at": "Thu Apr 13 09:05:54 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/899110318890041344/-BfNMXCU_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/899110318890041344/-BfNMXCU_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/852447743897247744/1539170581",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 12:01:17 +0000 2018",
+    "id": 1058690577317785600,
+    "id_str": "1058690577317785600",
+    "text": "霞に大好きと言ってみた https://t.co/yk59ZDs2hr",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 443619675,
+      "id_str": "443619675",
+      "name": "ぜろよん",
+      "screen_name": "yukkuri495",
+      "location": null,
+      "url": "http://www.pixiv.net/member.php?id=3956821",
+      "description": "アニメ、ドール、お絵かき、ラノベ、ゲーム、サッカー観戦が趣味。東方とかアイマスとか艦これとか。\nお題箱→https://odaibako.net/u/yukkuri495",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 59130,
+      "friends_count": 267,
+      "listed_count": 704,
+      "favourites_count": 2283,
+      "statuses_count": 2290,
+      "created_at": "Thu Dec 22 10:54:23 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/776057446783594496/KqkZ_rdZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/776057446783594496/KqkZ_rdZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/443619675/1476618377",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 21,
+    "reply_count": 60,
+    "retweet_count": 3853,
+    "favorite_count": 10638,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058690199327100928,
+          "id_str": "1058690199327100928",
+          "indices": [
+            12,
+            35
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrE5IIoUUAABKlf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrE5IIoUUAABKlf.jpg",
+          "url": "https://t.co/yk59ZDs2hr",
+          "display_url": "pic.twitter.com/yk59ZDs2hr",
+          "expanded_url": "https://twitter.com/yukkuri495/status/1058690577317785600/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 537,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 950,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 950,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058690199327100928,
+          "id_str": "1058690199327100928",
+          "indices": [
+            12,
+            35
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrE5IIoUUAABKlf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrE5IIoUUAABKlf.jpg",
+          "url": "https://t.co/yk59ZDs2hr",
+          "display_url": "pic.twitter.com/yk59ZDs2hr",
+          "expanded_url": "https://twitter.com/yukkuri495/status/1058690577317785600/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 537,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 950,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 950,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "yukkuri495",
+        "name": "ぜろよん",
+        "id": 443619675,
+        "id_str": "443619675",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058690199327100928,
+        "id_str": "1058690199327100928",
+        "indices": [
+          28,
+          51
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrE5IIoUUAABKlf.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrE5IIoUUAABKlf.jpg",
+        "url": "https://t.co/yk59ZDs2hr",
+        "display_url": "pic.twitter.com/yk59ZDs2hr",
+        "expanded_url": "https://twitter.com/yukkuri495/status/1058690577317785600/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 537,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 750,
+            "h": 950,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 750,
+            "h": 950,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058690577317785600,
+        "source_status_id_str": "1058690577317785600",
+        "source_user_id": 443619675,
+        "source_user_id_str": "443619675"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058690199327100928,
+        "id_str": "1058690199327100928",
+        "indices": [
+          28,
+          51
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrE5IIoUUAABKlf.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrE5IIoUUAABKlf.jpg",
+        "url": "https://t.co/yk59ZDs2hr",
+        "display_url": "pic.twitter.com/yk59ZDs2hr",
+        "expanded_url": "https://twitter.com/yukkuri495/status/1058690577317785600/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 537,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 750,
+            "h": 950,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 750,
+            "h": 950,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058690577317785600,
+        "source_status_id_str": "1058690577317785600",
+        "source_user_id": 443619675,
+        "source_user_id_str": "443619675"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254825665"
+}

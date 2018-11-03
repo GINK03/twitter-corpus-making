@@ -1,0 +1,109 @@
+{
+  "created_at": "Sat Nov 03 14:25:11 +0000 2018",
+  "id": 1058726790317756416,
+  "id_str": "1058726790317756416",
+  "text": "@kamitatsu0623 @3 @2 おけ！",
+  "display_text_range": [
+    21,
+    24
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058726656901177345,
+  "in_reply_to_status_id_str": "1058726656901177345",
+  "in_reply_to_user_id": 883422999797391362,
+  "in_reply_to_user_id_str": "883422999797391362",
+  "in_reply_to_screen_name": "kamitatsu0623",
+  "user": {
+    "id": 954168797295927296,
+    "id_str": "954168797295927296",
+    "name": "Mё (みぃ)",
+    "screen_name": "miitan_p1y0",
+    "location": "サブ垢はあっち",
+    "url": null,
+    "description": "Splatoon2 エリアX、その他S+｜MHW｜Fortnite(ガチ初心者)｜アイコンとヘッダーは神絵師から🍓🍋 #みぃの自己満 上手いとか下手とか関係なく自己満だ!!!",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 207,
+    "friends_count": 215,
+    "listed_count": 21,
+    "favourites_count": 16765,
+    "statuses_count": 10974,
+    "created_at": "Fri Jan 19 01:49:03 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1038427000111689729/FeqH-8V1_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1038427000111689729/FeqH-8V1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/954168797295927296/1533759172",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "kamitatsu0623",
+        "name": "タツ♪",
+        "id": 883422999797391362,
+        "id_str": "883422999797391362",
+        "indices": [
+          0,
+          14
+        ]
+      },
+      {
+        "screen_name": "3",
+        "name": "Blair",
+        "id": 287253599,
+        "id_str": "287253599",
+        "indices": [
+          15,
+          17
+        ]
+      },
+      {
+        "screen_name": "2",
+        "name": "️2",
+        "id": 11994,
+        "id_str": "11994",
+        "indices": [
+          18,
+          20
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255111661"
+}

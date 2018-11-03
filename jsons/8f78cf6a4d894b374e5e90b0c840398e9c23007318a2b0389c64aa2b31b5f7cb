@@ -1,0 +1,327 @@
+{
+  "created_at": "Sat Nov 03 14:21:43 +0000 2018",
+  "id": 1058725917923528707,
+  "id_str": "1058725917923528707",
+  "text": "RT @kamimuratakashi: 今夜は阿佐ヶ谷です。\n11月3日（土・祝） 阿佐ヶ谷Rock India\n出番は20:00頃から。お店のチャージ500円 https://t.co/GwFwZ3U1Fv",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1019471753200877568,
+    "id_str": "1019471753200877568",
+    "name": "tiny.stitch_ogawa",
+    "screen_name": "tiny_stitch_k",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 17,
+    "friends_count": 17,
+    "listed_count": 0,
+    "favourites_count": 53,
+    "statuses_count": 24,
+    "created_at": "Wed Jul 18 06:39:41 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1019477727353626624/4hiYlJPX_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1019477727353626624/4hiYlJPX_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 23:12:01 +0000 2018",
+    "id": 1058496984321937408,
+    "id_str": "1058496984321937408",
+    "text": "今夜は阿佐ヶ谷です。\n11月3日（土・祝） 阿佐ヶ谷Rock India\n出番は20:00頃から。お店のチャージ500円 https://t.co/GwFwZ3U1Fv",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 193255441,
+      "id_str": "193255441",
+      "name": "Kamimura Takashi",
+      "screen_name": "kamimuratakashi",
+      "location": "Nakano　Tokyo",
+      "url": "http://kamimuratakashi.jimdo.com",
+      "description": "清潔で美しく健やかな毎日をめざす安心と信頼と実績のブルースマン！",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 466,
+      "friends_count": 399,
+      "listed_count": 9,
+      "favourites_count": 388,
+      "statuses_count": 4554,
+      "created_at": "Tue Sep 21 11:21:32 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000242438371/7f941eaef5c1b3949831b95fb44c4276_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000242438371/7f941eaef5c1b3949831b95fb44c4276_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/193255441/1428911452",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058496976285687810,
+          "id_str": "1058496976285687810",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrCJZEtVYAI0IyS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrCJZEtVYAI0IyS.jpg",
+          "url": "https://t.co/GwFwZ3U1Fv",
+          "display_url": "pic.twitter.com/GwFwZ3U1Fv",
+          "expanded_url": "https://twitter.com/kamimuratakashi/status/1058496984321937408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058496976285687810,
+          "id_str": "1058496976285687810",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrCJZEtVYAI0IyS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrCJZEtVYAI0IyS.jpg",
+          "url": "https://t.co/GwFwZ3U1Fv",
+          "display_url": "pic.twitter.com/GwFwZ3U1Fv",
+          "expanded_url": "https://twitter.com/kamimuratakashi/status/1058496984321937408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "kamimuratakashi",
+        "name": "Kamimura Takashi",
+        "id": 193255441,
+        "id_str": "193255441",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058496976285687810,
+        "id_str": "1058496976285687810",
+        "indices": [
+          82,
+          105
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrCJZEtVYAI0IyS.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrCJZEtVYAI0IyS.jpg",
+        "url": "https://t.co/GwFwZ3U1Fv",
+        "display_url": "pic.twitter.com/GwFwZ3U1Fv",
+        "expanded_url": "https://twitter.com/kamimuratakashi/status/1058496984321937408/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058496984321937408,
+        "source_status_id_str": "1058496984321937408",
+        "source_user_id": 193255441,
+        "source_user_id_str": "193255441"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058496976285687810,
+        "id_str": "1058496976285687810",
+        "indices": [
+          82,
+          105
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrCJZEtVYAI0IyS.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrCJZEtVYAI0IyS.jpg",
+        "url": "https://t.co/GwFwZ3U1Fv",
+        "display_url": "pic.twitter.com/GwFwZ3U1Fv",
+        "expanded_url": "https://twitter.com/kamimuratakashi/status/1058496984321937408/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058496984321937408,
+        "source_status_id_str": "1058496984321937408",
+        "source_user_id": 193255441,
+        "source_user_id_str": "193255441"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254903666"
+}

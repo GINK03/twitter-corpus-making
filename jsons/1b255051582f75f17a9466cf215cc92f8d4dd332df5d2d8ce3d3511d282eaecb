@@ -1,0 +1,265 @@
+{
+  "created_at": "Sat Nov 03 14:14:50 +0000 2018",
+  "id": 1058724185671819266,
+  "id_str": "1058724185671819266",
+  "text": "ライトアップされた首里城散策！また明日来るぜ！(笑)道中にゃんこに遭遇😺 https://t.co/KCWvFtlnNw",
+  "display_text_range": [
+    0,
+    36
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1089144398,
+    "id_str": "1089144398",
+    "name": "アルルカリ乾電池T4",
+    "screen_name": "alkali4battery",
+    "location": "富山県",
+    "url": null,
+    "description": "トーマスはこれからもずっと大好きなバンドです。特技:ジャンルの反復横跳び",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 75,
+    "friends_count": 160,
+    "listed_count": 0,
+    "favourites_count": 4582,
+    "statuses_count": 5159,
+    "created_at": "Mon Jan 14 14:12:44 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000598868802/cd5f41de02618c60508f8e2db6d93e5f_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000598868802/cd5f41de02618c60508f8e2db6d93e5f_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089144398/1393147354",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724124569198592,
+        "id_str": "1058724124569198592",
+        "indices": [
+          37,
+          60
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFX-2AVYAAKlYO.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFX-2AVYAAKlYO.jpg",
+        "url": "https://t.co/KCWvFtlnNw",
+        "display_url": "pic.twitter.com/KCWvFtlnNw",
+        "expanded_url": "https://twitter.com/alkali4battery/status/1058724185671819266/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1152,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724124569198592,
+        "id_str": "1058724124569198592",
+        "indices": [
+          37,
+          60
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFX-2AVYAAKlYO.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFX-2AVYAAKlYO.jpg",
+        "url": "https://t.co/KCWvFtlnNw",
+        "display_url": "pic.twitter.com/KCWvFtlnNw",
+        "expanded_url": "https://twitter.com/alkali4battery/status/1058724185671819266/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1152,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058724136757776385,
+        "id_str": "1058724136757776385",
+        "indices": [
+          37,
+          60
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFX_jaUUAEg4yl.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFX_jaUUAEg4yl.jpg",
+        "url": "https://t.co/KCWvFtlnNw",
+        "display_url": "pic.twitter.com/KCWvFtlnNw",
+        "expanded_url": "https://twitter.com/alkali4battery/status/1058724185671819266/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1152,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058724150435471360,
+        "id_str": "1058724150435471360",
+        "indices": [
+          37,
+          60
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYAWXVYAAhqsV.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYAWXVYAAhqsV.jpg",
+        "url": "https://t.co/KCWvFtlnNw",
+        "display_url": "pic.twitter.com/KCWvFtlnNw",
+        "expanded_url": "https://twitter.com/alkali4battery/status/1058724185671819266/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1152,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058724166499627009,
+        "id_str": "1058724166499627009",
+        "indices": [
+          37,
+          60
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYBSNU8AErb4L.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYBSNU8AErb4L.jpg",
+        "url": "https://t.co/KCWvFtlnNw",
+        "display_url": "pic.twitter.com/KCWvFtlnNw",
+        "expanded_url": "https://twitter.com/alkali4battery/status/1058724185671819266/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1152,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254490665"
+}

@@ -1,0 +1,593 @@
+{
+  "created_at": "Sat Nov 03 14:26:01 +0000 2018",
+  "id": 1058727000016248832,
+  "id_str": "1058727000016248832",
+  "text": "RT @atsu_ichigo: サポートガッシーさんも\nチェキするのかな？\nどちらにしても\n恥ずかしくて無理ですWw ( *´艸｀) https://t.co/5Ks7YtFH9B",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 880203523006226432,
+    "id_str": "880203523006226432",
+    "name": "トット♡U-key64🗝",
+    "screen_name": "totto_ty_64",
+    "location": "千葉",
+    "url": null,
+    "description": "Breathing Booostにはまってます🖤",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 241,
+    "friends_count": 112,
+    "listed_count": 2,
+    "favourites_count": 125020,
+    "statuses_count": 26281,
+    "created_at": "Wed Jun 28 23:17:28 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1043109185250971648/_nFmDrbv_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043109185250971648/_nFmDrbv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/880203523006226432/1536728000",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:00:34 +0000 2018",
+    "id": 1058720596236746752,
+    "id_str": "1058720596236746752",
+    "text": "サポートガッシーさんも\nチェキするのかな？\nどちらにしても\n恥ずかしくて無理ですWw ( *´艸｀) https://t.co/5Ks7YtFH9B",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2543421666,
+      "id_str": "2543421666",
+      "name": "atsu",
+      "screen_name": "atsu_ichigo",
+      "location": null,
+      "url": null,
+      "description": "Twitter本格的に初めたのは2018.7から。ラインライブでユーキさんの声に導かれ、Gassy さんのギターに惚れて💖、そいくんの可愛いさと、めいさんの温かさに感動して、Breathing Booost 💛 さんに出逢いました。皆さん素敵な人、曲ばかりで…毎日がとっても楽しい(*´pq`*)💕",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 31,
+      "friends_count": 46,
+      "listed_count": 0,
+      "favourites_count": 822,
+      "statuses_count": 339,
+      "created_at": "Tue Jun 03 12:44:41 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047176932519948288/UOEVrOfE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047176932519948288/UOEVrOfE_normal.jpg",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058690304000221190,
+    "quoted_status_id_str": "1058690304000221190",
+    "quoted_status": {
+      "created_at": "Sat Nov 03 12:00:12 +0000 2018",
+      "id": 1058690304000221190,
+      "id_str": "1058690304000221190",
+      "text": "【ライブ告知】\n\n🎁🎄After X’mas Party🎄🎁\n\n12月27日(木) 新宿Zirco Tokyo\nRio×Ridツーマン開催決定！\n\n1部-クリスマスチェキ会🎅📷\n11/10(土) 20:00発売… https://t.co/sZ3E0UXqF7",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 708961567,
+        "id_str": "708961567",
+        "name": "Rio",
+        "screen_name": "rio_vals",
+        "location": "Rio Official Channel (YouTube)",
+        "url": "https://www.youtube.com/c/RiosMusicChannel",
+        "description": "歌ってます🐯💎 ［niconico］https://goo.gl/3xUwSN［Instagram］https://goo.gl/vHTsiv［LINE@］https://goo.gl/m7GFo1［通販］https://goo.gl/Tzu5uT［Mail］rio-de-janeiro@hotmail.co.jp",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 37815,
+        "friends_count": 249,
+        "listed_count": 751,
+        "favourites_count": 73313,
+        "statuses_count": 218500,
+        "created_at": "Sat Jul 21 13:13:50 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1022436907689492480/DErJPKws_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022436907689492480/DErJPKws_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/708961567/1475937065",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "【ライブ告知】\n\n🎁🎄After X’mas Party🎄🎁\n\n12月27日(木) 新宿Zirco Tokyo\nRio×Ridツーマン開催決定！\n\n1部-クリスマスチェキ会🎅📷\n11/10(土) 20:00発売\nhttps://t.co/kFHeOHHKdq\n\n2部-Rido BANDLIVE🎄🎸\n11/10(土) 21:00発売\nhttps://t.co/kD5cavZACS https://t.co/q3WgYEfd0J",
+        "display_text_range": [
+          0,
+          190
+        ],
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/kFHeOHHKdq",
+              "expanded_url": "https://www.ticketpay.jp/booking/?event_id=17624",
+              "display_url": "ticketpay.jp/booking/?event…",
+              "indices": [
+                106,
+                129
+              ]
+            },
+            {
+              "url": "https://t.co/kD5cavZACS",
+              "expanded_url": "https://www.ticketpay.jp/booking/?event_id=17625",
+              "display_url": "ticketpay.jp/booking/?event…",
+              "indices": [
+                167,
+                190
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1058690275134951425,
+              "id_str": "1058690275134951425",
+              "indices": [
+                191,
+                214
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrE5MjCUUAE1FdA.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrE5MjCUUAE1FdA.jpg",
+              "url": "https://t.co/q3WgYEfd0J",
+              "display_url": "pic.twitter.com/q3WgYEfd0J",
+              "expanded_url": "https://twitter.com/rio_vals/status/1058690304000221190/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 960,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1600,
+                  "h": 2000,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 544,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1058690275134951425,
+              "id_str": "1058690275134951425",
+              "indices": [
+                191,
+                214
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrE5MjCUUAE1FdA.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrE5MjCUUAE1FdA.jpg",
+              "url": "https://t.co/q3WgYEfd0J",
+              "display_url": "pic.twitter.com/q3WgYEfd0J",
+              "expanded_url": "https://twitter.com/rio_vals/status/1058690304000221190/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 960,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1600,
+                  "h": 2000,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 544,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 8,
+      "reply_count": 14,
+      "retweet_count": 78,
+      "favorite_count": 313,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/sZ3E0UXqF7",
+            "expanded_url": "https://twitter.com/i/web/status/1058690304000221190",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/5Ks7YtFH9B",
+      "expanded": "https://twitter.com/rio_vals/status/1058690304000221190",
+      "display": "twitter.com/rio_vals/statu…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/5Ks7YtFH9B",
+          "expanded_url": "https://twitter.com/rio_vals/status/1058690304000221190",
+          "display_url": "twitter.com/rio_vals/statu…",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058690304000221190,
+  "quoted_status_id_str": "1058690304000221190",
+  "quoted_status": {
+    "created_at": "Sat Nov 03 12:00:12 +0000 2018",
+    "id": 1058690304000221190,
+    "id_str": "1058690304000221190",
+    "text": "【ライブ告知】\n\n🎁🎄After X’mas Party🎄🎁\n\n12月27日(木) 新宿Zirco Tokyo\nRio×Ridツーマン開催決定！\n\n1部-クリスマスチェキ会🎅📷\n11/10(土) 20:00発売… https://t.co/sZ3E0UXqF7",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 708961567,
+      "id_str": "708961567",
+      "name": "Rio",
+      "screen_name": "rio_vals",
+      "location": "Rio Official Channel (YouTube)",
+      "url": "https://www.youtube.com/c/RiosMusicChannel",
+      "description": "歌ってます🐯💎 ［niconico］https://goo.gl/3xUwSN［Instagram］https://goo.gl/vHTsiv［LINE@］https://goo.gl/m7GFo1［通販］https://goo.gl/Tzu5uT［Mail］rio-de-janeiro@hotmail.co.jp",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 37815,
+      "friends_count": 249,
+      "listed_count": 751,
+      "favourites_count": 73313,
+      "statuses_count": 218500,
+      "created_at": "Sat Jul 21 13:13:50 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1022436907689492480/DErJPKws_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022436907689492480/DErJPKws_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/708961567/1475937065",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "【ライブ告知】\n\n🎁🎄After X’mas Party🎄🎁\n\n12月27日(木) 新宿Zirco Tokyo\nRio×Ridツーマン開催決定！\n\n1部-クリスマスチェキ会🎅📷\n11/10(土) 20:00発売\nhttps://t.co/kFHeOHHKdq\n\n2部-Rido BANDLIVE🎄🎸\n11/10(土) 21:00発売\nhttps://t.co/kD5cavZACS https://t.co/q3WgYEfd0J",
+      "display_text_range": [
+        0,
+        190
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/kFHeOHHKdq",
+            "expanded_url": "https://www.ticketpay.jp/booking/?event_id=17624",
+            "display_url": "ticketpay.jp/booking/?event…",
+            "indices": [
+              106,
+              129
+            ]
+          },
+          {
+            "url": "https://t.co/kD5cavZACS",
+            "expanded_url": "https://www.ticketpay.jp/booking/?event_id=17625",
+            "display_url": "ticketpay.jp/booking/?event…",
+            "indices": [
+              167,
+              190
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058690275134951425,
+            "id_str": "1058690275134951425",
+            "indices": [
+              191,
+              214
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrE5MjCUUAE1FdA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrE5MjCUUAE1FdA.jpg",
+            "url": "https://t.co/q3WgYEfd0J",
+            "display_url": "pic.twitter.com/q3WgYEfd0J",
+            "expanded_url": "https://twitter.com/rio_vals/status/1058690304000221190/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1600,
+                "h": 2000,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 544,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058690275134951425,
+            "id_str": "1058690275134951425",
+            "indices": [
+              191,
+              214
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrE5MjCUUAE1FdA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrE5MjCUUAE1FdA.jpg",
+            "url": "https://t.co/q3WgYEfd0J",
+            "display_url": "pic.twitter.com/q3WgYEfd0J",
+            "expanded_url": "https://twitter.com/rio_vals/status/1058690304000221190/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1600,
+                "h": 2000,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 544,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 8,
+    "reply_count": 14,
+    "retweet_count": 78,
+    "favorite_count": 313,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/sZ3E0UXqF7",
+          "expanded_url": "https://twitter.com/i/web/status/1058690304000221190",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/5Ks7YtFH9B",
+    "expanded": "https://twitter.com/rio_vals/status/1058690304000221190",
+    "display": "twitter.com/rio_vals/statu…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/5Ks7YtFH9B",
+        "expanded_url": "https://twitter.com/rio_vals/status/1058690304000221190",
+        "display_url": "twitter.com/rio_vals/statu…",
+        "indices": [
+          68,
+          91
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "atsu_ichigo",
+        "name": "atsu",
+        "id": 2543421666,
+        "id_str": "2543421666",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255161657"
+}

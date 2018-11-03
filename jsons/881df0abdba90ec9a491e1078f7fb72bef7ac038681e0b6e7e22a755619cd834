@@ -1,0 +1,210 @@
+{
+  "created_at": "Sat Nov 03 14:15:48 +0000 2018",
+  "id": 1058724428907859968,
+  "id_str": "1058724428907859968",
+  "text": "RT @nikkansports: #高橋大輔、１番滑走で高得点　ステップで大観衆魅了\n#フィギュアスケート\nhttps://t.co/IjUXE5LoKO",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3261289286,
+    "id_str": "3261289286",
+    "name": "boti",
+    "screen_name": "boti44847165",
+    "location": null,
+    "url": null,
+    "description": "daisuki takahashi❤ \nニースのブルースではまりました",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 68,
+    "friends_count": 166,
+    "listed_count": 2,
+    "favourites_count": 30978,
+    "statuses_count": 44253,
+    "created_at": "Tue Jun 30 12:41:47 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/979325160929947648/eheoLziv_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/979325160929947648/eheoLziv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3261289286/1493635522",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 08:19:09 +0000 2018",
+    "id": 1058634673566318593,
+    "id_str": "1058634673566318593",
+    "text": "#高橋大輔、１番滑走で高得点　ステップで大観衆魅了\n#フィギュアスケート\nhttps://t.co/IjUXE5LoKO",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 46058599,
+      "id_str": "46058599",
+      "name": "日刊スポーツ",
+      "screen_name": "nikkansports",
+      "location": "中央区築地",
+      "url": "http://www.nikkansports.com/",
+      "description": "日刊スポーツ新聞社の公式アカウントです。芸能、野球、サッカー、スポーツのニュース速報を配信します。日刊スポーツのアカウント一覧はこちら → http://goo.gl/kbSF7E",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 307106,
+      "friends_count": 23366,
+      "listed_count": 10125,
+      "favourites_count": 1547,
+      "statuses_count": 313172,
+      "created_at": "Wed Jun 10 07:11:30 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/530600276302909440/fbD0sFZK_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/530600276302909440/fbD0sFZK_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/46058599/1472445144",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 127,
+    "favorite_count": 152,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "高橋大輔",
+          "indices": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "フィギュアスケート",
+          "indices": [
+            26,
+            36
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IjUXE5LoKO",
+          "expanded_url": "https://www.nikkansports.com/sports/news/201811030000596.html?utm_source=twitter&utm_medium=social&utm_campaign=nikkansports_ogp",
+          "display_url": "nikkansports.com/sports/news/20…",
+          "indices": [
+            37,
+            60
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "高橋大輔",
+        "indices": [
+          18,
+          23
+        ]
+      },
+      {
+        "text": "フィギュアスケート",
+        "indices": [
+          44,
+          54
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/IjUXE5LoKO",
+        "expanded_url": "https://www.nikkansports.com/sports/news/201811030000596.html?utm_source=twitter&utm_medium=social&utm_campaign=nikkansports_ogp",
+        "display_url": "nikkansports.com/sports/news/20…",
+        "indices": [
+          55,
+          78
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "nikkansports",
+        "name": "日刊スポーツ",
+        "id": 46058599,
+        "id_str": "46058599",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254548657"
+}

@@ -1,0 +1,728 @@
+{
+  "created_at": "Sat Nov 03 14:22:36 +0000 2018",
+  "id": 1058726140217503746,
+  "id_str": "1058726140217503746",
+  "text": "RT @hiro14taka: プリキュアエンディングダイエットの途中経過を報告します 開始1ヶ月で体重ー(マイナス)8.5kg、ウエストー7.5cm、体脂肪率ー4.3％となりました❗️せっかくここまできたので目標体重まであと6kg頑張ります😊プリキュアダンスで楽しく痩せられま…",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2774591238,
+    "id_str": "2774591238",
+    "name": "こめこ🍋",
+    "screen_name": "komeremon",
+    "location": "🌟snow🌟",
+    "url": null,
+    "description": "俺はこいつと旅に出る！！！",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 230,
+    "friends_count": 190,
+    "listed_count": 20,
+    "favourites_count": 67230,
+    "statuses_count": 51884,
+    "created_at": "Wed Aug 27 21:06:49 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1045349176614125568/QFtDwB3X_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045349176614125568/QFtDwB3X_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2774591238/1531412663",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 07:44:02 +0000 2018",
+    "id": 1058625837275082752,
+    "id_str": "1058625837275082752",
+    "text": "プリキュアエンディングダイエットの途中経過を報告します 開始1ヶ月で体重ー(マイナス)8.5kg、ウエストー7.5cm、体脂肪率ー4.3％となりました❗️せっかくここまできたので目標体重まであと6kg頑張ります😊プリキュアダンスで… https://t.co/E5QNZEPOgv",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 841589731167109121,
+      "id_str": "841589731167109121",
+      "name": "ひまい",
+      "screen_name": "hiro14taka",
+      "location": "学園島 ノーブル学園",
+      "url": null,
+      "description": "キュアフローラ キュアドリーム推しのプリキュア9年生です ほぼプリキュア垢 たまに今期アニメやニチアサ特撮の話題も 無言フォローOK アニメ垢は基本フォロバします 相互希望",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1130,
+      "friends_count": 1199,
+      "listed_count": 12,
+      "favourites_count": 19285,
+      "statuses_count": 2752,
+      "created_at": "Tue Mar 14 10:00:02 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "F58EA8",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/904159063176495105/igwTXXHQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/904159063176495105/igwTXXHQ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/841589731167109121/1516284215",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1047488400096251905,
+    "quoted_status_id_str": "1047488400096251905",
+    "quoted_status": {
+      "created_at": "Wed Oct 03 14:07:50 +0000 2018",
+      "id": 1047488400096251905,
+      "id_str": "1047488400096251905",
+      "text": "突然ですが今日からプリキュアエンディングダイエットを始めました！フレプリからHUGプリまでの前後期ダンス20本×90秒＝約30分をムービーに合わせてノンストップで踊って痩せてやる❗️というプリヲタならではの方法です😅楽しく痩せて😆… https://t.co/irpVaQbLX6",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 841589731167109121,
+        "id_str": "841589731167109121",
+        "name": "ひまい",
+        "screen_name": "hiro14taka",
+        "location": "学園島 ノーブル学園",
+        "url": null,
+        "description": "キュアフローラ キュアドリーム推しのプリキュア9年生です ほぼプリキュア垢 たまに今期アニメやニチアサ特撮の話題も 無言フォローOK アニメ垢は基本フォロバします 相互希望",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1130,
+        "friends_count": 1199,
+        "listed_count": 12,
+        "favourites_count": 19285,
+        "statuses_count": 2752,
+        "created_at": "Tue Mar 14 10:00:02 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/904159063176495105/igwTXXHQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/904159063176495105/igwTXXHQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/841589731167109121/1516284215",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "突然ですが今日からプリキュアエンディングダイエットを始めました！フレプリからHUGプリまでの前後期ダンス20本×90秒＝約30分をムービーに合わせてノンストップで踊って痩せてやる❗️というプリヲタならではの方法です😅楽しく痩せて😆1か月後に結果報告します！\n#precure https://t.co/Qh5KKfhmxa",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "precure",
+              "indices": [
+                129,
+                137
+              ]
+            }
+          ],
+          "urls": [],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1047488391401496577,
+              "id_str": "1047488391401496577",
+              "indices": [
+                138,
+                161
+              ],
+              "media_url": "http://pbs.twimg.com/media/DoltJGPU4AEd0G1.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DoltJGPU4AEd0G1.jpg",
+              "url": "https://t.co/Qh5KKfhmxa",
+              "display_url": "pic.twitter.com/Qh5KKfhmxa",
+              "expanded_url": "https://twitter.com/hiro14taka/status/1047488400096251905/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 315,
+                  "h": 445,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 315,
+                  "h": 445,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 315,
+                  "h": 445,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1047488391426629632,
+              "id_str": "1047488391426629632",
+              "indices": [
+                138,
+                161
+              ],
+              "media_url": "http://pbs.twimg.com/media/DoltJGVUYAA0Uka.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DoltJGVUYAA0Uka.jpg",
+              "url": "https://t.co/Qh5KKfhmxa",
+              "display_url": "pic.twitter.com/Qh5KKfhmxa",
+              "expanded_url": "https://twitter.com/hiro14taka/status/1047488400096251905/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 313,
+                  "h": 445,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 313,
+                  "h": 445,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 313,
+                  "h": 445,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1047488391401496577,
+              "id_str": "1047488391401496577",
+              "indices": [
+                138,
+                161
+              ],
+              "media_url": "http://pbs.twimg.com/media/DoltJGPU4AEd0G1.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DoltJGPU4AEd0G1.jpg",
+              "url": "https://t.co/Qh5KKfhmxa",
+              "display_url": "pic.twitter.com/Qh5KKfhmxa",
+              "expanded_url": "https://twitter.com/hiro14taka/status/1047488400096251905/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 315,
+                  "h": 445,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 315,
+                  "h": 445,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 315,
+                  "h": 445,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1047488391426629632,
+              "id_str": "1047488391426629632",
+              "indices": [
+                138,
+                161
+              ],
+              "media_url": "http://pbs.twimg.com/media/DoltJGVUYAA0Uka.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DoltJGVUYAA0Uka.jpg",
+              "url": "https://t.co/Qh5KKfhmxa",
+              "display_url": "pic.twitter.com/Qh5KKfhmxa",
+              "expanded_url": "https://twitter.com/hiro14taka/status/1047488400096251905/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 313,
+                  "h": 445,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 313,
+                  "h": 445,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 313,
+                  "h": 445,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 7,
+      "reply_count": 11,
+      "retweet_count": 334,
+      "favorite_count": 694,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/irpVaQbLX6",
+            "expanded_url": "https://twitter.com/i/web/status/1047488400096251905",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/X3D1s8fgUR",
+      "expanded": "https://twitter.com/hiro14taka/status/1047488400096251905",
+      "display": "twitter.com/hiro14taka/sta…"
+    },
+    "is_quote_status": true,
+    "extended_tweet": {
+      "full_text": "プリキュアエンディングダイエットの途中経過を報告します 開始1ヶ月で体重ー(マイナス)8.5kg、ウエストー7.5cm、体脂肪率ー4.3％となりました❗️せっかくここまできたので目標体重まであと6kg頑張ります😊プリキュアダンスで楽しく痩せられますよ😆応援宜しくお願いします❗️ https://t.co/X3D1s8fgUR",
+      "display_text_range": [
+        0,
+        139
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/X3D1s8fgUR",
+            "expanded_url": "https://twitter.com/hiro14taka/status/1047488400096251905",
+            "display_url": "twitter.com/hiro14taka/sta…",
+            "indices": [
+              140,
+              163
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      }
+    },
+    "quote_count": 5,
+    "reply_count": 5,
+    "retweet_count": 214,
+    "favorite_count": 352,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/E5QNZEPOgv",
+          "expanded_url": "https://twitter.com/i/web/status/1058625837275082752",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1047488400096251905,
+  "quoted_status_id_str": "1047488400096251905",
+  "quoted_status": {
+    "created_at": "Wed Oct 03 14:07:50 +0000 2018",
+    "id": 1047488400096251905,
+    "id_str": "1047488400096251905",
+    "text": "突然ですが今日からプリキュアエンディングダイエットを始めました！フレプリからHUGプリまでの前後期ダンス20本×90秒＝約30分をムービーに合わせてノンストップで踊って痩せてやる❗️というプリヲタならではの方法です😅楽しく痩せて😆… https://t.co/irpVaQbLX6",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 841589731167109121,
+      "id_str": "841589731167109121",
+      "name": "ひまい",
+      "screen_name": "hiro14taka",
+      "location": "学園島 ノーブル学園",
+      "url": null,
+      "description": "キュアフローラ キュアドリーム推しのプリキュア9年生です ほぼプリキュア垢 たまに今期アニメやニチアサ特撮の話題も 無言フォローOK アニメ垢は基本フォロバします 相互希望",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1130,
+      "friends_count": 1199,
+      "listed_count": 12,
+      "favourites_count": 19285,
+      "statuses_count": 2752,
+      "created_at": "Tue Mar 14 10:00:02 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "F58EA8",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/904159063176495105/igwTXXHQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/904159063176495105/igwTXXHQ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/841589731167109121/1516284215",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "突然ですが今日からプリキュアエンディングダイエットを始めました！フレプリからHUGプリまでの前後期ダンス20本×90秒＝約30分をムービーに合わせてノンストップで踊って痩せてやる❗️というプリヲタならではの方法です😅楽しく痩せて😆1か月後に結果報告します！\n#precure https://t.co/Qh5KKfhmxa",
+      "display_text_range": [
+        0,
+        137
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "precure",
+            "indices": [
+              129,
+              137
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1047488391401496577,
+            "id_str": "1047488391401496577",
+            "indices": [
+              138,
+              161
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoltJGPU4AEd0G1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoltJGPU4AEd0G1.jpg",
+            "url": "https://t.co/Qh5KKfhmxa",
+            "display_url": "pic.twitter.com/Qh5KKfhmxa",
+            "expanded_url": "https://twitter.com/hiro14taka/status/1047488400096251905/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 315,
+                "h": 445,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 315,
+                "h": 445,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 315,
+                "h": 445,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1047488391426629632,
+            "id_str": "1047488391426629632",
+            "indices": [
+              138,
+              161
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoltJGVUYAA0Uka.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoltJGVUYAA0Uka.jpg",
+            "url": "https://t.co/Qh5KKfhmxa",
+            "display_url": "pic.twitter.com/Qh5KKfhmxa",
+            "expanded_url": "https://twitter.com/hiro14taka/status/1047488400096251905/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 313,
+                "h": 445,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 313,
+                "h": 445,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 313,
+                "h": 445,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1047488391401496577,
+            "id_str": "1047488391401496577",
+            "indices": [
+              138,
+              161
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoltJGPU4AEd0G1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoltJGPU4AEd0G1.jpg",
+            "url": "https://t.co/Qh5KKfhmxa",
+            "display_url": "pic.twitter.com/Qh5KKfhmxa",
+            "expanded_url": "https://twitter.com/hiro14taka/status/1047488400096251905/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 315,
+                "h": 445,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 315,
+                "h": 445,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 315,
+                "h": 445,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1047488391426629632,
+            "id_str": "1047488391426629632",
+            "indices": [
+              138,
+              161
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoltJGVUYAA0Uka.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoltJGVUYAA0Uka.jpg",
+            "url": "https://t.co/Qh5KKfhmxa",
+            "display_url": "pic.twitter.com/Qh5KKfhmxa",
+            "expanded_url": "https://twitter.com/hiro14taka/status/1047488400096251905/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 313,
+                "h": 445,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 313,
+                "h": 445,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 313,
+                "h": 445,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 7,
+    "reply_count": 11,
+    "retweet_count": 334,
+    "favorite_count": 694,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/irpVaQbLX6",
+          "expanded_url": "https://twitter.com/i/web/status/1047488400096251905",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/X3D1s8fgUR",
+    "expanded": "https://twitter.com/hiro14taka/status/1047488400096251905",
+    "display": "twitter.com/hiro14taka/sta…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "hiro14taka",
+        "name": "ひまい",
+        "id": 841589731167109121,
+        "id_str": "841589731167109121",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254956665"
+}

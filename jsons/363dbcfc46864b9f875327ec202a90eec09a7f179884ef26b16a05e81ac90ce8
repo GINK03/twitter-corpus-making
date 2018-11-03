@@ -1,0 +1,412 @@
+{
+  "created_at": "Sat Nov 03 14:04:21 +0000 2018",
+  "id": 1058721546552860672,
+  "id_str": "1058721546552860672",
+  "text": "RT @toyakatol3: 30秒でケツァル・コアトルを紹介する　#FGO \n（カエサリオン兄貴リスペクト） https://t.co/dzB2VGiYBN",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 971785235741401088,
+    "id_str": "971785235741401088",
+    "name": "SAN値は0です",
+    "screen_name": "SANchi_Saber",
+    "location": "サイゼリアSAN値0の森。店店長",
+    "url": null,
+    "description": "#.コンパス、FGOが主。ぷよクエ、艦これ、音ゲーとかもすこ。MMDも少し。 ﾗｲｼﾞﾝｸﾞﾌｫｰｯｽ!!!する人とハイスペニートくんと人斬りと妖怪おだんごくい(新撰組吐血担当)がDaisukeです。コンパス内ではセイバークラス。アイコン(トレス)ヘッダーは自作。嫁【@viola_0216】とペアアイコン♡",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 216,
+    "friends_count": 208,
+    "listed_count": 25,
+    "favourites_count": 8261,
+    "statuses_count": 16189,
+    "created_at": "Thu Mar 08 16:30:29 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "E81C4F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1054245423752179712/1QSbjLzm_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054245423752179712/1QSbjLzm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/971785235741401088/1524750063",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Oct 14 17:10:31 +0000 2018",
+    "id": 1051520640656728064,
+    "id_str": "1051520640656728064",
+    "text": "30秒でケツァル・コアトルを紹介する　#FGO \n（カエサリオン兄貴リスペクト） https://t.co/dzB2VGiYBN",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2955374863,
+      "id_str": "2955374863",
+      "name": "トヤカトル",
+      "screen_name": "toyakatol3",
+      "location": "Civ5 modスレ",
+      "url": null,
+      "description": "ケツァルコアトル（FGO）推し。 civ5VP動画を少々…http://sp.nicovideo.jp/user/16646086",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 88,
+      "friends_count": 172,
+      "listed_count": 1,
+      "favourites_count": 98754,
+      "statuses_count": 521,
+      "created_at": "Thu Jan 01 23:29:49 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1043808063239720965/H1f_QBhz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043808063239720965/H1f_QBhz_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2955374863/1514458443",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 13,
+    "reply_count": 5,
+    "retweet_count": 1078,
+    "favorite_count": 1642,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            19,
+            23
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1051519338274934785,
+          "id_str": "1051519338274934785",
+          "indices": [
+            41,
+            64
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1051519338274934785/pu/img/8y7sMGueHSCLjDmc.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1051519338274934785/pu/img/8y7sMGueHSCLjDmc.jpg",
+          "url": "https://t.co/dzB2VGiYBN",
+          "display_url": "pic.twitter.com/dzB2VGiYBN",
+          "expanded_url": "https://twitter.com/toyakatol3/status/1051520640656728064/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1051519338274934785,
+          "id_str": "1051519338274934785",
+          "indices": [
+            41,
+            64
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1051519338274934785/pu/img/8y7sMGueHSCLjDmc.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1051519338274934785/pu/img/8y7sMGueHSCLjDmc.jpg",
+          "url": "https://t.co/dzB2VGiYBN",
+          "display_url": "pic.twitter.com/dzB2VGiYBN",
+          "expanded_url": "https://twitter.com/toyakatol3/status/1051520640656728064/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 31400,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1051519338274934785/pu/vid/320x180/FxOiHN5lFaoY5nUs.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1051519338274934785/pu/vid/1280x720/Wjlq5e41Mui2vZ1g.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1051519338274934785/pu/vid/640x360/CcHiVSoNRFOv_YWA.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1051519338274934785/pu/pl/xB1poJlDLq1Uhjzc.m3u8?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          35,
+          39
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "toyakatol3",
+        "name": "トヤカトル",
+        "id": 2955374863,
+        "id_str": "2955374863",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1051519338274934785,
+        "id_str": "1051519338274934785",
+        "indices": [
+          57,
+          80
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1051519338274934785/pu/img/8y7sMGueHSCLjDmc.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1051519338274934785/pu/img/8y7sMGueHSCLjDmc.jpg",
+        "url": "https://t.co/dzB2VGiYBN",
+        "display_url": "pic.twitter.com/dzB2VGiYBN",
+        "expanded_url": "https://twitter.com/toyakatol3/status/1051520640656728064/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1051520640656728064,
+        "source_status_id_str": "1051520640656728064",
+        "source_user_id": 2955374863,
+        "source_user_id_str": "2955374863"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1051519338274934785,
+        "id_str": "1051519338274934785",
+        "indices": [
+          57,
+          80
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1051519338274934785/pu/img/8y7sMGueHSCLjDmc.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1051519338274934785/pu/img/8y7sMGueHSCLjDmc.jpg",
+        "url": "https://t.co/dzB2VGiYBN",
+        "display_url": "pic.twitter.com/dzB2VGiYBN",
+        "expanded_url": "https://twitter.com/toyakatol3/status/1051520640656728064/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 31400,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1051519338274934785/pu/vid/320x180/FxOiHN5lFaoY5nUs.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1051519338274934785/pu/vid/1280x720/Wjlq5e41Mui2vZ1g.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1051519338274934785/pu/vid/640x360/CcHiVSoNRFOv_YWA.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1051519338274934785/pu/pl/xB1poJlDLq1Uhjzc.m3u8?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1051520640656728064,
+        "source_status_id_str": "1051520640656728064",
+        "source_user_id": 2955374863,
+        "source_user_id_str": "2955374863"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253861450"
+}

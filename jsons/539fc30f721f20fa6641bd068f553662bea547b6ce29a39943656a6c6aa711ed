@@ -1,0 +1,402 @@
+{
+  "created_at": "Sat Nov 03 14:20:06 +0000 2018",
+  "id": 1058725508584628224,
+  "id_str": "1058725508584628224",
+  "text": "RT @genvu333: 明日、玄玩堂サンクリ出ます（Q-23b）です。新作ありませんが、FGO関係の枕持っていきますのでよろしければ～。 https://t.co/oq7a5hVWib",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 428163927,
+    "id_str": "428163927",
+    "name": "わんこ＠わんこLab.",
+    "screen_name": "wankolab",
+    "location": "埼玉県",
+    "url": null,
+    "description": "（※R18 な RT が多いので、18歳未満の方のフォローはご遠慮ください） 抱き枕中心に寝具系を充実させたいちっぱい好きな抱き枕erです。抱き枕のための広い寝室ほしい。カーテンも飾ってみたい。。。 いろいろな方へフォローさせていただくと思いますが、よろしくおねがいします。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 278,
+    "friends_count": 1214,
+    "listed_count": 24,
+    "favourites_count": 8512,
+    "statuses_count": 46706,
+    "created_at": "Sun Dec 04 12:25:18 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/848168478234169344/JdVli_pe_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/848168478234169344/JdVli_pe_normal.jpg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 12:23:51 +0000 2018",
+    "id": 1058696256849989632,
+    "id_str": "1058696256849989632",
+    "text": "明日、玄玩堂サンクリ出ます（Q-23b）です。新作ありませんが、FGO関係の枕持っていきますのでよろしければ～。 https://t.co/oq7a5hVWib",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 64355413,
+      "id_str": "64355413",
+      "name": "長船玄武@玄玩堂BOOTHもよろしく!",
+      "screen_name": "genvu333",
+      "location": null,
+      "url": "http://genvudo.blog54.fc2.com/",
+      "description": "少し書いたりかかなかったり読んだり抱き枕を愛でたりする仕事してます。玄玩堂という抱き枕系サークルをひっそりやってます。BOOTHで抱き枕通販とかもやってますhttps://gengando.booth.pm/",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 616,
+      "friends_count": 703,
+      "listed_count": 29,
+      "favourites_count": 1373,
+      "statuses_count": 17719,
+      "created_at": "Mon Aug 10 07:31:38 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "BADFCD",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "F2E195",
+      "profile_sidebar_fill_color": "FFF7CC",
+      "profile_text_color": "0C3E53",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/474417735720386561/2Jkgkdlz_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/474417735720386561/2Jkgkdlz_normal.jpeg",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 7,
+    "favorite_count": 13,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058696205775958016,
+          "id_str": "1058696205775958016",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrE-lwZUcAAnQ_x.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrE-lwZUcAAnQ_x.jpg",
+          "url": "https://t.co/oq7a5hVWib",
+          "display_url": "pic.twitter.com/oq7a5hVWib",
+          "expanded_url": "https://twitter.com/genvu333/status/1058696256849989632/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 276,
+              "h": 509,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 276,
+              "h": 509,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 276,
+              "h": 509,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058696205775958016,
+          "id_str": "1058696205775958016",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrE-lwZUcAAnQ_x.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrE-lwZUcAAnQ_x.jpg",
+          "url": "https://t.co/oq7a5hVWib",
+          "display_url": "pic.twitter.com/oq7a5hVWib",
+          "expanded_url": "https://twitter.com/genvu333/status/1058696256849989632/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 276,
+              "h": 509,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 276,
+              "h": 509,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 276,
+              "h": 509,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058696243205963777,
+          "id_str": "1058696243205963777",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrE-n71VAAEcUp2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrE-n71VAAEcUp2.jpg",
+          "url": "https://t.co/oq7a5hVWib",
+          "display_url": "pic.twitter.com/oq7a5hVWib",
+          "expanded_url": "https://twitter.com/genvu333/status/1058696256849989632/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 285,
+              "h": 359,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 285,
+              "h": 359,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 285,
+              "h": 359,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "genvu333",
+        "name": "長船玄武@玄玩堂BOOTHもよろしく!",
+        "id": 64355413,
+        "id_str": "64355413",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058696205775958016,
+        "id_str": "1058696205775958016",
+        "indices": [
+          71,
+          94
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrE-lwZUcAAnQ_x.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrE-lwZUcAAnQ_x.jpg",
+        "url": "https://t.co/oq7a5hVWib",
+        "display_url": "pic.twitter.com/oq7a5hVWib",
+        "expanded_url": "https://twitter.com/genvu333/status/1058696256849989632/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 276,
+            "h": 509,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 276,
+            "h": 509,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 276,
+            "h": 509,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058696256849989632,
+        "source_status_id_str": "1058696256849989632",
+        "source_user_id": 64355413,
+        "source_user_id_str": "64355413"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058696205775958016,
+        "id_str": "1058696205775958016",
+        "indices": [
+          71,
+          94
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrE-lwZUcAAnQ_x.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrE-lwZUcAAnQ_x.jpg",
+        "url": "https://t.co/oq7a5hVWib",
+        "display_url": "pic.twitter.com/oq7a5hVWib",
+        "expanded_url": "https://twitter.com/genvu333/status/1058696256849989632/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 276,
+            "h": 509,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 276,
+            "h": 509,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 276,
+            "h": 509,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058696256849989632,
+        "source_status_id_str": "1058696256849989632",
+        "source_user_id": 64355413,
+        "source_user_id_str": "64355413"
+      },
+      {
+        "id": 1058696243205963777,
+        "id_str": "1058696243205963777",
+        "indices": [
+          71,
+          94
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrE-n71VAAEcUp2.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrE-n71VAAEcUp2.jpg",
+        "url": "https://t.co/oq7a5hVWib",
+        "display_url": "pic.twitter.com/oq7a5hVWib",
+        "expanded_url": "https://twitter.com/genvu333/status/1058696256849989632/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 285,
+            "h": 359,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 285,
+            "h": 359,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 285,
+            "h": 359,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058696256849989632,
+        "source_status_id_str": "1058696256849989632",
+        "source_user_id": 64355413,
+        "source_user_id_str": "64355413"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254806072"
+}

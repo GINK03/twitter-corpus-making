@@ -1,0 +1,157 @@
+{
+  "created_at": "Sat Nov 03 14:15:35 +0000 2018",
+  "id": 1058724374419632128,
+  "id_str": "1058724374419632128",
+  "text": "席悩みすぎませんか…これ…ぼっちといってもさぁ…www https://t.co/9pFRuGvscZ",
+  "display_text_range": [
+    0,
+    27
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 215897722,
+    "id_str": "215897722",
+    "name": "ことこ🌻原稿(戒め)",
+    "screen_name": "ktk_220",
+    "location": null,
+    "url": "http://twpf.jp/ktk_220",
+    "description": "20↑雑多垢*ふじょし*時々絵を描いてたりする。絵垢/腐向け☞@k_highbeam(utapri*トキ音)",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 244,
+    "friends_count": 387,
+    "listed_count": 4,
+    "favourites_count": 19438,
+    "statuses_count": 150305,
+    "created_at": "Mon Nov 15 06:31:32 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "4A913C",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1057602500201574400/1L-_ukwg_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057602500201574400/1L-_ukwg_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/215897722/1540633234",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724366517624832,
+        "id_str": "1058724366517624832",
+        "indices": [
+          28,
+          51
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYM7VVYAAKPZv.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYM7VVYAAKPZv.jpg",
+        "url": "https://t.co/9pFRuGvscZ",
+        "display_url": "pic.twitter.com/9pFRuGvscZ",
+        "expanded_url": "https://twitter.com/ktk_220/status/1058724374419632128/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1920,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724366517624832,
+        "id_str": "1058724366517624832",
+        "indices": [
+          28,
+          51
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYM7VVYAAKPZv.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYM7VVYAAKPZv.jpg",
+        "url": "https://t.co/9pFRuGvscZ",
+        "display_url": "pic.twitter.com/9pFRuGvscZ",
+        "expanded_url": "https://twitter.com/ktk_220/status/1058724374419632128/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1920,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254535666"
+}

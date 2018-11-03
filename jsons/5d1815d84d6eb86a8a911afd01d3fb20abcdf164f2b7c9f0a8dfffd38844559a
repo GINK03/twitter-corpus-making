@@ -1,0 +1,327 @@
+{
+  "created_at": "Sat Nov 03 14:14:30 +0000 2018",
+  "id": 1058724101764726785,
+  "id_str": "1058724101764726785",
+  "text": "RT @juveniler_: 二宮飛鳥、ウォズ説 https://t.co/hOTW0tk0Dt",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3032403295,
+    "id_str": "3032403295",
+    "name": "ソーチP@デレ6thナゴド現地",
+    "screen_name": "Oksoti2",
+    "location": "音楽のあるところに生息",
+    "url": "http://www.pixiv.net/member.php?id=14012343",
+    "description": "イラストやSSを作ってる。音楽と忌野清志郎と渋谷すばるが無ければ生きられない。 担当は『長富蓮実・関裕美』&全アイドルの総合P 楽器を弾いたり叩いたり、ラジオDJもやってた #デレマスふともも愛で部 貴虎 三峰ェ‼︎ アイマス越境はいいぞ サークル『トランジスト』 ばなナイス",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1099,
+    "friends_count": 4117,
+    "listed_count": 37,
+    "favourites_count": 20950,
+    "statuses_count": 106916,
+    "created_at": "Fri Feb 20 08:01:39 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/906989819145809920/eBUs0aGo_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/906989819145809920/eBUs0aGo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3032403295/1482840645",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 07:30:24 +0000 2018",
+    "id": 1058622404967071746,
+    "id_str": "1058622404967071746",
+    "text": "二宮飛鳥、ウォズ説 https://t.co/hOTW0tk0Dt",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 378518080,
+      "id_str": "378518080",
+      "name": "玖音ほずみ[関西コミティア53 C25]",
+      "screen_name": "juveniler_",
+      "location": null,
+      "url": "https://note.mu/juvenilia/",
+      "description": "バーチャル芸人やってます。嘘です／HearthStone、FGO中心に型月、メギド、デレマス、ボカロ／サークル「Juvenilia」の活動記録はこちら→https://note.mu/juvenilia/n/ne6dd703c383c",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 656,
+      "friends_count": 366,
+      "listed_count": 31,
+      "favourites_count": 8590,
+      "statuses_count": 36965,
+      "created_at": "Fri Sep 23 10:29:41 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1006840023176511489/poDDcFol_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006840023176511489/poDDcFol_normal.jpg",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 2,
+    "reply_count": 0,
+    "retweet_count": 336,
+    "favorite_count": 471,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058622399619297280,
+          "id_str": "1058622399619297280",
+          "indices": [
+            10,
+            33
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrD7drCUcAAuorP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrD7drCUcAAuorP.jpg",
+          "url": "https://t.co/hOTW0tk0Dt",
+          "display_url": "pic.twitter.com/hOTW0tk0Dt",
+          "expanded_url": "https://twitter.com/juveniler_/status/1058622404967071746/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 262,
+              "h": 240,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 262,
+              "h": 240,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 262,
+              "h": 240,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058622399619297280,
+          "id_str": "1058622399619297280",
+          "indices": [
+            10,
+            33
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrD7drCUcAAuorP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrD7drCUcAAuorP.jpg",
+          "url": "https://t.co/hOTW0tk0Dt",
+          "display_url": "pic.twitter.com/hOTW0tk0Dt",
+          "expanded_url": "https://twitter.com/juveniler_/status/1058622404967071746/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 262,
+              "h": 240,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 262,
+              "h": 240,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 262,
+              "h": 240,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "juveniler_",
+        "name": "玖音ほずみ[関西コミティア53 C25]",
+        "id": 378518080,
+        "id_str": "378518080",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058622399619297280,
+        "id_str": "1058622399619297280",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrD7drCUcAAuorP.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrD7drCUcAAuorP.jpg",
+        "url": "https://t.co/hOTW0tk0Dt",
+        "display_url": "pic.twitter.com/hOTW0tk0Dt",
+        "expanded_url": "https://twitter.com/juveniler_/status/1058622404967071746/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 262,
+            "h": 240,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 262,
+            "h": 240,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 262,
+            "h": 240,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058622404967071746,
+        "source_status_id_str": "1058622404967071746",
+        "source_user_id": 378518080,
+        "source_user_id_str": "378518080"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058622399619297280,
+        "id_str": "1058622399619297280",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrD7drCUcAAuorP.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrD7drCUcAAuorP.jpg",
+        "url": "https://t.co/hOTW0tk0Dt",
+        "display_url": "pic.twitter.com/hOTW0tk0Dt",
+        "expanded_url": "https://twitter.com/juveniler_/status/1058622404967071746/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 262,
+            "h": 240,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 262,
+            "h": 240,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 262,
+            "h": 240,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058622404967071746,
+        "source_status_id_str": "1058622404967071746",
+        "source_user_id": 378518080,
+        "source_user_id_str": "378518080"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254470660"
+}

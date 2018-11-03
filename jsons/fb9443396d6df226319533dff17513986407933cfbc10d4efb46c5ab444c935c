@@ -1,0 +1,123 @@
+{
+  "created_at": "Sat Nov 03 14:23:08 +0000 2018",
+  "id": 1058726274418397184,
+  "id_str": "1058726274418397184",
+  "text": "@sayusayu220 娘は3歳になったら毎日の連絡帳なくなったんですけど、私の勤めてた所は年少以上にも連絡帳はあって、月一くらいは必ず書いて、何か保護者に伝えることがあれば週一でも書くみたいなので、ものすごく面倒くさかったです… https://t.co/WCC6O7FvKL",
+  "display_text_range": [
+    13,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": true,
+  "in_reply_to_status_id": 1058724449757720581,
+  "in_reply_to_status_id_str": "1058724449757720581",
+  "in_reply_to_user_id": 911561174293942272,
+  "in_reply_to_user_id_str": "911561174293942272",
+  "in_reply_to_screen_name": "sayusayu220",
+  "user": {
+    "id": 985651920558632962,
+    "id_str": "985651920558632962",
+    "name": "ミー助🐸二人目妊活中",
+    "screen_name": "miisuke_desu",
+    "location": null,
+    "url": null,
+    "description": "2015年9月に娘を出産した一児の母。\n二人目妊活と日々の愚痴を徒然と語るアカウント",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 27,
+    "friends_count": 37,
+    "listed_count": 0,
+    "favourites_count": 28,
+    "statuses_count": 536,
+    "created_at": "Sun Apr 15 22:51:45 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/985661262611689472/4fvP_pGO_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/985661262611689472/4fvP_pGO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/985651920558632962/1523834868",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "@sayusayu220 娘は3歳になったら毎日の連絡帳なくなったんですけど、私の勤めてた所は年少以上にも連絡帳はあって、月一くらいは必ず書いて、何か保護者に伝えることがあれば週一でも書くみたいなので、ものすごく面倒くさかったです。壁面も毎月変えるし\n(紙と時間の無駄)誕生日カードもプレゼントも手作りで。。",
+    "display_text_range": [
+      13,
+      154
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "sayusayu220",
+          "name": "ららら＠２人目希望中",
+          "id": 911561174293942272,
+          "id_str": "911561174293942272",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/WCC6O7FvKL",
+        "expanded_url": "https://twitter.com/i/web/status/1058726274418397184",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sayusayu220",
+        "name": "ららら＠２人目希望中",
+        "id": 911561174293942272,
+        "id_str": "911561174293942272",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254988661"
+}

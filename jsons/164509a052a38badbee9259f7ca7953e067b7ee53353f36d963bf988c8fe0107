@@ -1,0 +1,100 @@
+{
+  "created_at": "Sat Nov 03 14:21:13 +0000 2018",
+  "id": 1058725792090218497,
+  "id_str": "1058725792090218497",
+  "text": "@uhemura_uhemura それはわかりませんが、スピッツァー宇宙望遠鏡が撮影したオリオン星雲のクローズアップ写真はこれです。 https://t.co/moTKUPoiSo",
+  "display_text_range": [
+    17,
+    90
+  ],
+  "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">ヴォイニッチ図書館</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058725724817739776,
+  "in_reply_to_status_id_str": "1058725724817739776",
+  "in_reply_to_user_id": 152897808,
+  "in_reply_to_user_id_str": "152897808",
+  "in_reply_to_screen_name": "uhemura_uhemura",
+  "user": {
+    "id": 159698142,
+    "id_str": "159698142",
+    "name": "ぼっとびお。",
+    "screen_name": "bot_obio",
+    "location": "おびおさんのPCの中でネタを探索中",
+    "url": "http://www.obio.jp/voy/",
+    "description": "ヴォイニッチの科学書公式bot、ぼっとびおです。今日も元気に科学の小ネタを自動ポスト中。どんどんリツイートして下さいね。公式RTまたはコメントつきRT推奨です。パクツイ禁止。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 7386,
+    "friends_count": 6126,
+    "listed_count": 499,
+    "favourites_count": 2,
+    "statuses_count": 93258,
+    "created_at": "Sat Jun 26 03:04:25 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/615163173876793345/9Xw1R9kJ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/615163173876793345/9Xw1R9kJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/159698142/1349706247",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/moTKUPoiSo",
+        "expanded_url": "http://twitpic.com/2a7dzg",
+        "display_url": "twitpic.com/2a7dzg",
+        "indices": [
+          67,
+          90
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "uhemura_uhemura",
+        "name": "うへむら",
+        "id": 152897808,
+        "id_str": "152897808",
+        "indices": [
+          0,
+          16
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254873665"
+}

@@ -1,0 +1,96 @@
+{
+  "created_at": "Sat Nov 03 14:14:40 +0000 2018",
+  "id": 1058724143712022530,
+  "id_str": "1058724143712022530",
+  "text": "みんなとまだ距離がある感じ、\nまだ髪も短い感じ、萌える\n\n#SONGS #堂本光一 × #井上芳雄",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 99242051,
+    "id_str": "99242051",
+    "name": "あやっぺ",
+    "screen_name": "xxxayappexxx",
+    "location": null,
+    "url": null,
+    "description": "KinKi Kidsのことしか考えてない。寸分の狂いなくど真ん中。フォローご自由にして下さい*\\(^o^)/*                                              🌹⇄🍗",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 61,
+    "friends_count": 61,
+    "listed_count": 2,
+    "favourites_count": 1394,
+    "statuses_count": 4391,
+    "created_at": "Fri Dec 25 07:43:58 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/882797935729057792/4o6rUkxm_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/882797935729057792/4o6rUkxm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/99242051/1508838477",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "SONGS",
+        "indices": [
+          29,
+          35
+        ]
+      },
+      {
+        "text": "堂本光一",
+        "indices": [
+          36,
+          41
+        ]
+      },
+      {
+        "text": "井上芳雄",
+        "indices": [
+          44,
+          49
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254480661"
+}

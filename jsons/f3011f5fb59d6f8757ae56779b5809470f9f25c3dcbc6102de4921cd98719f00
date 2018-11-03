@@ -1,0 +1,358 @@
+{
+  "created_at": "Sat Nov 03 14:24:34 +0000 2018",
+  "id": 1058726633492819968,
+  "id_str": "1058726633492819968",
+  "text": "RT @yuzuyu7cat: む\n#FateGO　#FGO https://t.co/Dt64LtmiVK",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15782028,
+    "id_str": "15782028",
+    "name": "有色ろくまい",
+    "screen_name": "rokumai",
+    "location": "サンテレビは阪神戦でアニメ遅延起こすのやめろ",
+    "url": null,
+    "description": "NS SW-3732-0137-8323  /  ちょいヲタ，平面系，深夜にまたアニメみてる，釘宮病．skype，steam も同名．サブ: @rokumai_ 丼: @rokumai@mstdn.jp",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1880,
+    "friends_count": 2051,
+    "listed_count": 224,
+    "favourites_count": 312055,
+    "statuses_count": 464177,
+    "created_at": "Fri Aug 08 19:43:47 +0000 2008",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "FF0000",
+    "profile_text_color": "0F9FFF",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/942771884336148480/tsOT7WkJ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/942771884336148480/tsOT7WkJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15782028/1450607926",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Oct 31 10:59:05 +0000 2018",
+    "id": 1057587759718662144,
+    "id_str": "1057587759718662144",
+    "text": "む\n#FateGO　#FGO https://t.co/Dt64LtmiVK",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 119609410,
+      "id_str": "119609410",
+      "name": "平井ゆづき@2日目東C-19b",
+      "screen_name": "yuzuyu7cat",
+      "location": null,
+      "url": "http://www.pixiv.net/member.php?id=676740",
+      "description": "イラストレーター。女性向け男性向け色々好き。「天空の城をもらったので異世界で楽しく遊びたい」／にじさんじ(神田笑一)キャラデザ担当／♡でお返事をする事があります！FGO/i7/スタミュhttps://www.pixiv.net/fanbox/creator/676740",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 24240,
+      "friends_count": 224,
+      "listed_count": 420,
+      "favourites_count": 2960,
+      "statuses_count": 12776,
+      "created_at": "Thu Mar 04 03:59:45 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1002503279895384066/ukiIC-iV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002503279895384066/ukiIC-iV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/119609410/1516629295",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 7,
+    "reply_count": 7,
+    "retweet_count": 2090,
+    "favorite_count": 6493,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FateGO",
+          "indices": [
+            2,
+            9
+          ]
+        },
+        {
+          "text": "FGO",
+          "indices": [
+            10,
+            14
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1057587255202598914,
+          "id_str": "1057587255202598914",
+          "indices": [
+            15,
+            38
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq1OAVlU0AIluNZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq1OAVlU0AIluNZ.jpg",
+          "url": "https://t.co/Dt64LtmiVK",
+          "display_url": "pic.twitter.com/Dt64LtmiVK",
+          "expanded_url": "https://twitter.com/yuzuyu7cat/status/1057587759718662144/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 397,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 700,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 700,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1057587255202598914,
+          "id_str": "1057587255202598914",
+          "indices": [
+            15,
+            38
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq1OAVlU0AIluNZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq1OAVlU0AIluNZ.jpg",
+          "url": "https://t.co/Dt64LtmiVK",
+          "display_url": "pic.twitter.com/Dt64LtmiVK",
+          "expanded_url": "https://twitter.com/yuzuyu7cat/status/1057587759718662144/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 397,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 700,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 700,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FateGO",
+        "indices": [
+          18,
+          25
+        ]
+      },
+      {
+        "text": "FGO",
+        "indices": [
+          26,
+          30
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "yuzuyu7cat",
+        "name": "平井ゆづき@2日目東C-19b",
+        "id": 119609410,
+        "id_str": "119609410",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1057587255202598914,
+        "id_str": "1057587255202598914",
+        "indices": [
+          31,
+          54
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq1OAVlU0AIluNZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq1OAVlU0AIluNZ.jpg",
+        "url": "https://t.co/Dt64LtmiVK",
+        "display_url": "pic.twitter.com/Dt64LtmiVK",
+        "expanded_url": "https://twitter.com/yuzuyu7cat/status/1057587759718662144/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 397,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 700,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 700,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057587759718662144,
+        "source_status_id_str": "1057587759718662144",
+        "source_user_id": 119609410,
+        "source_user_id_str": "119609410"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1057587255202598914,
+        "id_str": "1057587255202598914",
+        "indices": [
+          31,
+          54
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq1OAVlU0AIluNZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq1OAVlU0AIluNZ.jpg",
+        "url": "https://t.co/Dt64LtmiVK",
+        "display_url": "pic.twitter.com/Dt64LtmiVK",
+        "expanded_url": "https://twitter.com/yuzuyu7cat/status/1057587759718662144/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 397,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 700,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 700,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057587759718662144,
+        "source_status_id_str": "1057587759718662144",
+        "source_user_id": 119609410,
+        "source_user_id_str": "119609410"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255074271"
+}

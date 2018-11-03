@@ -1,0 +1,405 @@
+{
+  "created_at": "Sat Nov 03 14:18:53 +0000 2018",
+  "id": 1058725204870844417,
+  "id_str": "1058725204870844417",
+  "text": "RT @gamewith_pkgo: アジア地域でアクセス障害が発生してることをナイアンティックさんも把握しているとのこと。\nいま対応中だそうですm(._.)m\n\n#ポケモンGO https://t.co/E9AYU1F1NO",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 464468963,
+    "id_str": "464468963",
+    "name": "keen3",
+    "screen_name": "keeeennn3",
+    "location": "関東圏",
+    "url": null,
+    "description": "アニメ好きです。よろしくお願いします。 みんなフォローありがとひとつひとつのつながりを 大切にしょう。 フォローよろしくお願いします。最近は、バランスが大事。 ポケモンgoやってます。 今は、ライブ行きます！  最近、契約社員より正社員なりたい！",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 583,
+    "friends_count": 1686,
+    "listed_count": 2,
+    "favourites_count": 14522,
+    "statuses_count": 16174,
+    "created_at": "Sun Jan 15 08:03:35 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8B542B",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "9D582E",
+    "profile_sidebar_border_color": "D9B17E",
+    "profile_sidebar_fill_color": "EADEAA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3386179608/7bdc7d6f131d157671fbcd47a42bba6e_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3386179608/7bdc7d6f131d157671fbcd47a42bba6e_normal.jpeg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 04:10:40 +0000 2018",
+    "id": 1058572143091376129,
+    "id_str": "1058572143091376129",
+    "text": "アジア地域でアクセス障害が発生してることをナイアンティックさんも把握しているとのこと。\nいま対応中だそうですm(._.)m\n\n#ポケモンGO https://t.co/E9AYU1F1NO",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 752346815161184257,
+      "id_str": "752346815161184257",
+      "name": "ポケモンGO攻略＠GameWith",
+      "screen_name": "gamewith_pkgo",
+      "location": null,
+      "url": "https://pokemongo.gamewith.jp/",
+      "description": "ポケモンGOの攻略情報をつぶやいている、攻略サイトGameWithのアカウントです。#ポケモンGO #pokemongo",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 120031,
+      "friends_count": 35,
+      "listed_count": 809,
+      "favourites_count": 3329,
+      "statuses_count": 8989,
+      "created_at": "Mon Jul 11 03:40:33 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/966844305653481474/V86_VfuO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/966844305653481474/V86_VfuO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/752346815161184257/1469424414",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058570080156565504,
+    "quoted_status_id_str": "1058570080156565504",
+    "quoted_status": {
+      "created_at": "Sat Nov 03 04:02:29 +0000 2018",
+      "id": 1058570080156565504,
+      "id_str": "1058570080156565504",
+      "text": "Due to system errors, Trainers in some parts of the APAC region were unable to connect to Pokémon GO during the Gen… https://t.co/S6T7Az1xtK",
+      "source": "<a href=\"https://www.spredfast.com\" rel=\"nofollow\">Spredfast</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 849344094681870336,
+        "id_str": "849344094681870336",
+        "name": "Niantic Support",
+        "screen_name": "NianticHelp",
+        "location": "San Francisco, CA",
+        "url": "http://www.nianticlabs.com",
+        "description": "Official account of Niantic, Inc. for general support-related news & info for @ingress & @pokemongoapp. For 1:1 support, submit a request on our Help Center.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "followers_count": 118386,
+        "friends_count": 8,
+        "listed_count": 421,
+        "favourites_count": 268,
+        "statuses_count": 6383,
+        "created_at": "Tue Apr 04 19:33:07 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/881121045851193344/rs883Rhq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/881121045851193344/rs883Rhq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/849344094681870336/1530305941",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "Due to system errors, Trainers in some parts of the APAC region were unable to connect to Pokémon GO during the Gengar Special Raid Challenge. We appreciate your patience as we work to resolve these issues and deeply apologize for the inconvenience.",
+        "display_text_range": [
+          0,
+          249
+        ],
+        "entities": {
+          "hashtags": [],
+          "urls": [],
+          "user_mentions": [],
+          "symbols": []
+        }
+      },
+      "quote_count": 27,
+      "reply_count": 114,
+      "retweet_count": 103,
+      "favorite_count": 623,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/S6T7Az1xtK",
+            "expanded_url": "https://twitter.com/i/web/status/1058570080156565504",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/E9AYU1F1NO",
+      "expanded": "https://twitter.com/NianticHelp/status/1058570080156565504",
+      "display": "twitter.com/NianticHelp/st…"
+    },
+    "is_quote_status": true,
+    "quote_count": 6,
+    "reply_count": 23,
+    "retweet_count": 91,
+    "favorite_count": 283,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ポケモンGO",
+          "indices": [
+            63,
+            70
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/E9AYU1F1NO",
+          "expanded_url": "https://twitter.com/NianticHelp/status/1058570080156565504",
+          "display_url": "twitter.com/NianticHelp/st…",
+          "indices": [
+            71,
+            94
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058570080156565504,
+  "quoted_status_id_str": "1058570080156565504",
+  "quoted_status": {
+    "created_at": "Sat Nov 03 04:02:29 +0000 2018",
+    "id": 1058570080156565504,
+    "id_str": "1058570080156565504",
+    "text": "Due to system errors, Trainers in some parts of the APAC region were unable to connect to Pokémon GO during the Gen… https://t.co/S6T7Az1xtK",
+    "source": "<a href=\"https://www.spredfast.com\" rel=\"nofollow\">Spredfast</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 849344094681870336,
+      "id_str": "849344094681870336",
+      "name": "Niantic Support",
+      "screen_name": "NianticHelp",
+      "location": "San Francisco, CA",
+      "url": "http://www.nianticlabs.com",
+      "description": "Official account of Niantic, Inc. for general support-related news & info for @ingress & @pokemongoapp. For 1:1 support, submit a request on our Help Center.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 118386,
+      "friends_count": 8,
+      "listed_count": 421,
+      "favourites_count": 268,
+      "statuses_count": 6383,
+      "created_at": "Tue Apr 04 19:33:07 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/881121045851193344/rs883Rhq_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/881121045851193344/rs883Rhq_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/849344094681870336/1530305941",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "Due to system errors, Trainers in some parts of the APAC region were unable to connect to Pokémon GO during the Gengar Special Raid Challenge. We appreciate your patience as we work to resolve these issues and deeply apologize for the inconvenience.",
+      "display_text_range": [
+        0,
+        249
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+      }
+    },
+    "quote_count": 27,
+    "reply_count": 114,
+    "retweet_count": 103,
+    "favorite_count": 623,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/S6T7Az1xtK",
+          "expanded_url": "https://twitter.com/i/web/status/1058570080156565504",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/E9AYU1F1NO",
+    "expanded": "https://twitter.com/NianticHelp/status/1058570080156565504",
+    "display": "twitter.com/NianticHelp/st…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ポケモンGO",
+        "indices": [
+          82,
+          89
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/E9AYU1F1NO",
+        "expanded_url": "https://twitter.com/NianticHelp/status/1058570080156565504",
+        "display_url": "twitter.com/NianticHelp/st…",
+        "indices": [
+          90,
+          113
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "gamewith_pkgo",
+        "name": "ポケモンGO攻略＠GameWith",
+        "id": 752346815161184257,
+        "id_str": "752346815161184257",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254733661"
+}

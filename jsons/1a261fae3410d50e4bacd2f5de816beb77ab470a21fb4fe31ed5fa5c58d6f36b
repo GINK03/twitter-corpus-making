@@ -1,0 +1,167 @@
+{
+  "created_at": "Sat Nov 03 14:14:09 +0000 2018",
+  "id": 1058724013684383744,
+  "id_str": "1058724013684383744",
+  "text": "スマホRPGは今これをやってるよ。今はこのイベントが開催中！　→　https://t.co/eGQmH2aDDv https://t.co/KBTbLTebxI",
+  "display_text_range": [
+    0,
+    56
+  ],
+  "source": "<a href=\"http://granbluefantasy.jp/\" rel=\"nofollow\">グランブルー ファンタジー</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3328742448,
+    "id_str": "3328742448",
+    "name": "魔乳カエル太助☆三世",
+    "screen_name": "m_e_t_k",
+    "location": null,
+    "url": "http://pixiv.me/metk",
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 3183,
+    "friends_count": 581,
+    "listed_count": 55,
+    "favourites_count": 8136,
+    "statuses_count": 7940,
+    "created_at": "Mon Aug 24 14:32:29 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "zh-tw",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/995801757354672129/wSw3sFuJ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/995801757354672129/wSw3sFuJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3328742448/1537372970",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/eGQmH2aDDv",
+        "expanded_url": "http://game.granbluefantasy.jp",
+        "display_url": "game.granbluefantasy.jp",
+        "indices": [
+          33,
+          56
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724011532705792,
+        "id_str": "1058724011532705792",
+        "indices": [
+          57,
+          80
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFX4Q6VYAAy1_3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFX4Q6VYAAy1_3.jpg",
+        "url": "https://t.co/KBTbLTebxI",
+        "display_url": "pic.twitter.com/KBTbLTebxI",
+        "expanded_url": "https://twitter.com/m_e_t_k/status/1058724013684383744/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 340,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724011532705792,
+        "id_str": "1058724011532705792",
+        "indices": [
+          57,
+          80
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFX4Q6VYAAy1_3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFX4Q6VYAAy1_3.jpg",
+        "url": "https://t.co/KBTbLTebxI",
+        "display_url": "pic.twitter.com/KBTbLTebxI",
+        "expanded_url": "https://twitter.com/m_e_t_k/status/1058724013684383744/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 340,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254449660"
+}

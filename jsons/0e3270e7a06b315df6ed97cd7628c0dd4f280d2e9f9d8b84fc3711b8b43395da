@@ -1,0 +1,411 @@
+{
+  "created_at": "Sat Nov 03 14:16:46 +0000 2018",
+  "id": 1058724672181653504,
+  "id_str": "1058724672181653504",
+  "text": "RT @sakami_ti46aaa: こっち向いてNOGIZAKA！#山下美月\n\n今日のメンバーは山下美月 https://t.co/JYOy53JDi8",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 713805128348733440,
+    "id_str": "713805128348733440",
+    "name": "カキヨシ",
+    "screen_name": "76RFZBGUCBHIYOd",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 28,
+    "friends_count": 362,
+    "listed_count": 0,
+    "favourites_count": 0,
+    "statuses_count": 452,
+    "created_at": "Sat Mar 26 19:09:39 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 10:41:09 +0000 2018",
+    "id": 1058670409858465792,
+    "id_str": "1058670409858465792",
+    "text": "こっち向いてNOGIZAKA！#山下美月\n\n今日のメンバーは山下美月 https://t.co/JYOy53JDi8",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1016423126802956296,
+      "id_str": "1016423126802956296",
+      "name": "そら⊿まとめ",
+      "screen_name": "sakami_ti46aaa",
+      "location": "努力 感謝 笑顔 謙虚 優しさ 絆",
+      "url": null,
+      "description": "坂道シリーズを主に応援 良いものはなんでも実況 さすらい人 kagura(歌手、俳優 嵐 米津玄師  キンプリ)❤西野七瀬 橋本奈々未･齋藤飛鳥･生田絵梨花❤AAA❤#平手友梨奈 渡邉理佐 小林由依 ❤星野源❤ 気軽にフォローお願いします！誤字あり92日目",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 20235,
+      "friends_count": 29,
+      "listed_count": 108,
+      "favourites_count": 11,
+      "statuses_count": 233,
+      "created_at": "Mon Jul 09 20:45:32 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1045288410057822208/3cLljuGj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045288410057822208/3cLljuGj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1016423126802956296/1531170536",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 7,
+    "reply_count": 1,
+    "retweet_count": 217,
+    "favorite_count": 1209,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "山下美月",
+          "indices": [
+            15,
+            20
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058670278950051841,
+          "id_str": "1058670278950051841",
+          "indices": [
+            35,
+            58
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058670278950051841/pu/img/gd-ddJJPNNbwXaTf.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058670278950051841/pu/img/gd-ddJJPNNbwXaTf.jpg",
+          "url": "https://t.co/JYOy53JDi8",
+          "display_url": "pic.twitter.com/JYOy53JDi8",
+          "expanded_url": "https://twitter.com/sakami_ti46aaa/status/1058670409858465792/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058670278950051841,
+          "id_str": "1058670278950051841",
+          "indices": [
+            35,
+            58
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058670278950051841/pu/img/gd-ddJJPNNbwXaTf.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058670278950051841/pu/img/gd-ddJJPNNbwXaTf.jpg",
+          "url": "https://t.co/JYOy53JDi8",
+          "display_url": "pic.twitter.com/JYOy53JDi8",
+          "expanded_url": "https://twitter.com/sakami_ti46aaa/status/1058670409858465792/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 20888,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058670278950051841/pu/vid/180x320/xGz1uQX7On5GB84Z.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058670278950051841/pu/pl/jCZ6iJatkJdni8sj.m3u8?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058670278950051841/pu/vid/720x1280/lwlGHdJzadV754BI.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058670278950051841/pu/vid/360x640/N6ARlIeFNZxhtHnn.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "山下美月",
+        "indices": [
+          35,
+          40
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "sakami_ti46aaa",
+        "name": "そら⊿まとめ",
+        "id": 1016423126802956296,
+        "id_str": "1016423126802956296",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058670278950051841,
+        "id_str": "1058670278950051841",
+        "indices": [
+          55,
+          78
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058670278950051841/pu/img/gd-ddJJPNNbwXaTf.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058670278950051841/pu/img/gd-ddJJPNNbwXaTf.jpg",
+        "url": "https://t.co/JYOy53JDi8",
+        "display_url": "pic.twitter.com/JYOy53JDi8",
+        "expanded_url": "https://twitter.com/sakami_ti46aaa/status/1058670409858465792/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058670409858465792,
+        "source_status_id_str": "1058670409858465792",
+        "source_user_id": 1016423126802956296,
+        "source_user_id_str": "1016423126802956296"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058670278950051841,
+        "id_str": "1058670278950051841",
+        "indices": [
+          55,
+          78
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058670278950051841/pu/img/gd-ddJJPNNbwXaTf.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058670278950051841/pu/img/gd-ddJJPNNbwXaTf.jpg",
+        "url": "https://t.co/JYOy53JDi8",
+        "display_url": "pic.twitter.com/JYOy53JDi8",
+        "expanded_url": "https://twitter.com/sakami_ti46aaa/status/1058670409858465792/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 20888,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058670278950051841/pu/vid/180x320/xGz1uQX7On5GB84Z.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058670278950051841/pu/pl/jCZ6iJatkJdni8sj.m3u8?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058670278950051841/pu/vid/720x1280/lwlGHdJzadV754BI.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058670278950051841/pu/vid/360x640/N6ARlIeFNZxhtHnn.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058670409858465792,
+        "source_status_id_str": "1058670409858465792",
+        "source_user_id": 1016423126802956296,
+        "source_user_id_str": "1016423126802956296"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254606658"
+}

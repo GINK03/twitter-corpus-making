@@ -1,0 +1,100 @@
+{
+  "created_at": "Sat Nov 03 14:13:19 +0000 2018",
+  "id": 1058723803956600832,
+  "id_str": "1058723803956600832",
+  "text": "【MV】東京インセプションブレイク/boomman feat.初音ミク https://t.co/ZbRGSgjhsC #sm34089285 #ニコニコ動画\nとてもすこでした",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2856495456,
+    "id_str": "2856495456",
+    "name": "はましお@とても凄い（あと強い）",
+    "screen_name": "torokeruanimal",
+    "location": "美味しいもの食べたい",
+    "url": "http://Instagram.com/torokeruanimal",
+    "description": "アイコン（@nico__clown） ボーカロイドの音楽がすき。v_flower とてもすき。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 281,
+    "friends_count": 499,
+    "listed_count": 11,
+    "favourites_count": 17999,
+    "statuses_count": 16101,
+    "created_at": "Wed Oct 15 09:31:52 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056761275319934976/P58lb6Ui_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056761275319934976/P58lb6Ui_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2856495456/1529257099",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sm34089285",
+        "indices": [
+          60,
+          71
+        ]
+      },
+      {
+        "text": "ニコニコ動画",
+        "indices": [
+          72,
+          79
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/ZbRGSgjhsC",
+        "expanded_url": "https://nico.ms/sm34089285?ref=twitter_ss",
+        "display_url": "nico.ms/sm34089285?ref…",
+        "indices": [
+          36,
+          59
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254399657"
+}

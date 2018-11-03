@@ -1,0 +1,166 @@
+{
+  "created_at": "Sat Nov 03 14:16:14 +0000 2018",
+  "id": 1058724537963925504,
+  "id_str": "1058724537963925504",
+  "text": "LINEよく聞かれるのでのせますー！今日だけ。友達いっぱいになったら消します🤣\nよかったら追加ください⇔https://t.co/AqDyeSm8VF\n\n動画とかいろいろのせます🏩 https://t.co/5cc3EqSAlZ",
+  "display_text_range": [
+    0,
+    90
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1053167606482386944,
+    "id_str": "1053167606482386944",
+    "name": "めいな",
+    "screen_name": "exjtbmn",
+    "location": null,
+    "url": null,
+    "description": "RTやDMお待ちしてます♡",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 12,
+    "friends_count": 0,
+    "listed_count": 0,
+    "favourites_count": 0,
+    "statuses_count": 5,
+    "created_at": "Fri Oct 19 06:14:59 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "19CF86",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/AqDyeSm8VF",
+        "expanded_url": "http://bit.ly/2RgrUHb",
+        "display_url": "bit.ly/2RgrUHb",
+        "indices": [
+          52,
+          75
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724501834235910,
+        "id_str": "1058724501834235910",
+        "indices": [
+          91,
+          114
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYUzbVAAYPl06.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYUzbVAAYPl06.jpg",
+        "url": "https://t.co/5cc3EqSAlZ",
+        "display_url": "pic.twitter.com/5cc3EqSAlZ",
+        "expanded_url": "https://twitter.com/exjtbmn/status/1058724537963925504/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 407,
+            "h": 407,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 407,
+            "h": 407,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 407,
+            "h": 407,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724501834235910,
+        "id_str": "1058724501834235910",
+        "indices": [
+          91,
+          114
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYUzbVAAYPl06.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYUzbVAAYPl06.jpg",
+        "url": "https://t.co/5cc3EqSAlZ",
+        "display_url": "pic.twitter.com/5cc3EqSAlZ",
+        "expanded_url": "https://twitter.com/exjtbmn/status/1058724537963925504/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 407,
+            "h": 407,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 407,
+            "h": 407,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 407,
+            "h": 407,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254574658"
+}

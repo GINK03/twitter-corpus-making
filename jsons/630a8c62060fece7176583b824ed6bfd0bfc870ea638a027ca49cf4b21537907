@@ -1,0 +1,416 @@
+{
+  "created_at": "Sat Nov 03 14:25:46 +0000 2018",
+  "id": 1058726937101709313,
+  "id_str": "1058726937101709313",
+  "text": "RT @MartinDaiix: Aviciiが亡くなってカバーした曲\n2人ともうますぎて感動した…😭\n#EDM  #avicii https://t.co/udDtHQ7UN0",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 800606953638490112,
+    "id_str": "800606953638490112",
+    "name": "リアン″LEANNE″",
+    "screen_name": "LE4nne_26",
+    "location": null,
+    "url": null,
+    "description": "🇵🇭 FILIPINO",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 453,
+    "friends_count": 446,
+    "listed_count": 0,
+    "favourites_count": 6798,
+    "statuses_count": 4721,
+    "created_at": "Mon Nov 21 07:49:07 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058391678048854018/_jqkHK_p_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058391678048854018/_jqkHK_p_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/800606953638490112/1514089426",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Oct 29 07:39:14 +0000 2018",
+    "id": 1056812688448282624,
+    "id_str": "1056812688448282624",
+    "text": "Aviciiが亡くなってカバーした曲\n2人ともうますぎて感動した…😭\n#EDM  #avicii https://t.co/udDtHQ7UN0",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1056490292587638784,
+      "id_str": "1056490292587638784",
+      "name": "◢ Da.¡ ◤",
+      "screen_name": "MartinDaiix",
+      "location": null,
+      "url": null,
+      "description": "EDM初心者🔰Avicii/Zedd/The Chainsmokers/Martin Garrix/Marshmello/DJ SNAKE/フォロバ100%😈(興味無さすぎる人以外)DMでどんどん絡んできて😗",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 283,
+      "friends_count": 229,
+      "listed_count": 2,
+      "favourites_count": 362,
+      "statuses_count": 33,
+      "created_at": "Sun Oct 28 10:18:09 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1056933727962488832/k-yJD-wv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056933727962488832/k-yJD-wv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056490292587638784/1540721973",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 116,
+    "reply_count": 13,
+    "retweet_count": 8424,
+    "favorite_count": 30135,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "EDM",
+          "indices": [
+            35,
+            39
+          ]
+        },
+        {
+          "text": "avicii",
+          "indices": [
+            41,
+            48
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1056812579492790272,
+          "id_str": "1056812579492790272",
+          "indices": [
+            49,
+            72
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056812579492790272/pu/img/hoIV8oDDblsr4Qjg.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056812579492790272/pu/img/hoIV8oDDblsr4Qjg.jpg",
+          "url": "https://t.co/udDtHQ7UN0",
+          "display_url": "pic.twitter.com/udDtHQ7UN0",
+          "expanded_url": "https://twitter.com/MartinDaiix/status/1056812688448282624/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1056812579492790272,
+          "id_str": "1056812579492790272",
+          "indices": [
+            49,
+            72
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056812579492790272/pu/img/hoIV8oDDblsr4Qjg.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056812579492790272/pu/img/hoIV8oDDblsr4Qjg.jpg",
+          "url": "https://t.co/udDtHQ7UN0",
+          "display_url": "pic.twitter.com/udDtHQ7UN0",
+          "expanded_url": "https://twitter.com/MartinDaiix/status/1056812688448282624/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 140027,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1056812579492790272/pu/pl/tw6zUE0rVVwQItE0.m3u8?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1056812579492790272/pu/vid/640x360/vgcuXPDpwrN9OOxJ.mp4?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1056812579492790272/pu/vid/320x180/7um5e6SE1N-PkK8V.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "EDM",
+        "indices": [
+          52,
+          56
+        ]
+      },
+      {
+        "text": "avicii",
+        "indices": [
+          58,
+          65
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "MartinDaiix",
+        "name": "◢ Da.¡ ◤",
+        "id": 1056490292587638784,
+        "id_str": "1056490292587638784",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1056812579492790272,
+        "id_str": "1056812579492790272",
+        "indices": [
+          66,
+          89
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056812579492790272/pu/img/hoIV8oDDblsr4Qjg.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056812579492790272/pu/img/hoIV8oDDblsr4Qjg.jpg",
+        "url": "https://t.co/udDtHQ7UN0",
+        "display_url": "pic.twitter.com/udDtHQ7UN0",
+        "expanded_url": "https://twitter.com/MartinDaiix/status/1056812688448282624/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1056812688448282624,
+        "source_status_id_str": "1056812688448282624",
+        "source_user_id": 1056490292587638784,
+        "source_user_id_str": "1056490292587638784"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1056812579492790272,
+        "id_str": "1056812579492790272",
+        "indices": [
+          66,
+          89
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056812579492790272/pu/img/hoIV8oDDblsr4Qjg.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056812579492790272/pu/img/hoIV8oDDblsr4Qjg.jpg",
+        "url": "https://t.co/udDtHQ7UN0",
+        "display_url": "pic.twitter.com/udDtHQ7UN0",
+        "expanded_url": "https://twitter.com/MartinDaiix/status/1056812688448282624/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 140027,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1056812579492790272/pu/pl/tw6zUE0rVVwQItE0.m3u8?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1056812579492790272/pu/vid/640x360/vgcuXPDpwrN9OOxJ.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1056812579492790272/pu/vid/320x180/7um5e6SE1N-PkK8V.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1056812688448282624,
+        "source_status_id_str": "1056812688448282624",
+        "source_user_id": 1056490292587638784,
+        "source_user_id_str": "1056490292587638784"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255146657"
+}

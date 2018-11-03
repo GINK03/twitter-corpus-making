@@ -1,0 +1,167 @@
+{
+  "created_at": "Sat Nov 03 14:16:44 +0000 2018",
+  "id": 1058724663788851201,
+  "id_str": "1058724663788851201",
+  "text": "【競馬予想】[3]第18回JBCクラシック(Jpn1) /2018 https://t.co/Zisag33guh https://t.co/zxOQGuVAvP",
+  "display_text_range": [
+    0,
+    57
+  ],
+  "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 742335219395526657,
+    "id_str": "742335219395526657",
+    "name": "ニュース色んな情報局！プラス？",
+    "screen_name": "MomentYusan",
+    "location": "日本",
+    "url": null,
+    "description": "世の中の色んなニュースや情報を発信します！",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 3405,
+    "friends_count": 3811,
+    "listed_count": 0,
+    "favourites_count": 4157,
+    "statuses_count": 111710,
+    "created_at": "Mon Jun 13 12:38:03 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/742341270534656000/WYXhc79h_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/742341270534656000/WYXhc79h_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/742335219395526657/1465914572",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/Zisag33guh",
+        "expanded_url": "https://betterhot.online/?p=219643",
+        "display_url": "betterhot.online/?p=219643",
+        "indices": [
+          34,
+          57
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724661997985793,
+        "id_str": "1058724661997985793",
+        "indices": [
+          58,
+          81
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYeIFV4AEoR_1.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYeIFV4AEoR_1.jpg",
+        "url": "https://t.co/zxOQGuVAvP",
+        "display_url": "pic.twitter.com/zxOQGuVAvP",
+        "expanded_url": "https://twitter.com/MomentYusan/status/1058724663788851201/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 450,
+            "h": 298,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 450,
+            "h": 298,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 450,
+            "h": 298,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724661997985793,
+        "id_str": "1058724661997985793",
+        "indices": [
+          58,
+          81
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYeIFV4AEoR_1.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYeIFV4AEoR_1.jpg",
+        "url": "https://t.co/zxOQGuVAvP",
+        "display_url": "pic.twitter.com/zxOQGuVAvP",
+        "expanded_url": "https://twitter.com/MomentYusan/status/1058724663788851201/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 450,
+            "h": 298,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 450,
+            "h": 298,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 450,
+            "h": 298,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254604657"
+}

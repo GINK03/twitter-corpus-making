@@ -1,0 +1,480 @@
+{
+  "created_at": "Sat Nov 03 14:20:35 +0000 2018",
+  "id": 1058725632677269505,
+  "id_str": "1058725632677269505",
+  "text": "RT @kamome_owasera: 嫉妬…？😳 https://t.co/cKnlqCuNeX",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 264154029,
+    "id_str": "264154029",
+    "name": "鳩麦",
+    "screen_name": "reyz565",
+    "location": "例のあの場所",
+    "url": null,
+    "description": "紹介する自己もない若造ですが、主に物語に焦点を充てつつ色々な作品を広く、浅く。一応、Vivid、SAO二次創作者。稚拙ながら少しずつ更新中。暁（二次サイト）垢:http://www.akatsuki-novels.com/users/view/9 Pixiv ID:21484368",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 203,
+    "friends_count": 1029,
+    "listed_count": 2,
+    "favourites_count": 26892,
+    "statuses_count": 22282,
+    "created_at": "Fri Mar 11 12:34:06 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "4A913C",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/450970297487724545/zOQBOGzC_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/450970297487724545/zOQBOGzC_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/264154029/1396354896",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:51:18 +0000 2018",
+    "id": 1058718264136585216,
+    "id_str": "1058718264136585216",
+    "text": "嫉妬…？😳 https://t.co/cKnlqCuNeX",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 724905502728179712,
+      "id_str": "724905502728179712",
+      "name": "榎もめ⚓️㊗️SAO3期",
+      "screen_name": "kamome_owasera",
+      "location": "メモデフ：陽炎組所属 ",
+      "url": "http://www.pixiv.net/member.php?id=22257211",
+      "description": "読み方“かもめ”/絵描き/ibisPaint X/学生/メッセージ→ https://marshmallow-qa.com/kamome_owasera?utm_medium=url_text&utm_source=promotion※イラスト保存の注意事項は固定ツイからお願いします。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 5112,
+      "friends_count": 447,
+      "listed_count": 49,
+      "favourites_count": 3564,
+      "statuses_count": 5058,
+      "created_at": "Tue Apr 26 10:18:34 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1053955816003268608/EcXtaEC7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053955816003268608/EcXtaEC7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/724905502728179712/1540010621",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 2,
+    "reply_count": 9,
+    "retweet_count": 93,
+    "favorite_count": 262,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058718257807450112,
+          "id_str": "1058718257807450112",
+          "indices": [
+            6,
+            29
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFSpWnVYAAW0N4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFSpWnVYAAW0N4.jpg",
+          "url": "https://t.co/cKnlqCuNeX",
+          "display_url": "pic.twitter.com/cKnlqCuNeX",
+          "expanded_url": "https://twitter.com/kamome_owasera/status/1058718264136585216/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 489,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1473,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 863,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058718257807450112,
+          "id_str": "1058718257807450112",
+          "indices": [
+            6,
+            29
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFSpWnVYAAW0N4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFSpWnVYAAW0N4.jpg",
+          "url": "https://t.co/cKnlqCuNeX",
+          "display_url": "pic.twitter.com/cKnlqCuNeX",
+          "expanded_url": "https://twitter.com/kamome_owasera/status/1058718264136585216/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 489,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1473,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 863,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058718258944069632,
+          "id_str": "1058718258944069632",
+          "indices": [
+            6,
+            29
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFSpa2U0AAYPap.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFSpa2U0AAYPap.jpg",
+          "url": "https://t.co/cKnlqCuNeX",
+          "display_url": "pic.twitter.com/cKnlqCuNeX",
+          "expanded_url": "https://twitter.com/kamome_owasera/status/1058718264136585216/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 489,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1473,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 863,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058718257807470592,
+          "id_str": "1058718257807470592",
+          "indices": [
+            6,
+            29
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFSpWnVsAA5ufh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFSpWnVsAA5ufh.jpg",
+          "url": "https://t.co/cKnlqCuNeX",
+          "display_url": "pic.twitter.com/cKnlqCuNeX",
+          "expanded_url": "https://twitter.com/kamome_owasera/status/1058718264136585216/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 863,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 489,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1473,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "kamome_owasera",
+        "name": "榎もめ⚓️㊗️SAO3期",
+        "id": 724905502728179712,
+        "id_str": "724905502728179712",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058718257807450112,
+        "id_str": "1058718257807450112",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFSpWnVYAAW0N4.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFSpWnVYAAW0N4.jpg",
+        "url": "https://t.co/cKnlqCuNeX",
+        "display_url": "pic.twitter.com/cKnlqCuNeX",
+        "expanded_url": "https://twitter.com/kamome_owasera/status/1058718264136585216/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 489,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1473,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 863,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058718264136585216,
+        "source_status_id_str": "1058718264136585216",
+        "source_user_id": 724905502728179712,
+        "source_user_id_str": "724905502728179712"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058718257807450112,
+        "id_str": "1058718257807450112",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFSpWnVYAAW0N4.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFSpWnVYAAW0N4.jpg",
+        "url": "https://t.co/cKnlqCuNeX",
+        "display_url": "pic.twitter.com/cKnlqCuNeX",
+        "expanded_url": "https://twitter.com/kamome_owasera/status/1058718264136585216/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 489,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1473,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 863,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058718264136585216,
+        "source_status_id_str": "1058718264136585216",
+        "source_user_id": 724905502728179712,
+        "source_user_id_str": "724905502728179712"
+      },
+      {
+        "id": 1058718258944069632,
+        "id_str": "1058718258944069632",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFSpa2U0AAYPap.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFSpa2U0AAYPap.jpg",
+        "url": "https://t.co/cKnlqCuNeX",
+        "display_url": "pic.twitter.com/cKnlqCuNeX",
+        "expanded_url": "https://twitter.com/kamome_owasera/status/1058718264136585216/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 489,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1473,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 863,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058718264136585216,
+        "source_status_id_str": "1058718264136585216",
+        "source_user_id": 724905502728179712,
+        "source_user_id_str": "724905502728179712"
+      },
+      {
+        "id": 1058718257807470592,
+        "id_str": "1058718257807470592",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFSpWnVsAA5ufh.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFSpWnVsAA5ufh.jpg",
+        "url": "https://t.co/cKnlqCuNeX",
+        "display_url": "pic.twitter.com/cKnlqCuNeX",
+        "expanded_url": "https://twitter.com/kamome_owasera/status/1058718264136585216/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 863,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 489,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1473,
+            "h": 2048,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058718264136585216,
+        "source_status_id_str": "1058718264136585216",
+        "source_user_id": 724905502728179712,
+        "source_user_id_str": "724905502728179712"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254835658"
+}

@@ -1,0 +1,89 @@
+{
+  "created_at": "Sat Nov 03 14:25:15 +0000 2018",
+  "id": 1058726807095001088,
+  "id_str": "1058726807095001088",
+  "text": "#まじかるどーる超祭り\n#まじかるどーる超祭り2018 \n良き(*´∀｀*)",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1032758826624143360,
+    "id_str": "1032758826624143360",
+    "name": "altyle/アルタイル💸🦋✪🌼🍥✝️🍫Ⓜ️",
+    "screen_name": "altyle1228",
+    "location": null,
+    "url": null,
+    "description": "vtuberにハマってます 無言フォロー失礼します〜 ゲーム,フォートナイト,bo4 やってます！偶にfgo,アニメ ラブライブ バンドリなど〜 ラブライブ, μ'sならことりちゃん aqoursは梨子ちゃん バンドリは沙綾ちゃん,香澄ちゃんが好き #そらとも, #ソルトバンク,#朝ノ衆,#ゆにチル, #マリーダー",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 377,
+    "friends_count": 394,
+    "listed_count": 12,
+    "favourites_count": 22128,
+    "statuses_count": 12303,
+    "created_at": "Thu Aug 23 22:37:46 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1044217660752326657/QSaiILIO_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044217660752326657/QSaiILIO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1032758826624143360/1536976986",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "まじかるどーる超祭り",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "text": "まじかるどーる超祭り2018",
+        "indices": [
+          12,
+          27
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255115661"
+}

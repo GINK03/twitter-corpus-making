@@ -1,0 +1,396 @@
+{
+  "created_at": "Sat Nov 03 14:25:12 +0000 2018",
+  "id": 1058726794503671808,
+  "id_str": "1058726794503671808",
+  "text": "RT @akihiro_96k1: スマホが唐突にガラケーに変わるシーンと普通のでかい枕が唐突にサメに変身するシーンが個人的に評価高い https://t.co/PFlrMhaTZr",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2277402823,
+    "id_str": "2277402823",
+    "name": "みゃーた@1",
+    "screen_name": "myata0810",
+    "location": "お茶漬け",
+    "url": null,
+    "description": "腐女子、地雷無雑食。20↑。RT＆ﾘﾌﾟの嵐が割と起こりますのでご注意。(｀ﾌ´)が好き",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 722,
+    "friends_count": 2696,
+    "listed_count": 14,
+    "favourites_count": 71228,
+    "statuses_count": 36517,
+    "created_at": "Sun Jan 05 09:44:47 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/669933360928522240/4qt6lp2D_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/669933360928522240/4qt6lp2D_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2277402823/1425923206",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Nov 01 11:22:04 +0000 2018",
+    "id": 1057955932217368576,
+    "id_str": "1057955932217368576",
+    "text": "スマホが唐突にガラケーに変わるシーンと普通のでかい枕が唐突にサメに変身するシーンが個人的に評価高い https://t.co/PFlrMhaTZr",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 733178815749316608,
+      "id_str": "733178815749316608",
+      "name": "くろき",
+      "screen_name": "akihiro_96k1",
+      "location": null,
+      "url": null,
+      "description": "バズった悦びおじさん/F高→KU PT 10th",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 310,
+      "friends_count": 283,
+      "listed_count": 3,
+      "favourites_count": 9518,
+      "statuses_count": 9878,
+      "created_at": "Thu May 19 06:13:46 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1052962227194478592/UXfT7qj__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052962227194478592/UXfT7qj__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/733178815749316608/1531237759",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 454,
+    "reply_count": 161,
+    "retweet_count": 31583,
+    "favorite_count": 52547,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1057955842849308672,
+          "id_str": "1057955842849308672",
+          "indices": [
+            50,
+            73
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057955842849308672/pu/img/8XWZu7LU8yLepR36.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057955842849308672/pu/img/8XWZu7LU8yLepR36.jpg",
+          "url": "https://t.co/PFlrMhaTZr",
+          "display_url": "pic.twitter.com/PFlrMhaTZr",
+          "expanded_url": "https://twitter.com/akihiro_96k1/status/1057955932217368576/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1057955842849308672,
+          "id_str": "1057955842849308672",
+          "indices": [
+            50,
+            73
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057955842849308672/pu/img/8XWZu7LU8yLepR36.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057955842849308672/pu/img/8XWZu7LU8yLepR36.jpg",
+          "url": "https://t.co/PFlrMhaTZr",
+          "display_url": "pic.twitter.com/PFlrMhaTZr",
+          "expanded_url": "https://twitter.com/akihiro_96k1/status/1057955932217368576/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 33433,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1057955842849308672/pu/pl/KUVAQdXRrz5nS3tx.m3u8?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1057955842849308672/pu/vid/320x180/8UANHKEii-ie2mAm.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1057955842849308672/pu/vid/640x360/gKL88nxOJCb3xHvV.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1057955842849308672/pu/vid/1280x720/YVLxzYdivEnkUgkb.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "akihiro_96k1",
+        "name": "くろき",
+        "id": 733178815749316608,
+        "id_str": "733178815749316608",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1057955842849308672,
+        "id_str": "1057955842849308672",
+        "indices": [
+          68,
+          91
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057955842849308672/pu/img/8XWZu7LU8yLepR36.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057955842849308672/pu/img/8XWZu7LU8yLepR36.jpg",
+        "url": "https://t.co/PFlrMhaTZr",
+        "display_url": "pic.twitter.com/PFlrMhaTZr",
+        "expanded_url": "https://twitter.com/akihiro_96k1/status/1057955932217368576/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057955932217368576,
+        "source_status_id_str": "1057955932217368576",
+        "source_user_id": 733178815749316608,
+        "source_user_id_str": "733178815749316608"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1057955842849308672,
+        "id_str": "1057955842849308672",
+        "indices": [
+          68,
+          91
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057955842849308672/pu/img/8XWZu7LU8yLepR36.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057955842849308672/pu/img/8XWZu7LU8yLepR36.jpg",
+        "url": "https://t.co/PFlrMhaTZr",
+        "display_url": "pic.twitter.com/PFlrMhaTZr",
+        "expanded_url": "https://twitter.com/akihiro_96k1/status/1057955932217368576/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 33433,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1057955842849308672/pu/pl/KUVAQdXRrz5nS3tx.m3u8?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1057955842849308672/pu/vid/320x180/8UANHKEii-ie2mAm.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1057955842849308672/pu/vid/640x360/gKL88nxOJCb3xHvV.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1057955842849308672/pu/vid/1280x720/YVLxzYdivEnkUgkb.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057955932217368576,
+        "source_status_id_str": "1057955932217368576",
+        "source_user_id": 733178815749316608,
+        "source_user_id_str": "733178815749316608"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255112659"
+}

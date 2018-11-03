@@ -1,0 +1,344 @@
+{
+  "created_at": "Sat Nov 03 14:09:34 +0000 2018",
+  "id": 1058722857851580416,
+  "id_str": "1058722857851580416",
+  "text": "RT @221EX: いきぬきラフ絵 ふたりは鬼救阿 #FGO https://t.co/3Yy4GCkrFS",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 743937358530125824,
+    "id_str": "743937358530125824",
+    "name": "まろん",
+    "screen_name": "gekka2maroon",
+    "location": null,
+    "url": null,
+    "description": "デレステやってます。デレステID：873074821 蘭子ちゃん＆美玲ちゃん担当。気になるキャラは固定ツイートで。\n\nリツイートマンです。うるさかったらミュートかブロックお願いします",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 231,
+    "friends_count": 1355,
+    "listed_count": 4,
+    "favourites_count": 9809,
+    "statuses_count": 54901,
+    "created_at": "Fri Jun 17 22:44:22 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/931657740753051648/6JNFY40N_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/931657740753051648/6JNFY40N_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/743937358530125824/1535042120",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Oct 24 05:27:44 +0000 2018",
+    "id": 1054967659132059649,
+    "id_str": "1054967659132059649",
+    "text": "いきぬきラフ絵 ふたりは鬼救阿 #FGO https://t.co/3Yy4GCkrFS",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "source": "<a href=\"https://sites.google.com/site/tweentwitterclient/\" rel=\"nofollow\">Tween</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 18759727,
+      "id_str": "18759727",
+      "name": "221@アバレジェ1巻発売中",
+      "screen_name": "221EX",
+      "location": "ｷｭｳｼｭｳ村",
+      "url": "http://amaraku.blog105.fc2.com/",
+      "description": "のんべんだらりんとする漫画家です。コミックリュウwebサイトにて「アーバンレジェンド」連載開始しました。作品ページはコチラ→http://www.comic-ryu.jp/_urbanlegend/index.htmlお仕事のご依頼等はコチラ→amaraku221@yahoo.co.jp",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 25081,
+      "friends_count": 1048,
+      "listed_count": 666,
+      "favourites_count": 278,
+      "statuses_count": 209515,
+      "created_at": "Thu Jan 08 10:08:56 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/980511861916426240/ByGUvg0G_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/980511861916426240/ByGUvg0G_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18759727/1532917848",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 631,
+    "favorite_count": 1451,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            16,
+            20
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1054967656472821761,
+          "id_str": "1054967656472821761",
+          "indices": [
+            21,
+            44
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqP_fn2WwAEjff3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqP_fn2WwAEjff3.jpg",
+          "url": "https://t.co/3Yy4GCkrFS",
+          "display_url": "pic.twitter.com/3Yy4GCkrFS",
+          "expanded_url": "https://twitter.com/221EX/status/1054967659132059649/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 850,
+              "h": 705,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 564,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 850,
+              "h": 705,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1054967656472821761,
+          "id_str": "1054967656472821761",
+          "indices": [
+            21,
+            44
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqP_fn2WwAEjff3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqP_fn2WwAEjff3.jpg",
+          "url": "https://t.co/3Yy4GCkrFS",
+          "display_url": "pic.twitter.com/3Yy4GCkrFS",
+          "expanded_url": "https://twitter.com/221EX/status/1054967659132059649/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 850,
+              "h": 705,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 564,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 850,
+              "h": 705,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          27,
+          31
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "221EX",
+        "name": "221@アバレジェ1巻発売中",
+        "id": 18759727,
+        "id_str": "18759727",
+        "indices": [
+          3,
+          9
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1054967656472821761,
+        "id_str": "1054967656472821761",
+        "indices": [
+          32,
+          55
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqP_fn2WwAEjff3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqP_fn2WwAEjff3.jpg",
+        "url": "https://t.co/3Yy4GCkrFS",
+        "display_url": "pic.twitter.com/3Yy4GCkrFS",
+        "expanded_url": "https://twitter.com/221EX/status/1054967659132059649/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 850,
+            "h": 705,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 564,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 850,
+            "h": 705,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1054967659132059649,
+        "source_status_id_str": "1054967659132059649",
+        "source_user_id": 18759727,
+        "source_user_id_str": "18759727"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1054967656472821761,
+        "id_str": "1054967656472821761",
+        "indices": [
+          32,
+          55
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqP_fn2WwAEjff3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqP_fn2WwAEjff3.jpg",
+        "url": "https://t.co/3Yy4GCkrFS",
+        "display_url": "pic.twitter.com/3Yy4GCkrFS",
+        "expanded_url": "https://twitter.com/221EX/status/1054967659132059649/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 850,
+            "h": 705,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 564,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 850,
+            "h": 705,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1054967659132059649,
+        "source_status_id_str": "1054967659132059649",
+        "source_user_id": 18759727,
+        "source_user_id_str": "18759727"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254174088"
+}

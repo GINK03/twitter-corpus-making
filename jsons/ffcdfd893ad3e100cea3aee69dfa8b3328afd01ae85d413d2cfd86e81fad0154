@@ -1,0 +1,114 @@
+{
+  "created_at": "Sat Nov 03 14:03:36 +0000 2018",
+  "id": 1058721356030738432,
+  "id_str": "1058721356030738432",
+  "text": "Q.阿武隈の由来となった場所は？\n答えはコチラ(写真あり)⇒ https://t.co/x4ZPLQLMiQ\n#艦これ #艦コレ #艦隊これくしょん #kancolle",
+  "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 720197463508824065,
+    "id_str": "720197463508824065",
+    "name": "釣りキチふーみん",
+    "screen_name": "humi_kancolle",
+    "location": "日本",
+    "url": "http://mues.pw/humin/",
+    "description": "車はBMW Z3→Peugeot RCZ-A、バイクはBOLT→CBRの提督です。夢は世界平和。日本1周の旅中。報告動画つぶやきます。プロフ絵は昔馴染みのろあさんより賜りました。TRPG、やるのも見るのも好き。艦これ・アズレン。海川湖問わず釣り。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 894,
+    "friends_count": 932,
+    "listed_count": 9,
+    "favourites_count": 662,
+    "statuses_count": 8152,
+    "created_at": "Wed Apr 13 10:30:30 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1052480332732104704/-Y17JtfZ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052480332732104704/-Y17JtfZ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/720197463508824065/1538552098",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ",
+        "indices": [
+          55,
+          59
+        ]
+      },
+      {
+        "text": "艦コレ",
+        "indices": [
+          60,
+          64
+        ]
+      },
+      {
+        "text": "艦隊これくしょん",
+        "indices": [
+          65,
+          74
+        ]
+      },
+      {
+        "text": "kancolle",
+        "indices": [
+          75,
+          84
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/x4ZPLQLMiQ",
+        "expanded_url": "http://wp.me/p7raT7-1V",
+        "display_url": "wp.me/p7raT7-1V",
+        "indices": [
+          31,
+          54
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253816026"
+}

@@ -1,0 +1,143 @@
+{
+  "created_at": "Sat Nov 03 14:15:39 +0000 2018",
+  "id": 1058724391175909376,
+  "id_str": "1058724391175909376",
+  "text": "@51k244 @Toshlofficial よしのちゃん、初めてお名前聞いた時、桜が大好きなのかなぁって思っていたよ🌸🌸🌸葛、めちゃ美味しそうだね〜(´✪ω✪`)♡\nこれはToshlさんに食べてもらいたい葛だね〜✨\n桜デートもお… https://t.co/CtoLWEkTvC",
+  "display_text_range": [
+    23,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": true,
+  "in_reply_to_status_id": 1058707832600580096,
+  "in_reply_to_status_id_str": "1058707832600580096",
+  "in_reply_to_user_id": 223730530,
+  "in_reply_to_user_id_str": "223730530",
+  "in_reply_to_screen_name": "51k244",
+  "user": {
+    "id": 866625597623095298,
+    "id_str": "866625597623095298",
+    "name": "ゆうこりん",
+    "screen_name": "yu_Toshlove",
+    "location": "日本 東京",
+    "url": null,
+    "description": "X JAPANのファンです。Toshloveです(//∇//)すみれ組大好き♡YOSHIKIさんの奏でる美しくて儚い音楽とToshlさんのお人柄と切なく心に響く神声に魅了されてます✨   2018.6.24.Toshlさんからフォロバ💕2018.7.11.YOSHIKIさんからフォロバされました〜😭✨すみれ記念日✨",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 156,
+    "friends_count": 165,
+    "listed_count": 1,
+    "favourites_count": 22162,
+    "statuses_count": 3687,
+    "created_at": "Mon May 22 12:03:38 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1010744949720080384/ekDVkA8__normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010744949720080384/ekDVkA8__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/866625597623095298/1529800548",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "@51k244 @Toshlofficial よしのちゃん、初めてお名前聞いた時、桜が大好きなのかなぁって思っていたよ🌸🌸🌸葛、めちゃ美味しそうだね〜(´✪ω✪`)♡\nこれはToshlさんに食べてもらいたい葛だね〜✨\n桜デートもお願いしたい😂🌸\n\n私も、お花も団子も両方がいいなぁ🍡( *´艸`)",
+    "display_text_range": [
+      23,
+      148
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "51k244",
+          "name": "そめぃょしの",
+          "id": 223730530,
+          "id_str": "223730530",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "Toshlofficial",
+          "name": "龍玄とし",
+          "id": 990763557904990209,
+          "id_str": "990763557904990209",
+          "indices": [
+            8,
+            22
+          ]
+        }
+      ],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/CtoLWEkTvC",
+        "expanded_url": "https://twitter.com/i/web/status/1058724391175909376",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "51k244",
+        "name": "そめぃょしの",
+        "id": 223730530,
+        "id_str": "223730530",
+        "indices": [
+          0,
+          7
+        ]
+      },
+      {
+        "screen_name": "Toshlofficial",
+        "name": "龍玄とし",
+        "id": 990763557904990209,
+        "id_str": "990763557904990209",
+        "indices": [
+          8,
+          22
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254539661"
+}

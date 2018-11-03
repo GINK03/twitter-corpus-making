@@ -1,0 +1,142 @@
+{
+  "created_at": "Sat Nov 03 14:19:21 +0000 2018",
+  "id": 1058725322323980288,
+  "id_str": "1058725322323980288",
+  "text": "＼あの企画がパワーアップして帰ってくる／\n#ZOZOWEEK 11/6(火)正午開催！\n\n今ならタダで商品をもらえるチャンス！\nもれなく最終日のクーポンももらえちゃう！\nhttps://t.co/Tvfp8fr4n7\n\n14+(I… https://t.co/e6toRZ2lTR",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 26139742,
+    "id_str": "26139742",
+    "name": "em",
+    "screen_name": "oichemhaith",
+    "location": null,
+    "url": "http://flourella.exblog.jp/",
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 23,
+    "friends_count": 83,
+    "listed_count": 0,
+    "favourites_count": 23,
+    "statuses_count": 136,
+    "created_at": "Tue Mar 24 01:03:35 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/495170287466328065/SQAlkpIR_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/495170287466328065/SQAlkpIR_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/26139742/1406892773",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "＼あの企画がパワーアップして帰ってくる／\n#ZOZOWEEK 11/6(火)正午開催！\n\n今ならタダで商品をもらえるチャンス！\nもれなく最終日のクーポンももらえちゃう！\nhttps://t.co/Tvfp8fr4n7\n\n14+(ICHIYON PLUS)のハンチング/ベレー帽（¥1,400）\n https://t.co/CS5gIUoL6b",
+    "display_text_range": [
+      0,
+      171
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ZOZOWEEK",
+          "indices": [
+            21,
+            30
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Tvfp8fr4n7",
+          "expanded_url": "http://zozo.jp/zozoweek/?utm_source=zozoweek201811_twcp&utm_medium=social",
+          "display_url": "zozo.jp/zozoweek/?utm_…",
+          "indices": [
+            85,
+            108
+          ]
+        },
+        {
+          "url": "https://t.co/CS5gIUoL6b",
+          "expanded_url": "http://zozo.jp/shop/ichiyonplus/goods-sale/23318029/",
+          "display_url": "zozo.jp/shop/ichiyonpl…",
+          "indices": [
+            148,
+            171
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ZOZOWEEK",
+        "indices": [
+          21,
+          30
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/Tvfp8fr4n7",
+        "expanded_url": "http://zozo.jp/zozoweek/?utm_source=zozoweek201811_twcp&utm_medium=social",
+        "display_url": "zozo.jp/zozoweek/?utm_…",
+        "indices": [
+          85,
+          108
+        ]
+      },
+      {
+        "url": "https://t.co/e6toRZ2lTR",
+        "expanded_url": "https://twitter.com/i/web/status/1058725322323980288",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254761664"
+}

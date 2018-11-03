@@ -1,0 +1,586 @@
+{
+  "created_at": "Sat Nov 03 14:23:16 +0000 2018",
+  "id": 1058726307960246272,
+  "id_str": "1058726307960246272",
+  "text": "RT @isizak17: 今回のアイナナアニカフェはかなり倍率高いみたいなので、カフェでの時間がより楽しく充実したものとなるよう、少しでも参考になればと...！🍮\n#アイナナ\n#アニカフェ https://t.co/TN47OQh0Wi",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 835417801280016384,
+    "id_str": "835417801280016384",
+    "name": "んさみゆ",
+    "screen_name": "osk5amearare",
+    "location": null,
+    "url": null,
+    "description": "よろしくお願いします 20↑",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 64,
+    "friends_count": 1042,
+    "listed_count": 1,
+    "favourites_count": 20077,
+    "statuses_count": 4984,
+    "created_at": "Sat Feb 25 09:14:59 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/977414966377459712/S9u7Y5xD_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/977414966377459712/S9u7Y5xD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/835417801280016384/1539782370",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 02:50:47 +0000 2018",
+    "id": 1058189649154195456,
+    "id_str": "1058189649154195456",
+    "text": "今回のアイナナアニカフェはかなり倍率高いみたいなので、カフェでの時間がより楽しく充実したものとなるよう、少しでも参考になればと...！🍮\n#アイナナ\n#アニカフェ https://t.co/TN47OQh0Wi",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1050705255472685057,
+      "id_str": "1050705255472685057",
+      "name": "くるぶし",
+      "screen_name": "isizak17",
+      "location": null,
+      "url": null,
+      "description": "成人済腐女子🐿 アイドリッシュセブン、ヒプマイ他 雑多垢",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 2,
+      "friends_count": 6,
+      "listed_count": 0,
+      "favourites_count": 10,
+      "statuses_count": 15,
+      "created_at": "Fri Oct 12 11:10:28 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1050708198590574592/oYrSahmA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050708198590574592/oYrSahmA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1050705255472685057/1540204384",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 7,
+    "reply_count": 2,
+    "retweet_count": 508,
+    "favorite_count": 578,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "アイナナ",
+          "indices": [
+            69,
+            74
+          ]
+        },
+        {
+          "text": "アニカフェ",
+          "indices": [
+            75,
+            81
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058189639012376577,
+          "id_str": "1058189639012376577",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq9x3sJU4AE6DWM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq9x3sJU4AE6DWM.jpg",
+          "url": "https://t.co/TN47OQh0Wi",
+          "display_url": "pic.twitter.com/TN47OQh0Wi",
+          "expanded_url": "https://twitter.com/isizak17/status/1058189649154195456/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 454,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 747,
+              "h": 1119,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 747,
+              "h": 1119,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058189639012376577,
+          "id_str": "1058189639012376577",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq9x3sJU4AE6DWM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq9x3sJU4AE6DWM.jpg",
+          "url": "https://t.co/TN47OQh0Wi",
+          "display_url": "pic.twitter.com/TN47OQh0Wi",
+          "expanded_url": "https://twitter.com/isizak17/status/1058189649154195456/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 454,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 747,
+              "h": 1119,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 747,
+              "h": 1119,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058189639008190464,
+          "id_str": "1058189639008190464",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq9x3sIVAAABafx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq9x3sIVAAABafx.jpg",
+          "url": "https://t.co/TN47OQh0Wi",
+          "display_url": "pic.twitter.com/TN47OQh0Wi",
+          "expanded_url": "https://twitter.com/isizak17/status/1058189649154195456/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 750,
+              "h": 1135,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 1135,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 449,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058189642929860608,
+          "id_str": "1058189642929860608",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq9x36vU8AAjQz2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq9x36vU8AAjQz2.jpg",
+          "url": "https://t.co/TN47OQh0Wi",
+          "display_url": "pic.twitter.com/TN47OQh0Wi",
+          "expanded_url": "https://twitter.com/isizak17/status/1058189649154195456/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 1125,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 1125,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058189642929864704,
+          "id_str": "1058189642929864704",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq9x36vVAAAmJtw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq9x36vVAAAmJtw.jpg",
+          "url": "https://t.co/TN47OQh0Wi",
+          "display_url": "pic.twitter.com/TN47OQh0Wi",
+          "expanded_url": "https://twitter.com/isizak17/status/1058189649154195456/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 749,
+              "h": 1065,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 749,
+              "h": 1065,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 478,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "アイナナ",
+        "indices": [
+          83,
+          88
+        ]
+      },
+      {
+        "text": "アニカフェ",
+        "indices": [
+          89,
+          95
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "isizak17",
+        "name": "くるぶし",
+        "id": 1050705255472685057,
+        "id_str": "1050705255472685057",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058189639012376577,
+        "id_str": "1058189639012376577",
+        "indices": [
+          96,
+          119
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq9x3sJU4AE6DWM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq9x3sJU4AE6DWM.jpg",
+        "url": "https://t.co/TN47OQh0Wi",
+        "display_url": "pic.twitter.com/TN47OQh0Wi",
+        "expanded_url": "https://twitter.com/isizak17/status/1058189649154195456/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 454,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 747,
+            "h": 1119,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 747,
+            "h": 1119,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058189649154195456,
+        "source_status_id_str": "1058189649154195456",
+        "source_user_id": 1050705255472685057,
+        "source_user_id_str": "1050705255472685057"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058189639012376577,
+        "id_str": "1058189639012376577",
+        "indices": [
+          96,
+          119
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq9x3sJU4AE6DWM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq9x3sJU4AE6DWM.jpg",
+        "url": "https://t.co/TN47OQh0Wi",
+        "display_url": "pic.twitter.com/TN47OQh0Wi",
+        "expanded_url": "https://twitter.com/isizak17/status/1058189649154195456/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 454,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 747,
+            "h": 1119,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 747,
+            "h": 1119,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058189649154195456,
+        "source_status_id_str": "1058189649154195456",
+        "source_user_id": 1050705255472685057,
+        "source_user_id_str": "1050705255472685057"
+      },
+      {
+        "id": 1058189639008190464,
+        "id_str": "1058189639008190464",
+        "indices": [
+          96,
+          119
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq9x3sIVAAABafx.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq9x3sIVAAABafx.jpg",
+        "url": "https://t.co/TN47OQh0Wi",
+        "display_url": "pic.twitter.com/TN47OQh0Wi",
+        "expanded_url": "https://twitter.com/isizak17/status/1058189649154195456/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 750,
+            "h": 1135,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 750,
+            "h": 1135,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 449,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058189649154195456,
+        "source_status_id_str": "1058189649154195456",
+        "source_user_id": 1050705255472685057,
+        "source_user_id_str": "1050705255472685057"
+      },
+      {
+        "id": 1058189642929860608,
+        "id_str": "1058189642929860608",
+        "indices": [
+          96,
+          119
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq9x36vU8AAjQz2.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq9x36vU8AAjQz2.jpg",
+        "url": "https://t.co/TN47OQh0Wi",
+        "display_url": "pic.twitter.com/TN47OQh0Wi",
+        "expanded_url": "https://twitter.com/isizak17/status/1058189649154195456/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 453,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 750,
+            "h": 1125,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 750,
+            "h": 1125,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058189649154195456,
+        "source_status_id_str": "1058189649154195456",
+        "source_user_id": 1050705255472685057,
+        "source_user_id_str": "1050705255472685057"
+      },
+      {
+        "id": 1058189642929864704,
+        "id_str": "1058189642929864704",
+        "indices": [
+          96,
+          119
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq9x36vVAAAmJtw.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq9x36vVAAAmJtw.jpg",
+        "url": "https://t.co/TN47OQh0Wi",
+        "display_url": "pic.twitter.com/TN47OQh0Wi",
+        "expanded_url": "https://twitter.com/isizak17/status/1058189649154195456/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 749,
+            "h": 1065,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 749,
+            "h": 1065,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 478,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058189649154195456,
+        "source_status_id_str": "1058189649154195456",
+        "source_user_id": 1050705255472685057,
+        "source_user_id_str": "1050705255472685057"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254996658"
+}

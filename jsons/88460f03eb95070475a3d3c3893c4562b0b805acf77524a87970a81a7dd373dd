@@ -1,0 +1,123 @@
+{
+  "created_at": "Sat Nov 03 14:21:40 +0000 2018",
+  "id": 1058725905302863873,
+  "id_str": "1058725905302863873",
+  "text": "明日、11/4のChu-Z赤坂ワンマンに向けて、２年前の赤坂ワンマンの時のライブをみて知らない曲があればおさらいしときましょう\n\nさらっと見とくだけでも全然違うと思います\n\n新しい曲もいっぱい増えてますが昔の曲はこれで要チェック👍… https://t.co/Oe6CO0bH8N",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1927123123,
+    "id_str": "1927123123",
+    "name": "りんはー@コ部9露 11/4赤坂参戦(^^ゞ",
+    "screen_name": "amakodaha_rin",
+    "location": "愛知県 名古屋市",
+    "url": null,
+    "description": "楽しむことを楽しめば\n楽しい人が集まるね\n独りになるために\n生まれたんじゃないよ\n走り抜けろ\n日々はヒビ割れない\n道は未知に満ちてるから\n傷が絆に変わるとき\n独りじゃないと知る\n\nChu-Zとエビ中が大好き",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 247,
+    "friends_count": 245,
+    "listed_count": 5,
+    "favourites_count": 29856,
+    "statuses_count": 20172,
+    "created_at": "Wed Oct 02 14:44:11 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058388946088939522/DkPSE2uF_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058388946088939522/DkPSE2uF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1927123123/1540958494",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "明日、11/4のChu-Z赤坂ワンマンに向けて、２年前の赤坂ワンマンの時のライブをみて知らない曲があればおさらいしときましょう\n\nさらっと見とくだけでも全然違うと思います\n\n新しい曲もいっぱい増えてますが昔の曲はこれで要チェック👍\n\nhttps://t.co/7rwuZKgY6r\n\n＃Chu_Z\n #11月4日Chu_ZマイナビBLITZ",
+    "display_text_range": [
+      0,
+      170
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Chu_Z",
+          "indices": [
+            142,
+            148
+          ]
+        },
+        {
+          "text": "11月4日Chu_ZマイナビBLITZ",
+          "indices": [
+            150,
+            170
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7rwuZKgY6r",
+          "expanded_url": "https://youtu.be/jCmBSeS43mw",
+          "display_url": "youtu.be/jCmBSeS43mw",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/Oe6CO0bH8N",
+        "expanded_url": "https://twitter.com/i/web/status/1058725905302863873",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254900657"
+}

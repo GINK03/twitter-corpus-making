@@ -1,0 +1,327 @@
+{
+  "created_at": "Sat Nov 03 14:27:39 +0000 2018",
+  "id": 1058727411074838528,
+  "id_str": "1058727411074838528",
+  "text": "RT @minatsuki1: 冬の表紙タイトルまだだけどこんな感じ https://t.co/l6aCTaNvHE",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3577339032,
+    "id_str": "3577339032",
+    "name": "かーとまそ〜@ほむほむ",
+    "screen_name": "cartmaso",
+    "location": "大阪府 枚方市",
+    "url": null,
+    "description": "魔法少女まどか☆マギカ大好きなMTGプレイヤー。大阪に引っ越ししてMTGの活動拠点を探し中。ほむらちゃほむほむ。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 194,
+    "friends_count": 239,
+    "listed_count": 2,
+    "favourites_count": 2979,
+    "statuses_count": 26293,
+    "created_at": "Wed Sep 16 01:20:32 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/783091445628403712/uElgQ7qe_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/783091445628403712/uElgQ7qe_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3577339032/1475537763",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:14:14 +0000 2018",
+    "id": 1058724035125637121,
+    "id_str": "1058724035125637121",
+    "text": "冬の表紙タイトルまだだけどこんな感じ https://t.co/l6aCTaNvHE",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 179445987,
+      "id_str": "179445987",
+      "name": "水無月はじめ",
+      "screen_name": "minatsuki1",
+      "location": "富山",
+      "url": "http://www.pixiv.net/member.php?id=572935",
+      "description": "まどマギの杏子ちゃんが好き。マギレコはフェリシアが好き。最近はマギレコとグラブルやってます。お題箱https://odaibako.net/u/minatsuki1",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 651,
+      "friends_count": 217,
+      "listed_count": 35,
+      "favourites_count": 409,
+      "statuses_count": 6134,
+      "created_at": "Tue Aug 17 09:07:31 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "F5ABB5",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/995611809397682176/ZDvUJXIx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/995611809397682176/ZDvUJXIx_normal.jpg",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 11,
+    "favorite_count": 12,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058722619246039040,
+          "id_str": "1058722619246039040",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFWnOPU0AAYz6D.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFWnOPU0AAYz6D.jpg",
+          "url": "https://t.co/l6aCTaNvHE",
+          "display_url": "pic.twitter.com/l6aCTaNvHE",
+          "expanded_url": "https://twitter.com/minatsuki1/status/1058724035125637121/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 600,
+              "h": 847,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 847,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 482,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058722619246039040,
+          "id_str": "1058722619246039040",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFWnOPU0AAYz6D.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFWnOPU0AAYz6D.jpg",
+          "url": "https://t.co/l6aCTaNvHE",
+          "display_url": "pic.twitter.com/l6aCTaNvHE",
+          "expanded_url": "https://twitter.com/minatsuki1/status/1058724035125637121/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 600,
+              "h": 847,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 847,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 482,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "minatsuki1",
+        "name": "水無月はじめ",
+        "id": 179445987,
+        "id_str": "179445987",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058722619246039040,
+        "id_str": "1058722619246039040",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWnOPU0AAYz6D.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWnOPU0AAYz6D.jpg",
+        "url": "https://t.co/l6aCTaNvHE",
+        "display_url": "pic.twitter.com/l6aCTaNvHE",
+        "expanded_url": "https://twitter.com/minatsuki1/status/1058724035125637121/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 600,
+            "h": 847,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 847,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 482,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058724035125637121,
+        "source_status_id_str": "1058724035125637121",
+        "source_user_id": 179445987,
+        "source_user_id_str": "179445987"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058722619246039040,
+        "id_str": "1058722619246039040",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWnOPU0AAYz6D.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWnOPU0AAYz6D.jpg",
+        "url": "https://t.co/l6aCTaNvHE",
+        "display_url": "pic.twitter.com/l6aCTaNvHE",
+        "expanded_url": "https://twitter.com/minatsuki1/status/1058724035125637121/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 600,
+            "h": 847,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 847,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 482,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058724035125637121,
+        "source_status_id_str": "1058724035125637121",
+        "source_user_id": 179445987,
+        "source_user_id_str": "179445987"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255259661"
+}

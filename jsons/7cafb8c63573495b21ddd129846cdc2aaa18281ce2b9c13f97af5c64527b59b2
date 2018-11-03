@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:24:25 +0000 2018",
+  "id": 1058726597375623168,
+  "id_str": "1058726597375623168",
+  "text": "RT @_Hierophant5: こちらが鉄緑会側の主張になります https://t.co/Z5MDXgaaHb",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 731187015228608513,
+    "id_str": "731187015228608513",
+    "name": "qazph",
+    "screen_name": "qazph",
+    "location": null,
+    "url": null,
+    "description": "Dummy!",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 59,
+    "friends_count": 89,
+    "listed_count": 1,
+    "favourites_count": 1118,
+    "statuses_count": 890,
+    "created_at": "Fri May 13 18:19:04 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1031037317610266624/vh8fr1cE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031037317610266624/vh8fr1cE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/731187015228608513/1530875575",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 14:07:51 +0000 2018",
+    "id": 1058360039985963008,
+    "id_str": "1058360039985963008",
+    "text": "こちらが鉄緑会側の主張になります https://t.co/Z5MDXgaaHb",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1001494605827731456,
+      "id_str": "1001494605827731456",
+      "name": "Holly",
+      "screen_name": "_Hierophant5",
+      "location": "難波",
+      "url": "https://Instagram.com/__hol_horse__",
+      "description": "灘72(高2) 458spetchi JOJO",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 331,
+      "friends_count": 299,
+      "listed_count": 3,
+      "favourites_count": 23638,
+      "statuses_count": 4111,
+      "created_at": "Tue May 29 16:04:55 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1038475632219381760/TE_NnYHP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1038475632219381760/TE_NnYHP_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1001494605827731456/1537196160",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 20,
+    "reply_count": 6,
+    "retweet_count": 234,
+    "favorite_count": 1176,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058360032469774336,
+          "id_str": "1058360032469774336",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrAM15PU8AA2-Lu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrAM15PU8AA2-Lu.jpg",
+          "url": "https://t.co/Z5MDXgaaHb",
+          "display_url": "pic.twitter.com/Z5MDXgaaHb",
+          "expanded_url": "https://twitter.com/_Hierophant5/status/1058360039985963008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 553,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 944,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 313,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058360032469774336,
+          "id_str": "1058360032469774336",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrAM15PU8AA2-Lu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrAM15PU8AA2-Lu.jpg",
+          "url": "https://t.co/Z5MDXgaaHb",
+          "display_url": "pic.twitter.com/Z5MDXgaaHb",
+          "expanded_url": "https://twitter.com/_Hierophant5/status/1058360039985963008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 553,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 944,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 313,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "_Hierophant5",
+        "name": "Holly",
+        "id": 1001494605827731456,
+        "id_str": "1001494605827731456",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058360032469774336,
+        "id_str": "1058360032469774336",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrAM15PU8AA2-Lu.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrAM15PU8AA2-Lu.jpg",
+        "url": "https://t.co/Z5MDXgaaHb",
+        "display_url": "pic.twitter.com/Z5MDXgaaHb",
+        "expanded_url": "https://twitter.com/_Hierophant5/status/1058360039985963008/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 553,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 944,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 313,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058360039985963008,
+        "source_status_id_str": "1058360039985963008",
+        "source_user_id": 1001494605827731456,
+        "source_user_id_str": "1001494605827731456"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058360032469774336,
+        "id_str": "1058360032469774336",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrAM15PU8AA2-Lu.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrAM15PU8AA2-Lu.jpg",
+        "url": "https://t.co/Z5MDXgaaHb",
+        "display_url": "pic.twitter.com/Z5MDXgaaHb",
+        "expanded_url": "https://twitter.com/_Hierophant5/status/1058360039985963008/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 553,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 944,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 313,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058360039985963008,
+        "source_status_id_str": "1058360039985963008",
+        "source_user_id": 1001494605827731456,
+        "source_user_id_str": "1001494605827731456"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255065660"
+}

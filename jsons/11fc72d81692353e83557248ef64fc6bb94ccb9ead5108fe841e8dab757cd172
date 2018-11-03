@@ -1,0 +1,406 @@
+{
+  "created_at": "Sat Nov 03 13:59:40 +0000 2018",
+  "id": 1058720369471705089,
+  "id_str": "1058720369471705089",
+  "text": "RT @ga_i_sa_i: 寒い #漫画 #艦これ #艦隊これくしょん #菊月 https://t.co/Jcj5BtDgjs https://t.co/26dGm6jOr8",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 134671495,
+    "id_str": "134671495",
+    "name": "下小川",
+    "screen_name": "cvbhyuga",
+    "location": "ダンボール箱",
+    "url": "http://www.t1500.com/",
+    "description": "変な自作PCマニアにして窓辺ななみ＆菊月中毒者。フォロリムお気軽にどうぞ。フォロバは殆どしませんごめんね。絵→http://pixiv.me/cvbhyuga　レビュ→http://zigsow.jp/portal/member/…",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2052,
+    "friends_count": 296,
+    "listed_count": 85,
+    "favourites_count": 24636,
+    "statuses_count": 58214,
+    "created_at": "Mon Apr 19 03:42:02 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "2B8BD9",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/960682795067559936/zoaIG-hp_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/960682795067559936/zoaIG-hp_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/134671495/1507648335",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:58:38 +0000 2018",
+    "id": 1058720106916663297,
+    "id_str": "1058720106916663297",
+    "text": "寒い #漫画 #艦これ #艦隊これくしょん #菊月 https://t.co/Jcj5BtDgjs https://t.co/26dGm6jOr8",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "source": "<a href=\"https://www.pixiv.net/\" rel=\"nofollow\">pixiv: Post to Twitter</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3258812665,
+      "id_str": "3258812665",
+      "name": "gai→sai→",
+      "screen_name": "ga_i_sa_i",
+      "location": null,
+      "url": null,
+      "description": "菊月とアナ＝メデューサ(ランサー )！ラフィーにマカロフさん https://touch.pixiv.net/member.php?id=12569521 お題箱 https://odaibako.net/u/ga_i_sa_i",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 134,
+      "friends_count": 1093,
+      "listed_count": 6,
+      "favourites_count": 18193,
+      "statuses_count": 12449,
+      "created_at": "Sun Jun 28 10:23:22 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1025609070412103681/hYIc1lGZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025609070412103681/hYIc1lGZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3258812665/1533359264",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "漫画",
+          "indices": [
+            3,
+            6
+          ]
+        },
+        {
+          "text": "艦これ",
+          "indices": [
+            7,
+            11
+          ]
+        },
+        {
+          "text": "艦隊これくしょん",
+          "indices": [
+            12,
+            21
+          ]
+        },
+        {
+          "text": "菊月",
+          "indices": [
+            22,
+            25
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Jcj5BtDgjs",
+          "expanded_url": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=71490785",
+          "display_url": "pixiv.net/member_illust.…",
+          "indices": [
+            26,
+            49
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058720102529478657,
+          "id_str": "1058720102529478657",
+          "indices": [
+            50,
+            73
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFUUuvVsAE7yuu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFUUuvVsAE7yuu.jpg",
+          "url": "https://t.co/26dGm6jOr8",
+          "display_url": "pic.twitter.com/26dGm6jOr8",
+          "expanded_url": "https://twitter.com/ga_i_sa_i/status/1058720106916663297/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058720102529478657,
+          "id_str": "1058720102529478657",
+          "indices": [
+            50,
+            73
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFUUuvVsAE7yuu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFUUuvVsAE7yuu.jpg",
+          "url": "https://t.co/26dGm6jOr8",
+          "display_url": "pic.twitter.com/26dGm6jOr8",
+          "expanded_url": "https://twitter.com/ga_i_sa_i/status/1058720106916663297/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "漫画",
+        "indices": [
+          18,
+          21
+        ]
+      },
+      {
+        "text": "艦これ",
+        "indices": [
+          22,
+          26
+        ]
+      },
+      {
+        "text": "艦隊これくしょん",
+        "indices": [
+          27,
+          36
+        ]
+      },
+      {
+        "text": "菊月",
+        "indices": [
+          37,
+          40
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/Jcj5BtDgjs",
+        "expanded_url": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=71490785",
+        "display_url": "pixiv.net/member_illust.…",
+        "indices": [
+          41,
+          64
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ga_i_sa_i",
+        "name": "gai→sai→",
+        "id": 3258812665,
+        "id_str": "3258812665",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058720102529478657,
+        "id_str": "1058720102529478657",
+        "indices": [
+          65,
+          88
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFUUuvVsAE7yuu.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFUUuvVsAE7yuu.jpg",
+        "url": "https://t.co/26dGm6jOr8",
+        "display_url": "pic.twitter.com/26dGm6jOr8",
+        "expanded_url": "https://twitter.com/ga_i_sa_i/status/1058720106916663297/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058720106916663297,
+        "source_status_id_str": "1058720106916663297",
+        "source_user_id": 3258812665,
+        "source_user_id_str": "3258812665"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058720102529478657,
+        "id_str": "1058720102529478657",
+        "indices": [
+          65,
+          88
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFUUuvVsAE7yuu.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFUUuvVsAE7yuu.jpg",
+        "url": "https://t.co/26dGm6jOr8",
+        "display_url": "pic.twitter.com/26dGm6jOr8",
+        "expanded_url": "https://twitter.com/ga_i_sa_i/status/1058720106916663297/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058720106916663297,
+        "source_status_id_str": "1058720106916663297",
+        "source_user_id": 3258812665,
+        "source_user_id_str": "3258812665"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253580812"
+}

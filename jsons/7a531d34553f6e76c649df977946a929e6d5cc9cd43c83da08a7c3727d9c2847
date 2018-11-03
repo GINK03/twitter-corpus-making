@@ -1,0 +1,93 @@
+{
+  "created_at": "Sat Nov 03 14:26:19 +0000 2018",
+  "id": 1058727075522129920,
+  "id_str": "1058727075522129920",
+  "text": "ユウキさんが恋に落ちたのは、『相手に好きな人がいることに気づいた時』です。\n#貴方が恋に落ちた瞬間はこちらです\nhttps://t.co/q4ESnuzPqR\nこ〜〜〜〜いう始まる前から負けてるやつめちゃくちゃ好きなんだよな…　メリクリ→青天目前提のあれこれか",
+  "source": "<a href=\"https://f.tabtter.jp\" rel=\"nofollow\">Tabtter Free</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3324500292,
+    "id_str": "3324500292",
+    "name": "アキト",
+    "screen_name": "AKT_sousaku",
+    "location": "日本",
+    "url": "http://tetora.parasite.jp",
+    "description": "落書きや創作語りとかを振り分けアカ使わずに垂れ流したいアカウント。学戦のイラストまとめ→　http://www.tetotetotetora.site/　かべうち→https://kabe-uchiroom.com/mypage/?id=3324500292",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 96,
+    "friends_count": 99,
+    "listed_count": 6,
+    "favourites_count": 2573,
+    "statuses_count": 13657,
+    "created_at": "Sat Aug 22 16:15:20 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "642D8B",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/856027413142159360/tAwq724a_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/856027413142159360/tAwq724a_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3324500292/1459527842",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "貴方が恋に落ちた瞬間はこちらです",
+        "indices": [
+          38,
+          55
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/q4ESnuzPqR",
+        "expanded_url": "https://shindanmaker.com/805239",
+        "display_url": "shindanmaker.com/805239",
+        "indices": [
+          56,
+          79
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255179659"
+}

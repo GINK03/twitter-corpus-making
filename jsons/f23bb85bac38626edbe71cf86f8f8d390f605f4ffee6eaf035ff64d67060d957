@@ -1,0 +1,123 @@
+{
+  "created_at": "Sat Nov 03 14:14:56 +0000 2018",
+  "id": 1058724210824990721,
+  "id_str": "1058724210824990721",
+  "text": "@Mikurofu_ いや、酒飲める、飲めないの基準で言えば飲めるの方じゃね？ww\n俺は親も叔父も祖父も酒好きだから飲まされに飲まされて無駄に強くなったし\nまず単純に味が好きで飲んでるから、そこまで量は気にしてないな\n三種類くらい… https://t.co/kD8Q8JLT9C",
+  "display_text_range": [
+    11,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": true,
+  "in_reply_to_status_id": 1058722300659286016,
+  "in_reply_to_status_id_str": "1058722300659286016",
+  "in_reply_to_user_id": 2942856648,
+  "in_reply_to_user_id_str": "2942856648",
+  "in_reply_to_screen_name": "Mikurofu_",
+  "user": {
+    "id": 835933405858557953,
+    "id_str": "835933405858557953",
+    "name": "Makimai",
+    "screen_name": "Makimai_boden",
+    "location": "ㅤㅤㅤㅤ",
+    "url": "http://twpf.jp/Makimai_boden",
+    "description": "かつぜつと耳が悪いです（破損） 最近:TheFatRat/Feint/Snail’s House/Laura Brehm/REOL/Vitalism/Alan Walker",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 52,
+    "friends_count": 64,
+    "listed_count": 0,
+    "favourites_count": 679,
+    "statuses_count": 616,
+    "created_at": "Sun Feb 26 19:23:49 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1005065108286869506/5Zisk4uw_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005065108286869506/5Zisk4uw_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/835933405858557953/1534703403",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "@Mikurofu_ いや、酒飲める、飲めないの基準で言えば飲めるの方じゃね？ww\n俺は親も叔父も祖父も酒好きだから飲まされに飲まされて無駄に強くなったし\nまず単純に味が好きで飲んでるから、そこまで量は気にしてないな\n三種類くらい飲んでるし今日もw\n水は結構飲んでるよ？飲み続けるためにも",
+    "display_text_range": [
+      11,
+      144
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "Mikurofu_",
+          "name": "ミクロふ",
+          "id": 2942856648,
+          "id_str": "2942856648",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/kD8Q8JLT9C",
+        "expanded_url": "https://twitter.com/i/web/status/1058724210824990721",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Mikurofu_",
+        "name": "ミクロふ",
+        "id": 2942856648,
+        "id_str": "2942856648",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254496662"
+}

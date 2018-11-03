@@ -1,0 +1,327 @@
+{
+  "created_at": "Sat Nov 03 14:25:27 +0000 2018",
+  "id": 1058726855279136768,
+  "id_str": "1058726855279136768",
+  "text": "RT @edo_mond: FGO第二部おめでとうまんが 何故かやれる気がするアサエミ https://t.co/XSAbTP2Zux",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 985100049737592833,
+    "id_str": "985100049737592833",
+    "name": "メリュー",
+    "screen_name": "muuCOMPASS",
+    "location": null,
+    "url": null,
+    "description": "20↑エアライン系専門学校生 \nRT用垢 \nコンパス／Fate 地雷無し",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 0,
+    "friends_count": 35,
+    "listed_count": 2,
+    "favourites_count": 711,
+    "statuses_count": 83,
+    "created_at": "Sat Apr 14 10:18:48 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/996409871011532805/alIT7HPJ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/996409871011532805/alIT7HPJ_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Mar 30 12:18:35 +0000 2018",
+    "id": 979694373620232193,
+    "id_str": "979694373620232193",
+    "text": "FGO第二部おめでとうまんが 何故かやれる気がするアサエミ https://t.co/XSAbTP2Zux",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 157958191,
+      "id_str": "157958191",
+      "name": "えど開店休業",
+      "screen_name": "edo_mond",
+      "location": "江戸",
+      "url": "http://edoedoedomond.tumblr.com",
+      "description": "えどです。腐っています。お絵かきだいすきお仕事の下僕/色々雑食/FGOテスラ来ません芸人/じぶんちの猫の絵を描き散らす",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 20765,
+      "friends_count": 232,
+      "listed_count": 404,
+      "favourites_count": 10494,
+      "statuses_count": 45010,
+      "created_at": "Mon Jun 21 10:39:22 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/980522217866895361/62vfCW-M_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/980522217866895361/62vfCW-M_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/157958191/1532614116",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 26,
+    "reply_count": 49,
+    "retweet_count": 19112,
+    "favorite_count": 34976,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 979694205990666240,
+          "id_str": "979694205990666240",
+          "indices": [
+            30,
+            53
+          ],
+          "media_url": "http://pbs.twimg.com/media/DZiSsJCVAAA_68B.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DZiSsJCVAAA_68B.jpg",
+          "url": "https://t.co/XSAbTP2Zux",
+          "display_url": "pic.twitter.com/XSAbTP2Zux",
+          "expanded_url": "https://twitter.com/edo_mond/status/979694373620232193/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 724,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 724,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 979694205990666240,
+          "id_str": "979694205990666240",
+          "indices": [
+            30,
+            53
+          ],
+          "media_url": "http://pbs.twimg.com/media/DZiSsJCVAAA_68B.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DZiSsJCVAAA_68B.jpg",
+          "url": "https://t.co/XSAbTP2Zux",
+          "display_url": "pic.twitter.com/XSAbTP2Zux",
+          "expanded_url": "https://twitter.com/edo_mond/status/979694373620232193/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 724,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 724,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "edo_mond",
+        "name": "えど開店休業",
+        "id": 157958191,
+        "id_str": "157958191",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 979694205990666240,
+        "id_str": "979694205990666240",
+        "indices": [
+          44,
+          67
+        ],
+        "media_url": "http://pbs.twimg.com/media/DZiSsJCVAAA_68B.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DZiSsJCVAAA_68B.jpg",
+        "url": "https://t.co/XSAbTP2Zux",
+        "display_url": "pic.twitter.com/XSAbTP2Zux",
+        "expanded_url": "https://twitter.com/edo_mond/status/979694373620232193/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 724,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 724,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 481,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 979694373620232193,
+        "source_status_id_str": "979694373620232193",
+        "source_user_id": 157958191,
+        "source_user_id_str": "157958191"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 979694205990666240,
+        "id_str": "979694205990666240",
+        "indices": [
+          44,
+          67
+        ],
+        "media_url": "http://pbs.twimg.com/media/DZiSsJCVAAA_68B.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DZiSsJCVAAA_68B.jpg",
+        "url": "https://t.co/XSAbTP2Zux",
+        "display_url": "pic.twitter.com/XSAbTP2Zux",
+        "expanded_url": "https://twitter.com/edo_mond/status/979694373620232193/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 724,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 724,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 481,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 979694373620232193,
+        "source_status_id_str": "979694373620232193",
+        "source_user_id": 157958191,
+        "source_user_id_str": "157958191"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255127149"
+}

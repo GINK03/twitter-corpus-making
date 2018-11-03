@@ -1,0 +1,395 @@
+{
+  "created_at": "Sat Nov 03 14:14:01 +0000 2018",
+  "id": 1058723980134117377,
+  "id_str": "1058723980134117377",
+  "text": "RT @wake_fucker14: 終幕前Ｍステトーク2 https://t.co/NrCsFn1BOS",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 875741577221521408,
+    "id_str": "875741577221521408",
+    "name": "きゅーはち",
+    "screen_name": "infinity90s",
+    "location": null,
+    "url": null,
+    "description": "1984年生まれの90年代J-POP大好きおじさん。主食は小室ファミリー、V系",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 22,
+    "friends_count": 101,
+    "listed_count": 0,
+    "favourites_count": 1937,
+    "statuses_count": 1182,
+    "created_at": "Fri Jun 16 15:47:17 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 15:44:23 +0000 2018",
+    "id": 1058384334736941056,
+    "id_str": "1058384334736941056",
+    "text": "終幕前Ｍステトーク2 https://t.co/NrCsFn1BOS",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3052253124,
+      "id_str": "3052253124",
+      "name": "🔥🤘🔥🤘🔥🤘🔥🤘",
+      "screen_name": "wake_fucker14",
+      "location": null,
+      "url": null,
+      "description": "清水エスパルスサポ⚽️無敵と書いてエクスタシー🙅‍♂️全国の居酒屋の皆さん、ありがとう🍻うえいく あっぷ まざーふぁっかー🤘",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 141,
+      "friends_count": 240,
+      "listed_count": 0,
+      "favourites_count": 4562,
+      "statuses_count": 1243,
+      "created_at": "Sun Mar 01 11:39:22 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1057934419648901120/4m5mju1p_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057934419648901120/4m5mju1p_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3052253124/1541066301",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 25,
+    "favorite_count": 88,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058384104587112448,
+          "id_str": "1058384104587112448",
+          "indices": [
+            11,
+            34
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058384104587112448/pu/img/RaZXtPtlHX8VpCPa.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058384104587112448/pu/img/RaZXtPtlHX8VpCPa.jpg",
+          "url": "https://t.co/NrCsFn1BOS",
+          "display_url": "pic.twitter.com/NrCsFn1BOS",
+          "expanded_url": "https://twitter.com/wake_fucker14/status/1058384334736941056/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058384104587112448,
+          "id_str": "1058384104587112448",
+          "indices": [
+            11,
+            34
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058384104587112448/pu/img/RaZXtPtlHX8VpCPa.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058384104587112448/pu/img/RaZXtPtlHX8VpCPa.jpg",
+          "url": "https://t.co/NrCsFn1BOS",
+          "display_url": "pic.twitter.com/NrCsFn1BOS",
+          "expanded_url": "https://twitter.com/wake_fucker14/status/1058384334736941056/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 119807,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058384104587112448/pu/pl/hu1rMacYiYRUERDO.m3u8?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058384104587112448/pu/vid/640x360/hSHPH6tPjZHgXDvH.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058384104587112448/pu/vid/1280x720/4cDfq7KjrIOd2Y33.mp4?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058384104587112448/pu/vid/320x180/p3WS315P2hBsPHEE.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "wake_fucker14",
+        "name": "🔥🤘🔥🤘🔥🤘🔥🤘",
+        "id": 3052253124,
+        "id_str": "3052253124",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058384104587112448,
+        "id_str": "1058384104587112448",
+        "indices": [
+          30,
+          53
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058384104587112448/pu/img/RaZXtPtlHX8VpCPa.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058384104587112448/pu/img/RaZXtPtlHX8VpCPa.jpg",
+        "url": "https://t.co/NrCsFn1BOS",
+        "display_url": "pic.twitter.com/NrCsFn1BOS",
+        "expanded_url": "https://twitter.com/wake_fucker14/status/1058384334736941056/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058384334736941056,
+        "source_status_id_str": "1058384334736941056",
+        "source_user_id": 3052253124,
+        "source_user_id_str": "3052253124"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058384104587112448,
+        "id_str": "1058384104587112448",
+        "indices": [
+          30,
+          53
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058384104587112448/pu/img/RaZXtPtlHX8VpCPa.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058384104587112448/pu/img/RaZXtPtlHX8VpCPa.jpg",
+        "url": "https://t.co/NrCsFn1BOS",
+        "display_url": "pic.twitter.com/NrCsFn1BOS",
+        "expanded_url": "https://twitter.com/wake_fucker14/status/1058384334736941056/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 119807,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058384104587112448/pu/pl/hu1rMacYiYRUERDO.m3u8?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058384104587112448/pu/vid/640x360/hSHPH6tPjZHgXDvH.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058384104587112448/pu/vid/1280x720/4cDfq7KjrIOd2Y33.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058384104587112448/pu/vid/320x180/p3WS315P2hBsPHEE.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058384334736941056,
+        "source_status_id_str": "1058384334736941056",
+        "source_user_id": 3052253124,
+        "source_user_id_str": "3052253124"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254441661"
+}

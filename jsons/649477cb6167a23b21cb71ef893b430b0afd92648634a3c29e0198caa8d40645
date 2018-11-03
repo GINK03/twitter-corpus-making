@@ -1,0 +1,396 @@
+{
+  "created_at": "Sat Nov 03 14:16:59 +0000 2018",
+  "id": 1058724726716002304,
+  "id_str": "1058724726716002304",
+  "text": "RT @iden_taji: フリーザの美意識 https://t.co/JeqidmGHrm",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4848766895,
+    "id_str": "4848766895",
+    "name": "とも@和屋🌾華越前",
+    "screen_name": "tomo_konnoarisa",
+    "location": "日本 愛知",
+    "url": "https://nana-music.com/users/6681085/",
+    "description": "無言フォローごめんさい🙇フォローされると嬉しい😁RT&いいねうるさいよ。 アニメとボカロと歌い手好きのバンドリーマー。推しは有咲ガルパやってる人いたらフォローしてね〜。マイマイマー。 nana垢→@hakua_utau\nトプ画→@findout778  ヘッダー→@ajitamaa_aa",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2910,
+    "friends_count": 5000,
+    "listed_count": 14,
+    "favourites_count": 50433,
+    "statuses_count": 7246,
+    "created_at": "Tue Jan 26 07:53:28 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1045679626335309824/2MMYVJSH_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045679626335309824/2MMYVJSH_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4848766895/1538144425",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 02:42:28 +0000 2018",
+    "id": 1058549946671017984,
+    "id_str": "1058549946671017984",
+    "text": "フリーザの美意識 https://t.co/JeqidmGHrm",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 486594073,
+      "id_str": "486594073",
+      "name": "アイデンティティ田島",
+      "screen_name": "iden_taji",
+      "location": null,
+      "url": null,
+      "description": "太田プロ所属、アイデンティティというお笑いコンビの田島直弥と申します。 野沢雅子さんのネタをやらせてもらってます。これから色々つぶやくからぜってぇ見てくれよな！ YouTubeチャンネル→https://m.youtube.com/channel/UCxairDZpr_PzbzIaGLv7Q2Q",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 148439,
+      "friends_count": 96,
+      "listed_count": 301,
+      "favourites_count": 3,
+      "statuses_count": 2402,
+      "created_at": "Wed Feb 08 13:12:10 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/804910867342970882/0m1hin6u_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/804910867342970882/0m1hin6u_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/486594073/1507839174",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 84,
+    "reply_count": 66,
+    "retweet_count": 7396,
+    "favorite_count": 23860,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058549637806665728,
+          "id_str": "1058549637806665728",
+          "indices": [
+            9,
+            32
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058549637806665728/pu/img/MpD5ayS_aACAReC9.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058549637806665728/pu/img/MpD5ayS_aACAReC9.jpg",
+          "url": "https://t.co/JeqidmGHrm",
+          "display_url": "pic.twitter.com/JeqidmGHrm",
+          "expanded_url": "https://twitter.com/iden_taji/status/1058549946671017984/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058549637806665728,
+          "id_str": "1058549637806665728",
+          "indices": [
+            9,
+            32
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058549637806665728/pu/img/MpD5ayS_aACAReC9.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058549637806665728/pu/img/MpD5ayS_aACAReC9.jpg",
+          "url": "https://t.co/JeqidmGHrm",
+          "display_url": "pic.twitter.com/JeqidmGHrm",
+          "expanded_url": "https://twitter.com/iden_taji/status/1058549946671017984/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 35913,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058549637806665728/pu/pl/Spvkp1Fj7Ux7PtlL.m3u8?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058549637806665728/pu/vid/180x320/v0GnIvkRxd3JM0qb.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058549637806665728/pu/vid/720x1280/yAqKZJKtCUHSCEiE.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058549637806665728/pu/vid/360x640/qrDvVQNkOoJCqXop.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "iden_taji",
+        "name": "アイデンティティ田島",
+        "id": 486594073,
+        "id_str": "486594073",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058549637806665728,
+        "id_str": "1058549637806665728",
+        "indices": [
+          24,
+          47
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058549637806665728/pu/img/MpD5ayS_aACAReC9.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058549637806665728/pu/img/MpD5ayS_aACAReC9.jpg",
+        "url": "https://t.co/JeqidmGHrm",
+        "display_url": "pic.twitter.com/JeqidmGHrm",
+        "expanded_url": "https://twitter.com/iden_taji/status/1058549946671017984/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058549946671017984,
+        "source_status_id_str": "1058549946671017984",
+        "source_user_id": 486594073,
+        "source_user_id_str": "486594073"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058549637806665728,
+        "id_str": "1058549637806665728",
+        "indices": [
+          24,
+          47
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058549637806665728/pu/img/MpD5ayS_aACAReC9.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058549637806665728/pu/img/MpD5ayS_aACAReC9.jpg",
+        "url": "https://t.co/JeqidmGHrm",
+        "display_url": "pic.twitter.com/JeqidmGHrm",
+        "expanded_url": "https://twitter.com/iden_taji/status/1058549946671017984/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 35913,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058549637806665728/pu/pl/Spvkp1Fj7Ux7PtlL.m3u8?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058549637806665728/pu/vid/180x320/v0GnIvkRxd3JM0qb.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058549637806665728/pu/vid/720x1280/yAqKZJKtCUHSCEiE.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058549637806665728/pu/vid/360x640/qrDvVQNkOoJCqXop.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058549946671017984,
+        "source_status_id_str": "1058549946671017984",
+        "source_user_id": 486594073,
+        "source_user_id_str": "486594073"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254619660"
+}

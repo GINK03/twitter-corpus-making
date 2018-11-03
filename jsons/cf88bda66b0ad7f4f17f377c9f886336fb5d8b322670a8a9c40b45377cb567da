@@ -1,0 +1,195 @@
+{
+  "created_at": "Sat Nov 03 13:50:08 +0000 2018",
+  "id": 1058717970090708992,
+  "id_str": "1058717970090708992",
+  "text": "RT @Milchio: 【マイリスト】【Fate/MMD】刑部姫配布【FGO】 https://t.co/Nq3KVUeTeV #sm34120213",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2926551230,
+    "id_str": "2926551230",
+    "name": "鍾居財",
+    "screen_name": "chungliijiunn",
+    "location": "高雄市, 台灣",
+    "url": "https://www.facebook.com/%E5%B1%85%E8%B2%A1%E9%BA%B5%E5%8C%85-116491818418460/",
+    "description": "從事西點麵包 菓子職人",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 339,
+    "friends_count": 586,
+    "listed_count": 4,
+    "favourites_count": 40055,
+    "statuses_count": 16070,
+    "created_at": "Thu Dec 11 08:01:33 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "zh-tw",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/889825001179828226/nRTeiGO4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/889825001179828226/nRTeiGO4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2926551230/1537689174",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:33:00 +0000 2018",
+    "id": 1058713659357061121,
+    "id_str": "1058713659357061121",
+    "text": "【マイリスト】【Fate/MMD】刑部姫配布【FGO】 https://t.co/Nq3KVUeTeV #sm34120213",
+    "source": "<a href=\"http://www.nicovideo.jp/\" rel=\"nofollow\">niconico ニコレポ連携</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 19519445,
+      "id_str": "19519445",
+      "name": "みるちお",
+      "screen_name": "Milchio",
+      "location": "カインハースト図書館",
+      "url": null,
+      "description": "MMDモデルを作ってますが、基本的に関係ないことばかりつぶやきます。 製作中モデル:ほしちみ",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 564,
+      "friends_count": 103,
+      "listed_count": 45,
+      "favourites_count": 471,
+      "statuses_count": 17763,
+      "created_at": "Mon Jan 26 03:57:39 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/996761039759785984/gIeAHwp8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/996761039759785984/gIeAHwp8_normal.jpg",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "sm34120213",
+          "indices": [
+            52,
+            63
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Nq3KVUeTeV",
+          "expanded_url": "http://nico.ms/sm34120213?nicorepotwitter_mylist_video",
+          "display_url": "nico.ms/sm34120213?nic…",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sm34120213",
+        "indices": [
+          65,
+          76
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/Nq3KVUeTeV",
+        "expanded_url": "http://nico.ms/sm34120213?nicorepotwitter_mylist_video",
+        "display_url": "nico.ms/sm34120213?nic…",
+        "indices": [
+          41,
+          64
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Milchio",
+        "name": "みるちお",
+        "id": 19519445,
+        "id_str": "19519445",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253008755"
+}

@@ -1,0 +1,400 @@
+{
+  "created_at": "Sat Nov 03 14:16:03 +0000 2018",
+  "id": 1058724491826581505,
+  "id_str": "1058724491826581505",
+  "text": "RT @mofinuclub: 人間か犬かわからない柴犬の寝顔でもどうぞ(*´-`)\n\n https://t.co/Gp83Jm2nzW",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1127794490,
+    "id_str": "1127794490",
+    "name": "瑠那",
+    "screen_name": "ruttan999",
+    "location": null,
+    "url": null,
+    "description": "北海68期→札幌学院大学 こども発達3年 YOSAKOI/ぶっきー",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 797,
+    "friends_count": 852,
+    "listed_count": 0,
+    "favourites_count": 3471,
+    "statuses_count": 12327,
+    "created_at": "Mon Jan 28 11:31:37 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/927396413557706753/gxwNMAS7_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/927396413557706753/gxwNMAS7_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1127794490/1499571329",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:35:03 +0000 2018",
+    "id": 1058714173951995904,
+    "id_str": "1058714173951995904",
+    "text": "人間か犬かわからない柴犬の寝顔でもどうぞ(*´-`)\n\n https://t.co/Gp83Jm2nzW",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 981101905806999553,
+      "id_str": "981101905806999553",
+      "name": "もふいぬ同好会",
+      "screen_name": "mofinuclub",
+      "location": null,
+      "url": null,
+      "description": "もふいぬの活動動画を引用ツイートしていくわん！！もふもふ同好会から派生したわん。ファボよろわん！【Twitterの利用規約に従い、スパムツイートは一切いたしません。またツイートはTwitter社が規定する引用元を明記したツイートをしています。】",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 8044,
+      "friends_count": 13,
+      "listed_count": 37,
+      "favourites_count": 0,
+      "statuses_count": 54,
+      "created_at": "Tue Apr 03 09:31:37 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1048439569966743552/0uNwTrQO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048439569966743552/0uNwTrQO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/981101905806999553/1524292530",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 1,
+    "reply_count": 1,
+    "retweet_count": 107,
+    "favorite_count": 465,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1057964003002015745,
+          "id_str": "1057964003002015745",
+          "indices": [
+            29,
+            52
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057964003002015745/pu/img/LicPE3X0-IfeywwC.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057964003002015745/pu/img/LicPE3X0-IfeywwC.jpg",
+          "url": "https://t.co/Gp83Jm2nzW",
+          "display_url": "pic.twitter.com/Gp83Jm2nzW",
+          "expanded_url": "https://twitter.com/ringoro119/status/1057964044819152896/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1057964044819152896,
+          "source_status_id_str": "1057964044819152896",
+          "source_user_id": 983925286260453378,
+          "source_user_id_str": "983925286260453378"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1057964003002015745,
+          "id_str": "1057964003002015745",
+          "indices": [
+            29,
+            52
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057964003002015745/pu/img/LicPE3X0-IfeywwC.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057964003002015745/pu/img/LicPE3X0-IfeywwC.jpg",
+          "url": "https://t.co/Gp83Jm2nzW",
+          "display_url": "pic.twitter.com/Gp83Jm2nzW",
+          "expanded_url": "https://twitter.com/ringoro119/status/1057964044819152896/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 14453,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1057964003002015745/pu/vid/240x240/fuFHMxtvcnMGanAn.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1057964003002015745/pu/vid/480x480/Ta7rfcfmM0pb2RdC.mp4?tag=5"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1057964003002015745/pu/vid/720x720/04pM1MPYsEFxWxcA.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1057964003002015745/pu/pl/UE_-I-NAqveR1Yem.m3u8?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1057964044819152896,
+          "source_status_id_str": "1057964044819152896",
+          "source_user_id": 983925286260453378,
+          "source_user_id_str": "983925286260453378"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "mofinuclub",
+        "name": "もふいぬ同好会",
+        "id": 981101905806999553,
+        "id_str": "981101905806999553",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1057964003002015745,
+        "id_str": "1057964003002015745",
+        "indices": [
+          45,
+          68
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057964003002015745/pu/img/LicPE3X0-IfeywwC.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057964003002015745/pu/img/LicPE3X0-IfeywwC.jpg",
+        "url": "https://t.co/Gp83Jm2nzW",
+        "display_url": "pic.twitter.com/Gp83Jm2nzW",
+        "expanded_url": "https://twitter.com/ringoro119/status/1057964044819152896/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057964044819152896,
+        "source_status_id_str": "1057964044819152896",
+        "source_user_id": 983925286260453378,
+        "source_user_id_str": "983925286260453378"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1057964003002015745,
+        "id_str": "1057964003002015745",
+        "indices": [
+          45,
+          68
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057964003002015745/pu/img/LicPE3X0-IfeywwC.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057964003002015745/pu/img/LicPE3X0-IfeywwC.jpg",
+        "url": "https://t.co/Gp83Jm2nzW",
+        "display_url": "pic.twitter.com/Gp83Jm2nzW",
+        "expanded_url": "https://twitter.com/ringoro119/status/1057964044819152896/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 14453,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1057964003002015745/pu/vid/240x240/fuFHMxtvcnMGanAn.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1057964003002015745/pu/vid/480x480/Ta7rfcfmM0pb2RdC.mp4?tag=5"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1057964003002015745/pu/vid/720x720/04pM1MPYsEFxWxcA.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1057964003002015745/pu/pl/UE_-I-NAqveR1Yem.m3u8?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057964044819152896,
+        "source_status_id_str": "1057964044819152896",
+        "source_user_id": 983925286260453378,
+        "source_user_id_str": "983925286260453378"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254563658"
+}

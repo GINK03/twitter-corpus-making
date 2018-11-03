@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:20:10 +0000 2018",
+  "id": 1058725527849132033,
+  "id_str": "1058725527849132033",
+  "text": "@Testa_di_Leone @tinypippi あと13分で最寄駅、今日という日の終わりを感じる",
+  "display_text_range": [
+    27,
+    51
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058725305827831809,
+  "in_reply_to_status_id_str": "1058725305827831809",
+  "in_reply_to_user_id": 992856871,
+  "in_reply_to_user_id_str": "992856871",
+  "in_reply_to_screen_name": "Testa_di_Leone",
+  "user": {
+    "id": 1558070322,
+    "id_str": "1558070322",
+    "name": "みゆき",
+    "screen_name": "miyug__",
+    "location": "青梅",
+    "url": null,
+    "description": "【みゆき / さくちゃん】音楽⇨PARIS on the City!、andymori、クリープハイプ、DENIMS、天才バンド、the pillows、音速ラインなどなど好きです",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 310,
+    "friends_count": 595,
+    "listed_count": 10,
+    "favourites_count": 21043,
+    "statuses_count": 15969,
+    "created_at": "Sun Jun 30 13:44:34 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1038276623798161408/KAaaKvNs_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1038276623798161408/KAaaKvNs_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1558070322/1540888087",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Testa_di_Leone",
+        "name": "たけ@猫吸い師",
+        "id": 992856871,
+        "id_str": "992856871",
+        "indices": [
+          0,
+          15
+        ]
+      },
+      {
+        "screen_name": "tinypippi",
+        "name": "くろ先生@お源幕張参戦",
+        "id": 1388350296,
+        "id_str": "1388350296",
+        "indices": [
+          16,
+          26
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254810665"
+}

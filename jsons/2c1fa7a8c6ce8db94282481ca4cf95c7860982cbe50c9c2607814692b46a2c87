@@ -1,0 +1,265 @@
+{
+  "created_at": "Sat Nov 03 14:23:47 +0000 2018",
+  "id": 1058726438000504832,
+  "id_str": "1058726438000504832",
+  "text": "仕事頑張ったから私の飛鳥くん見て…… https://t.co/IFgBIQ6rKs",
+  "display_text_range": [
+    0,
+    18
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058674357256445952,
+  "in_reply_to_status_id_str": "1058674357256445952",
+  "in_reply_to_user_id": 567061189,
+  "in_reply_to_user_id_str": "567061189",
+  "in_reply_to_screen_name": "hotarumr07",
+  "user": {
+    "id": 567061189,
+    "id_str": "567061189",
+    "name": "ほたる",
+    "screen_name": "hotarumr07",
+    "location": "Mix置き場",
+    "url": "https://www.mixcloud.com/hotaru_mr07/",
+    "description": "アイドルアニメとソシャゲで呼吸が成り立つオタク。楓と文香の担当です。アイカツ/バンドリ/ヒプマイ/FGO アニソンDJもしてますラキトレ/ガルモ/ラヴフレ オファー等ご連絡はDM、LINEにてお待ちしております",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1545,
+    "friends_count": 1215,
+    "listed_count": 54,
+    "favourites_count": 74252,
+    "statuses_count": 170880,
+    "created_at": "Mon Apr 30 08:51:24 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "00C6FF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "19CF86",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/888054486047965184/mtQKt7BA_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/888054486047965184/mtQKt7BA_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/567061189/1530374562",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058726433718075392,
+        "id_str": "1058726433718075392",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaFQQVAAAdxM-.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaFQQVAAAdxM-.jpg",
+        "url": "https://t.co/IFgBIQ6rKs",
+        "display_url": "pic.twitter.com/IFgBIQ6rKs",
+        "expanded_url": "https://twitter.com/hotarumr07/status/1058726438000504832/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058726433718075392,
+        "id_str": "1058726433718075392",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaFQQVAAAdxM-.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaFQQVAAAdxM-.jpg",
+        "url": "https://t.co/IFgBIQ6rKs",
+        "display_url": "pic.twitter.com/IFgBIQ6rKs",
+        "expanded_url": "https://twitter.com/hotarumr07/status/1058726438000504832/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058726433718030336,
+        "id_str": "1058726433718030336",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaFQQUUAAut3v.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaFQQUUAAut3v.jpg",
+        "url": "https://t.co/IFgBIQ6rKs",
+        "display_url": "pic.twitter.com/IFgBIQ6rKs",
+        "expanded_url": "https://twitter.com/hotarumr07/status/1058726438000504832/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058726433730641920,
+        "id_str": "1058726433730641920",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaFQTUwAAWyom.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaFQTUwAAWyom.jpg",
+        "url": "https://t.co/IFgBIQ6rKs",
+        "display_url": "pic.twitter.com/IFgBIQ6rKs",
+        "expanded_url": "https://twitter.com/hotarumr07/status/1058726438000504832/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058726433726464001,
+        "id_str": "1058726433726464001",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaFQSVAAE0B96.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaFQSVAAE0B96.jpg",
+        "url": "https://t.co/IFgBIQ6rKs",
+        "display_url": "pic.twitter.com/IFgBIQ6rKs",
+        "expanded_url": "https://twitter.com/hotarumr07/status/1058726438000504832/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255027662"
+}

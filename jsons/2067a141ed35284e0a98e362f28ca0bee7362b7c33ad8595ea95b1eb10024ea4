@@ -1,0 +1,631 @@
+{
+  "created_at": "Sat Nov 03 14:16:23 +0000 2018",
+  "id": 1058724575716855808,
+  "id_str": "1058724575716855808",
+  "text": "RT @TVTOKYO_sports: ただいま放送中！まずは #木村昇吾 選手の特集から！\n日本シリーズの解説、気になるあの話題にも踏み込みます！！ https://t.co/uoYlVH72L5",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 104863279,
+    "id_str": "104863279",
+    "name": "内田　冬コミでリベンジ",
+    "screen_name": "kenshiss",
+    "location": "西日本のどこか",
+    "url": null,
+    "description": "田舎で細々と生きてます。現在は派遣勤務。スポーツ好き(主に野球など)でヲタ属性^^;実況好き(間違い多々…)。愚痴を吐いたり勝手な持論を主張します。リプライは基本マジレス。リフォローは消極的。勝手にRT魔。不快な人はブロックかミュートを。最近は鬱ツイートも。サブアカウントは@9_ek5",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 679,
+    "friends_count": 762,
+    "listed_count": 41,
+    "favourites_count": 3194,
+    "statuses_count": 426117,
+    "created_at": "Thu Jan 14 16:48:31 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/511025997043359745/3V5cLG6J_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/511025997043359745/3V5cLG6J_normal.jpeg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:12:55 +0000 2018",
+    "id": 1058723703167406080,
+    "id_str": "1058723703167406080",
+    "text": "ただいま放送中！まずは #木村昇吾 選手の特集から！\n日本シリーズの解説、気になるあの話題にも踏み込みます！！ https://t.co/uoYlVH72L5",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2254519579,
+      "id_str": "2254519579",
+      "name": "SPORTSウォッチャー",
+      "screen_name": "TVTOKYO_sports",
+      "location": "東京都　港区",
+      "url": "http://www.tv-tokyo.co.jp/sportswatcher/",
+      "description": "テレビ東京「追跡 LIVE！ SPORTS ウォッチャー」番組公式twitter",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 9444,
+      "friends_count": 181,
+      "listed_count": 187,
+      "favourites_count": 5752,
+      "statuses_count": 6098,
+      "created_at": "Fri Dec 20 05:18:59 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "007D06",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/980760022870196224/9nMseIsi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/980760022870196224/9nMseIsi_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2254519579/1522666665",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058686531131518976,
+    "quoted_status_id_str": "1058686531131518976",
+    "quoted_status": {
+      "created_at": "Sat Nov 03 11:45:13 +0000 2018",
+      "id": 1058686531131518976,
+      "id_str": "1058686531131518976",
+      "text": "日本シリーズ観戦中の #西勇輝 投手と #則本昂大 投手の休憩中の一コマ٩(๑❛ᴗ❛๑)۶番組で用意したわらび餅を「きな粉」で食べるか「きな粉＋蜜」で食べるか2人でキャッキャッしてます！\nもちろん解説ポイントもしっかり打ち合わせ中… https://t.co/7ezRvlGoVm",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2254519579,
+        "id_str": "2254519579",
+        "name": "SPORTSウォッチャー",
+        "screen_name": "TVTOKYO_sports",
+        "location": "東京都　港区",
+        "url": "http://www.tv-tokyo.co.jp/sportswatcher/",
+        "description": "テレビ東京「追跡 LIVE！ SPORTS ウォッチャー」番組公式twitter",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "followers_count": 9444,
+        "friends_count": 181,
+        "listed_count": 187,
+        "favourites_count": 5752,
+        "statuses_count": 6098,
+        "created_at": "Fri Dec 20 05:18:59 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "007D06",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/980760022870196224/9nMseIsi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/980760022870196224/9nMseIsi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2254519579/1522666665",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "日本シリーズ観戦中の #西勇輝 投手と #則本昂大 投手の休憩中の一コマ٩(๑❛ᴗ❛๑)۶番組で用意したわらび餅を「きな粉」で食べるか「きな粉＋蜜」で食べるか2人でキャッキャッしてます！\nもちろん解説ポイントもしっかり打ち合わせ中！二人だからこそ語れる解説をお楽しみに！ https://t.co/OE2lezKJgW",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "西勇輝",
+              "indices": [
+                11,
+                15
+              ]
+            },
+            {
+              "text": "則本昂大",
+              "indices": [
+                20,
+                25
+              ]
+            }
+          ],
+          "urls": [],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1058686526505181184,
+              "id_str": "1058686526505181184",
+              "indices": [
+                136,
+                159
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrE1yWTVYAA0BUB.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrE1yWTVYAA0BUB.jpg",
+              "url": "https://t.co/OE2lezKJgW",
+              "display_url": "pic.twitter.com/OE2lezKJgW",
+              "expanded_url": "https://twitter.com/TVTOKYO_sports/status/1058686531131518976/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1246,
+                  "h": 888,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 855,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 485,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1058686526505181184,
+              "id_str": "1058686526505181184",
+              "indices": [
+                136,
+                159
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrE1yWTVYAA0BUB.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrE1yWTVYAA0BUB.jpg",
+              "url": "https://t.co/OE2lezKJgW",
+              "display_url": "pic.twitter.com/OE2lezKJgW",
+              "expanded_url": "https://twitter.com/TVTOKYO_sports/status/1058686531131518976/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1246,
+                  "h": 888,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 855,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 485,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 45,
+      "reply_count": 1,
+      "retweet_count": 480,
+      "favorite_count": 1288,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "西勇輝",
+            "indices": [
+              11,
+              15
+            ]
+          },
+          {
+            "text": "則本昂大",
+            "indices": [
+              20,
+              25
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7ezRvlGoVm",
+            "expanded_url": "https://twitter.com/i/web/status/1058686531131518976",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/uoYlVH72L5",
+      "expanded": "https://twitter.com/tvtokyo_sports/status/1058686531131518976",
+      "display": "twitter.com/tvtokyo_sports…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 7,
+    "favorite_count": 8,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "木村昇吾",
+          "indices": [
+            12,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uoYlVH72L5",
+          "expanded_url": "https://twitter.com/tvtokyo_sports/status/1058686531131518976",
+          "display_url": "twitter.com/tvtokyo_sports…",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058686531131518976,
+  "quoted_status_id_str": "1058686531131518976",
+  "quoted_status": {
+    "created_at": "Sat Nov 03 11:45:13 +0000 2018",
+    "id": 1058686531131518976,
+    "id_str": "1058686531131518976",
+    "text": "日本シリーズ観戦中の #西勇輝 投手と #則本昂大 投手の休憩中の一コマ٩(๑❛ᴗ❛๑)۶番組で用意したわらび餅を「きな粉」で食べるか「きな粉＋蜜」で食べるか2人でキャッキャッしてます！\nもちろん解説ポイントもしっかり打ち合わせ中… https://t.co/7ezRvlGoVm",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2254519579,
+      "id_str": "2254519579",
+      "name": "SPORTSウォッチャー",
+      "screen_name": "TVTOKYO_sports",
+      "location": "東京都　港区",
+      "url": "http://www.tv-tokyo.co.jp/sportswatcher/",
+      "description": "テレビ東京「追跡 LIVE！ SPORTS ウォッチャー」番組公式twitter",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 9444,
+      "friends_count": 181,
+      "listed_count": 187,
+      "favourites_count": 5752,
+      "statuses_count": 6098,
+      "created_at": "Fri Dec 20 05:18:59 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "007D06",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/980760022870196224/9nMseIsi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/980760022870196224/9nMseIsi_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2254519579/1522666665",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "日本シリーズ観戦中の #西勇輝 投手と #則本昂大 投手の休憩中の一コマ٩(๑❛ᴗ❛๑)۶番組で用意したわらび餅を「きな粉」で食べるか「きな粉＋蜜」で食べるか2人でキャッキャッしてます！\nもちろん解説ポイントもしっかり打ち合わせ中！二人だからこそ語れる解説をお楽しみに！ https://t.co/OE2lezKJgW",
+      "display_text_range": [
+        0,
+        135
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "西勇輝",
+            "indices": [
+              11,
+              15
+            ]
+          },
+          {
+            "text": "則本昂大",
+            "indices": [
+              20,
+              25
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058686526505181184,
+            "id_str": "1058686526505181184",
+            "indices": [
+              136,
+              159
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrE1yWTVYAA0BUB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrE1yWTVYAA0BUB.jpg",
+            "url": "https://t.co/OE2lezKJgW",
+            "display_url": "pic.twitter.com/OE2lezKJgW",
+            "expanded_url": "https://twitter.com/TVTOKYO_sports/status/1058686531131518976/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1246,
+                "h": 888,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 855,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 485,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058686526505181184,
+            "id_str": "1058686526505181184",
+            "indices": [
+              136,
+              159
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrE1yWTVYAA0BUB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrE1yWTVYAA0BUB.jpg",
+            "url": "https://t.co/OE2lezKJgW",
+            "display_url": "pic.twitter.com/OE2lezKJgW",
+            "expanded_url": "https://twitter.com/TVTOKYO_sports/status/1058686531131518976/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1246,
+                "h": 888,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 855,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 485,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 45,
+    "reply_count": 1,
+    "retweet_count": 480,
+    "favorite_count": 1288,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "西勇輝",
+          "indices": [
+            11,
+            15
+          ]
+        },
+        {
+          "text": "則本昂大",
+          "indices": [
+            20,
+            25
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7ezRvlGoVm",
+          "expanded_url": "https://twitter.com/i/web/status/1058686531131518976",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/uoYlVH72L5",
+    "expanded": "https://twitter.com/tvtokyo_sports/status/1058686531131518976",
+    "display": "twitter.com/tvtokyo_sports…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "木村昇吾",
+        "indices": [
+          32,
+          37
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/uoYlVH72L5",
+        "expanded_url": "https://twitter.com/tvtokyo_sports/status/1058686531131518976",
+        "display_url": "twitter.com/tvtokyo_sports…",
+        "indices": [
+          76,
+          99
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TVTOKYO_sports",
+        "name": "SPORTSウォッチャー",
+        "id": 2254519579,
+        "id_str": "2254519579",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254583659"
+}

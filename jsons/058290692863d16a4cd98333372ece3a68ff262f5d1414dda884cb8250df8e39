@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:24:42 +0000 2018",
+  "id": 1058726668691398656,
+  "id_str": "1058726668691398656",
+  "text": "RT @ida_shigeranai: あやめ殿。 https://t.co/MYwkerx1X6",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1240700000,
+    "id_str": "1240700000",
+    "name": "Hangちゃん",
+    "screen_name": "padsj195",
+    "location": "香港 Hong Kong",
+    "url": "https://twitter.com/padsj195/status/787471821931094016",
+    "description": "筋トレをしなさい。　　　　　　　　　筋肉は全てを解決してくれるわ。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 703,
+    "friends_count": 2052,
+    "listed_count": 31,
+    "favourites_count": 69422,
+    "statuses_count": 68990,
+    "created_at": "Mon Mar 04 06:47:34 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "B30000",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1057873060051578881/3aACs-Cc_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057873060051578881/3aACs-Cc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1240700000/1529505317",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:32:36 +0000 2018",
+    "id": 1058713554579152897,
+    "id_str": "1058713554579152897",
+    "text": "あやめ殿。 https://t.co/MYwkerx1X6",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 343891145,
+      "id_str": "343891145",
+      "name": "いだしげ",
+      "screen_name": "ida_shigeranai",
+      "location": "ｼﾞｬﾎﾟﾝ",
+      "url": "http://www.pixiv.net/member.php?id=213099",
+      "description": "Hello everyone! 仕事の合間にトイレに行ってスマホを起動させて自分の描いた絵をニヤニヤしながら3分ぐらい眺めて何食わぬ顔でデスクに戻り業務を再開する毎日。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 922,
+      "friends_count": 82,
+      "listed_count": 30,
+      "favourites_count": 37,
+      "statuses_count": 1526,
+      "created_at": "Thu Jul 28 07:23:34 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/995983001136779264/i0IwDrTa_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/995983001136779264/i0IwDrTa_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/343891145/1522567063",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 131,
+    "favorite_count": 367,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058713543023808512,
+          "id_str": "1058713543023808512",
+          "indices": [
+            6,
+            29
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFOW6rUUAAwGsD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFOW6rUUAAwGsD.jpg",
+          "url": "https://t.co/MYwkerx1X6",
+          "display_url": "pic.twitter.com/MYwkerx1X6",
+          "expanded_url": "https://twitter.com/ida_shigeranai/status/1058713554579152897/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 542,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 591,
+              "h": 741,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 591,
+              "h": 741,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058713543023808512,
+          "id_str": "1058713543023808512",
+          "indices": [
+            6,
+            29
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFOW6rUUAAwGsD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFOW6rUUAAwGsD.jpg",
+          "url": "https://t.co/MYwkerx1X6",
+          "display_url": "pic.twitter.com/MYwkerx1X6",
+          "expanded_url": "https://twitter.com/ida_shigeranai/status/1058713554579152897/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 542,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 591,
+              "h": 741,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 591,
+              "h": 741,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "ida_shigeranai",
+        "name": "いだしげ",
+        "id": 343891145,
+        "id_str": "343891145",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058713543023808512,
+        "id_str": "1058713543023808512",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFOW6rUUAAwGsD.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFOW6rUUAAwGsD.jpg",
+        "url": "https://t.co/MYwkerx1X6",
+        "display_url": "pic.twitter.com/MYwkerx1X6",
+        "expanded_url": "https://twitter.com/ida_shigeranai/status/1058713554579152897/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 542,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 591,
+            "h": 741,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 591,
+            "h": 741,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058713554579152897,
+        "source_status_id_str": "1058713554579152897",
+        "source_user_id": 343891145,
+        "source_user_id_str": "343891145"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058713543023808512,
+        "id_str": "1058713543023808512",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFOW6rUUAAwGsD.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFOW6rUUAAwGsD.jpg",
+        "url": "https://t.co/MYwkerx1X6",
+        "display_url": "pic.twitter.com/MYwkerx1X6",
+        "expanded_url": "https://twitter.com/ida_shigeranai/status/1058713554579152897/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 542,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 591,
+            "h": 741,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 591,
+            "h": 741,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058713554579152897,
+        "source_status_id_str": "1058713554579152897",
+        "source_user_id": 343891145,
+        "source_user_id_str": "343891145"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255082663"
+}

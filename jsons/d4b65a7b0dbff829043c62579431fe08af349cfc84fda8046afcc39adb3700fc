@@ -1,0 +1,344 @@
+{
+  "created_at": "Sat Nov 03 14:24:25 +0000 2018",
+  "id": 1058726595727249409,
+  "id_str": "1058726595727249409",
+  "text": "RT @hotosoka: 護法少女酒呑ちゃんがかわいすぎた　#FGO https://t.co/yNuwQVObsA",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1043646711036489728,
+    "id_str": "1043646711036489728",
+    "name": "オリガミ",
+    "screen_name": "origami_FGO",
+    "location": null,
+    "url": "https://www.youtube.com/channel/UCONkocBNcPrVT2XX735QgSg",
+    "description": "初めましてオリガミと申します！趣味でFGOのプレイ動画を上げ始めたのでよろしくお願いします！  FGOサービス開始から続けてるマスターですヽ(*ﾟдﾟ)ノ",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 234,
+    "friends_count": 328,
+    "listed_count": 0,
+    "favourites_count": 3404,
+    "statuses_count": 149,
+    "created_at": "Sat Sep 22 23:42:20 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1043646981271240704/S_CMc1vI_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043646981271240704/S_CMc1vI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1043646711036489728/1537776964",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Oct 24 11:05:51 +0000 2018",
+    "id": 1055052746905120768,
+    "id_str": "1055052746905120768",
+    "text": "護法少女酒呑ちゃんがかわいすぎた　#FGO https://t.co/yNuwQVObsA",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1040022896184184832,
+      "id_str": "1040022896184184832",
+      "name": "ホトソウカ",
+      "screen_name": "hotosoka",
+      "location": null,
+      "url": "https://www.pixiv.net/member.php?id=31082248",
+      "description": "絵描いてます。\nお仕事のご依頼はこちら hotoxxsoka@gmail.com",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 15822,
+      "friends_count": 56,
+      "listed_count": 191,
+      "favourites_count": 86,
+      "statuses_count": 37,
+      "created_at": "Wed Sep 12 23:42:35 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1040030484296658944/zwWNypof_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040030484296658944/zwWNypof_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1040022896184184832/1536799632",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 6,
+    "reply_count": 8,
+    "retweet_count": 6134,
+    "favorite_count": 25006,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            17,
+            21
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1055052741976875008,
+          "id_str": "1055052741976875008",
+          "indices": [
+            22,
+            45
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqRM4QDVYAAraI5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqRM4QDVYAAraI5.jpg",
+          "url": "https://t.co/yNuwQVObsA",
+          "display_url": "pic.twitter.com/yNuwQVObsA",
+          "expanded_url": "https://twitter.com/hotosoka/status/1055052746905120768/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 920,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 920,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 626,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1055052741976875008,
+          "id_str": "1055052741976875008",
+          "indices": [
+            22,
+            45
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqRM4QDVYAAraI5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqRM4QDVYAAraI5.jpg",
+          "url": "https://t.co/yNuwQVObsA",
+          "display_url": "pic.twitter.com/yNuwQVObsA",
+          "expanded_url": "https://twitter.com/hotosoka/status/1055052746905120768/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 920,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 920,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 626,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          31,
+          35
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "hotosoka",
+        "name": "ホトソウカ",
+        "id": 1040022896184184832,
+        "id_str": "1040022896184184832",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1055052741976875008,
+        "id_str": "1055052741976875008",
+        "indices": [
+          36,
+          59
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqRM4QDVYAAraI5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqRM4QDVYAAraI5.jpg",
+        "url": "https://t.co/yNuwQVObsA",
+        "display_url": "pic.twitter.com/yNuwQVObsA",
+        "expanded_url": "https://twitter.com/hotosoka/status/1055052746905120768/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 920,
+            "h": 1000,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 920,
+            "h": 1000,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 626,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1055052746905120768,
+        "source_status_id_str": "1055052746905120768",
+        "source_user_id": 1040022896184184832,
+        "source_user_id_str": "1040022896184184832"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1055052741976875008,
+        "id_str": "1055052741976875008",
+        "indices": [
+          36,
+          59
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqRM4QDVYAAraI5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqRM4QDVYAAraI5.jpg",
+        "url": "https://t.co/yNuwQVObsA",
+        "display_url": "pic.twitter.com/yNuwQVObsA",
+        "expanded_url": "https://twitter.com/hotosoka/status/1055052746905120768/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 920,
+            "h": 1000,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 920,
+            "h": 1000,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 626,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1055052746905120768,
+        "source_status_id_str": "1055052746905120768",
+        "source_user_id": 1040022896184184832,
+        "source_user_id_str": "1040022896184184832"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255065267"
+}

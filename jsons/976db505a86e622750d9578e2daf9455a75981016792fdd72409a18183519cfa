@@ -1,0 +1,167 @@
+{
+  "created_at": "Sat Nov 03 14:14:07 +0000 2018",
+  "id": 1058724005316710400,
+  "id_str": "1058724005316710400",
+  "text": "@projectuzu 阪急線河原町駅近の\n八橋屋さんの二階にあった\nラーメン定食おかず日替わり\n生八ツ橋付き‼️\n豚骨スープ濃くあり\nまろやかで後味あっさりでした❗️ https://t.co/TC7YPcmJd9",
+  "display_text_range": [
+    12,
+    84
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058712307541303296,
+  "in_reply_to_status_id_str": "1058712307541303296",
+  "in_reply_to_user_id": 143234038,
+  "in_reply_to_user_id_str": "143234038",
+  "in_reply_to_screen_name": "projectuzu",
+  "user": {
+    "id": 751001061201219584,
+    "id_str": "751001061201219584",
+    "name": "月森美記",
+    "screen_name": "miki0631730",
+    "location": "日本 大阪",
+    "url": null,
+    "description": "物書きです。無言フォロー失礼しますm(_ _)m スチームパンク.創作仮装が楽しい！お写真の姿をお借りして物語を紡ぐ事あります(^^;)宜しくお願いしますm(_ _)m",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 212,
+    "friends_count": 316,
+    "listed_count": 5,
+    "favourites_count": 13966,
+    "statuses_count": 14398,
+    "created_at": "Thu Jul 07 10:33:00 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1041318168025690112/_hpCAG3v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1041318168025690112/_hpCAG3v_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "projectuzu",
+        "name": "AGATA@10/26〜【役者出演】お笑いサタケ道場",
+        "id": 143234038,
+        "id_str": "143234038",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058723995363635201,
+        "id_str": "1058723995363635201",
+        "indices": [
+          85,
+          108
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFX3UrU8AEQImA.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFX3UrU8AEQImA.jpg",
+        "url": "https://t.co/TC7YPcmJd9",
+        "display_url": "pic.twitter.com/TC7YPcmJd9",
+        "expanded_url": "https://twitter.com/miki0631730/status/1058724005316710400/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058723995363635201,
+        "id_str": "1058723995363635201",
+        "indices": [
+          85,
+          108
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFX3UrU8AEQImA.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFX3UrU8AEQImA.jpg",
+        "url": "https://t.co/TC7YPcmJd9",
+        "display_url": "pic.twitter.com/TC7YPcmJd9",
+        "expanded_url": "https://twitter.com/miki0631730/status/1058724005316710400/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254447665"
+}

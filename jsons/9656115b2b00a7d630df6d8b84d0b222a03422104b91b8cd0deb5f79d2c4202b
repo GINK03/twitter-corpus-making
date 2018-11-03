@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:09:16 +0000 2018",
+  "id": 1058722785629884417,
+  "id_str": "1058722785629884417",
+  "text": "RT @nishi_o_man: 【FGO】無名の君へ（ダビデとエミヤ（＋ロビン）） https://t.co/B2juHNJde1",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1623057810,
+    "id_str": "1623057810",
+    "name": "新野🐑",
+    "screen_name": "74nino_1999",
+    "location": null,
+    "url": "http://twpf.jp/74nino_1999",
+    "description": "腐ってるし雑多なので苦手な方はお気をつけください\n黒ウィズ、FGO、ワーチェ、文アル、アナデン",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 26,
+    "friends_count": 58,
+    "listed_count": 0,
+    "favourites_count": 1718,
+    "statuses_count": 5287,
+    "created_at": "Fri Jul 26 14:28:03 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "91D2FA",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1037991176677208065/Ay5yKkVH_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037991176677208065/Ay5yKkVH_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1623057810/1459976633",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 10:43:38 +0000 2018",
+    "id": 1058671034713354241,
+    "id_str": "1058671034713354241",
+    "text": "【FGO】無名の君へ（ダビデとエミヤ（＋ロビン）） https://t.co/B2juHNJde1",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1046705643812356099,
+      "id_str": "1046705643812356099",
+      "name": "西尾",
+      "screen_name": "nishi_o_man",
+      "location": "全くロビンフッドは最高だぜ",
+      "url": null,
+      "description": "成人済腐／FGO２部２章済",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 194,
+      "friends_count": 5,
+      "listed_count": 0,
+      "favourites_count": 23,
+      "statuses_count": 158,
+      "created_at": "Mon Oct 01 10:17:27 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1046707716675104768/Nc8M3rgH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046707716675104768/Nc8M3rgH_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1046705643812356099/1538389761",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 63,
+    "favorite_count": 187,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058670876571234315,
+          "id_str": "1058670876571234315",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrEnjZwUcAsSuNg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrEnjZwUcAsSuNg.jpg",
+          "url": "https://t.co/B2juHNJde1",
+          "display_url": "pic.twitter.com/B2juHNJde1",
+          "expanded_url": "https://twitter.com/nishi_o_man/status/1058671034713354241/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 479,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 845,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 910,
+              "h": 1292,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058670876571234315,
+          "id_str": "1058670876571234315",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrEnjZwUcAsSuNg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrEnjZwUcAsSuNg.jpg",
+          "url": "https://t.co/B2juHNJde1",
+          "display_url": "pic.twitter.com/B2juHNJde1",
+          "expanded_url": "https://twitter.com/nishi_o_man/status/1058671034713354241/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 479,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 845,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 910,
+              "h": 1292,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "nishi_o_man",
+        "name": "西尾",
+        "id": 1046705643812356099,
+        "id_str": "1046705643812356099",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058670876571234315,
+        "id_str": "1058670876571234315",
+        "indices": [
+          43,
+          66
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrEnjZwUcAsSuNg.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrEnjZwUcAsSuNg.jpg",
+        "url": "https://t.co/B2juHNJde1",
+        "display_url": "pic.twitter.com/B2juHNJde1",
+        "expanded_url": "https://twitter.com/nishi_o_man/status/1058671034713354241/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 479,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 845,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 910,
+            "h": 1292,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058671034713354241,
+        "source_status_id_str": "1058671034713354241",
+        "source_user_id": 1046705643812356099,
+        "source_user_id_str": "1046705643812356099"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058670876571234315,
+        "id_str": "1058670876571234315",
+        "indices": [
+          43,
+          66
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrEnjZwUcAsSuNg.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrEnjZwUcAsSuNg.jpg",
+        "url": "https://t.co/B2juHNJde1",
+        "display_url": "pic.twitter.com/B2juHNJde1",
+        "expanded_url": "https://twitter.com/nishi_o_man/status/1058671034713354241/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 479,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 845,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 910,
+            "h": 1292,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058671034713354241,
+        "source_status_id_str": "1058671034713354241",
+        "source_user_id": 1046705643812356099,
+        "source_user_id_str": "1046705643812356099"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254156869"
+}

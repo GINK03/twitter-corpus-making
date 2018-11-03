@@ -1,0 +1,358 @@
+{
+  "created_at": "Sat Nov 03 14:24:01 +0000 2018",
+  "id": 1058726494006956032,
+  "id_str": "1058726494006956032",
+  "text": "RT @akae_neo: ノッブ #FGO #FateGO https://t.co/2rKT4FOqyU",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4794470960,
+    "id_str": "4794470960",
+    "name": "ブラック",
+    "screen_name": "By_0313",
+    "location": "日本",
+    "url": null,
+    "description": "アニメやゲームが好きなただのオタクです(笑)\n東方も知ってますが、あんまり詳しくないです。\n最近プレイしているのは主にFGO。ちなみに、PSO2もやっていて鯖はアンスール。\n自分がRTしたものの中にはエロ成分が含まれる可能性がありますのでご注意を。\nフォローされたら基本フォローし返しますが、人によってはしません。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 735,
+    "friends_count": 741,
+    "listed_count": 9,
+    "favourites_count": 25873,
+    "statuses_count": 23027,
+    "created_at": "Thu Jan 21 19:05:09 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/997887584775753728/ptB2VGhn_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/997887584775753728/ptB2VGhn_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4794470960/1538942702",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Jun 16 10:06:20 +0000 2018",
+    "id": 1007927347444514816,
+    "id_str": "1007927347444514816",
+    "text": "ノッブ #FGO #FateGO https://t.co/2rKT4FOqyU",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4852685505,
+      "id_str": "4852685505",
+      "name": "赤絵ねお＠2日目東C-19a",
+      "screen_name": "akae_neo",
+      "location": null,
+      "url": "http://pixiv.me/akae_neo",
+      "description": "絵とか描きます。サークル『NEW工房』で活動してます。2019年以降のお仕事募集しております。連絡先→akae.neo@gmail.com",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 8667,
+      "friends_count": 404,
+      "listed_count": 183,
+      "favourites_count": 6999,
+      "statuses_count": 15478,
+      "created_at": "Wed Jan 27 07:32:25 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/950032022075879424/zb7sjByW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/950032022075879424/zb7sjByW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4852685505/1512400589",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 1,
+    "reply_count": 4,
+    "retweet_count": 1135,
+    "favorite_count": 4089,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            4,
+            8
+          ]
+        },
+        {
+          "text": "FateGO",
+          "indices": [
+            9,
+            16
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1007926978123464704,
+          "id_str": "1007926978123464704",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/DfzgPxKVAAAxfsw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DfzgPxKVAAAxfsw.jpg",
+          "url": "https://t.co/2rKT4FOqyU",
+          "display_url": "pic.twitter.com/2rKT4FOqyU",
+          "expanded_url": "https://twitter.com/akae_neo/status/1007927347444514816/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 499,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 881,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1174,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1007926978123464704,
+          "id_str": "1007926978123464704",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/DfzgPxKVAAAxfsw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DfzgPxKVAAAxfsw.jpg",
+          "url": "https://t.co/2rKT4FOqyU",
+          "display_url": "pic.twitter.com/2rKT4FOqyU",
+          "expanded_url": "https://twitter.com/akae_neo/status/1007927347444514816/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 499,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 881,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1174,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          18,
+          22
+        ]
+      },
+      {
+        "text": "FateGO",
+        "indices": [
+          23,
+          30
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "akae_neo",
+        "name": "赤絵ねお＠2日目東C-19a",
+        "id": 4852685505,
+        "id_str": "4852685505",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1007926978123464704,
+        "id_str": "1007926978123464704",
+        "indices": [
+          31,
+          54
+        ],
+        "media_url": "http://pbs.twimg.com/media/DfzgPxKVAAAxfsw.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DfzgPxKVAAAxfsw.jpg",
+        "url": "https://t.co/2rKT4FOqyU",
+        "display_url": "pic.twitter.com/2rKT4FOqyU",
+        "expanded_url": "https://twitter.com/akae_neo/status/1007927347444514816/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 499,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 881,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1600,
+            "h": 1174,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1007927347444514816,
+        "source_status_id_str": "1007927347444514816",
+        "source_user_id": 4852685505,
+        "source_user_id_str": "4852685505"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1007926978123464704,
+        "id_str": "1007926978123464704",
+        "indices": [
+          31,
+          54
+        ],
+        "media_url": "http://pbs.twimg.com/media/DfzgPxKVAAAxfsw.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DfzgPxKVAAAxfsw.jpg",
+        "url": "https://t.co/2rKT4FOqyU",
+        "display_url": "pic.twitter.com/2rKT4FOqyU",
+        "expanded_url": "https://twitter.com/akae_neo/status/1007927347444514816/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 499,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 881,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1600,
+            "h": 1174,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1007927347444514816,
+        "source_status_id_str": "1007927347444514816",
+        "source_user_id": 4852685505,
+        "source_user_id_str": "4852685505"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255041015"
+}

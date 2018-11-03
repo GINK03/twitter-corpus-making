@@ -1,0 +1,107 @@
+{
+  "created_at": "Sat Nov 03 14:18:24 +0000 2018",
+  "id": 1058725083248611329,
+  "id_str": "1058725083248611329",
+  "text": "@s210ripho @shun_seto ビーバーを探せ\n\n＃俺は知らないよ",
+  "display_text_range": [
+    22,
+    39
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058698010069061632,
+  "in_reply_to_status_id_str": "1058698010069061632",
+  "in_reply_to_user_id": 2951462467,
+  "in_reply_to_user_id_str": "2951462467",
+  "in_reply_to_screen_name": "s210ripho",
+  "user": {
+    "id": 3244234513,
+    "id_str": "3244234513",
+    "name": "昇輝",
+    "screen_name": "gmj0919",
+    "location": null,
+    "url": null,
+    "description": "NEW!! 2015/06/13〜",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 191,
+    "friends_count": 331,
+    "listed_count": 0,
+    "favourites_count": 581,
+    "statuses_count": 1798,
+    "created_at": "Sat Jun 13 12:37:10 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/612520624242585602/JHLllqHs_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/612520624242585602/JHLllqHs_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3244234513/1446535317",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "俺は知らないよ",
+        "indices": [
+          31,
+          39
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "s210ripho",
+        "name": "すぐる",
+        "id": 2951462467,
+        "id_str": "2951462467",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "shun_seto",
+        "name": "瀬戸 俊弥",
+        "id": 3463088233,
+        "id_str": "3463088233",
+        "indices": [
+          11,
+          21
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254704664"
+}

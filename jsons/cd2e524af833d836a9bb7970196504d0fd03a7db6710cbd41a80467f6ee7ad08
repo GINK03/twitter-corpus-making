@@ -1,0 +1,157 @@
+{
+  "created_at": "Sat Nov 03 13:57:05 +0000 2018",
+  "id": 1058719716586311680,
+  "id_str": "1058719716586311680",
+  "text": "武蔵ちゃんにも持たせてみた\n\n※武蔵ちゃん(FGO)でも何か出す予定ですが……\nメインは由良ちゃん(艦これ)なので\n2日目/西地区た02a……由良(艦これ)ゾーンです。 https://t.co/AVKf5KOpfL",
+  "display_text_range": [
+    0,
+    84
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 130194336,
+    "id_str": "130194336",
+    "name": "香月つばさ＠C95:日曜日/西た02a",
+    "screen_name": "koudukitubasa",
+    "location": "リンガ泊地の由良沼",
+    "url": "http://kouduki-dou.com",
+    "description": "女の子描くの大好きな雑食系ねこくらげ。メインは艦これ。時々FGOとオリジナル。/推しは由良ちゃん(艦これ)と武蔵ちゃん(FGO)。絵のお仕事募集中→koudukitubasa720(Gmail)",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1170,
+    "friends_count": 621,
+    "listed_count": 41,
+    "favourites_count": 4960,
+    "statuses_count": 78849,
+    "created_at": "Tue Apr 06 16:08:15 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "F58EA8",
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1024889266449469440/yRXJLo_o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024889266449469440/yRXJLo_o_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/130194336/1533188736",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058719704292909056,
+        "id_str": "1058719704292909056",
+        "indices": [
+          85,
+          108
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFT9jMV4AAIXv3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFT9jMV4AAIXv3.jpg",
+        "url": "https://t.co/AVKf5KOpfL",
+        "display_url": "pic.twitter.com/AVKf5KOpfL",
+        "expanded_url": "https://twitter.com/koudukitubasa/status/1058719716586311680/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1152,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058719704292909056,
+        "id_str": "1058719704292909056",
+        "indices": [
+          85,
+          108
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFT9jMV4AAIXv3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFT9jMV4AAIXv3.jpg",
+        "url": "https://t.co/AVKf5KOpfL",
+        "display_url": "pic.twitter.com/AVKf5KOpfL",
+        "expanded_url": "https://twitter.com/koudukitubasa/status/1058719716586311680/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1152,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253425152"
+}

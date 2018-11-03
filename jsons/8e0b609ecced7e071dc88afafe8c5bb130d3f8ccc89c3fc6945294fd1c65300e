@@ -1,0 +1,654 @@
+{
+  "created_at": "Sat Nov 03 13:50:50 +0000 2018",
+  "id": 1058718145819504640,
+  "id_str": "1058718145819504640",
+  "text": "RT @HALL_4397: とこさんの本に寄稿させて頂きました！\nうちの本よりちゃんとアビーちゃん描いてます！← https://t.co/g1cQOrqyKv",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3139489759,
+    "id_str": "3139489759",
+    "name": "黒柳 凪",
+    "screen_name": "kuroyagi_t",
+    "location": "三重",
+    "url": null,
+    "description": "好きなきゃらの絵を描きます。最近はFGOが多いです。ニコニコ→http://seiga.nicovideo.jp/user/illust/43607714 pixiv→https://pixiv.me/kuro_yanagi お題箱 →http://odaibako.net/u/kuroyagi_t",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 618,
+    "friends_count": 226,
+    "listed_count": 15,
+    "favourites_count": 10429,
+    "statuses_count": 6325,
+    "created_at": "Sat Apr 04 21:49:11 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048231711706730498/_2dokw4s_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048231711706730498/_2dokw4s_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3139489759/1540819106",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 09:56:34 +0000 2018",
+    "id": 1058659189382205441,
+    "id_str": "1058659189382205441",
+    "text": "とこさんの本に寄稿させて頂きました！\nうちの本よりちゃんとアビーちゃん描いてます！← https://t.co/g1cQOrqyKv",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 156189698,
+      "id_str": "156189698",
+      "name": "しののめはるとろ△サンクリQ11a",
+      "screen_name": "HALL_4397",
+      "location": "ドンレミ村",
+      "url": "http://pixiv.me/halltro_4397",
+      "description": "◇イラストレーター。絵を描くフレンズ。時雨提督。時雨大好き。 アビーちゃんとジャンヌ。最近はfgoに お仕事募集中です。 18歳未満非推奨",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1030,
+      "friends_count": 1929,
+      "listed_count": 33,
+      "favourites_count": 31660,
+      "statuses_count": 50675,
+      "created_at": "Wed Jun 16 07:20:23 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F4B3C2",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "F5ABB5",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1040992994617249792/-UDGxPG2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040992994617249792/-UDGxPG2_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/156189698/1537027360",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058344181440012288,
+    "quoted_status_id_str": "1058344181440012288",
+    "quoted_status": {
+      "created_at": "Fri Nov 02 13:04:50 +0000 2018",
+      "id": 1058344181440012288,
+      "id_str": "1058344181440012288",
+      "text": "11月4日のサンクリ内FGOプチオンリー「番外特異点 zweiter!」に参加します😊スペースはQ15ｂです！新刊はゲスト様8人にお迎えいただいております🎶サンクリに参加予定の方は是非お立ち寄りいただけましたら幸いです。 https://t.co/4S7pyWDEPO",
+      "display_text_range": [
+        0,
+        110
+      ],
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 984056967302758403,
+        "id_str": "984056967302758403",
+        "name": "とこ🍎サンクリQ15b",
+        "screen_name": "torisan_ren",
+        "location": null,
+        "url": "https://www.pixiv.net/member.php?id=31083260",
+        "description": "成人済、FGO、あんスタが好きです😊とても雑食ですが、仲良くしてくださると嬉しいです🎶 ＊無断転載・模写をしての自作発言はお止めくださるようお願いいたします。",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 273,
+        "friends_count": 163,
+        "listed_count": 8,
+        "favourites_count": 1666,
+        "statuses_count": 3768,
+        "created_at": "Wed Apr 11 13:13:58 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1045306975226028032/z5OyOapO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045306975226028032/z5OyOapO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/984056967302758403/1533188202",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 4,
+      "reply_count": 6,
+      "retweet_count": 29,
+      "favorite_count": 50,
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058343332437323776,
+            "id_str": "1058343332437323776",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq_9p0xUcAAhCe5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq_9p0xUcAAhCe5.jpg",
+            "url": "https://t.co/4S7pyWDEPO",
+            "display_url": "pic.twitter.com/4S7pyWDEPO",
+            "expanded_url": "https://twitter.com/torisan_ren/status/1058344181440012288/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 827,
+                "h": 700,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 576,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 827,
+                "h": 700,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058343332437323776,
+            "id_str": "1058343332437323776",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq_9p0xUcAAhCe5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq_9p0xUcAAhCe5.jpg",
+            "url": "https://t.co/4S7pyWDEPO",
+            "display_url": "pic.twitter.com/4S7pyWDEPO",
+            "expanded_url": "https://twitter.com/torisan_ren/status/1058344181440012288/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 827,
+                "h": 700,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 576,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 827,
+                "h": 700,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058343368462262272,
+            "id_str": "1058343368462262272",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq_9r6-VYAAhub2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq_9r6-VYAAhub2.jpg",
+            "url": "https://t.co/4S7pyWDEPO",
+            "display_url": "pic.twitter.com/4S7pyWDEPO",
+            "expanded_url": "https://twitter.com/torisan_ren/status/1058344181440012288/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 391,
+                "h": 490,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 391,
+                "h": 490,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 391,
+                "h": 490,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058343385080061953,
+            "id_str": "1058343385080061953",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq_9s44U4AE2w_x.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq_9s44U4AE2w_x.jpg",
+            "url": "https://t.co/4S7pyWDEPO",
+            "display_url": "pic.twitter.com/4S7pyWDEPO",
+            "expanded_url": "https://twitter.com/torisan_ren/status/1058344181440012288/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 392,
+                "h": 490,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 392,
+                "h": 490,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 392,
+                "h": 490,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/g1cQOrqyKv",
+      "expanded": "https://twitter.com/torisan_ren/status/1058344181440012288",
+      "display": "twitter.com/torisan_ren/st…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/g1cQOrqyKv",
+          "expanded_url": "https://twitter.com/torisan_ren/status/1058344181440012288",
+          "display_url": "twitter.com/torisan_ren/st…",
+          "indices": [
+            43,
+            66
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058344181440012288,
+  "quoted_status_id_str": "1058344181440012288",
+  "quoted_status": {
+    "created_at": "Fri Nov 02 13:04:50 +0000 2018",
+    "id": 1058344181440012288,
+    "id_str": "1058344181440012288",
+    "text": "11月4日のサンクリ内FGOプチオンリー「番外特異点 zweiter!」に参加します😊スペースはQ15ｂです！新刊はゲスト様8人にお迎えいただいております🎶サンクリに参加予定の方は是非お立ち寄りいただけましたら幸いです。 https://t.co/4S7pyWDEPO",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 984056967302758403,
+      "id_str": "984056967302758403",
+      "name": "とこ🍎サンクリQ15b",
+      "screen_name": "torisan_ren",
+      "location": null,
+      "url": "https://www.pixiv.net/member.php?id=31083260",
+      "description": "成人済、FGO、あんスタが好きです😊とても雑食ですが、仲良くしてくださると嬉しいです🎶 ＊無断転載・模写をしての自作発言はお止めくださるようお願いいたします。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 273,
+      "friends_count": 163,
+      "listed_count": 8,
+      "favourites_count": 1666,
+      "statuses_count": 3768,
+      "created_at": "Wed Apr 11 13:13:58 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1045306975226028032/z5OyOapO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045306975226028032/z5OyOapO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/984056967302758403/1533188202",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 4,
+    "reply_count": 6,
+    "retweet_count": 29,
+    "favorite_count": 50,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058343332437323776,
+          "id_str": "1058343332437323776",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_9p0xUcAAhCe5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_9p0xUcAAhCe5.jpg",
+          "url": "https://t.co/4S7pyWDEPO",
+          "display_url": "pic.twitter.com/4S7pyWDEPO",
+          "expanded_url": "https://twitter.com/torisan_ren/status/1058344181440012288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 827,
+              "h": 700,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 576,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 827,
+              "h": 700,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058343332437323776,
+          "id_str": "1058343332437323776",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_9p0xUcAAhCe5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_9p0xUcAAhCe5.jpg",
+          "url": "https://t.co/4S7pyWDEPO",
+          "display_url": "pic.twitter.com/4S7pyWDEPO",
+          "expanded_url": "https://twitter.com/torisan_ren/status/1058344181440012288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 827,
+              "h": 700,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 576,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 827,
+              "h": 700,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058343368462262272,
+          "id_str": "1058343368462262272",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_9r6-VYAAhub2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_9r6-VYAAhub2.jpg",
+          "url": "https://t.co/4S7pyWDEPO",
+          "display_url": "pic.twitter.com/4S7pyWDEPO",
+          "expanded_url": "https://twitter.com/torisan_ren/status/1058344181440012288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 391,
+              "h": 490,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 391,
+              "h": 490,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 391,
+              "h": 490,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058343385080061953,
+          "id_str": "1058343385080061953",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_9s44U4AE2w_x.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_9s44U4AE2w_x.jpg",
+          "url": "https://t.co/4S7pyWDEPO",
+          "display_url": "pic.twitter.com/4S7pyWDEPO",
+          "expanded_url": "https://twitter.com/torisan_ren/status/1058344181440012288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 392,
+              "h": 490,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 392,
+              "h": 490,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 392,
+              "h": 490,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/g1cQOrqyKv",
+    "expanded": "https://twitter.com/torisan_ren/status/1058344181440012288",
+    "display": "twitter.com/torisan_ren/st…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/g1cQOrqyKv",
+        "expanded_url": "https://twitter.com/torisan_ren/status/1058344181440012288",
+        "display_url": "twitter.com/torisan_ren/st…",
+        "indices": [
+          58,
+          81
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HALL_4397",
+        "name": "しののめはるとろ△サンクリQ11a",
+        "id": 156189698,
+        "id_str": "156189698",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253050652"
+}

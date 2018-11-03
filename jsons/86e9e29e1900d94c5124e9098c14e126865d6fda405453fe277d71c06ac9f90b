@@ -1,0 +1,110 @@
+{
+  "created_at": "Sat Nov 03 13:58:49 +0000 2018",
+  "id": 1058720154685558785,
+  "id_str": "1058720154685558785",
+  "text": "ふぉるてはこの度!\nMirrativ実況者になります!\n🎙と🎮兼任します( '༥'  )\nMirrativでは主にオセロニア､CytusII､バンドリをしていきます!!\nﾖﾛ(｀・ω・´)ｽｸ！\n#Mirrativ #実況者始めました\n#オセロニア #CytusII #バンドリ",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1046390762345119745,
+    "id_str": "1046390762345119745",
+    "name": "ふぉるて🎙🎮☜",
+    "screen_name": "FF_INFINITE",
+    "location": null,
+    "url": null,
+    "description": "#spoon のDJ兼#Mirrativ の実況者(新参…)です!よろしくっ(*｀･ω・)ゞ 歌ったり🎤雑談だったり🎙ゲームだったり🎮無言フォロー失礼します！固ツイ閲覧ﾖﾛ(｀・ω・´)ｽｸ！",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 44,
+    "friends_count": 94,
+    "listed_count": 0,
+    "favourites_count": 12,
+    "statuses_count": 52,
+    "created_at": "Sun Sep 30 13:26:13 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1050380440748486657/E6VaJSpm_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050380440748486657/E6VaJSpm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1046390762345119745/1538317313",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Mirrativ",
+        "indices": [
+          98,
+          107
+        ]
+      },
+      {
+        "text": "実況者始めました",
+        "indices": [
+          108,
+          117
+        ]
+      },
+      {
+        "text": "オセロニア",
+        "indices": [
+          118,
+          124
+        ]
+      },
+      {
+        "text": "CytusII",
+        "indices": [
+          125,
+          133
+        ]
+      },
+      {
+        "text": "バンドリ",
+        "indices": [
+          134,
+          139
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253529603"
+}

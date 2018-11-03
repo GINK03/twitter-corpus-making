@@ -1,0 +1,229 @@
+{
+  "created_at": "Sat Nov 03 14:24:47 +0000 2018",
+  "id": 1058726689667088385,
+  "id_str": "1058726689667088385",
+  "text": "エイジの食べ方癖つよ😂😂😂 https://t.co/I99E9SYMN5",
+  "display_text_range": [
+    0,
+    13
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 987998078262112256,
+    "id_str": "987998078262112256",
+    "name": "あーりん。",
+    "screen_name": "avntis_0710",
+    "location": "でっかいどう",
+    "url": null,
+    "description": "アバンティーズ／@turime1996",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 7,
+    "friends_count": 9,
+    "listed_count": 0,
+    "favourites_count": 86,
+    "statuses_count": 761,
+    "created_at": "Sun Apr 22 10:14:32 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1033746683119587329/0HXQIxIU_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1033746683119587329/0HXQIxIU_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/987998078262112256/1524393092",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058726685347012608,
+        "id_str": "1058726685347012608",
+        "indices": [
+          14,
+          37
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaT5pV4AABa2k.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaT5pV4AABa2k.jpg",
+        "url": "https://t.co/I99E9SYMN5",
+        "display_url": "pic.twitter.com/I99E9SYMN5",
+        "expanded_url": "https://twitter.com/avntis_0710/status/1058726689667088385/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 441,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 698,
+            "h": 1076,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 698,
+            "h": 1076,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058726685347012608,
+        "id_str": "1058726685347012608",
+        "indices": [
+          14,
+          37
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaT5pV4AABa2k.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaT5pV4AABa2k.jpg",
+        "url": "https://t.co/I99E9SYMN5",
+        "display_url": "pic.twitter.com/I99E9SYMN5",
+        "expanded_url": "https://twitter.com/avntis_0710/status/1058726689667088385/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 441,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 698,
+            "h": 1076,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 698,
+            "h": 1076,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058726685355339781,
+        "id_str": "1058726685355339781",
+        "indices": [
+          14,
+          37
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaT5rU8AUkYaV.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaT5rU8AUkYaV.jpg",
+        "url": "https://t.co/I99E9SYMN5",
+        "display_url": "pic.twitter.com/I99E9SYMN5",
+        "expanded_url": "https://twitter.com/avntis_0710/status/1058726689667088385/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 718,
+            "h": 1099,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 718,
+            "h": 1099,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 444,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058726685342756865,
+        "id_str": "1058726685342756865",
+        "indices": [
+          14,
+          37
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaT5oU8AExbzr.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaT5oU8AExbzr.jpg",
+        "url": "https://t.co/I99E9SYMN5",
+        "display_url": "pic.twitter.com/I99E9SYMN5",
+        "expanded_url": "https://twitter.com/avntis_0710/status/1058726689667088385/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 547,
+            "h": 627,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 547,
+            "h": 627,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 547,
+            "h": 627,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255087664"
+}

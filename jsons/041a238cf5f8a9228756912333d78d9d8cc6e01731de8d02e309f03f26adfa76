@@ -1,0 +1,164 @@
+{
+  "created_at": "Sat Nov 03 13:55:47 +0000 2018",
+  "id": 1058719391859101696,
+  "id_str": "1058719391859101696",
+  "text": "【投稿小説最新】\n「S泊地の日常風景」ハロウィンの流儀～半端なイベントはつまらんだろう～\n#艦これ #小説\nハーメルン: https://t.co/R9yZhy4Vk5\npixiv: https://t.co/EsOYsZojke… https://t.co/sMspBWYzm6",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 465623124,
+    "id_str": "465623124",
+    "name": "夕月 日暮",
+    "screen_name": "YuudukiHigure",
+    "location": "東京",
+    "url": "http://www.yuuduki.jp/",
+    "description": "歴史・小説・アニメ・ラジオが好きなSE。\n最近は趣味で艦これSS書いてます。\npixiv：https://pixiv.me/yuuduki_higure ハーメルン：https://syosetu.org/?mode=user&uid=184245",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 95,
+    "friends_count": 320,
+    "listed_count": 2,
+    "favourites_count": 2529,
+    "statuses_count": 32260,
+    "created_at": "Mon Jan 16 15:20:40 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "FF691F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/980276049652080641/S13h1Vm2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/980276049652080641/S13h1Vm2_normal.jpg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "【投稿小説最新】\n「S泊地の日常風景」ハロウィンの流儀～半端なイベントはつまらんだろう～\n#艦これ #小説\nハーメルン: https://t.co/R9yZhy4Vk5\npixiv: https://t.co/EsOYsZojke\nハロウィンのイベントを企画する海外艦たち。しかし、ふと日本におけるハロウィンの認識について不安になり――。",
+    "display_text_range": [
+      0,
+      169
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "艦これ",
+          "indices": [
+            45,
+            49
+          ]
+        },
+        {
+          "text": "小説",
+          "indices": [
+            50,
+            53
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/R9yZhy4Vk5",
+          "expanded_url": "https://syosetu.org/novel/119000/",
+          "display_url": "syosetu.org/novel/119000/",
+          "indices": [
+            61,
+            84
+          ]
+        },
+        {
+          "url": "https://t.co/EsOYsZojke",
+          "expanded_url": "https://www.pixiv.net/novel/show.php?id=10325034",
+          "display_url": "pixiv.net/novel/show.php…",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ",
+        "indices": [
+          45,
+          49
+        ]
+      },
+      {
+        "text": "小説",
+        "indices": [
+          50,
+          53
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/R9yZhy4Vk5",
+        "expanded_url": "https://syosetu.org/novel/119000/",
+        "display_url": "syosetu.org/novel/119000/",
+        "indices": [
+          61,
+          84
+        ]
+      },
+      {
+        "url": "https://t.co/EsOYsZojke",
+        "expanded_url": "https://www.pixiv.net/novel/show.php?id=10325034",
+        "display_url": "pixiv.net/novel/show.php…",
+        "indices": [
+          92,
+          115
+        ]
+      },
+      {
+        "url": "https://t.co/sMspBWYzm6",
+        "expanded_url": "https://twitter.com/i/web/status/1058719391859101696",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253347731"
+}

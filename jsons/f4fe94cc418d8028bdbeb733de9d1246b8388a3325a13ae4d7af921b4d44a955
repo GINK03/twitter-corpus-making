@@ -1,0 +1,578 @@
+{
+  "created_at": "Sat Nov 03 14:17:04 +0000 2018",
+  "id": 1058724747712724999,
+  "id_str": "1058724747712724999",
+  "text": "RT @kr1216_mitsuki: 黙れクソ麺！wwwww https://t.co/X8KsOiH32k",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 728603797728022529,
+    "id_str": "728603797728022529",
+    "name": "りゅうちゃん♠️🌙*.｡",
+    "screen_name": "Ryuchan_913",
+    "location": null,
+    "url": null,
+    "description": "シナモンとV系と特撮・MARVELをこよなく愛すギャ男 隣は空いてます 南戸塚中卒の安田だよ〜ナントツの人もなかよくしてね〜💕",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1172,
+    "friends_count": 1141,
+    "listed_count": 8,
+    "favourites_count": 68715,
+    "statuses_count": 51020,
+    "created_at": "Fri May 06 15:14:16 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "F58EA8",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1055735812111790080/i97K1vYa_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055735812111790080/i97K1vYa_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/728603797728022529/1536937778",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:10:01 +0000 2018",
+    "id": 1058722972993708032,
+    "id_str": "1058722972993708032",
+    "text": "黙れクソ麺！wwwww https://t.co/X8KsOiH32k",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 770886330138046464,
+      "id_str": "770886330138046464",
+      "name": "【己龍】酒井参輝",
+      "screen_name": "kr1216_mitsuki",
+      "location": null,
+      "url": "http://www.kiryu-web.net/",
+      "description": "己龍 痛絶ノスタルジック代弁第壱人者兼ギター酒井参輝 Official twitterです。 己龍 6thフルアルバム「転生輪廻」 2018年11月14日(水) 発売！単独巡業 「転生輪廻」〜千秋楽〜2018年12月21日(金)【東京】 TOKYO DOME CITY HALL",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 26754,
+      "friends_count": 80,
+      "listed_count": 525,
+      "favourites_count": 244,
+      "statuses_count": 1712,
+      "created_at": "Wed Aug 31 07:29:58 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1038097958061793280/iGvgaYsv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1038097958061793280/iGvgaYsv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/770886330138046464/1536336817",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1055835288931463169,
+    "quoted_status_id_str": "1055835288931463169",
+    "quoted_status": {
+      "created_at": "Fri Oct 26 14:55:24 +0000 2018",
+      "id": 1055835288931463169,
+      "id_str": "1055835288931463169",
+      "text": "バンギャル姫 https://t.co/o4tHiWgbeO",
+      "display_text_range": [
+        0,
+        6
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 863040234887327744,
+        "id_str": "863040234887327744",
+        "name": "真朔",
+        "screen_name": "dzr_shinsaku",
+        "location": null,
+        "url": "http://d-z-r.com/",
+        "description": "ドットジパングロマンチカ、しもてぎたーの真朔さくさくです。仮面ライダーとジョジョの話しすれば食い付きます(。-∀-)質問とかはあれとかそれとかこれに送ってくださいhttps://peing.net/dzr_shinsakuインスタグラム→https://www.instagram.com/shinsaku.gt/",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 299,
+        "friends_count": 201,
+        "listed_count": 2,
+        "favourites_count": 574,
+        "statuses_count": 1255,
+        "created_at": "Fri May 12 14:36:41 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1039123407709687808/cDlcy6eV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039123407709687808/cDlcy6eV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/863040234887327744/1536580820",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 151,
+      "reply_count": 7,
+      "retweet_count": 2365,
+      "favorite_count": 3607,
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1055835094730997761,
+            "id_str": "1055835094730997761",
+            "indices": [
+              7,
+              30
+            ],
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1055835094730997761/pu/img/Ae-Uk1FtzbFoLvVK.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1055835094730997761/pu/img/Ae-Uk1FtzbFoLvVK.jpg",
+            "url": "https://t.co/o4tHiWgbeO",
+            "display_url": "pic.twitter.com/o4tHiWgbeO",
+            "expanded_url": "https://twitter.com/dzr_shinsaku/status/1055835288931463169/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1055835094730997761,
+            "id_str": "1055835094730997761",
+            "indices": [
+              7,
+              30
+            ],
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1055835094730997761/pu/img/Ae-Uk1FtzbFoLvVK.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1055835094730997761/pu/img/Ae-Uk1FtzbFoLvVK.jpg",
+            "url": "https://t.co/o4tHiWgbeO",
+            "display_url": "pic.twitter.com/o4tHiWgbeO",
+            "expanded_url": "https://twitter.com/dzr_shinsaku/status/1055835288931463169/video/1",
+            "type": "video",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 49800,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1055835094730997761/pu/vid/320x180/GOfCuh3c6t-wksPb.mp4?tag=5"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1055835094730997761/pu/pl/WFTn2W4Kew3zRZAn.m3u8?tag=5"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1055835094730997761/pu/vid/960x540/_Uil1e2Ut5zK3eRz.mp4?tag=5"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1055835094730997761/pu/vid/640x360/PXYr7CAjHsVa7ejL.mp4?tag=5"
+                }
+              ]
+            },
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/X8KsOiH32k",
+      "expanded": "https://twitter.com/dzr_shinsaku/status/1055835288931463169",
+      "display": "twitter.com/dzr_shinsaku/s…"
+    },
+    "is_quote_status": true,
+    "quote_count": 9,
+    "reply_count": 13,
+    "retweet_count": 67,
+    "favorite_count": 214,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/X8KsOiH32k",
+          "expanded_url": "https://twitter.com/dzr_shinsaku/status/1055835288931463169",
+          "display_url": "twitter.com/dzr_shinsaku/s…",
+          "indices": [
+            12,
+            35
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1055835288931463169,
+  "quoted_status_id_str": "1055835288931463169",
+  "quoted_status": {
+    "created_at": "Fri Oct 26 14:55:24 +0000 2018",
+    "id": 1055835288931463169,
+    "id_str": "1055835288931463169",
+    "text": "バンギャル姫 https://t.co/o4tHiWgbeO",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 863040234887327744,
+      "id_str": "863040234887327744",
+      "name": "真朔",
+      "screen_name": "dzr_shinsaku",
+      "location": null,
+      "url": "http://d-z-r.com/",
+      "description": "ドットジパングロマンチカ、しもてぎたーの真朔さくさくです。仮面ライダーとジョジョの話しすれば食い付きます(。-∀-)質問とかはあれとかそれとかこれに送ってくださいhttps://peing.net/dzr_shinsakuインスタグラム→https://www.instagram.com/shinsaku.gt/",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 299,
+      "friends_count": 201,
+      "listed_count": 2,
+      "favourites_count": 574,
+      "statuses_count": 1255,
+      "created_at": "Fri May 12 14:36:41 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1039123407709687808/cDlcy6eV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039123407709687808/cDlcy6eV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/863040234887327744/1536580820",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 151,
+    "reply_count": 7,
+    "retweet_count": 2365,
+    "favorite_count": 3607,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1055835094730997761,
+          "id_str": "1055835094730997761",
+          "indices": [
+            7,
+            30
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1055835094730997761/pu/img/Ae-Uk1FtzbFoLvVK.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1055835094730997761/pu/img/Ae-Uk1FtzbFoLvVK.jpg",
+          "url": "https://t.co/o4tHiWgbeO",
+          "display_url": "pic.twitter.com/o4tHiWgbeO",
+          "expanded_url": "https://twitter.com/dzr_shinsaku/status/1055835288931463169/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1055835094730997761,
+          "id_str": "1055835094730997761",
+          "indices": [
+            7,
+            30
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1055835094730997761/pu/img/Ae-Uk1FtzbFoLvVK.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1055835094730997761/pu/img/Ae-Uk1FtzbFoLvVK.jpg",
+          "url": "https://t.co/o4tHiWgbeO",
+          "display_url": "pic.twitter.com/o4tHiWgbeO",
+          "expanded_url": "https://twitter.com/dzr_shinsaku/status/1055835288931463169/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 49800,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1055835094730997761/pu/vid/320x180/GOfCuh3c6t-wksPb.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1055835094730997761/pu/pl/WFTn2W4Kew3zRZAn.m3u8?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1055835094730997761/pu/vid/960x540/_Uil1e2Ut5zK3eRz.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1055835094730997761/pu/vid/640x360/PXYr7CAjHsVa7ejL.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/X8KsOiH32k",
+    "expanded": "https://twitter.com/dzr_shinsaku/status/1055835288931463169",
+    "display": "twitter.com/dzr_shinsaku/s…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/X8KsOiH32k",
+        "expanded_url": "https://twitter.com/dzr_shinsaku/status/1055835288931463169",
+        "display_url": "twitter.com/dzr_shinsaku/s…",
+        "indices": [
+          32,
+          55
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kr1216_mitsuki",
+        "name": "【己龍】酒井参輝",
+        "id": 770886330138046464,
+        "id_str": "770886330138046464",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254624666"
+}

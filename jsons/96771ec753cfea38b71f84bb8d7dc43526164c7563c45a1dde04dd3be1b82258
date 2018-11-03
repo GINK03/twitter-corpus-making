@@ -1,0 +1,344 @@
+{
+  "created_at": "Sat Nov 03 13:52:42 +0000 2018",
+  "id": 1058718612884602880,
+  "id_str": "1058718612884602880",
+  "text": "RT @hakuishiaoi: うちは護法。護法がうち。\n＃FGO https://t.co/mmSxOvsXRS",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3013200751,
+    "id_str": "3013200751",
+    "name": "フアン",
+    "screen_name": "Fuan1186",
+    "location": null,
+    "url": null,
+    "description": "Fortnite/Dota2/PUBG/Others\nScreen Shot 'Life is Strange'",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 137,
+    "friends_count": 243,
+    "listed_count": 4,
+    "favourites_count": 4865,
+    "statuses_count": 6165,
+    "created_at": "Sun Feb 08 08:07:52 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0008FF",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1022617940204482561/iZnK1Lf-_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022617940204482561/iZnK1Lf-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3013200751/1529816359",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Oct 31 11:53:59 +0000 2018",
+    "id": 1057601573600153600,
+    "id_str": "1057601573600153600",
+    "text": "うちは護法。護法がうち。\n＃FGO https://t.co/mmSxOvsXRS",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 760978173358059521,
+      "id_str": "760978173358059521",
+      "name": "珀石碧",
+      "screen_name": "hakuishiaoi",
+      "location": "hakuishiaoi@gmail.com",
+      "url": "http://www.pixiv.net/member.php?id=15584364",
+      "description": "絵を描きます。 お仕事のご連絡は掲載しているメールアドレスにお願いいたします。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 38932,
+      "friends_count": 360,
+      "listed_count": 847,
+      "favourites_count": 5061,
+      "statuses_count": 1225,
+      "created_at": "Wed Aug 03 23:18:29 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1022575186611134464/lmepMTU3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022575186611134464/lmepMTU3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/760978173358059521/1532635763",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 1538,
+    "favorite_count": 5115,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            13,
+            17
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1057600680351780864,
+          "id_str": "1057600680351780864",
+          "indices": [
+            18,
+            41
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq1aNyKUUAAvs3F.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq1aNyKUUAAvs3F.jpg",
+          "url": "https://t.co/mmSxOvsXRS",
+          "display_url": "pic.twitter.com/mmSxOvsXRS",
+          "expanded_url": "https://twitter.com/hakuishiaoi/status/1057601573600153600/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 711,
+              "h": 994,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 486,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 711,
+              "h": 994,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1057600680351780864,
+          "id_str": "1057600680351780864",
+          "indices": [
+            18,
+            41
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq1aNyKUUAAvs3F.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq1aNyKUUAAvs3F.jpg",
+          "url": "https://t.co/mmSxOvsXRS",
+          "display_url": "pic.twitter.com/mmSxOvsXRS",
+          "expanded_url": "https://twitter.com/hakuishiaoi/status/1057601573600153600/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 711,
+              "h": 994,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 486,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 711,
+              "h": 994,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          30,
+          34
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "hakuishiaoi",
+        "name": "珀石碧",
+        "id": 760978173358059521,
+        "id_str": "760978173358059521",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1057600680351780864,
+        "id_str": "1057600680351780864",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq1aNyKUUAAvs3F.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq1aNyKUUAAvs3F.jpg",
+        "url": "https://t.co/mmSxOvsXRS",
+        "display_url": "pic.twitter.com/mmSxOvsXRS",
+        "expanded_url": "https://twitter.com/hakuishiaoi/status/1057601573600153600/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 711,
+            "h": 994,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 486,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 711,
+            "h": 994,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057601573600153600,
+        "source_status_id_str": "1057601573600153600",
+        "source_user_id": 760978173358059521,
+        "source_user_id_str": "760978173358059521"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1057600680351780864,
+        "id_str": "1057600680351780864",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq1aNyKUUAAvs3F.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq1aNyKUUAAvs3F.jpg",
+        "url": "https://t.co/mmSxOvsXRS",
+        "display_url": "pic.twitter.com/mmSxOvsXRS",
+        "expanded_url": "https://twitter.com/hakuishiaoi/status/1057601573600153600/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 711,
+            "h": 994,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 486,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 711,
+            "h": 994,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057601573600153600,
+        "source_status_id_str": "1057601573600153600",
+        "source_user_id": 760978173358059521,
+        "source_user_id_str": "760978173358059521"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253162009"
+}

@@ -1,0 +1,496 @@
+{
+  "created_at": "Sat Nov 03 14:27:42 +0000 2018",
+  "id": 1058727424492417024,
+  "id_str": "1058727424492417024",
+  "text": "RT @ib_eight3905: #お前が描いたfgo女子を見せろ\nお気に入り https://t.co/i3OvXhTXtW",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2498816550,
+    "id_str": "2498816550",
+    "name": "エレス(たっくん)@チェンクロ",
+    "screen_name": "YTaka1020",
+    "location": null,
+    "url": null,
+    "description": "踏破大好き勢！。2017年7月9日 ドーリィ999達成！！　チェンクロ・モンスト・シンフォギアXD・デレステ・オルガル・FGO・コトダマン・プレイなう",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 311,
+    "friends_count": 344,
+    "listed_count": 6,
+    "favourites_count": 17434,
+    "statuses_count": 26763,
+    "created_at": "Fri May 16 12:46:22 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/833858658576457733/-DOfOD1y_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/833858658576457733/-DOfOD1y_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2498816550/1499527485",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:09:55 +0000 2018",
+    "id": 1058707849314885633,
+    "id_str": "1058707849314885633",
+    "text": "#お前が描いたfgo女子を見せろ\nお気に入り https://t.co/i3OvXhTXtW",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 802154516606877696,
+      "id_str": "802154516606877696",
+      "name": "あすこ⚜️羽根ペン作る",
+      "screen_name": "ib_eight3905",
+      "location": "布団",
+      "url": null,
+      "description": "新生児👶ガッキーが好きです。絵垢(@Noel3_asuko)ツイフィよろしくね→http://twpf.jp/ib_eight3905",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 649,
+      "friends_count": 405,
+      "listed_count": 44,
+      "favourites_count": 11853,
+      "statuses_count": 30197,
+      "created_at": "Fri Nov 25 14:18:34 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1058363830613372928/6Q4gr3AF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058363830613372928/6Q4gr3AF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/802154516606877696/1540996181",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 12,
+    "favorite_count": 64,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "お前が描いたfgo女子を見せろ",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058707842696273920,
+          "id_str": "1058707842696273920",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFJLHTU4AACDXH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFJLHTU4AACDXH.jpg",
+          "url": "https://t.co/i3OvXhTXtW",
+          "display_url": "pic.twitter.com/i3OvXhTXtW",
+          "expanded_url": "https://twitter.com/ib_eight3905/status/1058707849314885633/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 810,
+              "h": 1158,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 476,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 810,
+              "h": 1158,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058707842696273920,
+          "id_str": "1058707842696273920",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFJLHTU4AACDXH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFJLHTU4AACDXH.jpg",
+          "url": "https://t.co/i3OvXhTXtW",
+          "display_url": "pic.twitter.com/i3OvXhTXtW",
+          "expanded_url": "https://twitter.com/ib_eight3905/status/1058707849314885633/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 810,
+              "h": 1158,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 476,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 810,
+              "h": 1158,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058707842700521473,
+          "id_str": "1058707842700521473",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFJLHUVsAEhyo3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFJLHUVsAEhyo3.jpg",
+          "url": "https://t.co/i3OvXhTXtW",
+          "display_url": "pic.twitter.com/i3OvXhTXtW",
+          "expanded_url": "https://twitter.com/ib_eight3905/status/1058707849314885633/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 459,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1377,
+              "h": 2039,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 810,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058707842696327169,
+          "id_str": "1058707842696327169",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFJLHTVsAEqoCo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFJLHTVsAEqoCo.jpg",
+          "url": "https://t.co/i3OvXhTXtW",
+          "display_url": "pic.twitter.com/i3OvXhTXtW",
+          "expanded_url": "https://twitter.com/ib_eight3905/status/1058707849314885633/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 459,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 810,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 810,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "お前が描いたfgo女子を見せろ",
+        "indices": [
+          18,
+          34
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "ib_eight3905",
+        "name": "あすこ⚜️羽根ペン作る",
+        "id": 802154516606877696,
+        "id_str": "802154516606877696",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058707842696273920,
+        "id_str": "1058707842696273920",
+        "indices": [
+          41,
+          64
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFJLHTU4AACDXH.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFJLHTU4AACDXH.jpg",
+        "url": "https://t.co/i3OvXhTXtW",
+        "display_url": "pic.twitter.com/i3OvXhTXtW",
+        "expanded_url": "https://twitter.com/ib_eight3905/status/1058707849314885633/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 810,
+            "h": 1158,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 476,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 810,
+            "h": 1158,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058707849314885633,
+        "source_status_id_str": "1058707849314885633",
+        "source_user_id": 802154516606877696,
+        "source_user_id_str": "802154516606877696"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058707842696273920,
+        "id_str": "1058707842696273920",
+        "indices": [
+          41,
+          64
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFJLHTU4AACDXH.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFJLHTU4AACDXH.jpg",
+        "url": "https://t.co/i3OvXhTXtW",
+        "display_url": "pic.twitter.com/i3OvXhTXtW",
+        "expanded_url": "https://twitter.com/ib_eight3905/status/1058707849314885633/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 810,
+            "h": 1158,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 476,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 810,
+            "h": 1158,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058707849314885633,
+        "source_status_id_str": "1058707849314885633",
+        "source_user_id": 802154516606877696,
+        "source_user_id_str": "802154516606877696"
+      },
+      {
+        "id": 1058707842700521473,
+        "id_str": "1058707842700521473",
+        "indices": [
+          41,
+          64
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFJLHUVsAEhyo3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFJLHUVsAEhyo3.jpg",
+        "url": "https://t.co/i3OvXhTXtW",
+        "display_url": "pic.twitter.com/i3OvXhTXtW",
+        "expanded_url": "https://twitter.com/ib_eight3905/status/1058707849314885633/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 459,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1377,
+            "h": 2039,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 810,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058707849314885633,
+        "source_status_id_str": "1058707849314885633",
+        "source_user_id": 802154516606877696,
+        "source_user_id_str": "802154516606877696"
+      },
+      {
+        "id": 1058707842696327169,
+        "id_str": "1058707842696327169",
+        "indices": [
+          41,
+          64
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFJLHTVsAEqoCo.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFJLHTVsAEqoCo.jpg",
+        "url": "https://t.co/i3OvXhTXtW",
+        "display_url": "pic.twitter.com/i3OvXhTXtW",
+        "expanded_url": "https://twitter.com/ib_eight3905/status/1058707849314885633/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 459,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 810,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 810,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058707849314885633,
+        "source_status_id_str": "1058707849314885633",
+        "source_user_id": 802154516606877696,
+        "source_user_id_str": "802154516606877696"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255262860"
+}

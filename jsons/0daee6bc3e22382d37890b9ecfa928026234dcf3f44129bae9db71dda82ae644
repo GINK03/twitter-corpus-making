@@ -1,0 +1,434 @@
+{
+  "created_at": "Sat Nov 03 14:25:06 +0000 2018",
+  "id": 1058726769367310336,
+  "id_str": "1058726769367310336",
+  "text": "RT @Sdan_Stage: 本日は、ハローキティのお誕生日です！俊介くん、夢ノ介くんからそれぞれハローキティ愛が伝わってくる写真が届きました…♡\n#ミラクルステージ #サンリオ男子 https://t.co/vEBT83omAf",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1035152963566592000,
+    "id_str": "1035152963566592000",
+    "name": "みさき",
+    "screen_name": "mimisa05ki",
+    "location": null,
+    "url": null,
+    "description": "20↑ 定本楓馬くん︎☺︎❤︎",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2,
+    "friends_count": 2,
+    "listed_count": 0,
+    "favourites_count": 9,
+    "statuses_count": 8,
+    "created_at": "Thu Aug 30 13:11:13 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1057537949804355584/k2pSD3UG_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057537949804355584/k2pSD3UG_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035152963566592000/1540971716",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Nov 01 01:00:07 +0000 2018",
+    "id": 1057799411424727041,
+    "id_str": "1057799411424727041",
+    "text": "本日は、ハローキティのお誕生日です！俊介くん、夢ノ介くんからそれぞれハローキティ愛が伝わってくる写真が届きました…♡\n#ミラクルステージ #サンリオ男子 https://t.co/vEBT83omAf",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 978185812742295552,
+      "id_str": "978185812742295552",
+      "name": "ミラクル☆ステージ『サンリオ男子』",
+      "screen_name": "Sdan_Stage",
+      "location": null,
+      "url": "http://sdan-stage.com/",
+      "description": "サンリオ発信！メディアミックスプロジェクト『サンリオ男子』が次なるステージへ！ ミラクル☆ステ―ジ『サンリオ男子』11/29～12/9 天王洲 銀河劇場 ※本アカウントは発信のみとさせていただきます。予めご了承ください。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 11169,
+      "friends_count": 13,
+      "listed_count": 96,
+      "favourites_count": 945,
+      "statuses_count": 317,
+      "created_at": "Mon Mar 26 08:24:06 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/982143649419935744/wcdApRuh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/982143649419935744/wcdApRuh_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/978185812742295552/1535702734",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 32,
+    "reply_count": 0,
+    "retweet_count": 445,
+    "favorite_count": 1206,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ミラクルステージ",
+          "indices": [
+            59,
+            68
+          ]
+        },
+        {
+          "text": "サンリオ男子",
+          "indices": [
+            69,
+            76
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1057799408325144578,
+          "id_str": "1057799408325144578",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq4O9RjWsAIKht-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq4O9RjWsAIKht-.jpg",
+          "url": "https://t.co/vEBT83omAf",
+          "display_url": "pic.twitter.com/vEBT83omAf",
+          "expanded_url": "https://twitter.com/Sdan_Stage/status/1057799411424727041/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1815,
+              "h": 1210,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1057799408325144578,
+          "id_str": "1057799408325144578",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq4O9RjWsAIKht-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq4O9RjWsAIKht-.jpg",
+          "url": "https://t.co/vEBT83omAf",
+          "display_url": "pic.twitter.com/vEBT83omAf",
+          "expanded_url": "https://twitter.com/Sdan_Stage/status/1057799411424727041/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1815,
+              "h": 1210,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1057799409222737920,
+          "id_str": "1057799409222737920",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq4O9U5W4AA-_RK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq4O9U5W4AA-_RK.jpg",
+          "url": "https://t.co/vEBT83omAf",
+          "display_url": "pic.twitter.com/vEBT83omAf",
+          "expanded_url": "https://twitter.com/Sdan_Stage/status/1057799411424727041/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1478,
+              "h": 1108,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ミラクルステージ",
+        "indices": [
+          75,
+          84
+        ]
+      },
+      {
+        "text": "サンリオ男子",
+        "indices": [
+          85,
+          92
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Sdan_Stage",
+        "name": "ミラクル☆ステージ『サンリオ男子』",
+        "id": 978185812742295552,
+        "id_str": "978185812742295552",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1057799408325144578,
+        "id_str": "1057799408325144578",
+        "indices": [
+          93,
+          116
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq4O9RjWsAIKht-.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq4O9RjWsAIKht-.jpg",
+        "url": "https://t.co/vEBT83omAf",
+        "display_url": "pic.twitter.com/vEBT83omAf",
+        "expanded_url": "https://twitter.com/Sdan_Stage/status/1057799411424727041/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1815,
+            "h": 1210,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 800,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057799411424727041,
+        "source_status_id_str": "1057799411424727041",
+        "source_user_id": 978185812742295552,
+        "source_user_id_str": "978185812742295552"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1057799408325144578,
+        "id_str": "1057799408325144578",
+        "indices": [
+          93,
+          116
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq4O9RjWsAIKht-.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq4O9RjWsAIKht-.jpg",
+        "url": "https://t.co/vEBT83omAf",
+        "display_url": "pic.twitter.com/vEBT83omAf",
+        "expanded_url": "https://twitter.com/Sdan_Stage/status/1057799411424727041/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1815,
+            "h": 1210,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 800,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057799411424727041,
+        "source_status_id_str": "1057799411424727041",
+        "source_user_id": 978185812742295552,
+        "source_user_id_str": "978185812742295552"
+      },
+      {
+        "id": 1057799409222737920,
+        "id_str": "1057799409222737920",
+        "indices": [
+          93,
+          116
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq4O9U5W4AA-_RK.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq4O9U5W4AA-_RK.jpg",
+        "url": "https://t.co/vEBT83omAf",
+        "display_url": "pic.twitter.com/vEBT83omAf",
+        "expanded_url": "https://twitter.com/Sdan_Stage/status/1057799411424727041/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1478,
+            "h": 1108,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057799411424727041,
+        "source_status_id_str": "1057799411424727041",
+        "source_user_id": 978185812742295552,
+        "source_user_id_str": "978185812742295552"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255106666"
+}

@@ -1,0 +1,122 @@
+{
+  "created_at": "Sat Nov 03 14:19:02 +0000 2018",
+  "id": 1058725243735298048,
+  "id_str": "1058725243735298048",
+  "text": "@koala74146505 もう二部二章終わったんですか？と愕然としておりますが、FGOでの酒呑と茨木は\n\n茨木は大江山の客人として酒呑を呼び、唯一無二の友として慕い心から尊敬している。酒呑は茨木を面白い酒の肴と可愛がっている。… https://t.co/X00LYiMCdn",
+  "display_text_range": [
+    15,
+    140
+  ],
+  "source": "<a href=\"http://www.twitpane.com\" rel=\"nofollow\">TwitPanePlus</a>",
+  "truncated": true,
+  "in_reply_to_status_id": 1058718655029043200,
+  "in_reply_to_status_id_str": "1058718655029043200",
+  "in_reply_to_user_id": 909079724537737216,
+  "in_reply_to_user_id_str": "909079724537737216",
+  "in_reply_to_screen_name": "koala74146505",
+  "user": {
+    "id": 797826969198993408,
+    "id_str": "797826969198993408",
+    "name": "†闇まこ†",
+    "screen_name": "TIKUWAxxxTRPG",
+    "location": "四谷方面や神田に出没傾向。",
+    "url": "http://Instagram.com/kk00_13_35",
+    "description": "TRPG用(・∀・)\n\n\nTL埋め尽くし人。\n【非フォロー、リムブロミュート推奨】\n\n四谷バッドエンド部部長。\nなんかめんつゆミルクティ。\n\n所持ルルブ&サプリはツイプロ。\nCOCメインでマギロギ熱が高い。\n\nhttp://twpf.jp/TIKUWAxxxTRPG",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 92,
+    "friends_count": 78,
+    "listed_count": 4,
+    "favourites_count": 2900,
+    "statuses_count": 18354,
+    "created_at": "Sun Nov 13 15:42:27 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/797827480547491840/fkN5WCK6_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/797827480547491840/fkN5WCK6_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "@koala74146505 もう二部二章終わったんですか？と愕然としておりますが、FGOでの酒呑と茨木は\n\n茨木は大江山の客人として酒呑を呼び、唯一無二の友として慕い心から尊敬している。酒呑は茨木を面白い酒の肴と可愛がっている。ってな感じに思って貰えたらと。語ると止まらないからと酒茨寵愛者は語る。",
+    "display_text_range": [
+      15,
+      150
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "koala74146505",
+          "name": "mogra",
+          "id": 909079724537737216,
+          "id_str": "909079724537737216",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/X00LYiMCdn",
+        "expanded_url": "https://twitter.com/i/web/status/1058725243735298048",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "koala74146505",
+        "name": "mogra",
+        "id": 909079724537737216,
+        "id_str": "909079724537737216",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254742927"
+}

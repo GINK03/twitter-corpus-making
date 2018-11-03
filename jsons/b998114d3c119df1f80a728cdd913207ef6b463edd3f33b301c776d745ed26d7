@@ -1,0 +1,93 @@
+{
+  "created_at": "Sat Nov 03 14:20:07 +0000 2018",
+  "id": 1058725515245236224,
+  "id_str": "1058725515245236224",
+  "text": "漫画家 M-1グランプリ 2018  3回戦［東京］が今ならGYAO!で無料配信中！ https://t.co/LaxwHyfutZ #GYAO\n森田先生、普通にしゃべりが上手くて面白いけど\nネタがズルいよｗ",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 169486922,
+    "id_str": "169486922",
+    "name": "ぽぽ",
+    "screen_name": "popo9603",
+    "location": "ゴリラカブト生息地に住む数少ないモーモー族、カバ牧場の主",
+    "url": null,
+    "description": "ヒャッハー  障害福祉現場で働いてるよ 　　カバ牧場　　https://shindanmaker.com/646198\nプロフィール画像は　シモニタ研究所 @IswShimonita  さんにしゅじゅちゅして頂きました",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 311,
+    "friends_count": 312,
+    "listed_count": 18,
+    "favourites_count": 3321,
+    "statuses_count": 60034,
+    "created_at": "Thu Jul 22 13:18:21 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/786249714878386176/TtsovDkx_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/786249714878386176/TtsovDkx_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/169486922/1371990918",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "GYAO",
+        "indices": [
+          67,
+          72
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/LaxwHyfutZ",
+        "expanded_url": "https://gyao.yahoo.co.jp/player/11185/v00044/v0000000000000000853/?source=external.twitter.share",
+        "display_url": "gyao.yahoo.co.jp/player/11185/v…",
+        "indices": [
+          43,
+          66
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254807660"
+}

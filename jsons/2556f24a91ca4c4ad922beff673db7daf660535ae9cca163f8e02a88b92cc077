@@ -1,0 +1,210 @@
+{
+  "created_at": "Sat Nov 03 14:15:30 +0000 2018",
+  "id": 1058724353431355398,
+  "id_str": "1058724353431355398",
+  "text": "RT @figureskate_bot: 【ニュース】羽生結弦、海外メディアからの質問にプーさん愛語る「彼なしでは滑れない（笑）」 #フィギュアスケート #figureskate https://t.co/CPUfwmsMy1",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 803939443073634304,
+    "id_str": "803939443073634304",
+    "name": "ミツル",
+    "screen_name": "y12z7m7y13",
+    "location": "関西",
+    "url": null,
+    "description": "フィギュアスケート(主に羽生結弦選手)が大好きです！最近はユーリ!!! on Iceにもハマってます",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 16,
+    "friends_count": 16,
+    "listed_count": 0,
+    "favourites_count": 901,
+    "statuses_count": 410,
+    "created_at": "Wed Nov 30 12:31:14 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/847422218359328768/pjYZDqom_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/847422218359328768/pjYZDqom_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/803939443073634304/1493039571",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:36:27 +0000 2018",
+    "id": 1058714524474204161,
+    "id_str": "1058714524474204161",
+    "text": "【ニュース】羽生結弦、海外メディアからの質問にプーさん愛語る「彼なしでは滑れない（笑）」 #フィギュアスケート #figureskate https://t.co/CPUfwmsMy1",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 936491785,
+      "id_str": "936491785",
+      "name": "フィギュアスケートbot",
+      "screen_name": "figureskate_bot",
+      "location": null,
+      "url": "https://twitter.com/i/moments/968107388883447810",
+      "description": "フィギュアスケートの最新情報を発信するbotです。競技結果は速報でお伝えします、ネタバレ注意。自動フォローバック始めました。一部メンテナンス中ですm(_ _)m",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 25456,
+      "friends_count": 22892,
+      "listed_count": 497,
+      "favourites_count": 258,
+      "statuses_count": 6814,
+      "created_at": "Fri Nov 09 09:20:56 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3281742116/ab938055f8387b71222aba2f19074f41_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3281742116/ab938055f8387b71222aba2f19074f41_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/936491785/1352601752",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 49,
+    "favorite_count": 147,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "フィギュアスケート",
+          "indices": [
+            45,
+            55
+          ]
+        },
+        {
+          "text": "figureskate",
+          "indices": [
+            56,
+            68
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CPUfwmsMy1",
+          "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20181103-00000140-dal-spo",
+          "display_url": "headlines.yahoo.co.jp/hl?a=20181103-…",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "フィギュアスケート",
+        "indices": [
+          66,
+          76
+        ]
+      },
+      {
+        "text": "figureskate",
+        "indices": [
+          77,
+          89
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/CPUfwmsMy1",
+        "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20181103-00000140-dal-spo",
+        "display_url": "headlines.yahoo.co.jp/hl?a=20181103-…",
+        "indices": [
+          90,
+          113
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "figureskate_bot",
+        "name": "フィギュアスケートbot",
+        "id": 936491785,
+        "id_str": "936491785",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254530662"
+}

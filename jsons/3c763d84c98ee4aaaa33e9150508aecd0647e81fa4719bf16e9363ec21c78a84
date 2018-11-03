@@ -1,0 +1,180 @@
+{
+  "created_at": "Sat Nov 03 14:19:39 +0000 2018",
+  "id": 1058725397829828608,
+  "id_str": "1058725397829828608",
+  "text": "【グッドナイトマミー】\n最後の最後まで本当に読めなかった！むしろ読んでた内容とは違いすぎてついつい声が出ちゃった笑\n全体的にセリフは少ないのになぜか飽きずに吸い込まれてく…！本当に不思議！最初はこれ飽きるかなとか思ったけど最後まで… https://t.co/IgnCTF3F9S",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 812323381852803072,
+    "id_str": "812323381852803072",
+    "name": "mal",
+    "screen_name": "mal_cn",
+    "location": "日本",
+    "url": null,
+    "description": "movie stars❤️ I love movies!!",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 29,
+    "friends_count": 171,
+    "listed_count": 0,
+    "favourites_count": 807,
+    "statuses_count": 508,
+    "created_at": "Fri Dec 23 15:46:01 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/973556851131363330/AUfLp6HJ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/973556851131363330/AUfLp6HJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/812323381852803072/1519998549",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "【グッドナイトマミー】\n最後の最後まで本当に読めなかった！むしろ読んでた内容とは違いすぎてついつい声が出ちゃった笑\n全体的にセリフは少ないのになぜか飽きずに吸い込まれてく…！本当に不思議！最初はこれ飽きるかなとか思ったけど最後まで見てよかったと思います🤣 https://t.co/7n2UJUXAQD",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058725392196857856,
+          "id_str": "1058725392196857856",
+          "indices": [
+            128,
+            151
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFZIoSUcAAqqS7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFZIoSUcAAqqS7.jpg",
+          "url": "https://t.co/7n2UJUXAQD",
+          "display_url": "pic.twitter.com/7n2UJUXAQD",
+          "expanded_url": "https://twitter.com/mal_cn/status/1058725397829828608/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 315,
+              "h": 445,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 315,
+              "h": 445,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 315,
+              "h": 445,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058725392196857856,
+          "id_str": "1058725392196857856",
+          "indices": [
+            128,
+            151
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFZIoSUcAAqqS7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFZIoSUcAAqqS7.jpg",
+          "url": "https://t.co/7n2UJUXAQD",
+          "display_url": "pic.twitter.com/7n2UJUXAQD",
+          "expanded_url": "https://twitter.com/mal_cn/status/1058725397829828608/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 315,
+              "h": 445,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 315,
+              "h": 445,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 315,
+              "h": 445,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/IgnCTF3F9S",
+        "expanded_url": "https://twitter.com/i/web/status/1058725397829828608",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254779666"
+}

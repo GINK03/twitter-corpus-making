@@ -1,0 +1,344 @@
+{
+  "created_at": "Sat Nov 03 14:13:35 +0000 2018",
+  "id": 1058723871073783808,
+  "id_str": "1058723871073783808",
+  "text": "RT @heyjanx9: 友達がこんな事言うから･･･www\n#ヒプマイ https://t.co/obkT53lyM3",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1049488241357815808,
+    "id_str": "1049488241357815808",
+    "name": "秋埜",
+    "screen_name": "akn2_1703",
+    "location": "来年になったら本垢と合体します。",
+    "url": null,
+    "description": "18↓。RT多め。ヒプマイ垢。アイビス民。夢野幻太郎推しです。ほぼ本垢に居ます。まだ描きなれていないのでへたっぴです。本垢→@akn_1703。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 12,
+    "friends_count": 18,
+    "listed_count": 0,
+    "favourites_count": 545,
+    "statuses_count": 741,
+    "created_at": "Tue Oct 09 02:34:30 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1055456471759110144/PqkfAQ5P_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055456471759110144/PqkfAQ5P_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1049488241357815808/1539358187",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 10:42:48 +0000 2018",
+    "id": 1058308437115715584,
+    "id_str": "1058308437115715584",
+    "text": "友達がこんな事言うから･･･www\n#ヒプマイ https://t.co/obkT53lyM3",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 786892601865580545,
+      "id_str": "786892601865580545",
+      "name": "りんのすけ。",
+      "screen_name": "heyjanx9",
+      "location": null,
+      "url": null,
+      "description": "すとぷりを中心にマイペースで好きに絵を描いてます！\n莉犬君寄りの箱推しです！！\n❌無断転載・無断使用・自作発言。⭕️保存・個人使用(キーボード、壁紙)\n\nお題箱http://odaibako.net/u/heyjanx9",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1521,
+      "friends_count": 186,
+      "listed_count": 48,
+      "favourites_count": 14422,
+      "statuses_count": 9164,
+      "created_at": "Fri Oct 14 11:33:10 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1031133657795153920/8zPSgNiw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031133657795153920/8zPSgNiw_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/786892601865580545/1540301379",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 12,
+    "retweet_count": 225,
+    "favorite_count": 1383,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ヒプマイ",
+          "indices": [
+            18,
+            23
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058308428446093312,
+          "id_str": "1058308428446093312",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_d6JRU0AARCDr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_d6JRU0AARCDr.jpg",
+          "url": "https://t.co/obkT53lyM3",
+          "display_url": "pic.twitter.com/obkT53lyM3",
+          "expanded_url": "https://twitter.com/heyjanx9/status/1058308437115715584/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 569,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 768,
+              "h": 643,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 768,
+              "h": 643,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058308428446093312,
+          "id_str": "1058308428446093312",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_d6JRU0AARCDr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_d6JRU0AARCDr.jpg",
+          "url": "https://t.co/obkT53lyM3",
+          "display_url": "pic.twitter.com/obkT53lyM3",
+          "expanded_url": "https://twitter.com/heyjanx9/status/1058308437115715584/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 569,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 768,
+              "h": 643,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 768,
+              "h": 643,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ヒプマイ",
+        "indices": [
+          32,
+          37
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "heyjanx9",
+        "name": "りんのすけ。",
+        "id": 786892601865580545,
+        "id_str": "786892601865580545",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058308428446093312,
+        "id_str": "1058308428446093312",
+        "indices": [
+          38,
+          61
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_d6JRU0AARCDr.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_d6JRU0AARCDr.jpg",
+        "url": "https://t.co/obkT53lyM3",
+        "display_url": "pic.twitter.com/obkT53lyM3",
+        "expanded_url": "https://twitter.com/heyjanx9/status/1058308437115715584/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 569,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 768,
+            "h": 643,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 768,
+            "h": 643,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058308437115715584,
+        "source_status_id_str": "1058308437115715584",
+        "source_user_id": 786892601865580545,
+        "source_user_id_str": "786892601865580545"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058308428446093312,
+        "id_str": "1058308428446093312",
+        "indices": [
+          38,
+          61
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_d6JRU0AARCDr.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_d6JRU0AARCDr.jpg",
+        "url": "https://t.co/obkT53lyM3",
+        "display_url": "pic.twitter.com/obkT53lyM3",
+        "expanded_url": "https://twitter.com/heyjanx9/status/1058308437115715584/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 569,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 768,
+            "h": 643,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 768,
+            "h": 643,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058308437115715584,
+        "source_status_id_str": "1058308437115715584",
+        "source_user_id": 786892601865580545,
+        "source_user_id_str": "786892601865580545"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254415659"
+}

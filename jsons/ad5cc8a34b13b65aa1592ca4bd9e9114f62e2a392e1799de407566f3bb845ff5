@@ -1,0 +1,166 @@
+{
+  "created_at": "Sat Nov 03 14:20:36 +0000 2018",
+  "id": 1058725636871614469,
+  "id_str": "1058725636871614469",
+  "text": "スマホRPGは今これをやってるよ。今はこのイベントが開催中！　→　https://t.co/0nRBWlYKlB https://t.co/0xYvvMwyuw",
+  "display_text_range": [
+    0,
+    56
+  ],
+  "source": "<a href=\"http://granbluefantasy.jp/\" rel=\"nofollow\">グランブルー ファンタジー</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2442055202,
+    "id_str": "2442055202",
+    "name": "久遠",
+    "screen_name": "kuonojp",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 16,
+    "friends_count": 967,
+    "listed_count": 0,
+    "favourites_count": 65,
+    "statuses_count": 4277,
+    "created_at": "Sun Apr 13 17:58:20 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/455425120475959297/U86wnPMO_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/455425120475959297/U86wnPMO_normal.jpeg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/0nRBWlYKlB",
+        "expanded_url": "http://game.granbluefantasy.jp",
+        "display_url": "game.granbluefantasy.jp",
+        "indices": [
+          33,
+          56
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058725634694770689,
+        "id_str": "1058725634694770689",
+        "indices": [
+          57,
+          80
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZWvqU8AEPn4q.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZWvqU8AEPn4q.jpg",
+        "url": "https://t.co/0xYvvMwyuw",
+        "display_url": "pic.twitter.com/0xYvvMwyuw",
+        "expanded_url": "https://twitter.com/kuonojp/status/1058725636871614469/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 340,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058725634694770689,
+        "id_str": "1058725634694770689",
+        "indices": [
+          57,
+          80
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZWvqU8AEPn4q.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZWvqU8AEPn4q.jpg",
+        "url": "https://t.co/0xYvvMwyuw",
+        "display_url": "pic.twitter.com/0xYvvMwyuw",
+        "expanded_url": "https://twitter.com/kuonojp/status/1058725636871614469/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 340,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254836658"
+}

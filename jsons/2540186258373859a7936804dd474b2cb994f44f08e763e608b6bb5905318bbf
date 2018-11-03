@@ -1,0 +1,109 @@
+{
+  "created_at": "Sat Nov 03 14:16:18 +0000 2018",
+  "id": 1058724554741170177,
+  "id_str": "1058724554741170177",
+  "text": "@yakushiman10 @seiya_captain11 @8oWJ3fXGPjcSrSK お、おはよう……",
+  "display_text_range": [
+    48,
+    56
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058709127642308609,
+  "in_reply_to_status_id_str": "1058709127642308609",
+  "in_reply_to_user_id": 925581010871267328,
+  "in_reply_to_user_id_str": "925581010871267328",
+  "in_reply_to_screen_name": "yakushiman10",
+  "user": {
+    "id": 1582746822,
+    "id_str": "1582746822",
+    "name": "かしみや🎃ディアスイベ頑張る🎃",
+    "screen_name": "kashimiya_k",
+    "location": "日本 東京",
+    "url": null,
+    "description": "樫宮コオトと申します／成人済／ツイ&ソシャカス腐女子／ディアス❤️パスカルしんどい芸人／「たたかえドリームチーム(ヤマザルバスター所属)」ランイベ個人戦はパスカル杯16位、葵杯13位、サンターナ杯7位など／無言フォローすみません／リムブロ、リフォロー、ブロック等お気軽に／R18→@kashimiya_r18",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1318,
+    "friends_count": 2762,
+    "listed_count": 16,
+    "favourites_count": 15678,
+    "statuses_count": 55437,
+    "created_at": "Wed Jul 10 10:26:43 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1052086600824287232/mFKVyC_y_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052086600824287232/mFKVyC_y_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1582746822/1540176985",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "yakushiman10",
+        "name": "やくしまん＠屋久島",
+        "id": 925581010871267328,
+        "id_str": "925581010871267328",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "seiya_captain11",
+        "name": "せいや@ヤマザルバスター",
+        "id": 2222820420,
+        "id_str": "2222820420",
+        "indices": [
+          14,
+          30
+        ]
+      },
+      {
+        "screen_name": "8oWJ3fXGPjcSrSK",
+        "name": "超絶キャプテンW  連盟(副キャプテン翼)",
+        "id": 723021793028542464,
+        "id_str": "723021793028542464",
+        "indices": [
+          31,
+          47
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254578658"
+}

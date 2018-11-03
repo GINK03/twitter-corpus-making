@@ -1,0 +1,585 @@
+{
+  "created_at": "Sat Nov 03 14:00:11 +0000 2018",
+  "id": 1058720498555613185,
+  "id_str": "1058720498555613185",
+  "text": "RT @Tanya_JP: 艦隊これくしょん-艦これ-\n夕張 浴衣ver\n\n#艦これ #コスプレ https://t.co/tG3eu1FSXK",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 971471209,
+    "id_str": "971471209",
+    "name": "秀SHU2「 仲川 秀一 」",
+    "screen_name": "shuleo_2",
+    "location": "埼玉県",
+    "url": null,
+    "description": "４6歳♂ 人工透析歴３２年 佐藤健を応援！！両親が会津出身。会津魂。東北魂。 東日本大震災復興支援。 まだまだ、皆様に出来ることが有ります。\n本アカウント( @shuleo )秀SHU と同一者です。\nDMリプ等は、本アカウントにお願いします。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1773,
+    "friends_count": 1944,
+    "listed_count": 38,
+    "favourites_count": 378,
+    "statuses_count": 118702,
+    "created_at": "Mon Nov 26 06:51:14 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2897533296/2e89129221f90db36ce7eaab2a520618_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2897533296/2e89129221f90db36ce7eaab2a520618_normal.jpeg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Oct 18 13:55:29 +0000 2018",
+    "id": 1052921107639021569,
+    "id_str": "1052921107639021569",
+    "text": "艦隊これくしょん-艦これ-\n夕張 浴衣ver\n\n#艦これ #コスプレ https://t.co/tG3eu1FSXK",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1006412892,
+      "id_str": "1006412892",
+      "name": "ターニャ＠5日ギルガメ1日店長",
+      "screen_name": "Tanya_JP",
+      "location": "関東",
+      "url": "https://m.facebook.com/Tanya-Cosplay-420941054913014/",
+      "description": "コスプレイヤーです。 ロケが好きです！ アニソンDJはじめました。お仕事の依頼はDMでお願いします。雑談DMはご遠慮下さい。イベントの写真はDMではなくTLでお願いします。フォローお気軽に！",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 11489,
+      "friends_count": 536,
+      "listed_count": 244,
+      "favourites_count": 5525,
+      "statuses_count": 8535,
+      "created_at": "Wed Dec 12 14:03:33 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "6C3524",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "14D0E1",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1056592918222258176/JimBDWzB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056592918222258176/JimBDWzB_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1006412892/1522948197",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 1,
+    "reply_count": 8,
+    "retweet_count": 134,
+    "favorite_count": 476,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "艦これ",
+          "indices": [
+            24,
+            28
+          ]
+        },
+        {
+          "text": "コスプレ",
+          "indices": [
+            29,
+            34
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1052919260333273088,
+          "id_str": "1052919260333273088",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dpy4fRlU8AAg8zu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dpy4fRlU8AAg8zu.jpg",
+          "url": "https://t.co/tG3eu1FSXK",
+          "display_url": "pic.twitter.com/tG3eu1FSXK",
+          "expanded_url": "https://twitter.com/Tanya_JP/status/1052921107639021569/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1368,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 802,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1052919260333273088,
+          "id_str": "1052919260333273088",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dpy4fRlU8AAg8zu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dpy4fRlU8AAg8zu.jpg",
+          "url": "https://t.co/tG3eu1FSXK",
+          "display_url": "pic.twitter.com/tG3eu1FSXK",
+          "expanded_url": "https://twitter.com/Tanya_JP/status/1052921107639021569/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1368,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 802,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1052919306797740032,
+          "id_str": "1052919306797740032",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dpy4h-rUcAAvihX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dpy4h-rUcAAvihX.jpg",
+          "url": "https://t.co/tG3eu1FSXK",
+          "display_url": "pic.twitter.com/tG3eu1FSXK",
+          "expanded_url": "https://twitter.com/Tanya_JP/status/1052921107639021569/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 772,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1317,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 437,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1052919331573526528,
+          "id_str": "1052919331573526528",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dpy4ja-U8AAV9Jp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dpy4ja-U8AAV9Jp.jpg",
+          "url": "https://t.co/tG3eu1FSXK",
+          "display_url": "pic.twitter.com/tG3eu1FSXK",
+          "expanded_url": "https://twitter.com/Tanya_JP/status/1052921107639021569/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1368,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 802,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 454,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1052919353216094210,
+          "id_str": "1052919353216094210",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dpy4krmUUAIjutt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dpy4krmUUAIjutt.jpg",
+          "url": "https://t.co/tG3eu1FSXK",
+          "display_url": "pic.twitter.com/tG3eu1FSXK",
+          "expanded_url": "https://twitter.com/Tanya_JP/status/1052921107639021569/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1368,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 802,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ",
+        "indices": [
+          38,
+          42
+        ]
+      },
+      {
+        "text": "コスプレ",
+        "indices": [
+          43,
+          48
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Tanya_JP",
+        "name": "ターニャ＠5日ギルガメ1日店長",
+        "id": 1006412892,
+        "id_str": "1006412892",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1052919260333273088,
+        "id_str": "1052919260333273088",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dpy4fRlU8AAg8zu.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dpy4fRlU8AAg8zu.jpg",
+        "url": "https://t.co/tG3eu1FSXK",
+        "display_url": "pic.twitter.com/tG3eu1FSXK",
+        "expanded_url": "https://twitter.com/Tanya_JP/status/1052921107639021569/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 454,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1368,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 802,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1052921107639021569,
+        "source_status_id_str": "1052921107639021569",
+        "source_user_id": 1006412892,
+        "source_user_id_str": "1006412892"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1052919260333273088,
+        "id_str": "1052919260333273088",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dpy4fRlU8AAg8zu.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dpy4fRlU8AAg8zu.jpg",
+        "url": "https://t.co/tG3eu1FSXK",
+        "display_url": "pic.twitter.com/tG3eu1FSXK",
+        "expanded_url": "https://twitter.com/Tanya_JP/status/1052921107639021569/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 454,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1368,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 802,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1052921107639021569,
+        "source_status_id_str": "1052921107639021569",
+        "source_user_id": 1006412892,
+        "source_user_id_str": "1006412892"
+      },
+      {
+        "id": 1052919306797740032,
+        "id_str": "1052919306797740032",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dpy4h-rUcAAvihX.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dpy4h-rUcAAvihX.jpg",
+        "url": "https://t.co/tG3eu1FSXK",
+        "display_url": "pic.twitter.com/tG3eu1FSXK",
+        "expanded_url": "https://twitter.com/Tanya_JP/status/1052921107639021569/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 772,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1317,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 437,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1052921107639021569,
+        "source_status_id_str": "1052921107639021569",
+        "source_user_id": 1006412892,
+        "source_user_id_str": "1006412892"
+      },
+      {
+        "id": 1052919331573526528,
+        "id_str": "1052919331573526528",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dpy4ja-U8AAV9Jp.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dpy4ja-U8AAV9Jp.jpg",
+        "url": "https://t.co/tG3eu1FSXK",
+        "display_url": "pic.twitter.com/tG3eu1FSXK",
+        "expanded_url": "https://twitter.com/Tanya_JP/status/1052921107639021569/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1368,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 802,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 454,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1052921107639021569,
+        "source_status_id_str": "1052921107639021569",
+        "source_user_id": 1006412892,
+        "source_user_id_str": "1006412892"
+      },
+      {
+        "id": 1052919353216094210,
+        "id_str": "1052919353216094210",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dpy4krmUUAIjutt.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dpy4krmUUAIjutt.jpg",
+        "url": "https://t.co/tG3eu1FSXK",
+        "display_url": "pic.twitter.com/tG3eu1FSXK",
+        "expanded_url": "https://twitter.com/Tanya_JP/status/1052921107639021569/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 454,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1368,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 802,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1052921107639021569,
+        "source_status_id_str": "1052921107639021569",
+        "source_user_id": 1006412892,
+        "source_user_id_str": "1006412892"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253611588"
+}

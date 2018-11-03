@@ -1,0 +1,114 @@
+{
+  "created_at": "Sat Nov 03 14:02:07 +0000 2018",
+  "id": 1058720986093088768,
+  "id_str": "1058720986093088768",
+  "text": "【定期】月刊提督野崎くん #pixiv https://t.co/obcI7IRujR　#月刊少女野崎君　#艦これ　#艦隊これくしょん",
+  "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 99386524,
+    "id_str": "99386524",
+    "name": "大河渡@シナリオライター",
+    "screen_name": "okawawataru",
+    "location": "東京",
+    "url": "http://okawawataru.fc2web.com/",
+    "description": "SD文庫『神舟』出版。『マジカルバトルアリーナNEXT』『幼馴染メイドのエッチなご奉仕』などゲーム・ソシャゲ・同人音声のシナリオ多数執筆。絵やマンガも執筆。１８禁作品注意。お気軽にご依頼どうぞ。pixiv「http://pixiv.me/okawawataru」連絡先wataru_cafe@hotmail.com",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 653,
+    "friends_count": 555,
+    "listed_count": 28,
+    "favourites_count": 8436,
+    "statuses_count": 21497,
+    "created_at": "Sat Dec 26 00:20:16 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/645933485849358336/15rrVx4c_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/645933485849358336/15rrVx4c_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/99386524/1491645261",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "pixiv",
+        "indices": [
+          13,
+          19
+        ]
+      },
+      {
+        "text": "月刊少女野崎君",
+        "indices": [
+          44,
+          52
+        ]
+      },
+      {
+        "text": "艦これ",
+        "indices": [
+          53,
+          57
+        ]
+      },
+      {
+        "text": "艦隊これくしょん",
+        "indices": [
+          58,
+          67
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/obcI7IRujR",
+        "expanded_url": "http://www.pixiv.net/member_illust.php?illust_id=47815497&mode=medium",
+        "display_url": "pixiv.net/member_illust.…",
+        "indices": [
+          20,
+          43
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253727826"
+}

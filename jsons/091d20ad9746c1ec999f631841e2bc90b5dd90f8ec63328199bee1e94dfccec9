@@ -1,0 +1,100 @@
+{
+  "created_at": "Sat Nov 03 14:22:39 +0000 2018",
+  "id": 1058726152771035136,
+  "id_str": "1058726152771035136",
+  "text": "@hJxM6cWJ2ShDdmz まあミルキィホームズだから\n公式が1分半でわかるミルキィホームズとかいう全くわからない動画つくってるからなんでもありだよ\n\nhttps://t.co/n9UQlVhkN2",
+  "display_text_range": [
+    17,
+    102
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058722171290177536,
+  "in_reply_to_status_id_str": "1058722171290177536",
+  "in_reply_to_user_id": 762334428349599744,
+  "in_reply_to_user_id_str": "762334428349599744",
+  "in_reply_to_screen_name": "hJxM6cWJ2ShDdmz",
+  "user": {
+    "id": 2521484659,
+    "id_str": "2521484659",
+    "name": "芳川見浪@ロボテック・タッチダウン",
+    "screen_name": "minamikazetokit",
+    "location": null,
+    "url": "http://ncode.syosetu.com/n4787di/",
+    "description": "なろうとカクヨムにて小説をほそぼそと書いてます。ジャンルは主にSF、特撮臭いのが好きなんです。\n\n他作者さんの作品は読んだら感想をつけます。主にTwitterで。\n\n\n\nヘッダーはニセオジロ氏と千羽さんから頂きました",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 406,
+    "friends_count": 215,
+    "listed_count": 14,
+    "favourites_count": 10762,
+    "statuses_count": 54203,
+    "created_at": "Sat May 24 22:23:30 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1045779982507683840/o3U6I_OF_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045779982507683840/o3U6I_OF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2521484659/1515049114",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/n9UQlVhkN2",
+        "expanded_url": "https://youtu.be/BJHz3otMxDo",
+        "display_url": "youtu.be/BJHz3otMxDo",
+        "indices": [
+          79,
+          102
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "hJxM6cWJ2ShDdmz",
+        "name": "白河律",
+        "id": 762334428349599744,
+        "id_str": "762334428349599744",
+        "indices": [
+          0,
+          16
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254959658"
+}

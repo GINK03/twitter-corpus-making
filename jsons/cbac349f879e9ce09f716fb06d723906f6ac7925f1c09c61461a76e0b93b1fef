@@ -1,0 +1,378 @@
+{
+  "created_at": "Sat Nov 03 14:20:59 +0000 2018",
+  "id": 1058725730677227520,
+  "id_str": "1058725730677227520",
+  "text": "RT @yuki_tel_: fgo実況のやり方だれか教えてください… \n\n#peing #質問箱 https://t.co/QgOoNemJE6 https://t.co/pU2c45cHzH",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1556136446,
+    "id_str": "1556136446",
+    "name": "ゆきてルフォ",
+    "screen_name": "yuki_tel_",
+    "location": "作った動画（ニコニコ）↓",
+    "url": "http://sp.nicovideo.jp/my/mylist/53248813",
+    "description": "ニコニコにたまに動画をあげたりしてます。デオンくんちゃんをすこれ😇 特撮関係ほぼフォロバします。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 887,
+    "friends_count": 629,
+    "listed_count": 13,
+    "favourites_count": 16483,
+    "statuses_count": 78149,
+    "created_at": "Sat Jun 29 17:15:14 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "330099",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/932888935407132672/SvlVluHz_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/932888935407132672/SvlVluHz_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1556136446/1463249880",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon May 07 18:35:25 +0000 2018",
+    "id": 993559949014847488,
+    "id_str": "993559949014847488",
+    "text": "fgo実況のやり方だれか教えてください… \n\n#peing #質問箱 https://t.co/QgOoNemJE6 https://t.co/pU2c45cHzH",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "source": "<a href=\"https://peing.net\" rel=\"nofollow\">Peing</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1556136446,
+      "id_str": "1556136446",
+      "name": "ゆきてルフォ",
+      "screen_name": "yuki_tel_",
+      "location": "作った動画（ニコニコ）↓",
+      "url": "http://sp.nicovideo.jp/my/mylist/53248813",
+      "description": "ニコニコにたまに動画をあげたりしてます。デオンくんちゃんをすこれ😇 特撮関係ほぼフォロバします。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 887,
+      "friends_count": 629,
+      "listed_count": 13,
+      "favourites_count": 16483,
+      "statuses_count": 78148,
+      "created_at": "Sat Jun 29 17:15:14 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "330099",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/932888935407132672/SvlVluHz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/932888935407132672/SvlVluHz_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1556136446/1463249880",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "peing",
+          "indices": [
+            23,
+            29
+          ]
+        },
+        {
+          "text": "質問箱",
+          "indices": [
+            30,
+            34
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QgOoNemJE6",
+          "expanded_url": "https://peing.net/ja/qs/10829396",
+          "display_url": "peing.net/ja/qs/10829396",
+          "indices": [
+            35,
+            58
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 993559947110592512,
+          "id_str": "993559947110592512",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/DcnVgf6VMAAI-ZJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DcnVgf6VMAAI-ZJ.jpg",
+          "url": "https://t.co/pU2c45cHzH",
+          "display_url": "pic.twitter.com/pU2c45cHzH",
+          "expanded_url": "https://twitter.com/yuki_tel_/status/993559949014847488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 381,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 381,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 381,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 993559947110592512,
+          "id_str": "993559947110592512",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/DcnVgf6VMAAI-ZJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DcnVgf6VMAAI-ZJ.jpg",
+          "url": "https://t.co/pU2c45cHzH",
+          "display_url": "pic.twitter.com/pU2c45cHzH",
+          "expanded_url": "https://twitter.com/yuki_tel_/status/993559949014847488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 381,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 381,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 381,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "peing",
+        "indices": [
+          38,
+          44
+        ]
+      },
+      {
+        "text": "質問箱",
+        "indices": [
+          45,
+          49
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/QgOoNemJE6",
+        "expanded_url": "https://peing.net/ja/qs/10829396",
+        "display_url": "peing.net/ja/qs/10829396",
+        "indices": [
+          50,
+          73
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "yuki_tel_",
+        "name": "ゆきてルフォ",
+        "id": 1556136446,
+        "id_str": "1556136446",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 993559947110592512,
+        "id_str": "993559947110592512",
+        "indices": [
+          74,
+          97
+        ],
+        "media_url": "http://pbs.twimg.com/media/DcnVgf6VMAAI-ZJ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DcnVgf6VMAAI-ZJ.jpg",
+        "url": "https://t.co/pU2c45cHzH",
+        "display_url": "pic.twitter.com/pU2c45cHzH",
+        "expanded_url": "https://twitter.com/yuki_tel_/status/993559949014847488/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 381,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 600,
+            "h": 381,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 600,
+            "h": 381,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 993559949014847488,
+        "source_status_id_str": "993559949014847488",
+        "source_user_id": 1556136446,
+        "source_user_id_str": "1556136446"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 993559947110592512,
+        "id_str": "993559947110592512",
+        "indices": [
+          74,
+          97
+        ],
+        "media_url": "http://pbs.twimg.com/media/DcnVgf6VMAAI-ZJ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DcnVgf6VMAAI-ZJ.jpg",
+        "url": "https://t.co/pU2c45cHzH",
+        "display_url": "pic.twitter.com/pU2c45cHzH",
+        "expanded_url": "https://twitter.com/yuki_tel_/status/993559949014847488/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 381,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 600,
+            "h": 381,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 600,
+            "h": 381,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 993559949014847488,
+        "source_status_id_str": "993559949014847488",
+        "source_user_id": 1556136446,
+        "source_user_id_str": "1556136446"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254859023"
+}

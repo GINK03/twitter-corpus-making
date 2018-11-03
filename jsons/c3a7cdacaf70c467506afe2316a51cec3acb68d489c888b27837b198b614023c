@@ -1,0 +1,107 @@
+{
+  "created_at": "Sat Nov 03 14:13:32 +0000 2018",
+  "id": 1058723858516037634,
+  "id_str": "1058723858516037634",
+  "text": "●株式会社トダックス●\nトダックスでは仲介だけでなくリフォームや土地の売買、住まいのトラブルへの対応を行っています！皆様の快適な住まい作りのお手伝いをさせて頂きます♪https://t.co/fMdkA1WWdI\n#掛川　#kakegawa #賃貸",
+  "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2475227678,
+    "id_str": "2475227678",
+    "name": "アパマントダックス掛川店",
+    "screen_name": "apakake0todax",
+    "location": "掛川市大池622-4",
+    "url": "http://www.todax.co.jp/",
+    "description": "アパマントダックス掛川店です！掛川市の物件を中心にお部屋探しの仲介をしています♪皆様のご来店お待ちしております！フォロー返しするので気軽にどうぞ’！ 物件紹介のブログもやっています(*´ω｀*) http://www.todax.co.jp/fudosan/blog/apaman/",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 202,
+    "friends_count": 395,
+    "listed_count": 3,
+    "favourites_count": 0,
+    "statuses_count": 19474,
+    "created_at": "Sat May 03 09:32:22 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/462527828911603712/m71wCSBU_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/462527828911603712/m71wCSBU_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2475227678/1399110230",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "掛川",
+        "indices": [
+          107,
+          110
+        ]
+      },
+      {
+        "text": "kakegawa",
+        "indices": [
+          111,
+          120
+        ]
+      },
+      {
+        "text": "賃貸",
+        "indices": [
+          121,
+          124
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/fMdkA1WWdI",
+        "expanded_url": "http://www.todax.co.jp/",
+        "display_url": "todax.co.jp",
+        "indices": [
+          83,
+          106
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254412665"
+}

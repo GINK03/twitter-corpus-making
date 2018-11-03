@@ -1,0 +1,414 @@
+{
+  "created_at": "Sat Nov 03 14:13:39 +0000 2018",
+  "id": 1058723887851036672,
+  "id_str": "1058723887851036672",
+  "text": "RT @keiki_0501: 武器写ってないけど表情が良い。\n#FF15 #FFXV #FFXVSnapshot #PS4share #ノクティス #ノクト https://t.co/AsHXJumxJp",
+  "source": "<a href=\"https://tabtter.jp\" rel=\"nofollow\">Tabtter</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2804002266,
+    "id_str": "2804002266",
+    "name": "こう🌠新刊通販準備中",
+    "screen_name": "kougoburei",
+    "location": "エピソードイグニスの世界線",
+    "url": "https://www.pixiv.net/member.php?id=7870001",
+    "description": "成人済み腐。FF15イグノク左右固定です。イグニス好きのノクトもんぺ。エピイグありがとう。プチもありがとう。無双の話もよくします。通販&プロフはこちら→http://twpf.jp/kougoburei",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 504,
+    "friends_count": 254,
+    "listed_count": 17,
+    "favourites_count": 17261,
+    "statuses_count": 33898,
+    "created_at": "Thu Sep 11 17:21:47 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ABB8C2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "0D0A8A",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058654185124589568/BisORAN6_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058654185124589568/BisORAN6_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2804002266/1516547221",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:13:49 +0000 2018",
+    "id": 1058708829062422528,
+    "id_str": "1058708829062422528",
+    "text": "武器写ってないけど表情が良い。\n#FF15 #FFXV #FFXVSnapshot #PS4share #ノクティス #ノクト https://t.co/AsHXJumxJp",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1561786814,
+      "id_str": "1561786814",
+      "name": "けーき@FFXVSS垢",
+      "screen_name": "keiki_0501",
+      "location": "茨城",
+      "url": null,
+      "description": "PS4版、FFXVやってます。ノクトモンペのイグニス好き。🍴🎣。ネタバレ有り。煩いくらい写真（基本ノクト）を載せてます。成人済み。無言フォロー失礼します。日常⇨@kei46_3 他ゲーム⇨@keiki466 Please do not reprint this work without permission.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 791,
+      "friends_count": 209,
+      "listed_count": 21,
+      "favourites_count": 44921,
+      "statuses_count": 11208,
+      "created_at": "Tue Jul 02 00:21:40 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1058270563263668224/WadpLvIr_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058270563263668224/WadpLvIr_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561786814/1516512110",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 4,
+    "favorite_count": 15,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FF15",
+          "indices": [
+            16,
+            21
+          ]
+        },
+        {
+          "text": "FFXV",
+          "indices": [
+            22,
+            27
+          ]
+        },
+        {
+          "text": "FFXVSnapshot",
+          "indices": [
+            28,
+            41
+          ]
+        },
+        {
+          "text": "PS4share",
+          "indices": [
+            42,
+            51
+          ]
+        },
+        {
+          "text": "ノクティス",
+          "indices": [
+            52,
+            58
+          ]
+        },
+        {
+          "text": "ノクト",
+          "indices": [
+            59,
+            63
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058708824993914880,
+          "id_str": "1058708824993914880",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFKESpVYAAhLxS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFKESpVYAAhLxS.jpg",
+          "url": "https://t.co/AsHXJumxJp",
+          "display_url": "pic.twitter.com/AsHXJumxJp",
+          "expanded_url": "https://twitter.com/keiki_0501/status/1058708829062422528/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058708824993914880,
+          "id_str": "1058708824993914880",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFKESpVYAAhLxS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFKESpVYAAhLxS.jpg",
+          "url": "https://t.co/AsHXJumxJp",
+          "display_url": "pic.twitter.com/AsHXJumxJp",
+          "expanded_url": "https://twitter.com/keiki_0501/status/1058708829062422528/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FF15",
+        "indices": [
+          32,
+          37
+        ]
+      },
+      {
+        "text": "FFXV",
+        "indices": [
+          38,
+          43
+        ]
+      },
+      {
+        "text": "FFXVSnapshot",
+        "indices": [
+          44,
+          57
+        ]
+      },
+      {
+        "text": "PS4share",
+        "indices": [
+          58,
+          67
+        ]
+      },
+      {
+        "text": "ノクティス",
+        "indices": [
+          68,
+          74
+        ]
+      },
+      {
+        "text": "ノクト",
+        "indices": [
+          75,
+          79
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "keiki_0501",
+        "name": "けーき@FFXVSS垢",
+        "id": 1561786814,
+        "id_str": "1561786814",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058708824993914880,
+        "id_str": "1058708824993914880",
+        "indices": [
+          80,
+          103
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFKESpVYAAhLxS.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFKESpVYAAhLxS.jpg",
+        "url": "https://t.co/AsHXJumxJp",
+        "display_url": "pic.twitter.com/AsHXJumxJp",
+        "expanded_url": "https://twitter.com/keiki_0501/status/1058708829062422528/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058708829062422528,
+        "source_status_id_str": "1058708829062422528",
+        "source_user_id": 1561786814,
+        "source_user_id_str": "1561786814"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058708824993914880,
+        "id_str": "1058708824993914880",
+        "indices": [
+          80,
+          103
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFKESpVYAAhLxS.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFKESpVYAAhLxS.jpg",
+        "url": "https://t.co/AsHXJumxJp",
+        "display_url": "pic.twitter.com/AsHXJumxJp",
+        "expanded_url": "https://twitter.com/keiki_0501/status/1058708829062422528/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058708829062422528,
+        "source_status_id_str": "1058708829062422528",
+        "source_user_id": 1561786814,
+        "source_user_id_str": "1561786814"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254419659"
+}

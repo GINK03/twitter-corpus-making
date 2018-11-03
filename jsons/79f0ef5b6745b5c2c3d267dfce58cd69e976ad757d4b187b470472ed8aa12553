@@ -1,0 +1,372 @@
+{
+  "created_at": "Sat Nov 03 14:24:16 +0000 2018",
+  "id": 1058726559648047106,
+  "id_str": "1058726559648047106",
+  "text": "RT @nmb48love20: NMB48\n小嶋 花梨ちゃん\n#NMB48 #小嶋花梨 #こじりん https://t.co/gHe19azkMP",
+  "source": "<a href=\"https://twitter.com/ske48_ohuentai\" rel=\"nofollow\">ske48_ohuentai</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1045291615160610816,
+    "id_str": "1045291615160610816",
+    "name": "ＳＫＥ４８まとめｃｈ",
+    "screen_name": "ske48_ohuentai",
+    "location": null,
+    "url": null,
+    "description": "SKE48のファンです。かわいい所を拾って呟きます。\n#AKB48 #SKE48",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 44,
+    "friends_count": 70,
+    "listed_count": 0,
+    "favourites_count": 0,
+    "statuses_count": 219,
+    "created_at": "Thu Sep 27 12:38:36 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1045328652160897025/b1J0PFOe_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045328652160897025/b1J0PFOe_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1045291615160610816/1538060623",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 07:30:08 +0000 2018",
+    "id": 1058622337262723072,
+    "id_str": "1058622337262723072",
+    "text": "NMB48\n小嶋 花梨ちゃん\n#NMB48 #小嶋花梨 #こじりん https://t.co/gHe19azkMP",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "source": "<a href=\"https://twitter.com/nmb48love20\" rel=\"nofollow\">nmb48love20</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1045299215755366400,
+      "id_str": "1045299215755366400",
+      "name": "ＮＭＢ４８ファンＣｈ",
+      "screen_name": "nmb48love20",
+      "location": null,
+      "url": null,
+      "description": "NMB48が大好きです。おもかわなところ、分かち合えればうれしいです！\n#AKB48 #NMB48",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 50,
+      "friends_count": 77,
+      "listed_count": 0,
+      "favourites_count": 0,
+      "statuses_count": 220,
+      "created_at": "Thu Sep 27 13:08:48 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1045330661928837120/jUOy01zo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045330661928837120/jUOy01zo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1045299215755366400/1538061259",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NMB48",
+          "indices": [
+            15,
+            21
+          ]
+        },
+        {
+          "text": "小嶋花梨",
+          "indices": [
+            22,
+            27
+          ]
+        },
+        {
+          "text": "こじりん",
+          "indices": [
+            28,
+            33
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058622320263217153,
+          "id_str": "1058622320263217153",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrD7ZDaWwAErY2d.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrD7ZDaWwAErY2d.jpg",
+          "url": "https://t.co/gHe19azkMP",
+          "display_url": "pic.twitter.com/gHe19azkMP",
+          "expanded_url": "https://twitter.com/nmb48love20/status/1058622337262723072/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 355,
+              "h": 512,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 355,
+              "h": 512,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 355,
+              "h": 512,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058622320263217153,
+          "id_str": "1058622320263217153",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrD7ZDaWwAErY2d.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrD7ZDaWwAErY2d.jpg",
+          "url": "https://t.co/gHe19azkMP",
+          "display_url": "pic.twitter.com/gHe19azkMP",
+          "expanded_url": "https://twitter.com/nmb48love20/status/1058622337262723072/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 355,
+              "h": 512,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 355,
+              "h": 512,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 355,
+              "h": 512,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "NMB48",
+        "indices": [
+          32,
+          38
+        ]
+      },
+      {
+        "text": "小嶋花梨",
+        "indices": [
+          39,
+          44
+        ]
+      },
+      {
+        "text": "こじりん",
+        "indices": [
+          45,
+          50
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "nmb48love20",
+        "name": "ＮＭＢ４８ファンＣｈ",
+        "id": 1045299215755366400,
+        "id_str": "1045299215755366400",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058622320263217153,
+        "id_str": "1058622320263217153",
+        "indices": [
+          51,
+          74
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrD7ZDaWwAErY2d.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrD7ZDaWwAErY2d.jpg",
+        "url": "https://t.co/gHe19azkMP",
+        "display_url": "pic.twitter.com/gHe19azkMP",
+        "expanded_url": "https://twitter.com/nmb48love20/status/1058622337262723072/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 355,
+            "h": 512,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 355,
+            "h": 512,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 355,
+            "h": 512,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058622337262723072,
+        "source_status_id_str": "1058622337262723072",
+        "source_user_id": 1045299215755366400,
+        "source_user_id_str": "1045299215755366400"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058622320263217153,
+        "id_str": "1058622320263217153",
+        "indices": [
+          51,
+          74
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrD7ZDaWwAErY2d.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrD7ZDaWwAErY2d.jpg",
+        "url": "https://t.co/gHe19azkMP",
+        "display_url": "pic.twitter.com/gHe19azkMP",
+        "expanded_url": "https://twitter.com/nmb48love20/status/1058622337262723072/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 355,
+            "h": 512,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 355,
+            "h": 512,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 355,
+            "h": 512,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058622337262723072,
+        "source_status_id_str": "1058622337262723072",
+        "source_user_id": 1045299215755366400,
+        "source_user_id_str": "1045299215755366400"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255056665"
+}

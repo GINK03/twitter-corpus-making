@@ -1,0 +1,436 @@
+{
+  "created_at": "Sat Nov 03 14:25:23 +0000 2018",
+  "id": 1058726840666181633,
+  "id_str": "1058726840666181633",
+  "text": "RT @hiroyoshimura: BBCではこうなっているのか。安田さんの記者会見を聞いてあまりにも無防備だと思ったが、この差はあまりに大きい。日本の大手メディアが安田さんを英雄視する理由がだんだん分かってきた。国民の知る権利を振りかざすのであれば、今回の件で日本の大手メデ…",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 910377576811696128,
+    "id_str": "910377576811696128",
+    "name": "ハルクイン",
+    "screen_name": "8SY0izk44JuuuBY",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 436,
+    "friends_count": 534,
+    "listed_count": 0,
+    "favourites_count": 42090,
+    "statuses_count": 9121,
+    "created_at": "Wed Sep 20 05:38:23 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1013239355492536321/X-gwrSLP_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013239355492536321/X-gwrSLP_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/910377576811696128/1538621424",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 10:19:42 +0000 2018",
+    "id": 1058665012888199168,
+    "id_str": "1058665012888199168",
+    "text": "BBCではこうなっているのか。安田さんの記者会見を聞いてあまりにも無防備だと思ったが、この差はあまりに大きい。日本の大手メディアが安田さんを英雄視する理由がだんだん分かってきた。国民の知る権利を振りかざすのであれば、今回の件で日本… https://t.co/pfJDtNxT7z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 145599783,
+      "id_str": "145599783",
+      "name": "吉村洋文（大阪市長）",
+      "screen_name": "hiroyoshimura",
+      "location": "大阪",
+      "url": "http://yoshimura-hirofumi.com",
+      "description": "大阪市長の吉村洋文です。43歳、2018年は3年目ですが、大阪の大きな方向性を示していきます。大阪を前に進めるために。弁護士 / 大阪維新の会 政調会長",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 141237,
+      "friends_count": 30,
+      "listed_count": 1039,
+      "favourites_count": 12,
+      "statuses_count": 2614,
+      "created_at": "Wed May 19 10:59:05 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/652830090003243009/GYkSIxfD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/652830090003243009/GYkSIxfD_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/145599783/1461734793",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058212660397756421,
+    "quoted_status_id_str": "1058212660397756421",
+    "quoted_status": {
+      "created_at": "Fri Nov 02 04:22:13 +0000 2018",
+      "id": 1058212660397756421,
+      "id_str": "1058212660397756421",
+      "text": "BBCでは危険地域からフリージャーナリストのレポートは使わないルールです📝シリアではイアン・パネル記者やダレン・コンウェイカメラマン、イエメンではオーラ・ゲリン記者、イラクではクエンティン・サマーヴィル記者など社員記者に元🇬🇧兵な… https://t.co/G1Dd1Ice96",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 544641143,
+        "id_str": "544641143",
+        "name": "Mariko Oi 大井真理子",
+        "screen_name": "BBCMarikoOi",
+        "location": null,
+        "url": "http://www.bbc.jp",
+        "description": "@BBCWorld reporter/presenter in 🇸🇬 after a stint in 🇯🇵, 🇺🇸 & 🇬🇧. Mum of 2. 日本人初BBCレポーター／キャスター。在🇸🇬、🇯🇵にもちょく②取材に帰ります。前🇺🇸経済特派員＆🇬🇧キャスター。👧🏻👶🏻の母❣️",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "followers_count": 11322,
+        "friends_count": 50,
+        "listed_count": 500,
+        "favourites_count": 0,
+        "statuses_count": 5481,
+        "created_at": "Tue Apr 03 22:30:08 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5ABB5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/598418291896360960/LugRxWeX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/598418291896360960/LugRxWeX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/544641143/1516183163",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1058205697152704512,
+      "quoted_status_id_str": "1058205697152704512",
+      "is_quote_status": true,
+      "extended_tweet": {
+        "full_text": "BBCでは危険地域からフリージャーナリストのレポートは使わないルールです📝シリアではイアン・パネル記者やダレン・コンウェイカメラマン、イエメンではオーラ・ゲリン記者、イラクではクエンティン・サマーヴィル記者など社員記者に元🇬🇧兵などからなる「ハイリスクチーム」が同行し取材しています。 https://t.co/GU5lboBMH8",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/GU5lboBMH8",
+              "expanded_url": "https://twitter.com/hashimoto_lo/status/1058205697152704512",
+              "display_url": "twitter.com/hashimoto_lo/s…",
+              "indices": [
+                143,
+                166
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        }
+      },
+      "quote_count": 91,
+      "reply_count": 45,
+      "retweet_count": 3505,
+      "favorite_count": 4140,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/G1Dd1Ice96",
+            "expanded_url": "https://twitter.com/i/web/status/1058212660397756421",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/vf3LJUGdrJ",
+      "expanded": "https://twitter.com/bbcmarikooi/status/1058212660397756421",
+      "display": "twitter.com/bbcmarikooi/st…"
+    },
+    "is_quote_status": true,
+    "extended_tweet": {
+      "full_text": "BBCではこうなっているのか。安田さんの記者会見を聞いてあまりにも無防備だと思ったが、この差はあまりに大きい。日本の大手メディアが安田さんを英雄視する理由がだんだん分かってきた。国民の知る権利を振りかざすのであれば、今回の件で日本の大手メディアも反省しなくてはいけないんじゃないか。 https://t.co/vf3LJUGdrJ",
+      "display_text_range": [
+        0,
+        141
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/vf3LJUGdrJ",
+            "expanded_url": "https://twitter.com/bbcmarikooi/status/1058212660397756421",
+            "display_url": "twitter.com/bbcmarikooi/st…",
+            "indices": [
+              142,
+              165
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      }
+    },
+    "quote_count": 3,
+    "reply_count": 18,
+    "retweet_count": 357,
+    "favorite_count": 758,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/pfJDtNxT7z",
+          "expanded_url": "https://twitter.com/i/web/status/1058665012888199168",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058212660397756421,
+  "quoted_status_id_str": "1058212660397756421",
+  "quoted_status": {
+    "created_at": "Fri Nov 02 04:22:13 +0000 2018",
+    "id": 1058212660397756421,
+    "id_str": "1058212660397756421",
+    "text": "BBCでは危険地域からフリージャーナリストのレポートは使わないルールです📝シリアではイアン・パネル記者やダレン・コンウェイカメラマン、イエメンではオーラ・ゲリン記者、イラクではクエンティン・サマーヴィル記者など社員記者に元🇬🇧兵な… https://t.co/G1Dd1Ice96",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 544641143,
+      "id_str": "544641143",
+      "name": "Mariko Oi 大井真理子",
+      "screen_name": "BBCMarikoOi",
+      "location": null,
+      "url": "http://www.bbc.jp",
+      "description": "@BBCWorld reporter/presenter in 🇸🇬 after a stint in 🇯🇵, 🇺🇸 & 🇬🇧. Mum of 2. 日本人初BBCレポーター／キャスター。在🇸🇬、🇯🇵にもちょく②取材に帰ります。前🇺🇸経済特派員＆🇬🇧キャスター。👧🏻👶🏻の母❣️",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 11322,
+      "friends_count": 50,
+      "listed_count": 500,
+      "favourites_count": 0,
+      "statuses_count": 5481,
+      "created_at": "Tue Apr 03 22:30:08 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5ABB5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/598418291896360960/LugRxWeX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/598418291896360960/LugRxWeX_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/544641143/1516183163",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058205697152704512,
+    "quoted_status_id_str": "1058205697152704512",
+    "is_quote_status": true,
+    "extended_tweet": {
+      "full_text": "BBCでは危険地域からフリージャーナリストのレポートは使わないルールです📝シリアではイアン・パネル記者やダレン・コンウェイカメラマン、イエメンではオーラ・ゲリン記者、イラクではクエンティン・サマーヴィル記者など社員記者に元🇬🇧兵などからなる「ハイリスクチーム」が同行し取材しています。 https://t.co/GU5lboBMH8",
+      "display_text_range": [
+        0,
+        142
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/GU5lboBMH8",
+            "expanded_url": "https://twitter.com/hashimoto_lo/status/1058205697152704512",
+            "display_url": "twitter.com/hashimoto_lo/s…",
+            "indices": [
+              143,
+              166
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      }
+    },
+    "quote_count": 91,
+    "reply_count": 45,
+    "retweet_count": 3505,
+    "favorite_count": 4140,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/G1Dd1Ice96",
+          "expanded_url": "https://twitter.com/i/web/status/1058212660397756421",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/vf3LJUGdrJ",
+    "expanded": "https://twitter.com/bbcmarikooi/status/1058212660397756421",
+    "display": "twitter.com/bbcmarikooi/st…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "hiroyoshimura",
+        "name": "吉村洋文（大阪市長）",
+        "id": 145599783,
+        "id_str": "145599783",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255123665"
+}

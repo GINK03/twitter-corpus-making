@@ -1,0 +1,186 @@
+{
+  "created_at": "Sat Nov 03 14:09:13 +0000 2018",
+  "id": 1058722771784486912,
+  "id_str": "1058722771784486912",
+  "text": "iTunes500円以上で買ってくれる方いませんか？？\n#パズドラデータ販売 \n#パズドラ\n#パズドラ売ります \n#パズドラーと繋がりたい https://t.co/0wsICpkxWb",
+  "display_text_range": [
+    0,
+    69
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 947422903250821121,
+    "id_str": "947422903250821121",
+    "name": "Ren",
+    "screen_name": "re_egoistic",
+    "location": "____",
+    "url": null,
+    "description": "元供米田 中村高校 107 800m、1500mやってます。 インスタよりツイッター派",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 40,
+    "friends_count": 43,
+    "listed_count": 0,
+    "favourites_count": 15,
+    "statuses_count": 22,
+    "created_at": "Sun Dec 31 11:03:17 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1050302665681293312/NfIxjqs2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050302665681293312/NfIxjqs2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/947422903250821121/1537109487",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラデータ販売",
+        "indices": [
+          28,
+          38
+        ]
+      },
+      {
+        "text": "パズドラ",
+        "indices": [
+          40,
+          45
+        ]
+      },
+      {
+        "text": "パズドラ売ります",
+        "indices": [
+          46,
+          55
+        ]
+      },
+      {
+        "text": "パズドラーと繋がりたい",
+        "indices": [
+          57,
+          69
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058722766034104322,
+        "id_str": "1058722766034104322",
+        "indices": [
+          70,
+          93
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWvxEU8AI4Tgw.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWvxEU8AI4Tgw.jpg",
+        "url": "https://t.co/0wsICpkxWb",
+        "display_url": "pic.twitter.com/0wsICpkxWb",
+        "expanded_url": "https://twitter.com/re_egoistic/status/1058722771784486912/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058722766034104322,
+        "id_str": "1058722766034104322",
+        "indices": [
+          70,
+          93
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWvxEU8AI4Tgw.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWvxEU8AI4Tgw.jpg",
+        "url": "https://t.co/0wsICpkxWb",
+        "display_url": "pic.twitter.com/0wsICpkxWb",
+        "expanded_url": "https://twitter.com/re_egoistic/status/1058722771784486912/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254153568"
+}

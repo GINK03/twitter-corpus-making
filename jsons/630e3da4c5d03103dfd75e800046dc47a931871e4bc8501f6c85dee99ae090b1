@@ -1,0 +1,377 @@
+{
+  "created_at": "Sat Nov 03 14:22:31 +0000 2018",
+  "id": 1058726118138597376,
+  "id_str": "1058726118138597376",
+  "text": "RT @ten_happyP: お！\n【Fate/MMD】刑部姫配布【FGO】 https://t.co/rJo0Yjwhs6 #sm34120213 #ニコニコ動画 https://t.co/chZowDdUdc",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 722041717977776128,
+    "id_str": "722041717977776128",
+    "name": "朝餉㌠",
+    "screen_name": "asage24",
+    "location": null,
+    "url": "http://www.nicovideo.jp/user/11738843",
+    "description": "FGOとKOFASとmmd",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 807,
+    "friends_count": 291,
+    "listed_count": 8,
+    "favourites_count": 86,
+    "statuses_count": 3626,
+    "created_at": "Mon Apr 18 12:38:55 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048497796955889665/ju8B8Jv3_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048497796955889665/ju8B8Jv3_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/722041717977776128/1539776209",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:46:10 +0000 2018",
+    "id": 1058716971271737345,
+    "id_str": "1058716971271737345",
+    "text": "お！\n【Fate/MMD】刑部姫配布【FGO】 https://t.co/rJo0Yjwhs6 #sm34120213 #ニコニコ動画 https://t.co/chZowDdUdc",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "source": "<a href=\"http://www.nicovideo.jp/\" rel=\"nofollow\">niconico ニコニコ動画</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 939015696,
+      "id_str": "939015696",
+      "name": "ｔｅｎ",
+      "screen_name": "ten_happyP",
+      "location": null,
+      "url": null,
+      "description": null,
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 387,
+      "friends_count": 337,
+      "listed_count": 14,
+      "favourites_count": 7014,
+      "statuses_count": 8742,
+      "created_at": "Sat Nov 10 13:10:21 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "DD2E44",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "DD22AA",
+      "profile_sidebar_border_color": "FFF8AD",
+      "profile_sidebar_fill_color": "F6FFD1",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "sm34120213",
+          "indices": [
+            48,
+            59
+          ]
+        },
+        {
+          "text": "ニコニコ動画",
+          "indices": [
+            60,
+            67
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rJo0Yjwhs6",
+          "expanded_url": "https://nico.ms/sm34120213?ref=twitter_ss",
+          "display_url": "nico.ms/sm34120213?ref…",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058716969241702401,
+          "id_str": "1058716969241702401",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFReWVUcAETikj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFReWVUcAETikj.jpg",
+          "url": "https://t.co/chZowDdUdc",
+          "display_url": "pic.twitter.com/chZowDdUdc",
+          "expanded_url": "https://twitter.com/ten_happyP/status/1058716971271737345/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058716969241702401,
+          "id_str": "1058716969241702401",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFReWVUcAETikj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFReWVUcAETikj.jpg",
+          "url": "https://t.co/chZowDdUdc",
+          "display_url": "pic.twitter.com/chZowDdUdc",
+          "expanded_url": "https://twitter.com/ten_happyP/status/1058716971271737345/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sm34120213",
+        "indices": [
+          64,
+          75
+        ]
+      },
+      {
+        "text": "ニコニコ動画",
+        "indices": [
+          76,
+          83
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/rJo0Yjwhs6",
+        "expanded_url": "https://nico.ms/sm34120213?ref=twitter_ss",
+        "display_url": "nico.ms/sm34120213?ref…",
+        "indices": [
+          40,
+          63
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ten_happyP",
+        "name": "ｔｅｎ",
+        "id": 939015696,
+        "id_str": "939015696",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058716969241702401,
+        "id_str": "1058716969241702401",
+        "indices": [
+          84,
+          107
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFReWVUcAETikj.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFReWVUcAETikj.jpg",
+        "url": "https://t.co/chZowDdUdc",
+        "display_url": "pic.twitter.com/chZowDdUdc",
+        "expanded_url": "https://twitter.com/ten_happyP/status/1058716971271737345/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058716971271737345,
+        "source_status_id_str": "1058716971271737345",
+        "source_user_id": 939015696,
+        "source_user_id_str": "939015696"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058716969241702401,
+        "id_str": "1058716969241702401",
+        "indices": [
+          84,
+          107
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFReWVUcAETikj.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFReWVUcAETikj.jpg",
+        "url": "https://t.co/chZowDdUdc",
+        "display_url": "pic.twitter.com/chZowDdUdc",
+        "expanded_url": "https://twitter.com/ten_happyP/status/1058716971271737345/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058716971271737345,
+        "source_status_id_str": "1058716971271737345",
+        "source_user_id": 939015696,
+        "source_user_id_str": "939015696"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254951401"
+}

@@ -1,0 +1,180 @@
+{
+  "created_at": "Sat Nov 03 14:16:50 +0000 2018",
+  "id": 1058724688984125440,
+  "id_str": "1058724688984125440",
+  "text": "本塁打\n1　藤波　怜央　帝京　2\n2　以下１９名　　　　1\n宮里　優吾、安部　拓海、水村　大海、藏本　大輔、野村昇大郎、渡辺　陽斗、伊能　世波、大舘　拓馬、浜崎　斗馬、新垣　煕博、大野　　匠、伊藤　大征、茅野真太郎、石井　　開、冨… https://t.co/xaapNImCLI",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2306161868,
+    "id_str": "2306161868",
+    "name": "いわ",
+    "screen_name": "iwankov4649",
+    "location": null,
+    "url": null,
+    "description": "日本人 27歳 O型 If you have any questions regarding my tweet please do not hesitate to contact me through reply or DM",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 478,
+    "friends_count": 307,
+    "listed_count": 5,
+    "favourites_count": 38,
+    "statuses_count": 1050,
+    "created_at": "Thu Jan 23 07:58:11 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1044661098626994176/QsdG8Ipy_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044661098626994176/QsdG8Ipy_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2306161868/1531999067",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "本塁打\n1　藤波　怜央　帝京　2\n2　以下１９名　　　　1\n宮里　優吾、安部　拓海、水村　大海、藏本　大輔、野村昇大郎、渡辺　陽斗、伊能　世波、大舘　拓馬、浜崎　斗馬、新垣　煕博、大野　　匠、伊藤　大征、茅野真太郎、石井　　開、冨田　洋佑、山田　瑞記、清水　虎雅、住吉　光栄、中澤　知之 https://t.co/ezk9RCbNJh",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058724636978860032,
+          "id_str": "1058724636978860032",
+          "indices": [
+            144,
+            167
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFYcq4UUAASvZz.png",
+          "media_url_https": "https://pbs.twimg.com/media/DrFYcq4UUAASvZz.png",
+          "url": "https://t.co/ezk9RCbNJh",
+          "display_url": "pic.twitter.com/ezk9RCbNJh",
+          "expanded_url": "https://twitter.com/iwankov4649/status/1058724688984125440/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 653,
+              "h": 1196,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 653,
+              "h": 1196,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 371,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058724636978860032,
+          "id_str": "1058724636978860032",
+          "indices": [
+            144,
+            167
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFYcq4UUAASvZz.png",
+          "media_url_https": "https://pbs.twimg.com/media/DrFYcq4UUAASvZz.png",
+          "url": "https://t.co/ezk9RCbNJh",
+          "display_url": "pic.twitter.com/ezk9RCbNJh",
+          "expanded_url": "https://twitter.com/iwankov4649/status/1058724688984125440/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 653,
+              "h": 1196,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 653,
+              "h": 1196,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 371,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/xaapNImCLI",
+        "expanded_url": "https://twitter.com/i/web/status/1058724688984125440",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254610664"
+}

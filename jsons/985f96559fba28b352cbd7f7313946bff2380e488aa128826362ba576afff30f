@@ -1,0 +1,149 @@
+{
+  "created_at": "Sat Nov 03 14:22:55 +0000 2018",
+  "id": 1058726219888254976,
+  "id_str": "1058726219888254976",
+  "text": "@na3cN11mS1RK15l @kurobara_kota @s_c_seiji @kurobara_taku @kurobara_rino @kurobara_koji @kurobara_jirou たかさん関西進出⁉",
+  "display_text_range": [
+    104,
+    113
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058725582475714560,
+  "in_reply_to_status_id_str": "1058725582475714560",
+  "in_reply_to_user_id": 936228301282033664,
+  "in_reply_to_user_id_str": "936228301282033664",
+  "in_reply_to_screen_name": "na3cN11mS1RK15l",
+  "user": {
+    "id": 3158441486,
+    "id_str": "3158441486",
+    "name": "ひろ将軍(ひろゆき)",
+    "screen_name": "hirouki1997",
+    "location": " 大阪",
+    "url": null,
+    "description": "パチンコ、パチスロ関係のツイートがほとんどなんでミュート推奨です",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 213,
+    "friends_count": 331,
+    "listed_count": 2,
+    "favourites_count": 13671,
+    "statuses_count": 3901,
+    "created_at": "Thu Apr 16 02:26:02 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/992310408902885378/LNrROgYS_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/992310408902885378/LNrROgYS_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3158441486/1514266417",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "na3cN11mS1RK15l",
+        "name": "まんてん@たか",
+        "id": 936228301282033664,
+        "id_str": "936228301282033664",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "screen_name": "kurobara_kota",
+        "name": "黒バラ_コウタロー",
+        "id": 2293834135,
+        "id_str": "2293834135",
+        "indices": [
+          17,
+          31
+        ]
+      },
+      {
+        "screen_name": "s_c_seiji",
+        "name": "服部整治",
+        "id": 134048806,
+        "id_str": "134048806",
+        "indices": [
+          32,
+          42
+        ]
+      },
+      {
+        "screen_name": "kurobara_taku",
+        "name": "黒バラ_タク",
+        "id": 2206593390,
+        "id_str": "2206593390",
+        "indices": [
+          43,
+          57
+        ]
+      },
+      {
+        "screen_name": "kurobara_rino",
+        "name": "黒バラ_リノ",
+        "id": 2941975903,
+        "id_str": "2941975903",
+        "indices": [
+          58,
+          72
+        ]
+      },
+      {
+        "screen_name": "kurobara_koji",
+        "name": "黒バラ_小次郎",
+        "id": 778429183970058242,
+        "id_str": "778429183970058242",
+        "indices": [
+          73,
+          87
+        ]
+      },
+      {
+        "screen_name": "kurobara_jirou",
+        "name": "黒バラ_ジロウ",
+        "id": 1685670547,
+        "id_str": "1685670547",
+        "indices": [
+          88,
+          103
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254975660"
+}

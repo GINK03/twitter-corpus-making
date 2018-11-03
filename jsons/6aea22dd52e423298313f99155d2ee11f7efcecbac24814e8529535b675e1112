@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:15:48 +0000 2018",
+  "id": 1058724428920451073,
+  "id_str": "1058724428920451073",
+  "text": "RT @thezazazacky46: ばおわです\nおやすみなさい https://t.co/3SBCzKK5JC",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 948747103190245378,
+    "id_str": "948747103190245378",
+    "name": "まなか",
+    "screen_name": "GSsjIPUtmKUS6x4",
+    "location": null,
+    "url": null,
+    "description": "こんにちは！(*≧∀≦*)\n\nメルカリを同じ名前でやってます。\n\nあちらではガンプラ・トレカ等を\n出品しています。\n\n気になる方は探して見て下さい！\n\n映画鑑賞が趣味です。実は男🚹️です！\n\n昭和生まれです。⚔️⚔️",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1434,
+    "friends_count": 1447,
+    "listed_count": 59,
+    "favourites_count": 32705,
+    "statuses_count": 36268,
+    "created_at": "Thu Jan 04 02:45:11 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1033214851164688385/l97YvJei_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1033214851164688385/l97YvJei_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/948747103190245378/1532426250",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 12:45:02 +0000 2018",
+    "id": 1058701584727662592,
+    "id_str": "1058701584727662592",
+    "text": "ばおわです\nおやすみなさい https://t.co/3SBCzKK5JC",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1040589234862645248,
+      "id_str": "1040589234862645248",
+      "name": "ミスド系zacky",
+      "screen_name": "thezazazacky46",
+      "location": "schedule🗓→11/4京都個握→12/22大阪全握",
+      "url": null,
+      "description": "98line/🚹/関西勢/推し→上村莉菜🧚‍♂️/小池美波🐧/欅垢は基本フォロバするけど絡みなかったら…🤭/夫(@kiyoNanako) ･不倫相手1(@MIWAkeyaki)・不倫相手2(@oze_risa)本命(@zumi__yoda46)",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 593,
+      "friends_count": 575,
+      "listed_count": 45,
+      "favourites_count": 6811,
+      "statuses_count": 4503,
+      "created_at": "Fri Sep 14 13:13:01 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1046384172774748161/eltZW8-__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046384172774748161/eltZW8-__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1040589234862645248/1540984280",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 16,
+    "retweet_count": 2,
+    "favorite_count": 31,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058701573193265153,
+          "id_str": "1058701573193265153",
+          "indices": [
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFDeLlU8AEIHzZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFDeLlU8AEIHzZ.jpg",
+          "url": "https://t.co/3SBCzKK5JC",
+          "display_url": "pic.twitter.com/3SBCzKK5JC",
+          "expanded_url": "https://twitter.com/thezazazacky46/status/1058701584727662592/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1274,
+              "h": 955,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058701573193265153,
+          "id_str": "1058701573193265153",
+          "indices": [
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFDeLlU8AEIHzZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFDeLlU8AEIHzZ.jpg",
+          "url": "https://t.co/3SBCzKK5JC",
+          "display_url": "pic.twitter.com/3SBCzKK5JC",
+          "expanded_url": "https://twitter.com/thezazazacky46/status/1058701584727662592/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1274,
+              "h": 955,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "thezazazacky46",
+        "name": "ミスド系zacky",
+        "id": 1040589234862645248,
+        "id_str": "1040589234862645248",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058701573193265153,
+        "id_str": "1058701573193265153",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFDeLlU8AEIHzZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFDeLlU8AEIHzZ.jpg",
+        "url": "https://t.co/3SBCzKK5JC",
+        "display_url": "pic.twitter.com/3SBCzKK5JC",
+        "expanded_url": "https://twitter.com/thezazazacky46/status/1058701584727662592/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1274,
+            "h": 955,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058701584727662592,
+        "source_status_id_str": "1058701584727662592",
+        "source_user_id": 1040589234862645248,
+        "source_user_id_str": "1040589234862645248"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058701573193265153,
+        "id_str": "1058701573193265153",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFDeLlU8AEIHzZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFDeLlU8AEIHzZ.jpg",
+        "url": "https://t.co/3SBCzKK5JC",
+        "display_url": "pic.twitter.com/3SBCzKK5JC",
+        "expanded_url": "https://twitter.com/thezazazacky46/status/1058701584727662592/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1274,
+            "h": 955,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058701584727662592,
+        "source_status_id_str": "1058701584727662592",
+        "source_user_id": 1040589234862645248,
+        "source_user_id_str": "1040589234862645248"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254548660"
+}

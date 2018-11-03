@@ -1,0 +1,98 @@
+{
+  "created_at": "Sat Nov 03 14:26:26 +0000 2018",
+  "id": 1058727104878063618,
+  "id_str": "1058727104878063618",
+  "text": "@sm_szmrkmryng @em11220 ざんねん………水飲むと余計辛くてさーーw",
+  "display_text_range": [
+    24,
+    44
+  ],
+  "source": "<a href=\"http://covelline.com/feather\" rel=\"nofollow\">feather for iOS  </a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058726935986024450,
+  "in_reply_to_status_id_str": "1058726935986024450",
+  "in_reply_to_user_id": 1710174294,
+  "in_reply_to_user_id_str": "1710174294",
+  "in_reply_to_screen_name": "sm_szmrkmryng",
+  "user": {
+    "id": 751444879457198082,
+    "id_str": "751444879457198082",
+    "name": "綾茶*🎸⚽️🎤",
+    "screen_name": "yurraa_",
+    "location": null,
+    "url": null,
+    "description": "千葉翔也くん/斉藤壮馬くん/岡本信彦くん。たまにお絵描き。2次元アイドル。気軽にお話して下さい✨【sideM】HJ隼人/W悠介【ツキ】涼太/剣介【i7】天/環【A3】夏組/幸/密【めいこい】書生組【うたプリ】トキヤ【RE】フラベル【オンエア】百瀬/蛍",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 83,
+    "friends_count": 95,
+    "listed_count": 5,
+    "favourites_count": 1181,
+    "statuses_count": 15187,
+    "created_at": "Fri Jul 08 15:56:35 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "E81C4F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/985108516531724288/Zy2cBu2W_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/985108516531724288/Zy2cBu2W_normal.jpg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "sm_szmrkmryng",
+        "name": "すみ",
+        "id": 1710174294,
+        "id_str": "1710174294",
+        "indices": [
+          0,
+          14
+        ]
+      },
+      {
+        "screen_name": "em11220",
+        "name": "エミ",
+        "id": 532805271,
+        "id_str": "532805271",
+        "indices": [
+          15,
+          23
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255186658"
+}

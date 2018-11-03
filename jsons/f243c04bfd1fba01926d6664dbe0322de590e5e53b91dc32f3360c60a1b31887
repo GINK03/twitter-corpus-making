@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:13:12 +0000 2018",
+  "id": 1058723774613188608,
+  "id_str": "1058723774613188608",
+  "text": "RT @gekidansyukou: 決まってるところまでの演目です！\nよろしくお願いします！！ https://t.co/At4JXtZx36",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 927267230143750145,
+    "id_str": "927267230143750145",
+    "name": "やすくん",
+    "screen_name": "yasu1682",
+    "location": null,
+    "url": null,
+    "description": "素敵な舞姫 美樹うららさんを一途に応援し続けてます。現在応援４年目。うららさんのステージや舞台を観ながら活躍ぶりを応援するのが今一番の楽しみです！ 大衆演劇も時々観劇しています！",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 60,
+    "friends_count": 119,
+    "listed_count": 0,
+    "favourites_count": 13802,
+    "statuses_count": 3833,
+    "created_at": "Sun Nov 05 20:11:50 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1009396889362489344/VuDOokYW_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009396889362489344/VuDOokYW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/927267230143750145/1539354049",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 12:05:18 +0000 2018",
+    "id": 1058329198740201473,
+    "id_str": "1058329198740201473",
+    "text": "決まってるところまでの演目です！\nよろしくお願いします！！ https://t.co/At4JXtZx36",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 771429220866076672,
+      "id_str": "771429220866076672",
+      "name": "劇団朱光",
+      "screen_name": "gekidansyukou",
+      "location": null,
+      "url": null,
+      "description": "劇団朱光公式アカウントです！特選狂言や公演先、ゲスト出演などをお知らせします！ プライベートなツイートもしようと思います！よろしくお願いします！！",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 578,
+      "friends_count": 538,
+      "listed_count": 3,
+      "favourites_count": 7,
+      "statuses_count": 273,
+      "created_at": "Thu Sep 01 19:27:13 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/771429982375510016/9PuKjZp7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/771429982375510016/9PuKjZp7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/771429220866076672/1472759130",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 1,
+    "reply_count": 1,
+    "retweet_count": 14,
+    "favorite_count": 55,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058329185121329152,
+          "id_str": "1058329185121329152",
+          "indices": [
+            30,
+            53
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_wyV6V4AAL9-Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_wyV6V4AAL9-Z.jpg",
+          "url": "https://t.co/At4JXtZx36",
+          "display_url": "pic.twitter.com/At4JXtZx36",
+          "expanded_url": "https://twitter.com/gekidansyukou/status/1058329198740201473/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058329185121329152,
+          "id_str": "1058329185121329152",
+          "indices": [
+            30,
+            53
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_wyV6V4AAL9-Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_wyV6V4AAL9-Z.jpg",
+          "url": "https://t.co/At4JXtZx36",
+          "display_url": "pic.twitter.com/At4JXtZx36",
+          "expanded_url": "https://twitter.com/gekidansyukou/status/1058329198740201473/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "gekidansyukou",
+        "name": "劇団朱光",
+        "id": 771429220866076672,
+        "id_str": "771429220866076672",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058329185121329152,
+        "id_str": "1058329185121329152",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_wyV6V4AAL9-Z.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_wyV6V4AAL9-Z.jpg",
+        "url": "https://t.co/At4JXtZx36",
+        "display_url": "pic.twitter.com/At4JXtZx36",
+        "expanded_url": "https://twitter.com/gekidansyukou/status/1058329198740201473/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058329198740201473,
+        "source_status_id_str": "1058329198740201473",
+        "source_user_id": 771429220866076672,
+        "source_user_id_str": "771429220866076672"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058329185121329152,
+        "id_str": "1058329185121329152",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_wyV6V4AAL9-Z.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_wyV6V4AAL9-Z.jpg",
+        "url": "https://t.co/At4JXtZx36",
+        "display_url": "pic.twitter.com/At4JXtZx36",
+        "expanded_url": "https://twitter.com/gekidansyukou/status/1058329198740201473/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058329198740201473,
+        "source_status_id_str": "1058329198740201473",
+        "source_user_id": 771429220866076672,
+        "source_user_id_str": "771429220866076672"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254392661"
+}

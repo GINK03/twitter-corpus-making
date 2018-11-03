@@ -1,0 +1,172 @@
+{
+  "created_at": "Sat Nov 03 14:05:50 +0000 2018",
+  "id": 1058721921305464832,
+  "id_str": "1058721921305464832",
+  "text": "9222 6312\nどなたかキンカニ周回手伝ってくださいお願いします\n#パズドラ\n#パズドラマルチ https://t.co/h6i1EIj8xV",
+  "display_text_range": [
+    0,
+    49
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3063959564,
+    "id_str": "3063959564",
+    "name": "カズキ",
+    "screen_name": "art0407",
+    "location": null,
+    "url": null,
+    "description": "アニメを見るのがが好きです。パズドラやFGO、モンストなどやっています マルチの相手等も募集しています。シャドバ1から初め直そうとリセマラ始めました。パズドラランク913です シャドバ、パズドラ、FGOアドバイスなどぜひお願いします。気軽に絡みにきたり話したりしましょう",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 556,
+    "friends_count": 315,
+    "listed_count": 4,
+    "favourites_count": 1201,
+    "statuses_count": 2696,
+    "created_at": "Fri Mar 06 03:57:13 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056062262589513730/M0LwNEaq_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056062262589513730/M0LwNEaq_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3063959564/1539722943",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラ",
+        "indices": [
+          35,
+          40
+        ]
+      },
+      {
+        "text": "パズドラマルチ",
+        "indices": [
+          41,
+          49
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058721905471942657,
+        "id_str": "1058721905471942657",
+        "indices": [
+          50,
+          73
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFV9rOUcAEpsgA.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFV9rOUcAEpsgA.jpg",
+        "url": "https://t.co/h6i1EIj8xV",
+        "display_url": "pic.twitter.com/h6i1EIj8xV",
+        "expanded_url": "https://twitter.com/art0407/status/1058721921305464832/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1920,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058721905471942657,
+        "id_str": "1058721905471942657",
+        "indices": [
+          50,
+          73
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFV9rOUcAEpsgA.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFV9rOUcAEpsgA.jpg",
+        "url": "https://t.co/h6i1EIj8xV",
+        "display_url": "pic.twitter.com/h6i1EIj8xV",
+        "expanded_url": "https://twitter.com/art0407/status/1058721921305464832/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1920,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253950798"
+}

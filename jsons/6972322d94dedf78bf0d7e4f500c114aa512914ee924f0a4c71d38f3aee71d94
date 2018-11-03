@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:26:08 +0000 2018",
+  "id": 1058727029397315584,
+  "id_str": "1058727029397315584",
+  "text": "@agrostemma44 @Izumi_shuc かんぺきだ！！！画質よいBSは神や…",
+  "display_text_range": [
+    26,
+    44
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058726378001129472,
+  "in_reply_to_status_id_str": "1058726378001129472",
+  "in_reply_to_user_id": 3119763163,
+  "in_reply_to_user_id_str": "3119763163",
+  "in_reply_to_screen_name": "agrostemma44",
+  "user": {
+    "id": 358095835,
+    "id_str": "358095835",
+    "name": "まりもも",
+    "screen_name": "momo_jiro_nyan",
+    "location": "陸の孤島mishima",
+    "url": null,
+    "description": "体操とフィギュアスケートでおおいそがし、ときどきバレエ。必殺お金パワー！はやく東京23区に戻りたい。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 536,
+    "friends_count": 599,
+    "listed_count": 14,
+    "favourites_count": 24345,
+    "statuses_count": 67937,
+    "created_at": "Fri Aug 19 11:12:07 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/557692514975899650/z-L1fhmW_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/557692514975899650/z-L1fhmW_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/358095835/1421799033",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "agrostemma44",
+        "name": "あやりん",
+        "id": 3119763163,
+        "id_str": "3119763163",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "Izumi_shuc",
+        "name": "Izumi-A.",
+        "id": 265817914,
+        "id_str": "265817914",
+        "indices": [
+          14,
+          25
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255168662"
+}

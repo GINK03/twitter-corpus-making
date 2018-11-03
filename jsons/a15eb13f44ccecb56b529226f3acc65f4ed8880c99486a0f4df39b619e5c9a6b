@@ -1,0 +1,420 @@
+{
+  "created_at": "Sat Nov 03 13:59:23 +0000 2018",
+  "id": 1058720297241632768,
+  "id_str": "1058720297241632768",
+  "text": "RT @kadomaita: わーい！よろしくね😊✨ #FGO https://t.co/hYyQKgroZe",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 976376870076739585,
+    "id_str": "976376870076739585",
+    "name": "クロ",
+    "screen_name": "shiro_neko555",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 4464,
+    "friends_count": 3378,
+    "listed_count": 20,
+    "favourites_count": 27562,
+    "statuses_count": 14231,
+    "created_at": "Wed Mar 21 08:36:00 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1046437047941050368/HLpxOFDI_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046437047941050368/HLpxOFDI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/976376870076739585/1538325009",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Oct 25 02:38:35 +0000 2018",
+    "id": 1055287476955148288,
+    "id_str": "1055287476955148288",
+    "text": "わーい！よろしくね😊✨ #FGO https://t.co/hYyQKgroZe",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 111922479,
+      "id_str": "111922479",
+      "name": "門脇舞以",
+      "screen_name": "kadomaita",
+      "location": "フリーランス",
+      "url": "https://maitablog.jimdo.com/",
+      "description": "声優です。「Fate/stay night」（イリヤ）「ストライクウィッチーズ」（サーニャ）「ロロナのアトリエ」（ロロナ）「ニーア レプリカント」（エミール）など。漫画とゲームとホルモンとももクロちゃん（会員No500番台💖）が大好きな2児のヲタハハです✨🎤サンプルボイス&ご依頼フォームは⬇︎リンクにて📮✨",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 179568,
+      "friends_count": 675,
+      "listed_count": 7187,
+      "favourites_count": 203,
+      "statuses_count": 18105,
+      "created_at": "Sat Feb 06 16:17:58 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FCFF99",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1014331485862522880/Lh144hn0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1014331485862522880/Lh144hn0_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/111922479/1530434927",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 50,
+    "reply_count": 132,
+    "retweet_count": 4953,
+    "favorite_count": 13381,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            12,
+            16
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1055287469153779712,
+          "id_str": "1055287469153779712",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqUiXK7VAAA-g-p.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqUiXK7VAAA-g-p.jpg",
+          "url": "https://t.co/hYyQKgroZe",
+          "display_url": "pic.twitter.com/hYyQKgroZe",
+          "expanded_url": "https://twitter.com/kadomaita/status/1055287476955148288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1334,
+              "h": 750,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 382,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1055287469153779712,
+          "id_str": "1055287469153779712",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqUiXK7VAAA-g-p.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqUiXK7VAAA-g-p.jpg",
+          "url": "https://t.co/hYyQKgroZe",
+          "display_url": "pic.twitter.com/hYyQKgroZe",
+          "expanded_url": "https://twitter.com/kadomaita/status/1055287476955148288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1334,
+              "h": 750,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 382,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1055287469149569024,
+          "id_str": "1055287469149569024",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqUiXK6UwAATWDr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqUiXK6UwAATWDr.jpg",
+          "url": "https://t.co/hYyQKgroZe",
+          "display_url": "pic.twitter.com/hYyQKgroZe",
+          "expanded_url": "https://twitter.com/kadomaita/status/1055287476955148288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 382,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1334,
+              "h": 750,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          27,
+          31
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "kadomaita",
+        "name": "門脇舞以",
+        "id": 111922479,
+        "id_str": "111922479",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1055287469153779712,
+        "id_str": "1055287469153779712",
+        "indices": [
+          32,
+          55
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqUiXK7VAAA-g-p.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqUiXK7VAAA-g-p.jpg",
+        "url": "https://t.co/hYyQKgroZe",
+        "display_url": "pic.twitter.com/hYyQKgroZe",
+        "expanded_url": "https://twitter.com/kadomaita/status/1055287476955148288/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1055287476955148288,
+        "source_status_id_str": "1055287476955148288",
+        "source_user_id": 111922479,
+        "source_user_id_str": "111922479"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1055287469153779712,
+        "id_str": "1055287469153779712",
+        "indices": [
+          32,
+          55
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqUiXK7VAAA-g-p.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqUiXK7VAAA-g-p.jpg",
+        "url": "https://t.co/hYyQKgroZe",
+        "display_url": "pic.twitter.com/hYyQKgroZe",
+        "expanded_url": "https://twitter.com/kadomaita/status/1055287476955148288/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1055287476955148288,
+        "source_status_id_str": "1055287476955148288",
+        "source_user_id": 111922479,
+        "source_user_id_str": "111922479"
+      },
+      {
+        "id": 1055287469149569024,
+        "id_str": "1055287469149569024",
+        "indices": [
+          32,
+          55
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqUiXK6UwAATWDr.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqUiXK6UwAATWDr.jpg",
+        "url": "https://t.co/hYyQKgroZe",
+        "display_url": "pic.twitter.com/hYyQKgroZe",
+        "expanded_url": "https://twitter.com/kadomaita/status/1055287476955148288/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1055287476955148288,
+        "source_status_id_str": "1055287476955148288",
+        "source_user_id": 111922479,
+        "source_user_id_str": "111922479"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253563591"
+}

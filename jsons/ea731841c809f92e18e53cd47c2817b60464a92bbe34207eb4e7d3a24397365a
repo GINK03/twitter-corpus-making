@@ -1,0 +1,206 @@
+{
+  "created_at": "Sat Nov 03 14:04:22 +0000 2018",
+  "id": 1058721550176645121,
+  "id_str": "1058721550176645121",
+  "text": "モンスト垢販売します\n弱垢ですが結構キャラは揃ってるかと プレイステーション ストアカード\nでお願いします\nぜひ一度DMにお願いします🤲\n値段は1500円からで！！！\n\n#モンスト\n#モンスト垢販売 https://t.co/JSR18IWsWv",
+  "display_text_range": [
+    0,
+    99
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1058703520713469952,
+    "id_str": "1058703520713469952",
+    "name": "モンスト垢販売",
+    "screen_name": "4It2kq8SrDK7Zfg",
+    "location": null,
+    "url": null,
+    "description": "モンスト",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2,
+    "friends_count": 40,
+    "listed_count": 0,
+    "favourites_count": 0,
+    "statuses_count": 6,
+    "created_at": "Sat Nov 03 12:52:43 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058703715962515456/EqN6wICh_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058703715962515456/EqN6wICh_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058703520713469952/1541249622",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "モンスト",
+        "indices": [
+          85,
+          90
+        ]
+      },
+      {
+        "text": "モンスト垢販売",
+        "indices": [
+          91,
+          99
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058721202192011264,
+        "id_str": "1058721202192011264",
+        "indices": [
+          100,
+          123
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058721202192011264/pu/img/zr4b4LEQtiHumMZB.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058721202192011264/pu/img/zr4b4LEQtiHumMZB.jpg",
+        "url": "https://t.co/JSR18IWsWv",
+        "display_url": "pic.twitter.com/JSR18IWsWv",
+        "expanded_url": "https://twitter.com/4It2kq8SrDK7Zfg/status/1058721550176645121/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058721202192011264,
+        "id_str": "1058721202192011264",
+        "indices": [
+          100,
+          123
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058721202192011264/pu/img/zr4b4LEQtiHumMZB.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058721202192011264/pu/img/zr4b4LEQtiHumMZB.jpg",
+        "url": "https://t.co/JSR18IWsWv",
+        "display_url": "pic.twitter.com/JSR18IWsWv",
+        "expanded_url": "https://twitter.com/4It2kq8SrDK7Zfg/status/1058721550176645121/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 45000,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058721202192011264/pu/pl/K_JhJqshLXsmlmaD.m3u8?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058721202192011264/pu/vid/180x320/0VgPAwJWOV0jnoU_.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058721202192011264/pu/vid/360x640/zT91_Jmu_POiocoH.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058721202192011264/pu/vid/720x1280/-W5yI4XjovrLW2SM.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253862314"
+}

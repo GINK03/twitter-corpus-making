@@ -1,0 +1,540 @@
+{
+  "created_at": "Sat Nov 03 14:14:14 +0000 2018",
+  "id": 1058724034651639808,
+  "id_str": "1058724034651639808",
+  "text": "RT @HAWKS_official: 甲斐キャノン！\n#sbhawks https://t.co/HQNxqdgFwz",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 498595387,
+    "id_str": "498595387",
+    "name": "ゆか",
+    "screen_name": "01min_yk",
+    "location": "JAPAN",
+    "url": null,
+    "description": "ソフトバンクホークスが大好きで応援してます😊",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 6,
+    "friends_count": 88,
+    "listed_count": 0,
+    "favourites_count": 2192,
+    "statuses_count": 572,
+    "created_at": "Tue Feb 21 06:46:04 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/969892209536331782/7Ud-cf_k_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/969892209536331782/7Ud-cf_k_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/498595387/1517819329",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:55:44 +0000 2018",
+    "id": 1058719376809979904,
+    "id_str": "1058719376809979904",
+    "text": "甲斐キャノン！\n#sbhawks https://t.co/HQNxqdgFwz",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 122284646,
+      "id_str": "122284646",
+      "name": "福岡ソフトバンクホークス（公式）",
+      "screen_name": "HAWKS_official",
+      "location": "福岡ヤフオク！ドーム",
+      "url": "http://www.softbankhawks.co.jp/",
+      "description": "選手とファンみなさんをつなぐスタッフとして・・・というより、ホークスファンのひとりとして、時にはアツく、時には厳しく、・・・楽しくおバカにお気楽にをモットーにツイートします😁 返信できないことも多々ありますので、チケット、イベントなどのお問い合わせなどは、公式サイトのフォームよりお願いいたします。 (C)SBH",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 885162,
+      "friends_count": 92,
+      "listed_count": 5355,
+      "favourites_count": 16,
+      "statuses_count": 74694,
+      "created_at": "Fri Mar 12 05:58:34 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFCC4D",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "FAB81E",
+      "profile_sidebar_border_color": "CC3366",
+      "profile_sidebar_fill_color": "E5507E",
+      "profile_text_color": "362720",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1058702620527738880/1lIgEs7H_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058702620527738880/1lIgEs7H_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/122284646/1541249371",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058718404352200704,
+    "quoted_status_id_str": "1058718404352200704",
+    "quoted_status": {
+      "created_at": "Sat Nov 03 13:51:52 +0000 2018",
+      "id": 1058718404352200704,
+      "id_str": "1058718404352200704",
+      "text": "MVP 甲斐拓也選手！\nカイキャノンっ！\n#sbhawks https://t.co/ivxji8WKOU",
+      "display_text_range": [
+        0,
+        29
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 122285363,
+        "id_str": "122285363",
+        "name": "ハリーホーク",
+        "screen_name": "hawksHarry",
+        "location": "福岡Yahoo! JAPANドーム",
+        "url": "http://www.softbankhawks.co.jp/",
+        "description": "福岡ソフトバンクホークス球団マスコットのハリーホークだよ！\r\n(C)SoftBank HAWKS",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 119693,
+        "friends_count": 20,
+        "listed_count": 1613,
+        "favourites_count": 4,
+        "statuses_count": 4694,
+        "created_at": "Fri Mar 12 06:02:16 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2761764953/19d8f7843688472dd7f54d978b1c4e24_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2761764953/19d8f7843688472dd7f54d978b1c4e24_normal.jpeg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 44,
+      "reply_count": 54,
+      "retweet_count": 1406,
+      "favorite_count": 4656,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "sbhawks",
+            "indices": [
+              21,
+              29
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058718396152393728,
+            "id_str": "1058718396152393728",
+            "indices": [
+              30,
+              53
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFSxZ_VsAAvmW7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFSxZ_VsAAvmW7.jpg",
+            "url": "https://t.co/ivxji8WKOU",
+            "display_url": "pic.twitter.com/ivxji8WKOU",
+            "expanded_url": "https://twitter.com/hawksHarry/status/1058718404352200704/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058718396152393728,
+            "id_str": "1058718396152393728",
+            "indices": [
+              30,
+              53
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFSxZ_VsAAvmW7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFSxZ_VsAAvmW7.jpg",
+            "url": "https://t.co/ivxji8WKOU",
+            "display_url": "pic.twitter.com/ivxji8WKOU",
+            "expanded_url": "https://twitter.com/hawksHarry/status/1058718404352200704/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/HQNxqdgFwz",
+      "expanded": "https://twitter.com/hawksharry/status/1058718404352200704",
+      "display": "twitter.com/hawksharry/sta…"
+    },
+    "is_quote_status": true,
+    "quote_count": 13,
+    "reply_count": 26,
+    "retweet_count": 879,
+    "favorite_count": 3898,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "sbhawks",
+          "indices": [
+            8,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HQNxqdgFwz",
+          "expanded_url": "https://twitter.com/hawksharry/status/1058718404352200704",
+          "display_url": "twitter.com/hawksharry/sta…",
+          "indices": [
+            17,
+            40
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058718404352200704,
+  "quoted_status_id_str": "1058718404352200704",
+  "quoted_status": {
+    "created_at": "Sat Nov 03 13:51:52 +0000 2018",
+    "id": 1058718404352200704,
+    "id_str": "1058718404352200704",
+    "text": "MVP 甲斐拓也選手！\nカイキャノンっ！\n#sbhawks https://t.co/ivxji8WKOU",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 122285363,
+      "id_str": "122285363",
+      "name": "ハリーホーク",
+      "screen_name": "hawksHarry",
+      "location": "福岡Yahoo! JAPANドーム",
+      "url": "http://www.softbankhawks.co.jp/",
+      "description": "福岡ソフトバンクホークス球団マスコットのハリーホークだよ！\r\n(C)SoftBank HAWKS",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 119693,
+      "friends_count": 20,
+      "listed_count": 1613,
+      "favourites_count": 4,
+      "statuses_count": 4694,
+      "created_at": "Fri Mar 12 06:02:16 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2761764953/19d8f7843688472dd7f54d978b1c4e24_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2761764953/19d8f7843688472dd7f54d978b1c4e24_normal.jpeg",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 44,
+    "reply_count": 54,
+    "retweet_count": 1406,
+    "favorite_count": 4656,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "sbhawks",
+          "indices": [
+            21,
+            29
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058718396152393728,
+          "id_str": "1058718396152393728",
+          "indices": [
+            30,
+            53
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFSxZ_VsAAvmW7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFSxZ_VsAAvmW7.jpg",
+          "url": "https://t.co/ivxji8WKOU",
+          "display_url": "pic.twitter.com/ivxji8WKOU",
+          "expanded_url": "https://twitter.com/hawksHarry/status/1058718404352200704/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058718396152393728,
+          "id_str": "1058718396152393728",
+          "indices": [
+            30,
+            53
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFSxZ_VsAAvmW7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFSxZ_VsAAvmW7.jpg",
+          "url": "https://t.co/ivxji8WKOU",
+          "display_url": "pic.twitter.com/ivxji8WKOU",
+          "expanded_url": "https://twitter.com/hawksHarry/status/1058718404352200704/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/HQNxqdgFwz",
+    "expanded": "https://twitter.com/hawksharry/status/1058718404352200704",
+    "display": "twitter.com/hawksharry/sta…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sbhawks",
+        "indices": [
+          28,
+          36
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/HQNxqdgFwz",
+        "expanded_url": "https://twitter.com/hawksharry/status/1058718404352200704",
+        "display_url": "twitter.com/hawksharry/sta…",
+        "indices": [
+          37,
+          60
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HAWKS_official",
+        "name": "福岡ソフトバンクホークス（公式）",
+        "id": 122284646,
+        "id_str": "122284646",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254454659"
+}

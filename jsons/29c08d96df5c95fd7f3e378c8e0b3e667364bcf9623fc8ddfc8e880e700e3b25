@@ -1,0 +1,159 @@
+{
+  "created_at": "Sat Nov 03 14:18:23 +0000 2018",
+  "id": 1058725079033368578,
+  "id_str": "1058725079033368578",
+  "text": "【大学名称変更検討の歴史】大学名称は都議会が関わり、学内で完結できる話ではないため、そもそも2018/7/12の都知事発言以前は知名度上昇の選択肢として挙がっていなかった。同発言で初めて選択肢になった。#首都大学東京 #首都大… https://t.co/f50cKTOA2Y",
+  "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1036033145341063168,
+    "id_str": "1036033145341063168",
+    "name": "名称変更情報(首都大学東京⇒東京都立大学)のまとめ",
+    "screen_name": "tmu_change_name",
+    "location": null,
+    "url": "http://seesaawiki.jp/tmu-change-name/",
+    "description": "#首都大学東京 が #東京都立大学 に名称変更することが発表されましたが、大学の公式情報が不十分なため、都・法人・大学の情報に加え、情報開示請求などを含めた情報をまとめています。  情報は下記のwikiに追加・公開し、本アカウントでは大きな更新情報をお知らせします。また、botとして名称変更に関する情報も投稿します。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 119,
+    "friends_count": 2453,
+    "listed_count": 0,
+    "favourites_count": 5,
+    "statuses_count": 172,
+    "created_at": "Sat Sep 01 23:28:45 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "4366B0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1036037633753853952/MQYBterQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1036037633753853952/MQYBterQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1036033145341063168/1539738720",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "【大学名称変更検討の歴史】大学名称は都議会が関わり、学内で完結できる話ではないため、そもそも2018/7/12の都知事発言以前は知名度上昇の選択肢として挙がっていなかった。同発言で初めて選択肢になった。#首都大学東京 #首都大 #東京都立大学 #都立大 #名称変更bot https://t.co/icJ0RxPtVH",
+    "display_text_range": [
+      0,
+      159
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "首都大学東京",
+          "indices": [
+            101,
+            108
+          ]
+        },
+        {
+          "text": "首都大",
+          "indices": [
+            109,
+            113
+          ]
+        },
+        {
+          "text": "東京都立大学",
+          "indices": [
+            114,
+            121
+          ]
+        },
+        {
+          "text": "都立大",
+          "indices": [
+            122,
+            126
+          ]
+        },
+        {
+          "text": "名称変更bot",
+          "indices": [
+            127,
+            135
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/icJ0RxPtVH",
+          "expanded_url": "http://seesaawiki.jp/tmu-change-name/d/10/17%c0%e2%cc%c0%b2%f1%40%c6%ee%c2%e7%c2%f4",
+          "display_url": "seesaawiki.jp/tmu-change-nam…",
+          "indices": [
+            136,
+            159
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "首都大学東京",
+        "indices": [
+          101,
+          108
+        ]
+      },
+      {
+        "text": "首都大",
+        "indices": [
+          109,
+          113
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/f50cKTOA2Y",
+        "expanded_url": "https://twitter.com/i/web/status/1058725079033368578",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254703659"
+}

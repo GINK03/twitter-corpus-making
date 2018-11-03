@@ -1,0 +1,921 @@
+{
+  "created_at": "Sat Nov 03 14:27:01 +0000 2018",
+  "id": 1058727249770274816,
+  "id_str": "1058727249770274816",
+  "text": "RT @culannkenstein: これを書いている時点で264人の方にいいねを頂きました😌\n型月好きであろう方は全員フォローさせて頂きました〜\n皆さん有難うございまする！\n\n#FGO \n#FGOプレイヤーと繋がりたい \n#FGO好きと繋がりたい \n#FGO勢と繋がりたい…",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1052477493842608128,
+    "id_str": "1052477493842608128",
+    "name": "F",
+    "screen_name": "QSQSij",
+    "location": null,
+    "url": null,
+    "description": "ゲーム＆アニメ好き野郎。FGO未熟、スマホゲームその他諸々。成人済み",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 4,
+    "friends_count": 5,
+    "listed_count": 0,
+    "favourites_count": 76,
+    "statuses_count": 193,
+    "created_at": "Wed Oct 17 08:32:43 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058664715767803905/zqhT86az_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058664715767803905/zqhT86az_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:24:59 +0000 2018",
+    "id": 1058726738119680000,
+    "id_str": "1058726738119680000",
+    "text": "これを書いている時点で264人の方にいいねを頂きました😌\n型月好きであろう方は全員フォローさせて頂きました〜\n皆さん有難うございまする！\n\n#FGO \n#FGOプレイヤーと繋がりたい \n#FGO好きと繋がりたい… https://t.co/ZQmd8jgOar",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 824443083701915649,
+      "id_str": "824443083701915649",
+      "name": "クラン犬シュタイン@FGO",
+      "screen_name": "culannkenstein",
+      "location": "Japan",
+      "url": null,
+      "description": "基本的にゲーム関連を呟く垢。無言フォロー失礼します😌フォローやリプはお気軽にどうぞ。Fate関連を好まれている方であれば必ずフォロバ致します。#Fate #FGO #FGOプレイヤーと繋がりたい【中の人:20代♂/C系プログラマー /VisualStudioが友達/ランサーが好き】",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 530,
+      "friends_count": 1104,
+      "listed_count": 3,
+      "favourites_count": 516,
+      "statuses_count": 1084,
+      "created_at": "Thu Jan 26 02:25:23 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "CC0000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1057986627413262336/AP0aErsx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057986627413262336/AP0aErsx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/824443083701915649/1541079089",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1057984315521347584,
+    "quoted_status_id_str": "1057984315521347584",
+    "quoted_status": {
+      "created_at": "Thu Nov 01 13:14:51 +0000 2018",
+      "id": 1057984315521347584,
+      "id_str": "1057984315521347584",
+      "text": "FGOから型月にはまった新参者。\n・Fateはstay nightシリーズが好き\n・お気に入りの英霊はクーフーリン\n・割と廃課金\n\n良ければフォローお願いします！\n\n#FGO \n#FGOプレイヤーと繋がりたい… https://t.co/IanUjzMrfE",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 824443083701915649,
+        "id_str": "824443083701915649",
+        "name": "クラン犬シュタイン@FGO",
+        "screen_name": "culannkenstein",
+        "location": "Japan",
+        "url": null,
+        "description": "基本的にゲーム関連を呟く垢。無言フォロー失礼します😌フォローやリプはお気軽にどうぞ。Fate関連を好まれている方であれば必ずフォロバ致します。#Fate #FGO #FGOプレイヤーと繋がりたい【中の人:20代♂/C系プログラマー /VisualStudioが友達/ランサーが好き】",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 530,
+        "friends_count": 1104,
+        "listed_count": 3,
+        "favourites_count": 516,
+        "statuses_count": 1084,
+        "created_at": "Thu Jan 26 02:25:23 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "CC0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1057986627413262336/AP0aErsx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057986627413262336/AP0aErsx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/824443083701915649/1541079089",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "FGOから型月にはまった新参者。\n・Fateはstay nightシリーズが好き\n・お気に入りの英霊はクーフーリン\n・割と廃課金\n\n良ければフォローお願いします！\n\n#FGO \n#FGOプレイヤーと繋がりたい \n#FGO好きと繋がりたい \n#FGO勢と繋がりたい \n#いいねしたFGO勢全員フォローする \n#RTしたFGO勢全員フォローする https://t.co/SxFtiidzYx",
+        "display_text_range": [
+          0,
+          170
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "FGO",
+              "indices": [
+                83,
+                87
+              ]
+            },
+            {
+              "text": "FGOプレイヤーと繋がりたい",
+              "indices": [
+                89,
+                104
+              ]
+            },
+            {
+              "text": "FGO好きと繋がりたい",
+              "indices": [
+                106,
+                118
+              ]
+            },
+            {
+              "text": "FGO勢と繋がりたい",
+              "indices": [
+                120,
+                131
+              ]
+            },
+            {
+              "text": "いいねしたFGO勢全員フォローする",
+              "indices": [
+                133,
+                151
+              ]
+            },
+            {
+              "text": "RTしたFGO勢全員フォローする",
+              "indices": [
+                153,
+                170
+              ]
+            }
+          ],
+          "urls": [],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1057984310702039040,
+              "id_str": "1057984310702039040",
+              "indices": [
+                171,
+                194
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dq63IAlU4AAbZoJ.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dq63IAlU4AAbZoJ.jpg",
+              "url": "https://t.co/SxFtiidzYx",
+              "display_url": "pic.twitter.com/SxFtiidzYx",
+              "expanded_url": "https://twitter.com/culannkenstein/status/1057984315521347584/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 1200,
+                  "h": 347,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 196,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1824,
+                  "h": 527,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1057984310706237440,
+              "id_str": "1057984310706237440",
+              "indices": [
+                171,
+                194
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dq63IAmU8AAZQC8.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dq63IAmU8AAZQC8.jpg",
+              "url": "https://t.co/SxFtiidzYx",
+              "display_url": "pic.twitter.com/SxFtiidzYx",
+              "expanded_url": "https://twitter.com/culannkenstein/status/1057984315521347584/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 676,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1878,
+                  "h": 1058,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1057984310702039040,
+              "id_str": "1057984310702039040",
+              "indices": [
+                171,
+                194
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dq63IAlU4AAbZoJ.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dq63IAlU4AAbZoJ.jpg",
+              "url": "https://t.co/SxFtiidzYx",
+              "display_url": "pic.twitter.com/SxFtiidzYx",
+              "expanded_url": "https://twitter.com/culannkenstein/status/1057984315521347584/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 1200,
+                  "h": 347,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 196,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1824,
+                  "h": 527,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1057984310706237440,
+              "id_str": "1057984310706237440",
+              "indices": [
+                171,
+                194
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dq63IAmU8AAZQC8.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dq63IAmU8AAZQC8.jpg",
+              "url": "https://t.co/SxFtiidzYx",
+              "display_url": "pic.twitter.com/SxFtiidzYx",
+              "expanded_url": "https://twitter.com/culannkenstein/status/1057984315521347584/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 676,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1878,
+                  "h": 1058,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 2,
+      "reply_count": 0,
+      "retweet_count": 20,
+      "favorite_count": 264,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "FGO",
+            "indices": [
+              83,
+              87
+            ]
+          },
+          {
+            "text": "FGOプレイヤーと繋がりたい",
+            "indices": [
+              89,
+              104
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/IanUjzMrfE",
+            "expanded_url": "https://twitter.com/i/web/status/1057984315521347584",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/iZpuUm7qum",
+      "expanded": "https://twitter.com/culannkenstein/status/1057984315521347584",
+      "display": "twitter.com/culannkenstein…"
+    },
+    "is_quote_status": true,
+    "extended_tweet": {
+      "full_text": "これを書いている時点で264人の方にいいねを頂きました😌\n型月好きであろう方は全員フォローさせて頂きました〜\n皆さん有難うございまする！\n\n#FGO \n#FGOプレイヤーと繋がりたい \n#FGO好きと繋がりたい \n#FGO勢と繋がりたい \n#いいねしたFGO勢全員フォローする \n#RTしたFGO勢全員フォローする https://t.co/iZpuUm7qum",
+      "display_text_range": [
+        0,
+        157
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "FGO",
+            "indices": [
+              70,
+              74
+            ]
+          },
+          {
+            "text": "FGOプレイヤーと繋がりたい",
+            "indices": [
+              76,
+              91
+            ]
+          },
+          {
+            "text": "FGO好きと繋がりたい",
+            "indices": [
+              93,
+              105
+            ]
+          },
+          {
+            "text": "FGO勢と繋がりたい",
+            "indices": [
+              107,
+              118
+            ]
+          },
+          {
+            "text": "いいねしたFGO勢全員フォローする",
+            "indices": [
+              120,
+              138
+            ]
+          },
+          {
+            "text": "RTしたFGO勢全員フォローする",
+            "indices": [
+              140,
+              157
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/iZpuUm7qum",
+            "expanded_url": "https://twitter.com/culannkenstein/status/1057984315521347584",
+            "display_url": "twitter.com/culannkenstein…",
+            "indices": [
+              158,
+              181
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            70,
+            74
+          ]
+        },
+        {
+          "text": "FGOプレイヤーと繋がりたい",
+          "indices": [
+            76,
+            91
+          ]
+        },
+        {
+          "text": "FGO好きと繋がりたい",
+          "indices": [
+            93,
+            105
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZQmd8jgOar",
+          "expanded_url": "https://twitter.com/i/web/status/1058726738119680000",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1057984315521347584,
+  "quoted_status_id_str": "1057984315521347584",
+  "quoted_status": {
+    "created_at": "Thu Nov 01 13:14:51 +0000 2018",
+    "id": 1057984315521347584,
+    "id_str": "1057984315521347584",
+    "text": "FGOから型月にはまった新参者。\n・Fateはstay nightシリーズが好き\n・お気に入りの英霊はクーフーリン\n・割と廃課金\n\n良ければフォローお願いします！\n\n#FGO \n#FGOプレイヤーと繋がりたい… https://t.co/IanUjzMrfE",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 824443083701915649,
+      "id_str": "824443083701915649",
+      "name": "クラン犬シュタイン@FGO",
+      "screen_name": "culannkenstein",
+      "location": "Japan",
+      "url": null,
+      "description": "基本的にゲーム関連を呟く垢。無言フォロー失礼します😌フォローやリプはお気軽にどうぞ。Fate関連を好まれている方であれば必ずフォロバ致します。#Fate #FGO #FGOプレイヤーと繋がりたい【中の人:20代♂/C系プログラマー /VisualStudioが友達/ランサーが好き】",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 530,
+      "friends_count": 1104,
+      "listed_count": 3,
+      "favourites_count": 516,
+      "statuses_count": 1084,
+      "created_at": "Thu Jan 26 02:25:23 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "CC0000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1057986627413262336/AP0aErsx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057986627413262336/AP0aErsx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/824443083701915649/1541079089",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "FGOから型月にはまった新参者。\n・Fateはstay nightシリーズが好き\n・お気に入りの英霊はクーフーリン\n・割と廃課金\n\n良ければフォローお願いします！\n\n#FGO \n#FGOプレイヤーと繋がりたい \n#FGO好きと繋がりたい \n#FGO勢と繋がりたい \n#いいねしたFGO勢全員フォローする \n#RTしたFGO勢全員フォローする https://t.co/SxFtiidzYx",
+      "display_text_range": [
+        0,
+        170
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "FGO",
+            "indices": [
+              83,
+              87
+            ]
+          },
+          {
+            "text": "FGOプレイヤーと繋がりたい",
+            "indices": [
+              89,
+              104
+            ]
+          },
+          {
+            "text": "FGO好きと繋がりたい",
+            "indices": [
+              106,
+              118
+            ]
+          },
+          {
+            "text": "FGO勢と繋がりたい",
+            "indices": [
+              120,
+              131
+            ]
+          },
+          {
+            "text": "いいねしたFGO勢全員フォローする",
+            "indices": [
+              133,
+              151
+            ]
+          },
+          {
+            "text": "RTしたFGO勢全員フォローする",
+            "indices": [
+              153,
+              170
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1057984310702039040,
+            "id_str": "1057984310702039040",
+            "indices": [
+              171,
+              194
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq63IAlU4AAbZoJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq63IAlU4AAbZoJ.jpg",
+            "url": "https://t.co/SxFtiidzYx",
+            "display_url": "pic.twitter.com/SxFtiidzYx",
+            "expanded_url": "https://twitter.com/culannkenstein/status/1057984315521347584/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 347,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 196,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1824,
+                "h": 527,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1057984310706237440,
+            "id_str": "1057984310706237440",
+            "indices": [
+              171,
+              194
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq63IAmU8AAZQC8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq63IAmU8AAZQC8.jpg",
+            "url": "https://t.co/SxFtiidzYx",
+            "display_url": "pic.twitter.com/SxFtiidzYx",
+            "expanded_url": "https://twitter.com/culannkenstein/status/1057984315521347584/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 676,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1878,
+                "h": 1058,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1057984310702039040,
+            "id_str": "1057984310702039040",
+            "indices": [
+              171,
+              194
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq63IAlU4AAbZoJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq63IAlU4AAbZoJ.jpg",
+            "url": "https://t.co/SxFtiidzYx",
+            "display_url": "pic.twitter.com/SxFtiidzYx",
+            "expanded_url": "https://twitter.com/culannkenstein/status/1057984315521347584/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 347,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 196,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1824,
+                "h": 527,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1057984310706237440,
+            "id_str": "1057984310706237440",
+            "indices": [
+              171,
+              194
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq63IAmU8AAZQC8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq63IAmU8AAZQC8.jpg",
+            "url": "https://t.co/SxFtiidzYx",
+            "display_url": "pic.twitter.com/SxFtiidzYx",
+            "expanded_url": "https://twitter.com/culannkenstein/status/1057984315521347584/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 676,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1878,
+                "h": 1058,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 2,
+    "reply_count": 0,
+    "retweet_count": 20,
+    "favorite_count": 264,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            83,
+            87
+          ]
+        },
+        {
+          "text": "FGOプレイヤーと繋がりたい",
+          "indices": [
+            89,
+            104
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IanUjzMrfE",
+          "expanded_url": "https://twitter.com/i/web/status/1057984315521347584",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/iZpuUm7qum",
+    "expanded": "https://twitter.com/culannkenstein/status/1057984315521347584",
+    "display": "twitter.com/culannkenstein…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          90,
+          94
+        ]
+      },
+      {
+        "text": "FGOプレイヤーと繋がりたい",
+        "indices": [
+          96,
+          111
+        ]
+      },
+      {
+        "text": "FGO好きと繋がりたい",
+        "indices": [
+          113,
+          125
+        ]
+      },
+      {
+        "text": "FGO勢と繋がりたい",
+        "indices": [
+          127,
+          138
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "culannkenstein",
+        "name": "クラン犬シュタイン@FGO",
+        "id": 824443083701915649,
+        "id_str": "824443083701915649",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255221203"
+}

@@ -1,0 +1,157 @@
+{
+  "created_at": "Sat Nov 03 14:20:08 +0000 2018",
+  "id": 1058725519452041217,
+  "id_str": "1058725519452041217",
+  "text": "お前が一番 https://t.co/5p754pWW22",
+  "display_text_range": [
+    0,
+    5
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4122771434,
+    "id_str": "4122771434",
+    "name": "Atsuya",
+    "screen_name": "JSWb0120GT",
+    "location": "彩湖のご近所・たまにマーチ",
+    "url": null,
+    "description": "専1/ 自転車/SGT/⚓🍊/bike : Cannondale Synapse carbon※エグザリットおぢさん",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 374,
+    "friends_count": 473,
+    "listed_count": 3,
+    "favourites_count": 14225,
+    "statuses_count": 14348,
+    "created_at": "Wed Nov 04 10:06:45 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1051444622046650368/scrCFrm4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051444622046650368/scrCFrm4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4122771434/1505036252",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058725508001685504,
+        "id_str": "1058725508001685504",
+        "indices": [
+          6,
+          29
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZPXsV4AAECxB.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZPXsV4AAECxB.jpg",
+        "url": "https://t.co/5p754pWW22",
+        "display_url": "pic.twitter.com/5p754pWW22",
+        "expanded_url": "https://twitter.com/JSWb0120GT/status/1058725519452041217/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058725508001685504,
+        "id_str": "1058725508001685504",
+        "indices": [
+          6,
+          29
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZPXsV4AAECxB.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZPXsV4AAECxB.jpg",
+        "url": "https://t.co/5p754pWW22",
+        "display_url": "pic.twitter.com/5p754pWW22",
+        "expanded_url": "https://twitter.com/JSWb0120GT/status/1058725519452041217/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254808663"
+}

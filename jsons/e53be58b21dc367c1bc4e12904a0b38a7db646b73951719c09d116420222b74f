@@ -1,0 +1,527 @@
+{
+  "created_at": "Sat Nov 03 14:21:32 +0000 2018",
+  "id": 1058725872444657667,
+  "id_str": "1058725872444657667",
+  "text": "RT @extra_singular: お待たせしました、開催記念アンソロジーの詳細でございます！表紙は虎助遥人（@kosuke_haruhito ）さんに書いて頂きました。前回比大増加の参加作家88名、フルカラー108ページの大ボリュームとなります！ガチャ企画つきで1000円…",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 829670767579144192,
+    "id_str": "829670767579144192",
+    "name": "こよみん",
+    "screen_name": "coyomin_s",
+    "location": null,
+    "url": "http://pixiv.net/member.php?id=61788",
+    "description": "絵描いてます。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 4286,
+    "friends_count": 381,
+    "listed_count": 85,
+    "favourites_count": 38683,
+    "statuses_count": 50892,
+    "created_at": "Thu Feb 09 12:38:20 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "00D545",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1047368563479044096/JgKZ_ly8_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047368563479044096/JgKZ_ly8_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/829670767579144192/1538495944",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Oct 27 03:56:41 +0000 2018",
+    "id": 1056031906523803649,
+    "id_str": "1056031906523803649",
+    "text": "お待たせしました、開催記念アンソロジーの詳細でございます！表紙は虎助遥人（@kosuke_haruhito ）さんに書いて頂きました。前回比大増加の参加作家88名、フルカラー108ページの大ボリュームとなります！ガチャ企画つきで1… https://t.co/I7YLFLQBh3",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 856399852493615104,
+      "id_str": "856399852493615104",
+      "name": "番外特異点特派チーム＠サンクリ　R16a",
+      "screen_name": "extra_singular",
+      "location": null,
+      "url": "http://extra-singularpoint.com/zweiter/",
+      "description": "2018年11月4日(日)、池袋サンシャインシティで開催予定のFate/Grand Orderプチオンリー、「番外特異点」告知用アカウントです。ハッシュタグは→#番外特異点",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 787,
+      "friends_count": 70,
+      "listed_count": 6,
+      "favourites_count": 0,
+      "statuses_count": 489,
+      "created_at": "Mon Apr 24 06:50:10 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/970621683919855617/oJi8G2hL_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/970621683919855617/oJi8G2hL_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/856399852493615104/1520249763",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "お待たせしました、開催記念アンソロジーの詳細でございます！表紙は虎助遥人（@kosuke_haruhito ）さんに書いて頂きました。前回比大増加の参加作家88名、フルカラー108ページの大ボリュームとなります！ガチャ企画つきで1000円での頒布となりますので、是非！ #FGO #番外特異点 https://t.co/KiC72bOLo9",
+      "display_text_range": [
+        0,
+        146
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "FGO",
+            "indices": [
+              135,
+              139
+            ]
+          },
+          {
+            "text": "番外特異点",
+            "indices": [
+              140,
+              146
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "kosuke_haruhito",
+            "name": "虎助遥人",
+            "id": 95767024,
+            "id_str": "95767024",
+            "indices": [
+              37,
+              53
+            ]
+          }
+        ],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1056031889981669376,
+            "id_str": "1056031889981669376",
+            "indices": [
+              147,
+              170
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqfHaKnXgAArSeG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqfHaKnXgAArSeG.jpg",
+            "url": "https://t.co/KiC72bOLo9",
+            "display_url": "pic.twitter.com/KiC72bOLo9",
+            "expanded_url": "https://twitter.com/extra_singular/status/1056031906523803649/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 800,
+                "h": 1130,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 1130,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 481,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1056031889952309248,
+            "id_str": "1056031889952309248",
+            "indices": [
+              147,
+              170
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqfHaKgXgAA7Op5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqfHaKgXgAA7Op5.jpg",
+            "url": "https://t.co/KiC72bOLo9",
+            "display_url": "pic.twitter.com/KiC72bOLo9",
+            "expanded_url": "https://twitter.com/extra_singular/status/1056031906523803649/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 800,
+                "h": 1059,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 514,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 800,
+                "h": 1059,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1056031889927102464,
+            "id_str": "1056031889927102464",
+            "indices": [
+              147,
+              170
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqfHaKaW4AAgXtG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqfHaKaW4AAgXtG.jpg",
+            "url": "https://t.co/KiC72bOLo9",
+            "display_url": "pic.twitter.com/KiC72bOLo9",
+            "expanded_url": "https://twitter.com/extra_singular/status/1056031906523803649/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 514,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 800,
+                "h": 1059,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 1059,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1056031889952256001,
+            "id_str": "1056031889952256001",
+            "indices": [
+              147,
+              170
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqfHaKgWsAEE0i9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqfHaKgWsAEE0i9.jpg",
+            "url": "https://t.co/KiC72bOLo9",
+            "display_url": "pic.twitter.com/KiC72bOLo9",
+            "expanded_url": "https://twitter.com/extra_singular/status/1056031906523803649/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 800,
+                "h": 1059,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 514,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 1059,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1056031889981669376,
+            "id_str": "1056031889981669376",
+            "indices": [
+              147,
+              170
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqfHaKnXgAArSeG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqfHaKnXgAArSeG.jpg",
+            "url": "https://t.co/KiC72bOLo9",
+            "display_url": "pic.twitter.com/KiC72bOLo9",
+            "expanded_url": "https://twitter.com/extra_singular/status/1056031906523803649/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 800,
+                "h": 1130,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 1130,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 481,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1056031889952309248,
+            "id_str": "1056031889952309248",
+            "indices": [
+              147,
+              170
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqfHaKgXgAA7Op5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqfHaKgXgAA7Op5.jpg",
+            "url": "https://t.co/KiC72bOLo9",
+            "display_url": "pic.twitter.com/KiC72bOLo9",
+            "expanded_url": "https://twitter.com/extra_singular/status/1056031906523803649/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 800,
+                "h": 1059,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 514,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 800,
+                "h": 1059,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1056031889927102464,
+            "id_str": "1056031889927102464",
+            "indices": [
+              147,
+              170
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqfHaKaW4AAgXtG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqfHaKaW4AAgXtG.jpg",
+            "url": "https://t.co/KiC72bOLo9",
+            "display_url": "pic.twitter.com/KiC72bOLo9",
+            "expanded_url": "https://twitter.com/extra_singular/status/1056031906523803649/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 514,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 800,
+                "h": 1059,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 1059,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1056031889952256001,
+            "id_str": "1056031889952256001",
+            "indices": [
+              147,
+              170
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqfHaKgWsAEE0i9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqfHaKgWsAEE0i9.jpg",
+            "url": "https://t.co/KiC72bOLo9",
+            "display_url": "pic.twitter.com/KiC72bOLo9",
+            "expanded_url": "https://twitter.com/extra_singular/status/1056031906523803649/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 800,
+                "h": 1059,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 514,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 1059,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 6,
+    "reply_count": 2,
+    "retweet_count": 497,
+    "favorite_count": 1514,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/I7YLFLQBh3",
+          "expanded_url": "https://twitter.com/i/web/status/1056031906523803649",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kosuke_haruhito",
+          "name": "虎助遥人",
+          "id": 95767024,
+          "id_str": "95767024",
+          "indices": [
+            37,
+            53
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "extra_singular",
+        "name": "番外特異点特派チーム＠サンクリ　R16a",
+        "id": 856399852493615104,
+        "id_str": "856399852493615104",
+        "indices": [
+          3,
+          18
+        ]
+      },
+      {
+        "screen_name": "kosuke_haruhito",
+        "name": "虎助遥人",
+        "id": 95767024,
+        "id_str": "95767024",
+        "indices": [
+          57,
+          73
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254892823"
+}

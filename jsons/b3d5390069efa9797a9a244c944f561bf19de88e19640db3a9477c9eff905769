@@ -1,0 +1,260 @@
+{
+  "created_at": "Sat Nov 03 14:21:11 +0000 2018",
+  "id": 1058725783684866049,
+  "id_str": "1058725783684866049",
+  "text": "テスト→まとめ１解説→テスト問１解説→まとめ２解説→テスト問２解説→・・・の流れが良かった。\n自然とセグメント化が出来るし、生徒の集中力の『持ち』が全然違う。考えてみたら、テレビのクイズ番組の構成に近いかな。\n＃90,91… https://t.co/klDzg6Ujmn",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 777521580469399552,
+    "id_str": "777521580469399552",
+    "name": "かずや",
+    "screen_name": "R_makes_rb",
+    "location": "さいたま",
+    "url": null,
+    "description": "職業は『塾の先生』。ミッションは『人を笑顔にすること』『心地よい居場所をつくること』。数学Lv40,英語Lv37,理科Lv33,社会 Lv8,国語 Lv1, アイロンビーズLv7 #板書千枚チャレンジ 挑戦中。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 616,
+    "friends_count": 138,
+    "listed_count": 10,
+    "favourites_count": 13121,
+    "statuses_count": 4723,
+    "created_at": "Sun Sep 18 14:56:05 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/962843298913071104/XyBBRQV__normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/962843298913071104/XyBBRQV__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/777521580469399552/1514035791",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "テスト→まとめ１解説→テスト問１解説→まとめ２解説→テスト問２解説→・・・の流れが良かった。\n自然とセグメント化が出来るし、生徒の集中力の『持ち』が全然違う。考えてみたら、テレビのクイズ番組の構成に近いかな。\n＃90,91\n#板書千枚チャレンジ https://t.co/Ruri9P0a7k",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "板書千枚チャレンジ",
+          "indices": [
+            112,
+            122
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058725776592269313,
+          "id_str": "1058725776592269313",
+          "indices": [
+            123,
+            146
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFZfARU8AElLkr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFZfARU8AElLkr.jpg",
+          "url": "https://t.co/Ruri9P0a7k",
+          "display_url": "pic.twitter.com/Ruri9P0a7k",
+          "expanded_url": "https://twitter.com/R_makes_rb/status/1058725783684866049/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 286,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 861,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 504,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058725776600649729,
+          "id_str": "1058725776600649729",
+          "indices": [
+            123,
+            146
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFZfATU0AEHHw4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFZfATU0AEHHw4.jpg",
+          "url": "https://t.co/Ruri9P0a7k",
+          "display_url": "pic.twitter.com/Ruri9P0a7k",
+          "expanded_url": "https://twitter.com/R_makes_rb/status/1058725783684866049/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2047,
+              "h": 853,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 283,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058725776592269313,
+          "id_str": "1058725776592269313",
+          "indices": [
+            123,
+            146
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFZfARU8AElLkr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFZfARU8AElLkr.jpg",
+          "url": "https://t.co/Ruri9P0a7k",
+          "display_url": "pic.twitter.com/Ruri9P0a7k",
+          "expanded_url": "https://twitter.com/R_makes_rb/status/1058725783684866049/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 286,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 861,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 504,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058725776600649729,
+          "id_str": "1058725776600649729",
+          "indices": [
+            123,
+            146
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFZfATU0AEHHw4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFZfATU0AEHHw4.jpg",
+          "url": "https://t.co/Ruri9P0a7k",
+          "display_url": "pic.twitter.com/Ruri9P0a7k",
+          "expanded_url": "https://twitter.com/R_makes_rb/status/1058725783684866049/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2047,
+              "h": 853,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 283,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/klDzg6Ujmn",
+        "expanded_url": "https://twitter.com/i/web/status/1058725783684866049",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          113,
+          136
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254871661"
+}

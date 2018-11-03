@@ -1,0 +1,392 @@
+{
+  "created_at": "Sat Nov 03 14:25:43 +0000 2018",
+  "id": 1058726924556496896,
+  "id_str": "1058726924556496896",
+  "text": "RT @sebuti920010: ジミンまじでかわいい真顔から笑顔になるまでがたまらん🙈💘 #ジミン https://t.co/HJ09WNpz3M",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 956534553836863489,
+    "id_str": "956534553836863489",
+    "name": "つぐみ",
+    "screen_name": "A98m78OehGyRiei",
+    "location": "日本",
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 24,
+    "friends_count": 59,
+    "listed_count": 0,
+    "favourites_count": 16093,
+    "statuses_count": 2248,
+    "created_at": "Thu Jan 25 14:29:43 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1028538147154456576/_RrvKE1V_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028538147154456576/_RrvKE1V_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/956534553836863489/1523541290",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 12:45:11 +0000 2018",
+    "id": 1058701625257328645,
+    "id_str": "1058701625257328645",
+    "text": "ジミンまじでかわいい真顔から笑顔になるまでがたまらん🙈💘 #ジミン https://t.co/HJ09WNpz3M",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "source": "<a href=\"https://twitter.com/sebuti920010\" rel=\"nofollow\">7月は誕生日です</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 875020605598212096,
+      "id_str": "875020605598212096",
+      "name": "防弾少年団応援動画",
+      "screen_name": "sebuti920010",
+      "location": null,
+      "url": null,
+      "description": "防弾少年団、BTSの応援アカウントです、一押しはジミンです、気に入ったらRT,お願いします",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 17776,
+      "friends_count": 7324,
+      "listed_count": 30,
+      "favourites_count": 0,
+      "statuses_count": 23295,
+      "created_at": "Wed Jun 14 16:02:24 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/879289275799547904/s18UNY0E_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/879289275799547904/s18UNY0E_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/875020605598212096/1498473895",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 5,
+    "favorite_count": 41,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ジミン",
+          "indices": [
+            29,
+            33
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058701609918783490,
+          "id_str": "1058701609918783490",
+          "indices": [
+            34,
+            57
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058701609918783490/pu/img/QpPIJGX1qTjsdVKA.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058701609918783490/pu/img/QpPIJGX1qTjsdVKA.jpg",
+          "url": "https://t.co/HJ09WNpz3M",
+          "display_url": "pic.twitter.com/HJ09WNpz3M",
+          "expanded_url": "https://twitter.com/sebuti920010/status/1058701625257328645/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 240,
+              "h": 240,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 240,
+              "h": 240,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 240,
+              "h": 240,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058701609918783490,
+          "id_str": "1058701609918783490",
+          "indices": [
+            34,
+            57
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058701609918783490/pu/img/QpPIJGX1qTjsdVKA.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058701609918783490/pu/img/QpPIJGX1qTjsdVKA.jpg",
+          "url": "https://t.co/HJ09WNpz3M",
+          "display_url": "pic.twitter.com/HJ09WNpz3M",
+          "expanded_url": "https://twitter.com/sebuti920010/status/1058701625257328645/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 2639,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058701609918783490/pu/vid/240x240/Olpn4JZlnMXFDbFj.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058701609918783490/pu/pl/-zSFN5I_PcTTb0KM.m3u8?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 240,
+              "h": 240,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 240,
+              "h": 240,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 240,
+              "h": 240,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ジミン",
+        "indices": [
+          47,
+          51
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "sebuti920010",
+        "name": "防弾少年団応援動画",
+        "id": 875020605598212096,
+        "id_str": "875020605598212096",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058701609918783490,
+        "id_str": "1058701609918783490",
+        "indices": [
+          52,
+          75
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058701609918783490/pu/img/QpPIJGX1qTjsdVKA.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058701609918783490/pu/img/QpPIJGX1qTjsdVKA.jpg",
+        "url": "https://t.co/HJ09WNpz3M",
+        "display_url": "pic.twitter.com/HJ09WNpz3M",
+        "expanded_url": "https://twitter.com/sebuti920010/status/1058701625257328645/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 240,
+            "h": 240,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 240,
+            "h": 240,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 240,
+            "h": 240,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058701625257328645,
+        "source_status_id_str": "1058701625257328645",
+        "source_user_id": 875020605598212096,
+        "source_user_id_str": "875020605598212096"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058701609918783490,
+        "id_str": "1058701609918783490",
+        "indices": [
+          52,
+          75
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058701609918783490/pu/img/QpPIJGX1qTjsdVKA.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058701609918783490/pu/img/QpPIJGX1qTjsdVKA.jpg",
+        "url": "https://t.co/HJ09WNpz3M",
+        "display_url": "pic.twitter.com/HJ09WNpz3M",
+        "expanded_url": "https://twitter.com/sebuti920010/status/1058701625257328645/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 2639,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058701609918783490/pu/vid/240x240/Olpn4JZlnMXFDbFj.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058701609918783490/pu/pl/-zSFN5I_PcTTb0KM.m3u8?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 240,
+            "h": 240,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 240,
+            "h": 240,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 240,
+            "h": 240,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058701625257328645,
+        "source_status_id_str": "1058701625257328645",
+        "source_user_id": 875020605598212096,
+        "source_user_id_str": "875020605598212096"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255143666"
+}

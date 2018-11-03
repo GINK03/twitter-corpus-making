@@ -1,0 +1,114 @@
+{
+  "created_at": "Sat Nov 03 14:18:27 +0000 2018",
+  "id": 1058725095810592769,
+  "id_str": "1058725095810592769",
+  "text": "[松紳] 国外・国内で腹が立ったこと\nhttps://t.co/Ks232V9g9k\n＃松本人志 ＃紳助 ＃島田紳助 #松本紳助",
+  "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1049884501374107649,
+    "id_str": "1049884501374107649",
+    "name": "松紳チャンネル",
+    "screen_name": "xVRSfN1pZs8knep",
+    "location": null,
+    "url": "https://www.youtube.com/channel/UCRolZU1TsmuApDdatqJDnAA/videos?view_as=subscriber",
+    "description": "毎日投稿",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 0,
+    "friends_count": 0,
+    "listed_count": 0,
+    "favourites_count": 0,
+    "statuses_count": 1120,
+    "created_at": "Wed Oct 10 04:49:05 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1049885485789827077/WRc_E6hg_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1049885485789827077/WRc_E6hg_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1049884501374107649/1539147193",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "松本人志",
+        "indices": [
+          43,
+          48
+        ]
+      },
+      {
+        "text": "紳助",
+        "indices": [
+          49,
+          52
+        ]
+      },
+      {
+        "text": "島田紳助",
+        "indices": [
+          53,
+          58
+        ]
+      },
+      {
+        "text": "松本紳助",
+        "indices": [
+          59,
+          64
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/Ks232V9g9k",
+        "expanded_url": "https://www.youtube.com/watch?v=Cxs6yBt3PUo",
+        "display_url": "youtube.com/watch?v=Cxs6yB…",
+        "indices": [
+          19,
+          42
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254707659"
+}

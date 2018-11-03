@@ -1,0 +1,107 @@
+{
+  "created_at": "Sat Nov 03 14:24:22 +0000 2018",
+  "id": 1058726584801054720,
+  "id_str": "1058726584801054720",
+  "text": "大阪での『よっぱの宴』というイベントで出演者様を探しているでやんす。\nノルマはなしで敷居の低い緩いイベントなので、スタジオでリハをするつもりで参加できるでやんす。\n(-_☆)キラーン\n\nhttps://t.co/ccxiyPis21\n\n#Live #大阪 #出演者募集",
+  "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3143118138,
+    "id_str": "3143118138",
+    "name": "frank the yoppa!",
+    "screen_name": "frank_the_yoppa",
+    "location": "大阪",
+    "url": "http://www.frank-the-yoppa.com/",
+    "description": "2000年結成、以後ほぼオリジナルメンバーで精力的にライブなどを熟して活動、野望は「ビルボードでNo.1になり印税で楽々生活！」と舐めたことを目論むが、未だに陽の目を見ないでいる。Frank Zappaのコピーバンドと間違われ、実は違うというのが本音であるが最近、変態的な要素が似通っている。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 897,
+    "friends_count": 1175,
+    "listed_count": 43,
+    "favourites_count": 21,
+    "statuses_count": 41383,
+    "created_at": "Tue Apr 07 10:05:27 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "F5ABB5",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/585383222290186240/-wNLz-hQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/585383222290186240/-wNLz-hQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3143118138/1428414874",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Live",
+        "indices": [
+          118,
+          123
+        ]
+      },
+      {
+        "text": "大阪",
+        "indices": [
+          124,
+          127
+        ]
+      },
+      {
+        "text": "出演者募集",
+        "indices": [
+          128,
+          134
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/ccxiyPis21",
+        "expanded_url": "http://www.frank-the-yoppa.com/",
+        "display_url": "frank-the-yoppa.com",
+        "indices": [
+          93,
+          116
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255062662"
+}

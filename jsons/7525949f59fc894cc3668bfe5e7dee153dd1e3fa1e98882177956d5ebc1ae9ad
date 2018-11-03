@@ -1,0 +1,343 @@
+{
+  "created_at": "Sat Nov 03 14:24:18 +0000 2018",
+  "id": 1058726568040624128,
+  "id_str": "1058726568040624128",
+  "text": "RT @yuushinronsya: 流石は陸奥守だぜ！\n#天華百剣 https://t.co/0fMUQbdu1J",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 342514425,
+    "id_str": "342514425",
+    "name": "輝夜@ムーチョしてぇ",
+    "screen_name": "bwsugar",
+    "location": null,
+    "url": null,
+    "description": "主にFGO、メギド72、アナデン、天華百剣やってます。\n深煎りコーヒー好き！\nウサギを飼っています",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 219,
+    "friends_count": 691,
+    "listed_count": 0,
+    "favourites_count": 7081,
+    "statuses_count": 8707,
+    "created_at": "Tue Jul 26 04:00:22 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1054242103717326848/9VQMXzG0_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054242103717326848/9VQMXzG0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/342514425/1540037041",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 05:54:31 +0000 2018",
+    "id": 1058598274079186944,
+    "id_str": "1058598274079186944",
+    "text": "流石は陸奥守だぜ！\n#天華百剣 https://t.co/0fMUQbdu1J",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1055235767239241729,
+      "id_str": "1055235767239241729",
+      "name": "夜明前",
+      "screen_name": "yuushinronsya",
+      "location": null,
+      "url": null,
+      "description": "天華百剣 シャドバ ポケモンなど様々なゲームで赤いマフラーのキャラを作ったり愛でたりする時代周回遅れな厨二病患者はオカルトホラーがお好き。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 12,
+      "friends_count": 23,
+      "listed_count": 1,
+      "favourites_count": 17,
+      "statuses_count": 37,
+      "created_at": "Wed Oct 24 23:13:07 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1055410753560293376/ZLiyqhGm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055410753560293376/ZLiyqhGm_normal.jpg",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "天華百剣",
+          "indices": [
+            10,
+            15
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058598269578764288,
+          "id_str": "1058598269578764288",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDlhHoV4AAKUf5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDlhHoV4AAKUf5.jpg",
+          "url": "https://t.co/0fMUQbdu1J",
+          "display_url": "pic.twitter.com/0fMUQbdu1J",
+          "expanded_url": "https://twitter.com/yuushinronsya/status/1058598274079186944/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 854,
+              "h": 665,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 854,
+              "h": 665,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 530,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058598269578764288,
+          "id_str": "1058598269578764288",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDlhHoV4AAKUf5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDlhHoV4AAKUf5.jpg",
+          "url": "https://t.co/0fMUQbdu1J",
+          "display_url": "pic.twitter.com/0fMUQbdu1J",
+          "expanded_url": "https://twitter.com/yuushinronsya/status/1058598274079186944/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 854,
+              "h": 665,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 854,
+              "h": 665,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 530,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "天華百剣",
+        "indices": [
+          29,
+          34
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "yuushinronsya",
+        "name": "夜明前",
+        "id": 1055235767239241729,
+        "id_str": "1055235767239241729",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058598269578764288,
+        "id_str": "1058598269578764288",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDlhHoV4AAKUf5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDlhHoV4AAKUf5.jpg",
+        "url": "https://t.co/0fMUQbdu1J",
+        "display_url": "pic.twitter.com/0fMUQbdu1J",
+        "expanded_url": "https://twitter.com/yuushinronsya/status/1058598274079186944/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 854,
+            "h": 665,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 854,
+            "h": 665,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 530,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058598274079186944,
+        "source_status_id_str": "1058598274079186944",
+        "source_user_id": 1055235767239241729,
+        "source_user_id_str": "1055235767239241729"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058598269578764288,
+        "id_str": "1058598269578764288",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDlhHoV4AAKUf5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDlhHoV4AAKUf5.jpg",
+        "url": "https://t.co/0fMUQbdu1J",
+        "display_url": "pic.twitter.com/0fMUQbdu1J",
+        "expanded_url": "https://twitter.com/yuushinronsya/status/1058598274079186944/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 854,
+            "h": 665,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 854,
+            "h": 665,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 530,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058598274079186944,
+        "source_status_id_str": "1058598274079186944",
+        "source_user_id": 1055235767239241729,
+        "source_user_id_str": "1055235767239241729"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255058666"
+}

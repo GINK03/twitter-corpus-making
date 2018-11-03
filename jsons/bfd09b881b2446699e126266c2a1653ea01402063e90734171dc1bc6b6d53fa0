@@ -1,0 +1,571 @@
+{
+  "created_at": "Sat Nov 03 13:55:56 +0000 2018",
+  "id": 1058719428601249793,
+  "id_str": "1058719428601249793",
+  "text": "RT @edo_mond: #メガネの日\n一年以内の眼鏡っぽい過去絵をかき集めたらほぼFGO https://t.co/ws7hPJWqci",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 897745469111128064,
+    "id_str": "897745469111128064",
+    "name": "水田まり",
+    "screen_name": "mzpx89FSMVBUncu",
+    "location": null,
+    "url": null,
+    "description": "成人済み｡MHA/FGO/創作 中心に見る専垢｡ほんとに息をするように、己が萌えたものをただRTするだけ。腐ったものでもなんでもよくたべます｡",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 40,
+    "friends_count": 4000,
+    "listed_count": 6,
+    "favourites_count": 10509,
+    "statuses_count": 15013,
+    "created_at": "Wed Aug 16 09:02:53 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/964523559719641091/kKMgfdWn_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/964523559719641091/kKMgfdWn_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Oct 01 14:49:16 +0000 2018",
+    "id": 1046774048892407808,
+    "id_str": "1046774048892407808",
+    "text": "#メガネの日\n一年以内の眼鏡っぽい過去絵をかき集めたらほぼFGO https://t.co/ws7hPJWqci",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 157958191,
+      "id_str": "157958191",
+      "name": "えど開店休業",
+      "screen_name": "edo_mond",
+      "location": "江戸",
+      "url": "http://edoedoedomond.tumblr.com",
+      "description": "えどです。腐っています。お絵かきだいすきお仕事の下僕/色々雑食/FGOテスラ来ません芸人/じぶんちの猫の絵を描き散らす",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 20765,
+      "friends_count": 232,
+      "listed_count": 404,
+      "favourites_count": 10494,
+      "statuses_count": 45009,
+      "created_at": "Mon Jun 21 10:39:22 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/980522217866895361/62vfCW-M_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/980522217866895361/62vfCW-M_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/157958191/1532614116",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 1,
+    "reply_count": 2,
+    "retweet_count": 80,
+    "favorite_count": 276,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "メガネの日",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1046772995895656448,
+          "id_str": "1046772995895656448",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/DobifmTVAAAGVD9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DobifmTVAAAGVD9.jpg",
+          "url": "https://t.co/ws7hPJWqci",
+          "display_url": "pic.twitter.com/ws7hPJWqci",
+          "expanded_url": "https://twitter.com/edo_mond/status/1046774048892407808/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 929,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 526,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 929,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1046772995895656448,
+          "id_str": "1046772995895656448",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/DobifmTVAAAGVD9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DobifmTVAAAGVD9.jpg",
+          "url": "https://t.co/ws7hPJWqci",
+          "display_url": "pic.twitter.com/ws7hPJWqci",
+          "expanded_url": "https://twitter.com/edo_mond/status/1046774048892407808/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 929,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 526,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 929,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1046772995870449664,
+          "id_str": "1046772995870449664",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/DobifmNUYAAxnOt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DobifmNUYAAxnOt.jpg",
+          "url": "https://t.co/ws7hPJWqci",
+          "display_url": "pic.twitter.com/ws7hPJWqci",
+          "expanded_url": "https://twitter.com/edo_mond/status/1046774048892407808/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 848,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 848,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1046773201445908481,
+          "id_str": "1046773201445908481",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/DobirkCU8AEeH9j.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DobirkCU8AEeH9j.jpg",
+          "url": "https://t.co/ws7hPJWqci",
+          "display_url": "pic.twitter.com/ws7hPJWqci",
+          "expanded_url": "https://twitter.com/edo_mond/status/1046774048892407808/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 500,
+              "h": 707,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 500,
+              "h": 707,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1046773454144294912,
+          "id_str": "1046773454144294912",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dobi6RaUUAAsNRB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dobi6RaUUAAsNRB.jpg",
+          "url": "https://t.co/ws7hPJWqci",
+          "display_url": "pic.twitter.com/ws7hPJWqci",
+          "expanded_url": "https://twitter.com/edo_mond/status/1046774048892407808/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 447,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 591,
+              "h": 900,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 591,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "メガネの日",
+        "indices": [
+          14,
+          20
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "edo_mond",
+        "name": "えど開店休業",
+        "id": 157958191,
+        "id_str": "157958191",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1046772995895656448,
+        "id_str": "1046772995895656448",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/DobifmTVAAAGVD9.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DobifmTVAAAGVD9.jpg",
+        "url": "https://t.co/ws7hPJWqci",
+        "display_url": "pic.twitter.com/ws7hPJWqci",
+        "expanded_url": "https://twitter.com/edo_mond/status/1046774048892407808/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 929,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 526,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 929,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1046774048892407808,
+        "source_status_id_str": "1046774048892407808",
+        "source_user_id": 157958191,
+        "source_user_id_str": "157958191"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1046772995895656448,
+        "id_str": "1046772995895656448",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/DobifmTVAAAGVD9.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DobifmTVAAAGVD9.jpg",
+        "url": "https://t.co/ws7hPJWqci",
+        "display_url": "pic.twitter.com/ws7hPJWqci",
+        "expanded_url": "https://twitter.com/edo_mond/status/1046774048892407808/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 929,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 526,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 929,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1046774048892407808,
+        "source_status_id_str": "1046774048892407808",
+        "source_user_id": 157958191,
+        "source_user_id_str": "157958191"
+      },
+      {
+        "id": 1046772995870449664,
+        "id_str": "1046772995870449664",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/DobifmNUYAAxnOt.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DobifmNUYAAxnOt.jpg",
+        "url": "https://t.co/ws7hPJWqci",
+        "display_url": "pic.twitter.com/ws7hPJWqci",
+        "expanded_url": "https://twitter.com/edo_mond/status/1046774048892407808/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 481,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 848,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 848,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1046774048892407808,
+        "source_status_id_str": "1046774048892407808",
+        "source_user_id": 157958191,
+        "source_user_id_str": "157958191"
+      },
+      {
+        "id": 1046773201445908481,
+        "id_str": "1046773201445908481",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/DobirkCU8AEeH9j.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DobirkCU8AEeH9j.jpg",
+        "url": "https://t.co/ws7hPJWqci",
+        "display_url": "pic.twitter.com/ws7hPJWqci",
+        "expanded_url": "https://twitter.com/edo_mond/status/1046774048892407808/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 500,
+            "h": 707,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 500,
+            "h": 707,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 481,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1046774048892407808,
+        "source_status_id_str": "1046774048892407808",
+        "source_user_id": 157958191,
+        "source_user_id_str": "157958191"
+      },
+      {
+        "id": 1046773454144294912,
+        "id_str": "1046773454144294912",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dobi6RaUUAAsNRB.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dobi6RaUUAAsNRB.jpg",
+        "url": "https://t.co/ws7hPJWqci",
+        "display_url": "pic.twitter.com/ws7hPJWqci",
+        "expanded_url": "https://twitter.com/edo_mond/status/1046774048892407808/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 447,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 591,
+            "h": 900,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 591,
+            "h": 900,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1046774048892407808,
+        "source_status_id_str": "1046774048892407808",
+        "source_user_id": 157958191,
+        "source_user_id_str": "157958191"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253356491"
+}

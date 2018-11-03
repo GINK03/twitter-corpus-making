@@ -1,0 +1,202 @@
+{
+  "created_at": "Sat Nov 03 14:09:44 +0000 2018",
+  "id": 1058722899723317249,
+  "id_str": "1058722899723317249",
+  "text": "RT @daa_bay26: ファンフェスの1枚チケット探してるのですが譲って下さる方いませんか？\n なかなか難しいと思いますが、よろしくお願いします。\n#ベイスターズ\n#baystars\n#ファンフェス",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 998153317615222785,
+    "id_str": "998153317615222785",
+    "name": "くるこ。",
+    "screen_name": "daa_bay26",
+    "location": null,
+    "url": null,
+    "description": "はまぐちはるひろ( ¨̮ )⚾︎♡",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 165,
+    "friends_count": 124,
+    "listed_count": 0,
+    "favourites_count": 975,
+    "statuses_count": 242,
+    "created_at": "Sun May 20 10:47:50 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/998160036063985664/TOq4-ku1_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/998160036063985664/TOq4-ku1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/998153317615222785/1526814891",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 12:02:17 +0000 2018",
+    "id": 1058690826077753344,
+    "id_str": "1058690826077753344",
+    "text": "ファンフェスの1枚チケット探してるのですが譲って下さる方いませんか？\n なかなか難しいと思いますが、よろしくお願いします。\n#ベイスターズ\n#baystars\n#ファンフェス",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 998153317615222785,
+      "id_str": "998153317615222785",
+      "name": "くるこ。",
+      "screen_name": "daa_bay26",
+      "location": null,
+      "url": null,
+      "description": "はまぐちはるひろ( ¨̮ )⚾︎♡",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 165,
+      "friends_count": 124,
+      "listed_count": 0,
+      "favourites_count": 975,
+      "statuses_count": 241,
+      "created_at": "Sun May 20 10:47:50 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/998160036063985664/TOq4-ku1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/998160036063985664/TOq4-ku1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/998153317615222785/1526814891",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ベイスターズ",
+          "indices": [
+            62,
+            69
+          ]
+        },
+        {
+          "text": "baystars",
+          "indices": [
+            70,
+            79
+          ]
+        },
+        {
+          "text": "ファンフェス",
+          "indices": [
+            80,
+            87
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ベイスターズ",
+        "indices": [
+          77,
+          84
+        ]
+      },
+      {
+        "text": "baystars",
+        "indices": [
+          85,
+          94
+        ]
+      },
+      {
+        "text": "ファンフェス",
+        "indices": [
+          95,
+          102
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "daa_bay26",
+        "name": "くるこ。",
+        "id": 998153317615222785,
+        "id_str": "998153317615222785",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254184071"
+}

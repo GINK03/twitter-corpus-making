@@ -1,0 +1,396 @@
+{
+  "created_at": "Sat Nov 03 14:20:02 +0000 2018",
+  "id": 1058725494273634304,
+  "id_str": "1058725494273634304",
+  "text": "RT @baseballchosoku: 日本シリーズＭＶＰは甲斐拓也‼️\n\nホークスの日本一に貢献した甲斐キャノンをご覧ください。\nこれは惚れます。 https://t.co/xUqr0FDlvv",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2185484576,
+    "id_str": "2185484576",
+    "name": "峻哉",
+    "screen_name": "syunya926",
+    "location": "Japan",
+    "url": "http://Instagram.com/street.s.s.926",
+    "description": "言葉軽いヤツ嫌い🖕🏿",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1177,
+    "friends_count": 622,
+    "listed_count": 1,
+    "favourites_count": 9278,
+    "statuses_count": 3888,
+    "created_at": "Sun Nov 10 03:08:01 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1047842774228168704/k61KR84M_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047842774228168704/k61KR84M_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2185484576/1515521029",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:07:31 +0000 2018",
+    "id": 1058707244835983362,
+    "id_str": "1058707244835983362",
+    "text": "日本シリーズＭＶＰは甲斐拓也‼️\n\nホークスの日本一に貢献した甲斐キャノンをご覧ください。\nこれは惚れます。 https://t.co/xUqr0FDlvv",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 788153560634568705,
+      "id_str": "788153560634568705",
+      "name": "プロ野球おもしろ超速報",
+      "screen_name": "baseballchosoku",
+      "location": null,
+      "url": null,
+      "description": "野球の人気が低下している現代の日本。この垢を通して野球を好きになる人が少しでも増える事を願っています。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 78601,
+      "friends_count": 0,
+      "listed_count": 152,
+      "favourites_count": 0,
+      "statuses_count": 932,
+      "created_at": "Mon Oct 17 23:03:46 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/989074264656695298/LW4cxVA3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/989074264656695298/LW4cxVA3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/788153560634568705/1524658027",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 136,
+    "reply_count": 14,
+    "retweet_count": 3144,
+    "favorite_count": 7851,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058706981601468416,
+          "id_str": "1058706981601468416",
+          "indices": [
+            55,
+            78
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058706981601468416/pu/img/eQdgLlYA_C_CeQnV.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058706981601468416/pu/img/eQdgLlYA_C_CeQnV.jpg",
+          "url": "https://t.co/xUqr0FDlvv",
+          "display_url": "pic.twitter.com/xUqr0FDlvv",
+          "expanded_url": "https://twitter.com/baseballchosoku/status/1058707244835983362/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058706981601468416,
+          "id_str": "1058706981601468416",
+          "indices": [
+            55,
+            78
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058706981601468416/pu/img/eQdgLlYA_C_CeQnV.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058706981601468416/pu/img/eQdgLlYA_C_CeQnV.jpg",
+          "url": "https://t.co/xUqr0FDlvv",
+          "display_url": "pic.twitter.com/xUqr0FDlvv",
+          "expanded_url": "https://twitter.com/baseballchosoku/status/1058707244835983362/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 132010,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058706981601468416/pu/pl/HnVSV_A-FMTd2Iq0.m3u8?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058706981601468416/pu/vid/640x360/s8W_MmsUZEI2WJ9G.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058706981601468416/pu/vid/1280x720/DBsC2wjdpe7M0G-P.mp4?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058706981601468416/pu/vid/320x180/Gb63aexplGUG-3wF.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "baseballchosoku",
+        "name": "プロ野球おもしろ超速報",
+        "id": 788153560634568705,
+        "id_str": "788153560634568705",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058706981601468416,
+        "id_str": "1058706981601468416",
+        "indices": [
+          76,
+          99
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058706981601468416/pu/img/eQdgLlYA_C_CeQnV.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058706981601468416/pu/img/eQdgLlYA_C_CeQnV.jpg",
+        "url": "https://t.co/xUqr0FDlvv",
+        "display_url": "pic.twitter.com/xUqr0FDlvv",
+        "expanded_url": "https://twitter.com/baseballchosoku/status/1058707244835983362/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058707244835983362,
+        "source_status_id_str": "1058707244835983362",
+        "source_user_id": 788153560634568705,
+        "source_user_id_str": "788153560634568705"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058706981601468416,
+        "id_str": "1058706981601468416",
+        "indices": [
+          76,
+          99
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058706981601468416/pu/img/eQdgLlYA_C_CeQnV.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058706981601468416/pu/img/eQdgLlYA_C_CeQnV.jpg",
+        "url": "https://t.co/xUqr0FDlvv",
+        "display_url": "pic.twitter.com/xUqr0FDlvv",
+        "expanded_url": "https://twitter.com/baseballchosoku/status/1058707244835983362/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 132010,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058706981601468416/pu/pl/HnVSV_A-FMTd2Iq0.m3u8?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058706981601468416/pu/vid/640x360/s8W_MmsUZEI2WJ9G.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058706981601468416/pu/vid/1280x720/DBsC2wjdpe7M0G-P.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058706981601468416/pu/vid/320x180/Gb63aexplGUG-3wF.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058707244835983362,
+        "source_status_id_str": "1058707244835983362",
+        "source_user_id": 788153560634568705,
+        "source_user_id_str": "788153560634568705"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254802660"
+}

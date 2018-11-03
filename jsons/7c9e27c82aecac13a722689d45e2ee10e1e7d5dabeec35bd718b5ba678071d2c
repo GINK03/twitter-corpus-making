@@ -1,0 +1,592 @@
+{
+  "created_at": "Sat Nov 03 14:15:20 +0000 2018",
+  "id": 1058724311484100608,
+  "id_str": "1058724311484100608",
+  "text": "RT @SW_A9: 間も無くー！🐈🎃 https://t.co/ZlXzFgZJLY",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1258701115,
+    "id_str": "1258701115",
+    "name": "琴乃",
+    "screen_name": "khtssn",
+    "location": null,
+    "url": null,
+    "description": "ピアスとタトゥーをほんの少し。LG(B)T。シーシャと煙草と赤色と頭おかしそうな人が好き。A9(Alice Nine)上手組。Hirotoくんを愛しすぎて生活に支障出てるひと。バンギャルというか何というかほぼA9のみで生きてます。  Hirotoくんが酸素。※精神疾患持ち。ご理解くださいまし。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 297,
+    "friends_count": 260,
+    "listed_count": 4,
+    "favourites_count": 9829,
+    "statuses_count": 18538,
+    "created_at": "Mon Mar 11 05:52:41 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1053899098347032583/pAdN-FHU_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053899098347032583/pAdN-FHU_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1258701115/1525442515",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 11:23:21 +0000 2018",
+    "id": 1058681030968668160,
+    "id_str": "1058681030968668160",
+    "text": "間も無くー！🐈🎃 https://t.co/ZlXzFgZJLY",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 161143064,
+      "id_str": "161143064",
+      "name": "Show A9 DW",
+      "screen_name": "SW_A9",
+      "location": "http://a9-project.com",
+      "url": "http://diawolf.com",
+      "description": "Vocalist of A9/DIAWOLF. I hope to connect with the world through music.  Instagram：shishamow http://youtube.com/user/A9CH",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 99700,
+      "friends_count": 471,
+      "listed_count": 1939,
+      "favourites_count": 336,
+      "statuses_count": 11843,
+      "created_at": "Wed Jun 30 02:56:27 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "91D2FA",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1031980376757952512/_HWXbY7S_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031980376757952512/_HWXbY7S_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/161143064/1534878270",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058645352104964097,
+    "quoted_status_id_str": "1058645352104964097",
+    "quoted_status": {
+      "created_at": "Sat Nov 03 09:01:35 +0000 2018",
+      "id": 1058645352104964097,
+      "id_str": "1058645352104964097",
+      "text": "⭐️A9公式LINEよりお知らせ⭐️\n\n今夜、A9 15周年特別企画『緊急“生”!!会議』第4回LINE LIVEを行います。\n\nA9が15周年へ向けて加速するために立ち上がったこの生放送。\nこれまでの会議、ハッシュタグ… https://t.co/ZRAcEkGA5C",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3035966552,
+        "id_str": "3035966552",
+        "name": "A9_OFFICIAL",
+        "screen_name": "a9_official",
+        "location": null,
+        "url": "http://a9-project.com",
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 16995,
+        "friends_count": 20,
+        "listed_count": 290,
+        "favourites_count": 0,
+        "statuses_count": 4002,
+        "created_at": "Sun Feb 22 08:01:13 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/571892212858769408/4zAAcSaJ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/571892212858769408/4zAAcSaJ_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3035966552/1534077195",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "⭐️A9公式LINEよりお知らせ⭐️\n\n今夜、A9 15周年特別企画『緊急“生”!!会議』第4回LINE LIVEを行います。\n\nA9が15周年へ向けて加速するために立ち上がったこの生放送。\nこれまでの会議、ハッシュタグ #A9_15th を受けてメンバーが考え、直接伝えたい事とは。\n\n■ 21時頃配信予定\nhttps://t.co/1rjctx4kLK https://t.co/OXuB4H7hOI",
+        "display_text_range": [
+          0,
+          178
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "A9_15th",
+              "indices": [
+                111,
+                119
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/1rjctx4kLK",
+              "expanded_url": "https://live.line.me/channels/70174/upcoming/9864745",
+              "display_url": "live.line.me/channels/70174…",
+              "indices": [
+                155,
+                178
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1058645339622633472,
+              "id_str": "1058645339622633472",
+              "indices": [
+                179,
+                202
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrEQU9NUcAAhLir.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrEQU9NUcAAhLir.jpg",
+              "url": "https://t.co/OXuB4H7hOI",
+              "display_url": "pic.twitter.com/OXuB4H7hOI",
+              "expanded_url": "https://twitter.com/a9_official/status/1058645352104964097/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 901,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2046,
+                  "h": 1536,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1058645339622633472,
+              "id_str": "1058645339622633472",
+              "indices": [
+                179,
+                202
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrEQU9NUcAAhLir.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrEQU9NUcAAhLir.jpg",
+              "url": "https://t.co/OXuB4H7hOI",
+              "display_url": "pic.twitter.com/OXuB4H7hOI",
+              "expanded_url": "https://twitter.com/a9_official/status/1058645352104964097/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 901,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2046,
+                  "h": 1536,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 5,
+      "reply_count": 1,
+      "retweet_count": 36,
+      "favorite_count": 95,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZRAcEkGA5C",
+            "expanded_url": "https://twitter.com/i/web/status/1058645352104964097",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/ZlXzFgZJLY",
+      "expanded": "https://twitter.com/a9_official/status/1058645352104964097",
+      "display": "twitter.com/a9_official/st…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 11,
+    "retweet_count": 29,
+    "favorite_count": 134,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/ZlXzFgZJLY",
+          "expanded_url": "https://twitter.com/a9_official/status/1058645352104964097",
+          "display_url": "twitter.com/a9_official/st…",
+          "indices": [
+            9,
+            32
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058645352104964097,
+  "quoted_status_id_str": "1058645352104964097",
+  "quoted_status": {
+    "created_at": "Sat Nov 03 09:01:35 +0000 2018",
+    "id": 1058645352104964097,
+    "id_str": "1058645352104964097",
+    "text": "⭐️A9公式LINEよりお知らせ⭐️\n\n今夜、A9 15周年特別企画『緊急“生”!!会議』第4回LINE LIVEを行います。\n\nA9が15周年へ向けて加速するために立ち上がったこの生放送。\nこれまでの会議、ハッシュタグ… https://t.co/ZRAcEkGA5C",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3035966552,
+      "id_str": "3035966552",
+      "name": "A9_OFFICIAL",
+      "screen_name": "a9_official",
+      "location": null,
+      "url": "http://a9-project.com",
+      "description": null,
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 16995,
+      "friends_count": 20,
+      "listed_count": 290,
+      "favourites_count": 0,
+      "statuses_count": 4002,
+      "created_at": "Sun Feb 22 08:01:13 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/571892212858769408/4zAAcSaJ_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/571892212858769408/4zAAcSaJ_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3035966552/1534077195",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "⭐️A9公式LINEよりお知らせ⭐️\n\n今夜、A9 15周年特別企画『緊急“生”!!会議』第4回LINE LIVEを行います。\n\nA9が15周年へ向けて加速するために立ち上がったこの生放送。\nこれまでの会議、ハッシュタグ #A9_15th を受けてメンバーが考え、直接伝えたい事とは。\n\n■ 21時頃配信予定\nhttps://t.co/1rjctx4kLK https://t.co/OXuB4H7hOI",
+      "display_text_range": [
+        0,
+        178
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "A9_15th",
+            "indices": [
+              111,
+              119
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1rjctx4kLK",
+            "expanded_url": "https://live.line.me/channels/70174/upcoming/9864745",
+            "display_url": "live.line.me/channels/70174…",
+            "indices": [
+              155,
+              178
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058645339622633472,
+            "id_str": "1058645339622633472",
+            "indices": [
+              179,
+              202
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrEQU9NUcAAhLir.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrEQU9NUcAAhLir.jpg",
+            "url": "https://t.co/OXuB4H7hOI",
+            "display_url": "pic.twitter.com/OXuB4H7hOI",
+            "expanded_url": "https://twitter.com/a9_official/status/1058645352104964097/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 901,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2046,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058645339622633472,
+            "id_str": "1058645339622633472",
+            "indices": [
+              179,
+              202
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrEQU9NUcAAhLir.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrEQU9NUcAAhLir.jpg",
+            "url": "https://t.co/OXuB4H7hOI",
+            "display_url": "pic.twitter.com/OXuB4H7hOI",
+            "expanded_url": "https://twitter.com/a9_official/status/1058645352104964097/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 901,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2046,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 5,
+    "reply_count": 1,
+    "retweet_count": 36,
+    "favorite_count": 95,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/ZRAcEkGA5C",
+          "expanded_url": "https://twitter.com/i/web/status/1058645352104964097",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/ZlXzFgZJLY",
+    "expanded": "https://twitter.com/a9_official/status/1058645352104964097",
+    "display": "twitter.com/a9_official/st…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/ZlXzFgZJLY",
+        "expanded_url": "https://twitter.com/a9_official/status/1058645352104964097",
+        "display_url": "twitter.com/a9_official/st…",
+        "indices": [
+          20,
+          43
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "SW_A9",
+        "name": "Show A9 DW",
+        "id": 161143064,
+        "id_str": "161143064",
+        "indices": [
+          3,
+          9
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254520661"
+}

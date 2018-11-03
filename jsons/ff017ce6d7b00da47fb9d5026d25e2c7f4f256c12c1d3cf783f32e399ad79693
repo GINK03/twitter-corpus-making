@@ -1,0 +1,93 @@
+{
+  "created_at": "Sat Nov 03 13:55:18 +0000 2018",
+  "id": 1058719270014640128,
+  "id_str": "1058719270014640128",
+  "text": "【生放送】【FGO】おっさんががんばる放送　・ｘ・【雑談】 を開始しました。 https://t.co/j5mAbtWbn2 #lv316666862",
+  "source": "<a href=\"http://www.nicovideo.jp/\" rel=\"nofollow\">niconico ニコレポ連携</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1209167383,
+    "id_str": "1209167383",
+    "name": "るぃん",
+    "screen_name": "ruinmode",
+    "location": null,
+    "url": null,
+    "description": "FGO（メイン）/刀剣乱舞/pso2ship1\n\nイベント大好き！！\n\nお絵かきに自信持ちたい・x・",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 88,
+    "friends_count": 66,
+    "listed_count": 2,
+    "favourites_count": 1470,
+    "statuses_count": 3399,
+    "created_at": "Fri Feb 22 16:27:45 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/814655548142469121/CBBJopkW_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/814655548142469121/CBBJopkW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209167383/1511322745",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "lv316666862",
+        "indices": [
+          63,
+          75
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/j5mAbtWbn2",
+        "expanded_url": "http://nico.ms/lv316666862?nicorepotwitter_live_start",
+        "display_url": "nico.ms/lv316666862?ni…",
+        "indices": [
+          39,
+          62
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253318681"
+}

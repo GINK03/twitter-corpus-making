@@ -1,0 +1,119 @@
+{
+  "created_at": "Sat Nov 03 14:21:24 +0000 2018",
+  "id": 1058725838231756801,
+  "id_str": "1058725838231756801",
+  "text": "@thod80yh6n @Pork2uur @HI_MA_CHA_N @M16A_hayabusa 思うだけですね。根拠はありません。",
+  "display_text_range": [
+    50,
+    67
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058724772647845890,
+  "in_reply_to_status_id_str": "1058724772647845890",
+  "in_reply_to_user_id": 2222777742,
+  "in_reply_to_user_id_str": "2222777742",
+  "in_reply_to_screen_name": "thod80yh6n",
+  "user": {
+    "id": 437161527,
+    "id_str": "437161527",
+    "name": "左倒憂右@戦争反対だから9条改正！",
+    "screen_name": "USK_Sato",
+    "location": null,
+    "url": null,
+    "description": "真の敵は外国に非ず◆#自衛隊民営化◆#選択性夫婦別姓 よりも姓を2つ持てるほうが良い◆報道は第4の権力◆報道利権撲滅◆教育利権撲滅◆共産主義はリベラルに非ず◆放射能デマ撲滅◆日本会議陰謀論撲滅◆#護憲派 の方こそ戦前回帰◆改憲こそが独立と平和への道◆安倍政権支持◆私は保守ではない◆在日差別は即通報◆是々非々で議論します",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 3303,
+    "friends_count": 1970,
+    "listed_count": 123,
+    "favourites_count": 54913,
+    "statuses_count": 168629,
+    "created_at": "Thu Dec 15 02:37:57 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/773360286896001024/2KXFVCnh_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/773360286896001024/2KXFVCnh_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/437161527/1509078567",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "thod80yh6n",
+        "name": "アルファ705",
+        "id": 2222777742,
+        "id_str": "2222777742",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "Pork2uur",
+        "name": "R!cky@昼寝ライダー",
+        "id": 3550310593,
+        "id_str": "3550310593",
+        "indices": [
+          12,
+          21
+        ]
+      },
+      {
+        "screen_name": "HI_MA_CHA_N",
+        "name": "ひまちゃん",
+        "id": 1056877631595929601,
+        "id_str": "1056877631595929601",
+        "indices": [
+          22,
+          34
+        ]
+      },
+      {
+        "screen_name": "M16A_hayabusa",
+        "name": "M16A  HAYABUSA",
+        "id": 763399267666960389,
+        "id_str": "763399267666960389",
+        "indices": [
+          35,
+          49
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254884666"
+}

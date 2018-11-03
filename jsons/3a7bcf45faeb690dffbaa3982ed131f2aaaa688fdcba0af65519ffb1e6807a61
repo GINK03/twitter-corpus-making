@@ -1,0 +1,358 @@
+{
+  "created_at": "Sat Nov 03 14:03:36 +0000 2018",
+  "id": 1058721356781576192,
+  "id_str": "1058721356781576192",
+  "text": "RT @longvalleypeach: 「爪哇海の烈日」\n\nいろいろ難しかったです（白目）\n#艦これ　#曙 https://t.co/CDuUsyZxfd",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2621421786,
+    "id_str": "2621421786",
+    "name": "uncle uni",
+    "screen_name": "uni_ojisan",
+    "location": "日本。",
+    "url": null,
+    "description": "初老。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 237,
+    "friends_count": 3461,
+    "listed_count": 6,
+    "favourites_count": 15333,
+    "statuses_count": 24424,
+    "created_at": "Sat Jul 12 08:29:53 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "E81C4F",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1039865589487943681/qRmRDnRD_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039865589487943681/qRmRDnRD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2621421786/1536758519",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 12:15:48 +0000 2018",
+    "id": 1058694230749601792,
+    "id_str": "1058694230749601792",
+    "text": "「爪哇海の烈日」\n\nいろいろ難しかったです（白目）\n#艦これ　#曙 https://t.co/CDuUsyZxfd",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 975012813629358082,
+      "id_str": "975012813629358082",
+      "name": "はこにわとり（絵の練習中）",
+      "screen_name": "longvalleypeach",
+      "location": "西の果て",
+      "url": null,
+      "description": "｢なんか絵を描く鶏」の練習帳です。　 七駆等艦これの艦娘さんを中心に描いております。  現用艦艇・艦娘もたまに愛でたりします。  フォローお邪魔でしたらブロック下さい",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 423,
+      "friends_count": 569,
+      "listed_count": 6,
+      "favourites_count": 25402,
+      "statuses_count": 15341,
+      "created_at": "Sat Mar 17 14:15:44 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1035921452250218496/mFEWSUOj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035921452250218496/mFEWSUOj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/975012813629358082/1539667019",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 11,
+    "favorite_count": 26,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "艦これ",
+          "indices": [
+            26,
+            30
+          ]
+        },
+        {
+          "text": "曙",
+          "indices": [
+            31,
+            33
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058693961563332609,
+          "id_str": "1058693961563332609",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrE8jIDVYAEW6eZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrE8jIDVYAEW6eZ.jpg",
+          "url": "https://t.co/CDuUsyZxfd",
+          "display_url": "pic.twitter.com/CDuUsyZxfd",
+          "expanded_url": "https://twitter.com/longvalleypeach/status/1058694230749601792/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 976,
+              "h": 930,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 976,
+              "h": 930,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 648,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058693961563332609,
+          "id_str": "1058693961563332609",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrE8jIDVYAEW6eZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrE8jIDVYAEW6eZ.jpg",
+          "url": "https://t.co/CDuUsyZxfd",
+          "display_url": "pic.twitter.com/CDuUsyZxfd",
+          "expanded_url": "https://twitter.com/longvalleypeach/status/1058694230749601792/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 976,
+              "h": 930,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 976,
+              "h": 930,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 648,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ",
+        "indices": [
+          47,
+          51
+        ]
+      },
+      {
+        "text": "曙",
+        "indices": [
+          52,
+          54
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "longvalleypeach",
+        "name": "はこにわとり（絵の練習中）",
+        "id": 975012813629358082,
+        "id_str": "975012813629358082",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058693961563332609,
+        "id_str": "1058693961563332609",
+        "indices": [
+          55,
+          78
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrE8jIDVYAEW6eZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrE8jIDVYAEW6eZ.jpg",
+        "url": "https://t.co/CDuUsyZxfd",
+        "display_url": "pic.twitter.com/CDuUsyZxfd",
+        "expanded_url": "https://twitter.com/longvalleypeach/status/1058694230749601792/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 976,
+            "h": 930,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 976,
+            "h": 930,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 648,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058694230749601792,
+        "source_status_id_str": "1058694230749601792",
+        "source_user_id": 975012813629358082,
+        "source_user_id_str": "975012813629358082"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058693961563332609,
+        "id_str": "1058693961563332609",
+        "indices": [
+          55,
+          78
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrE8jIDVYAEW6eZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrE8jIDVYAEW6eZ.jpg",
+        "url": "https://t.co/CDuUsyZxfd",
+        "display_url": "pic.twitter.com/CDuUsyZxfd",
+        "expanded_url": "https://twitter.com/longvalleypeach/status/1058694230749601792/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 976,
+            "h": 930,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 976,
+            "h": 930,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 648,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058694230749601792,
+        "source_status_id_str": "1058694230749601792",
+        "source_user_id": 975012813629358082,
+        "source_user_id_str": "975012813629358082"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253816205"
+}

@@ -1,0 +1,165 @@
+{
+  "created_at": "Sat Nov 03 14:02:07 +0000 2018",
+  "id": 1058720984327348225,
+  "id_str": "1058720984327348225",
+  "text": "よっしゃぁぁ！霞レベル99に✌️😆\n\nレベル120まで霞旗艦でレベリング継続します。\n\n#艦これ https://t.co/CQbbnPLjvZ",
+  "display_text_range": [
+    0,
+    48
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 233779278,
+    "id_str": "233779278",
+    "name": "ひらひら＠佐伯湾",
+    "screen_name": "hirahirataka56",
+    "location": "大阪",
+    "url": null,
+    "description": "艦これ 佐伯湾15年5月着任 司令部LV120(榛名嫁/ケッコン艦58隻/一隻教例外あり/甲2/二群3三群1)/FEヒーローズ◎フォローしてくれた方はフォロバしますのでよろしくお願いします🤝特に提督(艦これ)さんエクラ(FEH)さん歓迎‼️◎フォロー外された方はこちらもフォロー解除しますごめんなさい😢",
+    "translator_type": "regular",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1168,
+    "friends_count": 1125,
+    "listed_count": 6,
+    "favourites_count": 5589,
+    "statuses_count": 3975,
+    "created_at": "Tue Jan 04 02:46:56 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "981CEB",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1033130726193954816/1IUXZQXi_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1033130726193954816/1IUXZQXi_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/233779278/1530478037",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ",
+        "indices": [
+          44,
+          48
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058720305902891008,
+        "id_str": "1058720305902891008",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFUgkXVsAAjTaz.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFUgkXVsAAjTaz.jpg",
+        "url": "https://t.co/CQbbnPLjvZ",
+        "display_url": "pic.twitter.com/CQbbnPLjvZ",
+        "expanded_url": "https://twitter.com/hirahirataka56/status/1058720984327348225/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 408,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 720,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1200,
+            "h": 720,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058720305902891008,
+        "id_str": "1058720305902891008",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFUgkXVsAAjTaz.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFUgkXVsAAjTaz.jpg",
+        "url": "https://t.co/CQbbnPLjvZ",
+        "display_url": "pic.twitter.com/CQbbnPLjvZ",
+        "expanded_url": "https://twitter.com/hirahirataka56/status/1058720984327348225/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 408,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 720,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1200,
+            "h": 720,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253727405"
+}

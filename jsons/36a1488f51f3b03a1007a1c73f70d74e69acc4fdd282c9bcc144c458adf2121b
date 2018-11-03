@@ -1,0 +1,344 @@
+{
+  "created_at": "Sat Nov 03 14:26:52 +0000 2018",
+  "id": 1058727212797505536,
+  "id_str": "1058727212797505536",
+  "text": "RT @ameneko_96: 新フェス限衣装をたいそう気に入られたご様子です\n #パズドラ https://t.co/Zp9DWIANxs",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1875002868,
+    "id_str": "1875002868",
+    "name": "ATHENA",
+    "screen_name": "ATHENAnoa1",
+    "location": "不思議な世界 素敵な世界",
+    "url": null,
+    "description": "第4回宮崎CSチーム戦優勝、遊戯王引退。娘と息子と嫁居ます。FGO全力オルタ推し/シャドウバース day2参加 エルフ厨になりたい/パズドラ/モンスト/ドカバト/DQR",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 186,
+    "friends_count": 117,
+    "listed_count": 4,
+    "favourites_count": 962,
+    "statuses_count": 20363,
+    "created_at": "Tue Sep 17 10:44:46 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056878507395969024/ZJsNe9vD_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056878507395969024/ZJsNe9vD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1875002868/1540552155",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Nov 01 11:12:39 +0000 2018",
+    "id": 1057953562498482177,
+    "id_str": "1057953562498482177",
+    "text": "新フェス限衣装をたいそう気に入られたご様子です\n #パズドラ https://t.co/Zp9DWIANxs",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 960151901055606784,
+      "id_str": "960151901055606784",
+      "name": "雨猫くろ@オンリー（一般参加）",
+      "screen_name": "ameneko_96",
+      "location": "ナヴィちゃん専門店（例外あり）",
+      "url": "https://www.pixiv.net/member.php?id=13149612",
+      "description": "ナヴィ大好きマン▷▷趣味でお絵描きしてます▷▷#ナヴィの日常 (更新停止中)▷▷パズドラをメインにDeemo、マイクラ、E:Dなども遊んでます▷▷ホラー好き",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 2100,
+      "friends_count": 238,
+      "listed_count": 26,
+      "favourites_count": 10620,
+      "statuses_count": 19385,
+      "created_at": "Sun Feb 04 14:03:46 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1058645580539260928/udMR6Qs1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058645580539260928/udMR6Qs1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/960151901055606784/1541163289",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 5,
+    "reply_count": 45,
+    "retweet_count": 950,
+    "favorite_count": 3048,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "パズドラ",
+          "indices": [
+            25,
+            30
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1057953556127313921,
+          "id_str": "1057953556127313921",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq6bJ23UcAEXxl7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq6bJ23UcAEXxl7.jpg",
+          "url": "https://t.co/Zp9DWIANxs",
+          "display_url": "pic.twitter.com/Zp9DWIANxs",
+          "expanded_url": "https://twitter.com/ameneko_96/status/1057953562498482177/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 459,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1102,
+              "h": 1631,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 811,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1057953556127313921,
+          "id_str": "1057953556127313921",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq6bJ23UcAEXxl7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq6bJ23UcAEXxl7.jpg",
+          "url": "https://t.co/Zp9DWIANxs",
+          "display_url": "pic.twitter.com/Zp9DWIANxs",
+          "expanded_url": "https://twitter.com/ameneko_96/status/1057953562498482177/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 459,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1102,
+              "h": 1631,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 811,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラ",
+        "indices": [
+          41,
+          46
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "ameneko_96",
+        "name": "雨猫くろ@オンリー（一般参加）",
+        "id": 960151901055606784,
+        "id_str": "960151901055606784",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1057953556127313921,
+        "id_str": "1057953556127313921",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq6bJ23UcAEXxl7.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq6bJ23UcAEXxl7.jpg",
+        "url": "https://t.co/Zp9DWIANxs",
+        "display_url": "pic.twitter.com/Zp9DWIANxs",
+        "expanded_url": "https://twitter.com/ameneko_96/status/1057953562498482177/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 459,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1102,
+            "h": 1631,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 811,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057953562498482177,
+        "source_status_id_str": "1057953562498482177",
+        "source_user_id": 960151901055606784,
+        "source_user_id_str": "960151901055606784"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1057953556127313921,
+        "id_str": "1057953556127313921",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq6bJ23UcAEXxl7.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq6bJ23UcAEXxl7.jpg",
+        "url": "https://t.co/Zp9DWIANxs",
+        "display_url": "pic.twitter.com/Zp9DWIANxs",
+        "expanded_url": "https://twitter.com/ameneko_96/status/1057953562498482177/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 459,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1102,
+            "h": 1631,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 811,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057953562498482177,
+        "source_status_id_str": "1057953562498482177",
+        "source_user_id": 960151901055606784,
+        "source_user_id_str": "960151901055606784"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255212388"
+}

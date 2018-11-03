@@ -1,0 +1,102 @@
+{
+  "created_at": "Sat Nov 03 14:00:58 +0000 2018",
+  "id": 1058720695725649923,
+  "id_str": "1058720695725649923",
+  "text": "モンスト売ります\nランク390\nガチャ限定600以上ほぼコンプ\n運極70\nフェス限大量\nボックスは固定ツイートにあります\n詳しい話はDMまで\n#モンスト\n#モンスト販売\n#垢販売\n#モンスト売ります\n23",
+  "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1003703549664976896,
+    "id_str": "1003703549664976896",
+    "name": "ear",
+    "screen_name": "ear_334",
+    "location": null,
+    "url": null,
+    "description": "モンスト引退",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 31,
+    "friends_count": 49,
+    "listed_count": 0,
+    "favourites_count": 0,
+    "statuses_count": 7274,
+    "created_at": "Mon Jun 04 18:22:28 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1003706429247639552/92mfjUe1_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003706429247639552/92mfjUe1_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "モンスト",
+        "indices": [
+          71,
+          76
+        ]
+      },
+      {
+        "text": "モンスト販売",
+        "indices": [
+          77,
+          84
+        ]
+      },
+      {
+        "text": "垢販売",
+        "indices": [
+          85,
+          89
+        ]
+      },
+      {
+        "text": "モンスト売ります",
+        "indices": [
+          90,
+          99
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253658597"
+}

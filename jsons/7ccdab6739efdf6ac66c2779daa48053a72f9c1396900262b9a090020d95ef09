@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:20:12 +0000 2018",
+  "id": 1058725536225054720,
+  "id_str": "1058725536225054720",
+  "text": "RT @kusobothenjibot: 提案されたクソモビルスーツが出力されてきたので報告します。\nテストプレイでは誰も使いこなせませんでした。 https://t.co/ORsfkbBBRR",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 793132041671815169,
+    "id_str": "793132041671815169",
+    "name": "black flag@FGO",
+    "screen_name": "ms303black",
+    "location": "冬木市",
+    "url": null,
+    "description": "主にゲーム、アニメ、特撮の事を呟きます。デレステでは奏担当です。fate好きの方も気軽に声かけて下さい。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 159,
+    "friends_count": 244,
+    "listed_count": 1,
+    "favourites_count": 1738,
+    "statuses_count": 6283,
+    "created_at": "Mon Oct 31 16:46:29 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/994514777513717761/zogEdr9W_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/994514777513717761/zogEdr9W_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/793132041671815169/1515255174",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:02:20 +0000 2018",
+    "id": 1058721041264992256,
+    "id_str": "1058721041264992256",
+    "text": "提案されたクソモビルスーツが出力されてきたので報告します。\nテストプレイでは誰も使いこなせませんでした。 https://t.co/ORsfkbBBRR",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 943356021132709889,
+      "id_str": "943356021132709889",
+      "name": "ガンダムクソ解説bot質問箱bot",
+      "screen_name": "kusobothenjibot",
+      "location": null,
+      "url": null,
+      "description": "ガンダムクソ解説botへの質問箱botです\nランダムに雑な回答をコンペータが返します\nクソ解説bot→https://twitter.com/kusokaisetu",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1786,
+      "friends_count": 0,
+      "listed_count": 14,
+      "favourites_count": 1,
+      "statuses_count": 1479,
+      "created_at": "Wed Dec 20 05:42:56 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/953643133400621056/kEnXqjQA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/953643133400621056/kEnXqjQA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/943356021132709889/1516201549",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 10,
+    "reply_count": 7,
+    "retweet_count": 236,
+    "favorite_count": 301,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058720512321286144,
+          "id_str": "1058720512321286144",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFUslVUcAAgo9S.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFUslVUcAAgo9S.jpg",
+          "url": "https://t.co/ORsfkbBBRR",
+          "display_url": "pic.twitter.com/ORsfkbBBRR",
+          "expanded_url": "https://twitter.com/kusobothenjibot/status/1058721041264992256/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 670,
+              "h": 929,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 670,
+              "h": 929,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 490,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058720512321286144,
+          "id_str": "1058720512321286144",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFUslVUcAAgo9S.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFUslVUcAAgo9S.jpg",
+          "url": "https://t.co/ORsfkbBBRR",
+          "display_url": "pic.twitter.com/ORsfkbBBRR",
+          "expanded_url": "https://twitter.com/kusobothenjibot/status/1058721041264992256/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 670,
+              "h": 929,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 670,
+              "h": 929,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 490,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "kusobothenjibot",
+        "name": "ガンダムクソ解説bot質問箱bot",
+        "id": 943356021132709889,
+        "id_str": "943356021132709889",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058720512321286144,
+        "id_str": "1058720512321286144",
+        "indices": [
+          74,
+          97
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFUslVUcAAgo9S.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFUslVUcAAgo9S.jpg",
+        "url": "https://t.co/ORsfkbBBRR",
+        "display_url": "pic.twitter.com/ORsfkbBBRR",
+        "expanded_url": "https://twitter.com/kusobothenjibot/status/1058721041264992256/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 670,
+            "h": 929,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 670,
+            "h": 929,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 490,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058721041264992256,
+        "source_status_id_str": "1058721041264992256",
+        "source_user_id": 943356021132709889,
+        "source_user_id_str": "943356021132709889"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058720512321286144,
+        "id_str": "1058720512321286144",
+        "indices": [
+          74,
+          97
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFUslVUcAAgo9S.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFUslVUcAAgo9S.jpg",
+        "url": "https://t.co/ORsfkbBBRR",
+        "display_url": "pic.twitter.com/ORsfkbBBRR",
+        "expanded_url": "https://twitter.com/kusobothenjibot/status/1058721041264992256/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 670,
+            "h": 929,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 670,
+            "h": 929,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 490,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058721041264992256,
+        "source_status_id_str": "1058721041264992256",
+        "source_user_id": 943356021132709889,
+        "source_user_id_str": "943356021132709889"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254812662"
+}

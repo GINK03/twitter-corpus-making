@@ -1,0 +1,109 @@
+{
+  "created_at": "Sat Nov 03 14:16:29 +0000 2018",
+  "id": 1058724600903684098,
+  "id_str": "1058724600903684098",
+  "text": "@RiNnE_grp @hakuto_GP @yoakepanda_gbp 夜明け💢\nあいつどうでもいい時に居て、来て欲しい時に居ないから💢\n監督不行き届き💢",
+  "display_text_range": [
+    38,
+    79
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058724103325024256,
+  "in_reply_to_status_id_str": "1058724103325024256",
+  "in_reply_to_user_id": 977544107416367104,
+  "in_reply_to_user_id_str": "977544107416367104",
+  "in_reply_to_screen_name": "RiNnE_grp",
+  "user": {
+    "id": 4277288714,
+    "id_str": "4277288714",
+    "name": "パネルと自撮り系ガイジバンドリーマー",
+    "screen_name": "hia405nm",
+    "location": "東京 千代田区千代田1-1",
+    "url": null,
+    "description": "jubeatに出会えて良かったと思える日まで、、 【ライバル】@MiSaKi_Oshi【変態な弟くん】@___aiku__zeto__ 【可愛い妹】@AMKR_yuru_12 【サブ垢】＠hiasi30_",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 166,
+    "friends_count": 198,
+    "listed_count": 27,
+    "favourites_count": 13002,
+    "statuses_count": 29585,
+    "created_at": "Wed Nov 18 09:25:55 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1054286587125592064/1yO3TF5p_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054286587125592064/1yO3TF5p_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4277288714/1458032944",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "RiNnE_grp",
+        "name": "世界の凛音はVier現地参戦するらしい",
+        "id": 977544107416367104,
+        "id_str": "977544107416367104",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "hakuto_GP",
+        "name": "白兎",
+        "id": 893929050401497088,
+        "id_str": "893929050401497088",
+        "indices": [
+          11,
+          21
+        ]
+      },
+      {
+        "screen_name": "yoakepanda_gbp",
+        "name": "【Ec】笹夜明けマン",
+        "id": 1055361375298445312,
+        "id_str": "1055361375298445312",
+        "indices": [
+          22,
+          37
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254589664"
+}

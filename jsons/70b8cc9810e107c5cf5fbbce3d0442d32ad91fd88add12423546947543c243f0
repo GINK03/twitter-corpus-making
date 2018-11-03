@@ -1,0 +1,168 @@
+{
+  "created_at": "Sat Nov 03 14:19:09 +0000 2018",
+  "id": 1058725271992336385,
+  "id_str": "1058725271992336385",
+  "text": "@mkeispa 最後は自然だけでなく、日常の景色もいとおしく思えました。明日、みんなとお別れしたらほんとのおしまいです。おつかれちゃんでした。 https://t.co/Oz9sPsCIFA",
+  "display_text_range": [
+    9,
+    72
+  ],
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058708609071083521,
+  "in_reply_to_status_id_str": "1058708609071083521",
+  "in_reply_to_user_id": 3261210926,
+  "in_reply_to_user_id_str": "3261210926",
+  "in_reply_to_screen_name": "mkeispa",
+  "user": {
+    "id": 885376021284896769,
+    "id_str": "885376021284896769",
+    "name": "ぐぐ",
+    "screen_name": "sbskmgm",
+    "location": "標高1400㍍くらいを行ったり来たり。",
+    "url": null,
+    "description": "お山で働きながら博物館になるための勉強をしている社会人学生です。(博物館には多分なれない)\n\n暫く電波が制限されるところにおります。あんぽんたんなためタイムラインを追いきれないので、ただいまふぉろーは控えております。御容赦下さい。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 201,
+    "friends_count": 54,
+    "listed_count": 2,
+    "favourites_count": 12593,
+    "statuses_count": 3622,
+    "created_at": "Thu Jul 13 05:51:07 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/904696594301198336/Ziqu2wIU_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/904696594301198336/Ziqu2wIU_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/885376021284896769/1502461102",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "mkeispa",
+        "name": "ryon",
+        "id": 3261210926,
+        "id_str": "3261210926",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058725261695283200,
+        "id_str": "1058725261695283200",
+        "indices": [
+          73,
+          96
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZBCIUcAA1tSn.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZBCIUcAA1tSn.jpg",
+        "url": "https://t.co/Oz9sPsCIFA",
+        "display_url": "pic.twitter.com/Oz9sPsCIFA",
+        "expanded_url": "https://twitter.com/sbskmgm/status/1058725271992336385/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1152,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058725261695283200,
+        "id_str": "1058725261695283200",
+        "indices": [
+          73,
+          96
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZBCIUcAA1tSn.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZBCIUcAA1tSn.jpg",
+        "url": "https://t.co/Oz9sPsCIFA",
+        "display_url": "pic.twitter.com/Oz9sPsCIFA",
+        "expanded_url": "https://twitter.com/sbskmgm/status/1058725271992336385/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1152,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254749664"
+}

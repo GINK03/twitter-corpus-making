@@ -1,0 +1,344 @@
+{
+  "created_at": "Sat Nov 03 14:14:24 +0000 2018",
+  "id": 1058724076586291200,
+  "id_str": "1058724076586291200",
+  "text": "RT @elkpots: \"天然もの\"\n#キミとダスキス https://t.co/IIwdUGmjZ2",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 903969747644977152,
+    "id_str": "903969747644977152",
+    "name": "マニラ35",
+    "screen_name": "maniraooooo",
+    "location": null,
+    "url": null,
+    "description": "はなまるに癒されてる、、。猫が好き、。マッチョとか、、でもやっぱり猫が好き。 勝デ💕 黒火💕シカテマ💕二十歳以上↑",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 29,
+    "friends_count": 210,
+    "listed_count": 1,
+    "favourites_count": 14210,
+    "statuses_count": 5705,
+    "created_at": "Sat Sep 02 13:15:57 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/953932731708145664/wlkTDwwD_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/953932731708145664/wlkTDwwD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/903969747644977152/1516270262",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:17:07 +0000 2018",
+    "id": 1058709662109822978,
+    "id_str": "1058709662109822978",
+    "text": "\"天然もの\"\n#キミとダスキス https://t.co/IIwdUGmjZ2",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 848533822895341568,
+      "id_str": "848533822895341568",
+      "name": "エルクポットとペン画の寓意",
+      "screen_name": "elkpots",
+      "location": "Osaka",
+      "url": "https://elkpot.net",
+      "description": "ファニーでシュールな動物群像劇を描いています🐈ペン画水彩アナログ派。イラスト作家／デザイナー。【小ネタ】▶︎@kimi_to_daskis 【出展】▶︎11/12〜12/9 高円寺イココチさまポスカ展",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 2850,
+      "friends_count": 814,
+      "listed_count": 65,
+      "favourites_count": 21751,
+      "statuses_count": 2654,
+      "created_at": "Sun Apr 02 13:53:23 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/917015829102845952/RFtlhFCv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/917015829102845952/RFtlhFCv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/848533822895341568/1496763325",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 8,
+    "favorite_count": 63,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "キミとダスキス",
+          "indices": [
+            7,
+            15
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058709655453487105,
+          "id_str": "1058709655453487105",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFK0oWU0AEVqNB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFK0oWU0AEVqNB.jpg",
+          "url": "https://t.co/IIwdUGmjZ2",
+          "display_url": "pic.twitter.com/IIwdUGmjZ2",
+          "expanded_url": "https://twitter.com/elkpots/status/1058709662109822978/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 589,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1039,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1774,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058709655453487105,
+          "id_str": "1058709655453487105",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFK0oWU0AEVqNB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFK0oWU0AEVqNB.jpg",
+          "url": "https://t.co/IIwdUGmjZ2",
+          "display_url": "pic.twitter.com/IIwdUGmjZ2",
+          "expanded_url": "https://twitter.com/elkpots/status/1058709662109822978/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 589,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1039,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1774,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "キミとダスキス",
+        "indices": [
+          20,
+          28
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "elkpots",
+        "name": "エルクポットとペン画の寓意",
+        "id": 848533822895341568,
+        "id_str": "848533822895341568",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058709655453487105,
+        "id_str": "1058709655453487105",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFK0oWU0AEVqNB.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFK0oWU0AEVqNB.jpg",
+        "url": "https://t.co/IIwdUGmjZ2",
+        "display_url": "pic.twitter.com/IIwdUGmjZ2",
+        "expanded_url": "https://twitter.com/elkpots/status/1058709662109822978/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 589,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1039,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1774,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058709662109822978,
+        "source_status_id_str": "1058709662109822978",
+        "source_user_id": 848533822895341568,
+        "source_user_id_str": "848533822895341568"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058709655453487105,
+        "id_str": "1058709655453487105",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFK0oWU0AEVqNB.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFK0oWU0AEVqNB.jpg",
+        "url": "https://t.co/IIwdUGmjZ2",
+        "display_url": "pic.twitter.com/IIwdUGmjZ2",
+        "expanded_url": "https://twitter.com/elkpots/status/1058709662109822978/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 589,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1039,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1774,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058709662109822978,
+        "source_status_id_str": "1058709662109822978",
+        "source_user_id": 848533822895341568,
+        "source_user_id_str": "848533822895341568"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254464657"
+}

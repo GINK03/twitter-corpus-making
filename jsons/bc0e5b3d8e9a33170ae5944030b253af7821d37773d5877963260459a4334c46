@@ -1,0 +1,165 @@
+{
+  "created_at": "Sat Nov 03 14:09:53 +0000 2018",
+  "id": 1058722939770552321,
+  "id_str": "1058722939770552321",
+  "text": "秋津提督!?\n#艦これ https://t.co/wd2cAfs60c",
+  "display_text_range": [
+    0,
+    11
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 950358552488558593,
+    "id_str": "950358552488558593",
+    "name": "夜汽車",
+    "screen_name": "yogisya_315",
+    "location": "単冠湾泊地",
+    "url": null,
+    "description": "艦これやってます。将来の夢は自衛隊員！フォロバ100%! 無言フォロー許してください。気軽に絡んできてな～。 空母いぶきにハマり始めた。同志提督はリストに追加しますのでそこんとこ4649! 怪しいアカウントはフォローしません。10/20追記 今日から不定期で投票企画をやるので、ぜひ参加を！",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1114,
+    "friends_count": 2583,
+    "listed_count": 3,
+    "favourites_count": 3041,
+    "statuses_count": 3628,
+    "created_at": "Mon Jan 08 13:28:30 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "19CF86",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056407656561180674/5J-nUZkW_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056407656561180674/5J-nUZkW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/950358552488558593/1540665658",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ",
+        "indices": [
+          7,
+          11
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058688768025124864,
+        "id_str": "1058688768025124864",
+        "indices": [
+          12,
+          35
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrE300nVYAA-CuH.png",
+        "media_url_https": "https://pbs.twimg.com/media/DrE300nVYAA-CuH.png",
+        "url": "https://t.co/wd2cAfs60c",
+        "display_url": "pic.twitter.com/wd2cAfs60c",
+        "expanded_url": "https://twitter.com/yogisya_315/status/1058722939770552321/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 800,
+            "h": 480,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 408,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 800,
+            "h": 480,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058688768025124864,
+        "id_str": "1058688768025124864",
+        "indices": [
+          12,
+          35
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrE300nVYAA-CuH.png",
+        "media_url_https": "https://pbs.twimg.com/media/DrE300nVYAA-CuH.png",
+        "url": "https://t.co/wd2cAfs60c",
+        "display_url": "pic.twitter.com/wd2cAfs60c",
+        "expanded_url": "https://twitter.com/yogisya_315/status/1058722939770552321/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 800,
+            "h": 480,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 408,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 800,
+            "h": 480,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254193619"
+}

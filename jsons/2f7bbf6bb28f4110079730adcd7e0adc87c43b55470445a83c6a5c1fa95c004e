@@ -1,0 +1,529 @@
+{
+  "created_at": "Sat Nov 03 14:26:46 +0000 2018",
+  "id": 1058727188759961607,
+  "id_str": "1058727188759961607",
+  "text": "RT @modelpress: 【読者投票企画:🏆】18年秋ドラマ🍁今期最もハマっているドラマは？ #ドラマスーツ #僕キセ #中学聖日記 #けもなれ #リーガルV #僕坂 #大恋愛 #昭和元禄落語心中 #ドロ刑 #深夜のダメ恋図鑑 #下町ロケット #今日俺 …\n\n投票はこちら…",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1029589928261214210,
+    "id_str": "1029589928261214210",
+    "name": "つぶみ@sz",
+    "screen_name": "tsu_Sz_mi",
+    "location": null,
+    "url": null,
+    "description": "ついに立ち上がった鎌倉の大仏ならぬ、アラサーの別垢。大人セクラバです。中島健人くんが好きです。マイペースです。同担さん溺愛。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 134,
+    "friends_count": 228,
+    "listed_count": 0,
+    "favourites_count": 4335,
+    "statuses_count": 2633,
+    "created_at": "Wed Aug 15 04:45:42 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1029660307344384001/fkqHpiai_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029660307344384001/fkqHpiai_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1029589928261214210/1537170704",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:05:00 +0000 2018",
+    "id": 1058721710231486464,
+    "id_str": "1058721710231486464",
+    "text": "【読者投票企画:🏆】18年秋ドラマ🍁今期最もハマっているドラマは？ #ドラマスーツ #僕キセ #中学聖日記 #けもなれ #リーガルV #僕坂 #大恋愛 #昭和元禄落語心中 #ドロ刑 #深夜のダメ恋図鑑 #下町ロケット #今日俺 …… https://t.co/VUaMylTtNh",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 142921471,
+      "id_str": "142921471",
+      "name": "モデルプレス",
+      "screen_name": "modelpress",
+      "location": "TOKYO,JAPAN",
+      "url": "http://mdpr.jp/",
+      "description": "日本最大級の女性向けエンタメ＆ライフスタイルニュースサイト。ファッション、モデル、恋愛、ヘア、コスメ、ダイエット、ディズニー、カフェ、ドラマ、映画、音楽、海外セレブ、女子旅の最新情報をお届け |  https://instagram.com/modelpress",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 1173412,
+      "friends_count": 160227,
+      "listed_count": 5724,
+      "favourites_count": 29,
+      "statuses_count": 221165,
+      "created_at": "Wed May 12 03:06:36 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FAFAFA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "FA0A4E",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "FFFFFF",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/876655035043545088/mH8EijPm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/876655035043545088/mH8EijPm_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/142921471/1486948630",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "【読者投票企画:🏆】18年秋ドラマ🍁今期最もハマっているドラマは？ #ドラマスーツ #僕キセ #中学聖日記 #けもなれ #リーガルV #僕坂 #大恋愛 #昭和元禄落語心中 #ドロ刑 #深夜のダメ恋図鑑 #下町ロケット #今日俺 …\n\n投票はこちら！11月7日24時〆切り⇒ https://t.co/lxvz7T2IRQ https://t.co/Pylq1dPZlm",
+      "display_text_range": [
+        0,
+        160
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ドラマスーツ",
+            "indices": [
+              34,
+              41
+            ]
+          },
+          {
+            "text": "僕キセ",
+            "indices": [
+              42,
+              46
+            ]
+          },
+          {
+            "text": "中学聖日記",
+            "indices": [
+              47,
+              53
+            ]
+          },
+          {
+            "text": "けもなれ",
+            "indices": [
+              54,
+              59
+            ]
+          },
+          {
+            "text": "リーガルV",
+            "indices": [
+              60,
+              66
+            ]
+          },
+          {
+            "text": "僕坂",
+            "indices": [
+              67,
+              70
+            ]
+          },
+          {
+            "text": "大恋愛",
+            "indices": [
+              71,
+              75
+            ]
+          },
+          {
+            "text": "昭和元禄落語心中",
+            "indices": [
+              76,
+              85
+            ]
+          },
+          {
+            "text": "ドロ刑",
+            "indices": [
+              86,
+              90
+            ]
+          },
+          {
+            "text": "深夜のダメ恋図鑑",
+            "indices": [
+              91,
+              100
+            ]
+          },
+          {
+            "text": "下町ロケット",
+            "indices": [
+              101,
+              108
+            ]
+          },
+          {
+            "text": "今日俺",
+            "indices": [
+              109,
+              113
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/lxvz7T2IRQ",
+            "expanded_url": "https://goo.gl/forms/uoYa7aQZlkaEWWiq2",
+            "display_url": "goo.gl/forms/uoYa7aQZ…",
+            "indices": [
+              137,
+              160
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058590618023211014,
+            "id_str": "1058590618023211014",
+            "indices": [
+              161,
+              184
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrDejvXVsAYLzwV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrDejvXVsAYLzwV.jpg",
+            "url": "https://t.co/Pylq1dPZlm",
+            "display_url": "pic.twitter.com/Pylq1dPZlm",
+            "expanded_url": "https://twitter.com/modelpress/status/1058721710231486464/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1600,
+                "h": 1065,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 799,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058590618023211014,
+            "id_str": "1058590618023211014",
+            "indices": [
+              161,
+              184
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrDejvXVsAYLzwV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrDejvXVsAYLzwV.jpg",
+            "url": "https://t.co/Pylq1dPZlm",
+            "display_url": "pic.twitter.com/Pylq1dPZlm",
+            "expanded_url": "https://twitter.com/modelpress/status/1058721710231486464/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1600,
+                "h": 1065,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 799,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 6,
+    "reply_count": 0,
+    "retweet_count": 29,
+    "favorite_count": 86,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ドラマスーツ",
+          "indices": [
+            34,
+            41
+          ]
+        },
+        {
+          "text": "僕キセ",
+          "indices": [
+            42,
+            46
+          ]
+        },
+        {
+          "text": "中学聖日記",
+          "indices": [
+            47,
+            53
+          ]
+        },
+        {
+          "text": "けもなれ",
+          "indices": [
+            54,
+            59
+          ]
+        },
+        {
+          "text": "リーガルV",
+          "indices": [
+            60,
+            66
+          ]
+        },
+        {
+          "text": "僕坂",
+          "indices": [
+            67,
+            70
+          ]
+        },
+        {
+          "text": "大恋愛",
+          "indices": [
+            71,
+            75
+          ]
+        },
+        {
+          "text": "昭和元禄落語心中",
+          "indices": [
+            76,
+            85
+          ]
+        },
+        {
+          "text": "ドロ刑",
+          "indices": [
+            86,
+            90
+          ]
+        },
+        {
+          "text": "深夜のダメ恋図鑑",
+          "indices": [
+            91,
+            100
+          ]
+        },
+        {
+          "text": "下町ロケット",
+          "indices": [
+            101,
+            108
+          ]
+        },
+        {
+          "text": "今日俺",
+          "indices": [
+            109,
+            113
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VUaMylTtNh",
+          "expanded_url": "https://twitter.com/i/web/status/1058721710231486464",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ドラマスーツ",
+        "indices": [
+          50,
+          57
+        ]
+      },
+      {
+        "text": "僕キセ",
+        "indices": [
+          58,
+          62
+        ]
+      },
+      {
+        "text": "中学聖日記",
+        "indices": [
+          63,
+          69
+        ]
+      },
+      {
+        "text": "けもなれ",
+        "indices": [
+          70,
+          75
+        ]
+      },
+      {
+        "text": "リーガルV",
+        "indices": [
+          76,
+          82
+        ]
+      },
+      {
+        "text": "僕坂",
+        "indices": [
+          83,
+          86
+        ]
+      },
+      {
+        "text": "大恋愛",
+        "indices": [
+          87,
+          91
+        ]
+      },
+      {
+        "text": "昭和元禄落語心中",
+        "indices": [
+          92,
+          101
+        ]
+      },
+      {
+        "text": "ドロ刑",
+        "indices": [
+          102,
+          106
+        ]
+      },
+      {
+        "text": "深夜のダメ恋図鑑",
+        "indices": [
+          107,
+          116
+        ]
+      },
+      {
+        "text": "下町ロケット",
+        "indices": [
+          117,
+          124
+        ]
+      },
+      {
+        "text": "今日俺",
+        "indices": [
+          125,
+          129
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "modelpress",
+        "name": "モデルプレス",
+        "id": 142921471,
+        "id_str": "142921471",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255206657"
+}

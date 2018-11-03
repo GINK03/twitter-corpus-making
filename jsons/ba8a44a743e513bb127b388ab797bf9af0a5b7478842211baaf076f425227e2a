@@ -1,0 +1,351 @@
+{
+  "created_at": "Sat Nov 03 14:23:03 +0000 2018",
+  "id": 1058726253459435520,
+  "id_str": "1058726253459435520",
+  "text": "RT @sleepyslowsheep: 【告知！】\nSteamやPS4向けに個人開発中のハイスピード3Dアクションゲーム\n「Link: RH」の新しいショートトレーラーができたよ！\nビジュアル、アクション等いろいろ進化させました。\n11/4秋葉原UDXにて開催のデジゲー博で試…",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1346132293,
+    "id_str": "1346132293",
+    "name": "kecy",
+    "screen_name": "kecbigmt",
+    "location": null,
+    "url": null,
+    "description": "柏、LINE、プランニングときどきエンジニアリング、Python、React、Go",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 221,
+    "friends_count": 350,
+    "listed_count": 5,
+    "favourites_count": 1726,
+    "statuses_count": 3571,
+    "created_at": "Fri Apr 12 06:14:07 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "BA0456",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/564093343940878336/BhECU86D_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/564093343940878336/BhECU86D_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1346132293/1398962617",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Nov 01 09:15:41 +0000 2018",
+    "id": 1057924124046123009,
+    "id_str": "1057924124046123009",
+    "text": "【告知！】\nSteamやPS4向けに個人開発中のハイスピード3Dアクションゲーム\n「Link: RH」の新しいショートトレーラーができたよ！\nビジュアル、アクション等いろいろ進化させました。\n11/4秋葉原UDXにて開催のデジゲー… https://t.co/0PSXBeW9VI",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 55616510,
+      "id_str": "55616510",
+      "name": "Sig@デジゲー博E-28b",
+      "screen_name": "sleepyslowsheep",
+      "location": "HAVEN",
+      "url": "https://reminiscedev.wixsite.com/reminiscedev",
+      "description": "インディークリエイター。UE4を使用してゲーム製作。告知はこちら→@ReminisceDev PC/PS4向けハイスピードAct「Link: RH」を開発中！ 連絡はDMか→ reminiscepost@gmail.com | VRChatでいろいろ作る。モデル販売→http://ss-concept.booth.pm",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 4845,
+      "friends_count": 911,
+      "listed_count": 163,
+      "favourites_count": 11641,
+      "statuses_count": 18320,
+      "created_at": "Fri Jul 10 17:28:25 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1056877517796073473/7K3eZNUi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056877517796073473/7K3eZNUi_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/55616510/1541059143",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "【告知！】\nSteamやPS4向けに個人開発中のハイスピード3Dアクションゲーム\n「Link: RH」の新しいショートトレーラーができたよ！\nビジュアル、アクション等いろいろ進化させました。\n11/4秋葉原UDXにて開催のデジゲー博で試遊ができます。\n年内体験版配信予定！\nhttps://t.co/J3wU4WJslY\n#UE4 #LinkRH https://t.co/kklQHflRG6",
+      "display_text_range": [
+        0,
+        173
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "UE4",
+            "indices": [
+              161,
+              165
+            ]
+          },
+          {
+            "text": "LinkRH",
+            "indices": [
+              166,
+              173
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/J3wU4WJslY",
+            "expanded_url": "https://www.reminiscedev.com/",
+            "display_url": "reminiscedev.com",
+            "indices": [
+              137,
+              160
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1057919362063978496,
+            "id_str": "1057919362063978496",
+            "indices": [
+              174,
+              197
+            ],
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057919362063978496/pu/img/29J90zuuZDxSdjgc.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057919362063978496/pu/img/29J90zuuZDxSdjgc.jpg",
+            "url": "https://t.co/kklQHflRG6",
+            "display_url": "pic.twitter.com/kklQHflRG6",
+            "expanded_url": "https://twitter.com/sleepyslowsheep/status/1057924124046123009/video/1",
+            "type": "video",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 39617,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1057919362063978496/pu/vid/1280x720/87ZxGZR9o3y-7haa.mp4?tag=5"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1057919362063978496/pu/pl/b1HTGZuo5KwEfLaD.m3u8?tag=5"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1057919362063978496/pu/vid/320x180/3bZG9xL-4XdqWJ2N.mp4?tag=5"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1057919362063978496/pu/vid/640x360/JgpIKyEu-ghAtzEA.mp4?tag=5"
+                }
+              ]
+            },
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1057919362063978496,
+            "id_str": "1057919362063978496",
+            "indices": [
+              174,
+              197
+            ],
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057919362063978496/pu/img/29J90zuuZDxSdjgc.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057919362063978496/pu/img/29J90zuuZDxSdjgc.jpg",
+            "url": "https://t.co/kklQHflRG6",
+            "display_url": "pic.twitter.com/kklQHflRG6",
+            "expanded_url": "https://twitter.com/sleepyslowsheep/status/1057924124046123009/video/1",
+            "type": "video",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 39617,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1057919362063978496/pu/vid/1280x720/87ZxGZR9o3y-7haa.mp4?tag=5"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1057919362063978496/pu/pl/b1HTGZuo5KwEfLaD.m3u8?tag=5"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1057919362063978496/pu/vid/320x180/3bZG9xL-4XdqWJ2N.mp4?tag=5"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1057919362063978496/pu/vid/640x360/JgpIKyEu-ghAtzEA.mp4?tag=5"
+                }
+              ]
+            },
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 2,
+    "reply_count": 2,
+    "retweet_count": 175,
+    "favorite_count": 296,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/0PSXBeW9VI",
+          "expanded_url": "https://twitter.com/i/web/status/1057924124046123009",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "sleepyslowsheep",
+        "name": "Sig@デジゲー博E-28b",
+        "id": 55616510,
+        "id_str": "55616510",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254983664"
+}

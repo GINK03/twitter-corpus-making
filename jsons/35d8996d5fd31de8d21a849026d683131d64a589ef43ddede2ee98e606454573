@@ -1,0 +1,109 @@
+{
+  "created_at": "Sat Nov 03 14:23:52 +0000 2018",
+  "id": 1058726458980413440,
+  "id_str": "1058726458980413440",
+  "text": "@joeYNWA022168 @amu_Monoga @nonno_Monoga なるほど😁密着チェキ🤤←",
+  "display_text_range": [
+    41,
+    53
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058726114581856257,
+  "in_reply_to_status_id_str": "1058726114581856257",
+  "in_reply_to_user_id": 1632368209,
+  "in_reply_to_user_id_str": "1632368209",
+  "in_reply_to_screen_name": "joeYNWA022168",
+  "user": {
+    "id": 300977220,
+    "id_str": "300977220",
+    "name": "みッたん@pyon'z",
+    "screen_name": "mitsu_mitsu777",
+    "location": null,
+    "url": "http://pyonz.net",
+    "description": "#AKB48 #チーム8 #富山県代表 #橋本陽菜 ファンの総称⇨ pyon'z",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 273,
+    "friends_count": 316,
+    "listed_count": 6,
+    "favourites_count": 14526,
+    "statuses_count": 20454,
+    "created_at": "Wed May 18 17:29:29 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/999910539504500737/90Y1gp5X_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/999910539504500737/90Y1gp5X_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/300977220/1525163424",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "joeYNWA022168",
+        "name": "ジョー",
+        "id": 1632368209,
+        "id_str": "1632368209",
+        "indices": [
+          0,
+          14
+        ]
+      },
+      {
+        "screen_name": "amu_Monoga",
+        "name": "香山あむ@monogatari",
+        "id": 791587173287931904,
+        "id_str": "791587173287931904",
+        "indices": [
+          15,
+          26
+        ]
+      },
+      {
+        "screen_name": "nonno_Monoga",
+        "name": "児玉のんの@monogatari",
+        "id": 791588058319552512,
+        "id_str": "791588058319552512",
+        "indices": [
+          27,
+          40
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255032664"
+}

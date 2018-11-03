@@ -1,0 +1,216 @@
+{
+  "created_at": "Sat Nov 03 14:27:13 +0000 2018",
+  "id": 1058727302031400960,
+  "id_str": "1058727302031400960",
+  "text": "@saya__0212 🇺🇸マクドナルドの「デラックススロットキャンペーン」への参加ありがとうございます😁\nルーレットの結果は、今すぐ動画をチェック↓↓↓\nhttps://t.co/rBdIFF38hw",
+  "display_text_range": [
+    12,
+    101
+  ],
+  "source": "<a href=\"https://www.uniquevision.co.jp/business/beluga_campaign\" rel=\"nofollow\">BelugaCampaignSEA</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058727273354784768,
+  "in_reply_to_status_id_str": "1058727273354784768",
+  "in_reply_to_user_id": 2213282095,
+  "in_reply_to_user_id_str": "2213282095",
+  "in_reply_to_screen_name": "saya__0212",
+  "user": {
+    "id": 4823945834,
+    "id_str": "4823945834",
+    "name": "McDonalds Japan",
+    "screen_name": "Love_McD",
+    "location": "デラックススロットキャンペーン 11月6日23:59まで",
+    "url": "http://www.mcdonalds.co.jp/",
+    "description": "マクドナルド公式 ツイッターキャンペーンの返信用アカウントです。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": true,
+    "followers_count": 188508,
+    "friends_count": 1,
+    "listed_count": 237,
+    "favourites_count": 0,
+    "statuses_count": 18383264,
+    "created_at": "Thu Jan 28 04:42:22 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "FF691F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/701993164593197056/Yd-lCB7c_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/701993164593197056/Yd-lCB7c_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4823945834/1485483351",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "saya__0212",
+        "name": "✡さあさ✡",
+        "id": 2213282095,
+        "id_str": "2213282095",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1055304643163512832,
+        "id_str": "1055304643163512832",
+        "indices": [
+          78,
+          101
+        ],
+        "additional_media_info": {
+          "title": "",
+          "description": "",
+          "embeddable": true,
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1055304643163512832/img/Mt3Sw0EbvwuddI3m.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1055304643163512832/img/Mt3Sw0EbvwuddI3m.jpg",
+        "url": "https://t.co/rBdIFF38hw",
+        "display_url": "pic.twitter.com/rBdIFF38hw",
+        "expanded_url": "https://twitter.com/Love_McD/status/1055304906301526016/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1055304906301526016,
+        "source_status_id_str": "1055304906301526016",
+        "source_user_id": 4823945834,
+        "source_user_id_str": "4823945834"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1055304643163512832,
+        "id_str": "1055304643163512832",
+        "indices": [
+          78,
+          101
+        ],
+        "additional_media_info": {
+          "title": "",
+          "description": "",
+          "embeddable": true,
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1055304643163512832/img/Mt3Sw0EbvwuddI3m.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1055304643163512832/img/Mt3Sw0EbvwuddI3m.jpg",
+        "url": "https://t.co/rBdIFF38hw",
+        "display_url": "pic.twitter.com/rBdIFF38hw",
+        "expanded_url": "https://twitter.com/Love_McD/status/1055304906301526016/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 25859,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1055304643163512832/vid/640x360/Mnr2uceJjLwM3LJQ.mp4?tag=8"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1055304643163512832/pl/8dk0p50v7Ba9-_6K.m3u8?tag=8"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1055304643163512832/vid/320x180/cDXfTrntqqBkXxXt.mp4?tag=8"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1055304643163512832/vid/1280x720/vEW4VJgf0eK5tprU.mp4?tag=8"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1055304906301526016,
+        "source_status_id_str": "1055304906301526016",
+        "source_user_id": 4823945834,
+        "source_user_id_str": "4823945834"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255233663"
+}

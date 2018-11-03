@@ -1,0 +1,100 @@
+{
+  "created_at": "Sat Nov 03 14:24:26 +0000 2018",
+  "id": 1058726601590890497,
+  "id_str": "1058726601590890497",
+  "text": "Have you heard ‘【サノバウィッチOP】恋せよ乙女！をアレンジしました’ by Smk Kawaching on #SoundCloud? #np https://t.co/K5oEBPLTH5\n\n定期的にふぁぼ貰って根強い人気があるなぁって感じ",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1184971136,
+    "id_str": "1184971136",
+    "name": "かわちん@11/17地獄極楽ボンバイエ",
+    "screen_name": "Kawasagi0405",
+    "location": "無効の角を東",
+    "url": "https://wakasagi-tsuri.booth.pm/",
+    "description": "東方バンドアレンジサークル「ワカサギツリ。」で活動(サボり気味)。DTM的な話かイラスト等のRTしか出来ません、ごめんなさい。リトバス/ガルパン/ゆるゆり/アイマス等に偏っていると思います。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 409,
+    "friends_count": 329,
+    "listed_count": 16,
+    "favourites_count": 12599,
+    "statuses_count": 19589,
+    "created_at": "Sat Feb 16 07:14:10 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1017743822166474752/4o_54ibN_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017743822166474752/4o_54ibN_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1184971136/1521800501",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "SoundCloud",
+        "indices": [
+          64,
+          75
+        ]
+      },
+      {
+        "text": "np",
+        "indices": [
+          77,
+          80
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/K5oEBPLTH5",
+        "expanded_url": "https://soundcloud.com/smk-kawaching/op-1?utm_source=soundcloud&utm_campaign=share&utm_medium=twitter",
+        "display_url": "soundcloud.com/smk-kawaching/…",
+        "indices": [
+          81,
+          104
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255066665"
+}

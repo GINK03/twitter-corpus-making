@@ -1,0 +1,351 @@
+{
+  "created_at": "Sat Nov 03 13:50:45 +0000 2018",
+  "id": 1058718125472935937,
+  "id_str": "1058718125472935937",
+  "text": "RT @fgoproject: 【カルデアアーケード広報局より】\n『Fate/Grand Order Arcade』にて本日、「3週連続サーヴァント新登場キャンペーン」の第2弾として、シュヴァリエ･デオンの登場およびピックアップ召喚を11月1日(木)10:00より開始いたします…",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 198049520,
+    "id_str": "198049520",
+    "name": "皐月",
+    "screen_name": "t_dg5",
+    "location": "ワカンダ国",
+    "url": null,
+    "description": "マイガール兼マスター兼適合者で、イナイレが魂に刻まれている成人済み腐。帝都土佐同盟・フランス組推し。テニミュとスタミュは生きる糧。ガルパンとRWBYはいいぞ！刀ミュとテニプリ、MCUも好きです。基本雑食なのでBLNLGLなんでもいけます。F/R/Bご自由に。無言フォロー多いです、すみません。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 101,
+    "friends_count": 398,
+    "listed_count": 2,
+    "favourites_count": 18935,
+    "statuses_count": 65694,
+    "created_at": "Sun Oct 03 05:57:06 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "19CF86",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/920457221816778752/wf7PrAXT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/920457221816778752/wf7PrAXT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/198049520/1498009419",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Nov 01 01:02:38 +0000 2018",
+    "id": 1057800046765268994,
+    "id_str": "1057800046765268994",
+    "text": "【カルデアアーケード広報局より】\n『Fate/Grand Order Arcade』にて本日、「3週連続サーヴァント新登場キャンペーン」の第2弾として、シュヴァリエ･デオンの登場およびピックアップ召喚を11月1日(木)10:00よ… https://t.co/ZLCqvBB8aT",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2968069742,
+      "id_str": "2968069742",
+      "name": "【公式】Fate/Grand Order",
+      "screen_name": "fgoproject",
+      "location": null,
+      "url": "http://www.fate-go.jp/",
+      "description": "TYPE-MOONが贈る、スマートフォン向けFateRPG「Fate/Grand Order」公式アカウント。カルデア広報局より皆様に、「Fate/Grand Order」およびFGO関連プロジェクトの最新情報をお届けします！公式ハッシュタグ→ #FGO",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 1355837,
+      "friends_count": 0,
+      "listed_count": 14723,
+      "favourites_count": 0,
+      "statuses_count": 3865,
+      "created_at": "Fri Jan 09 04:12:09 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1034364986041163776/tRqcymzd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034364986041163776/tRqcymzd_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2968069742/1535446608",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "【カルデアアーケード広報局より】\n『Fate/Grand Order Arcade』にて本日、「3週連続サーヴァント新登場キャンペーン」の第2弾として、シュヴァリエ･デオンの登場およびピックアップ召喚を11月1日(木)10:00より開始いたします。詳しくは→https://t.co/lgScvVblKi #FGO #FGOAC https://t.co/zsfh45YYqR",
+      "display_text_range": [
+        0,
+        164
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "FGO",
+            "indices": [
+              153,
+              157
+            ]
+          },
+          {
+            "text": "FGOAC",
+            "indices": [
+              158,
+              164
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/lgScvVblKi",
+            "expanded_url": "https://arcade.fate-go.jp/news/2018-11-01-4/",
+            "display_url": "arcade.fate-go.jp/news/2018-11-0…",
+            "indices": [
+              129,
+              152
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1057798060997173248,
+            "id_str": "1057798060997173248",
+            "indices": [
+              165,
+              188
+            ],
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057798060997173248/pu/img/sc2LIr518ty3LsIk.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057798060997173248/pu/img/sc2LIr518ty3LsIk.jpg",
+            "url": "https://t.co/zsfh45YYqR",
+            "display_url": "pic.twitter.com/zsfh45YYqR",
+            "expanded_url": "https://twitter.com/fgoproject/status/1057800046765268994/video/1",
+            "type": "video",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 68035,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1057798060997173248/pu/vid/320x180/4a-Y9A0vxLw7-EiT.mp4?tag=5"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1057798060997173248/pu/vid/1280x720/hHpEdm8M5SOxLgrD.mp4?tag=5"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1057798060997173248/pu/pl/w7tSRoJCPza5yQss.m3u8?tag=5"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1057798060997173248/pu/vid/640x360/eH0soCXlobx0997l.mp4?tag=5"
+                }
+              ]
+            },
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1057798060997173248,
+            "id_str": "1057798060997173248",
+            "indices": [
+              165,
+              188
+            ],
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057798060997173248/pu/img/sc2LIr518ty3LsIk.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057798060997173248/pu/img/sc2LIr518ty3LsIk.jpg",
+            "url": "https://t.co/zsfh45YYqR",
+            "display_url": "pic.twitter.com/zsfh45YYqR",
+            "expanded_url": "https://twitter.com/fgoproject/status/1057800046765268994/video/1",
+            "type": "video",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 68035,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1057798060997173248/pu/vid/320x180/4a-Y9A0vxLw7-EiT.mp4?tag=5"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1057798060997173248/pu/vid/1280x720/hHpEdm8M5SOxLgrD.mp4?tag=5"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1057798060997173248/pu/pl/w7tSRoJCPza5yQss.m3u8?tag=5"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1057798060997173248/pu/vid/640x360/eH0soCXlobx0997l.mp4?tag=5"
+                }
+              ]
+            },
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 146,
+    "reply_count": 65,
+    "retweet_count": 5086,
+    "favorite_count": 7875,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/ZLCqvBB8aT",
+          "expanded_url": "https://twitter.com/i/web/status/1057800046765268994",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "fgoproject",
+        "name": "【公式】Fate/Grand Order",
+        "id": 2968069742,
+        "id_str": "2968069742",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253045801"
+}

@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:16:30 +0000 2018",
+  "id": 1058724605093769217,
+  "id_str": "1058724605093769217",
+  "text": "@sugamasao @Sry_ozS 「人の見分けがつかない」程度の私は外し、「人と壁の見分けがつかない」兄はかけたまま入ります。",
+  "display_text_range": [
+    20,
+    66
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058156656675061760,
+  "in_reply_to_status_id_str": "1058156656675061760",
+  "in_reply_to_user_id": 4579301,
+  "in_reply_to_user_id_str": "4579301",
+  "in_reply_to_screen_name": "sugamasao",
+  "user": {
+    "id": 473912338,
+    "id_str": "473912338",
+    "name": "ばけしち",
+    "screen_name": "nin3bake7",
+    "location": "Chiba,Japan",
+    "url": "http://www.pixiv.net/novel/show.php?id=624413",
+    "description": "若者がすなるついったといふものをオバちゃんもしてみんとてするなり。只今「SHERLOCK」「巷説百物語」に大ハマリ中。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 156,
+    "friends_count": 129,
+    "listed_count": 7,
+    "favourites_count": 21993,
+    "statuses_count": 9383,
+    "created_at": "Wed Jan 25 13:17:20 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3349508047/57709c9c659003326eac8a64e7496eee_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3349508047/57709c9c659003326eac8a64e7496eee_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/473912338/1449498085",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "sugamasao",
+        "name": "かんたんRuby太郎",
+        "id": 4579301,
+        "id_str": "4579301",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "Sry_ozS",
+        "name": "そらい",
+        "id": 1008147272687759362,
+        "id_str": "1008147272687759362",
+        "indices": [
+          11,
+          19
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254590663"
+}

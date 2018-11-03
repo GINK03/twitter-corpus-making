@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:09:05 +0000 2018",
+  "id": 1058722739110895617,
+  "id_str": "1058722739110895617",
+  "text": "【艦これ】たのんだらぱんつをみせてくれる江風ちゃん　他 https://t.co/lDFRDYL1p5 #艦これ #kankore",
+  "source": "<a href=\"http://blog.livedoor.com/\" rel=\"nofollow\">livedoor Blog</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1721400978,
+    "id_str": "1721400978",
+    "name": "艦これ攻略Q&A図鑑",
+    "screen_name": "kankoreq",
+    "location": null,
+    "url": "http://blog.livedoor.jp/kan_kore/",
+    "description": "艦これの攻略・素朴な疑問などの知恵袋まとめブログです。艦これ更新記事について呟いていきます。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2270,
+    "friends_count": 741,
+    "listed_count": 37,
+    "favourites_count": 0,
+    "statuses_count": 14342,
+    "created_at": "Mon Sep 02 06:43:15 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000399205563/9dae22741852b255b84f5a41cee5cc4e_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000399205563/9dae22741852b255b84f5a41cee5cc4e_normal.png",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ",
+        "indices": [
+          52,
+          56
+        ]
+      },
+      {
+        "text": "kankore",
+        "indices": [
+          57,
+          65
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/lDFRDYL1p5",
+        "expanded_url": "http://blog.livedoor.jp/kan_kore/archives/54385139.html",
+        "display_url": "blog.livedoor.jp/kan_kore/archi…",
+        "indices": [
+          28,
+          51
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254145778"
+}

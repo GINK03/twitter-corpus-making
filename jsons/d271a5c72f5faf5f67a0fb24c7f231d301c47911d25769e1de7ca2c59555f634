@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:22:07 +0000 2018",
+  "id": 1058726018578436096,
+  "id_str": "1058726018578436096",
+  "text": "RT @ka_ja_: 「ひふみ 女の子あっち行ったぞ」 https://t.co/AJ6zcQ0Dem",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 844859781554720769,
+    "id_str": "844859781554720769",
+    "name": "すー",
+    "screen_name": "hydrangea_su",
+    "location": "20↑",
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 5,
+    "friends_count": 296,
+    "listed_count": 2,
+    "favourites_count": 3940,
+    "statuses_count": 2377,
+    "created_at": "Thu Mar 23 10:34:03 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/883956840148615168/r7qlytmh_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/883956840148615168/r7qlytmh_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/844859781554720769/1490265829",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 06:53:11 +0000 2018",
+    "id": 1058613038469632001,
+    "id_str": "1058613038469632001",
+    "text": "「ひふみ 女の子あっち行ったぞ」 https://t.co/AJ6zcQ0Dem",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 956032839782490114,
+      "id_str": "956032839782490114",
+      "name": "かざと",
+      "screen_name": "ka_ja_",
+      "location": null,
+      "url": "https://odaibako.net/u/grbrka_",
+      "description": "描きたい時に描きたいものを描く/今はどひふが多い👔🥂/成人済/見るのはすごく雑食です/スクショとか猫の写真が多い🐈 お題箱使ってやってください↷",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1764,
+      "friends_count": 86,
+      "listed_count": 21,
+      "favourites_count": 2756,
+      "statuses_count": 7334,
+      "created_at": "Wed Jan 24 05:16:06 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "FAB81E",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1052604063437582336/ugDB_NoW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052604063437582336/ugDB_NoW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/956032839782490114/1540318238",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 443,
+    "favorite_count": 2009,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058612946052370432,
+          "id_str": "1058612946052370432",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDy3ZwU0AAy6u5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDy3ZwU0AAy6u5.jpg",
+          "url": "https://t.co/AJ6zcQ0Dem",
+          "display_url": "pic.twitter.com/AJ6zcQ0Dem",
+          "expanded_url": "https://twitter.com/ka_ja_/status/1058613038469632001/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058612946052370432,
+          "id_str": "1058612946052370432",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDy3ZwU0AAy6u5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDy3ZwU0AAy6u5.jpg",
+          "url": "https://t.co/AJ6zcQ0Dem",
+          "display_url": "pic.twitter.com/AJ6zcQ0Dem",
+          "expanded_url": "https://twitter.com/ka_ja_/status/1058613038469632001/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "ka_ja_",
+        "name": "かざと",
+        "id": 956032839782490114,
+        "id_str": "956032839782490114",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058612946052370432,
+        "id_str": "1058612946052370432",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDy3ZwU0AAy6u5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDy3ZwU0AAy6u5.jpg",
+        "url": "https://t.co/AJ6zcQ0Dem",
+        "display_url": "pic.twitter.com/AJ6zcQ0Dem",
+        "expanded_url": "https://twitter.com/ka_ja_/status/1058613038469632001/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 600,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 600,
+            "h": 600,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 600,
+            "h": 600,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058613038469632001,
+        "source_status_id_str": "1058613038469632001",
+        "source_user_id": 956032839782490114,
+        "source_user_id_str": "956032839782490114"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058612946052370432,
+        "id_str": "1058612946052370432",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrDy3ZwU0AAy6u5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrDy3ZwU0AAy6u5.jpg",
+        "url": "https://t.co/AJ6zcQ0Dem",
+        "display_url": "pic.twitter.com/AJ6zcQ0Dem",
+        "expanded_url": "https://twitter.com/ka_ja_/status/1058613038469632001/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 600,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 600,
+            "h": 600,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 600,
+            "h": 600,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058613038469632001,
+        "source_status_id_str": "1058613038469632001",
+        "source_user_id": 956032839782490114,
+        "source_user_id_str": "956032839782490114"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254927664"
+}

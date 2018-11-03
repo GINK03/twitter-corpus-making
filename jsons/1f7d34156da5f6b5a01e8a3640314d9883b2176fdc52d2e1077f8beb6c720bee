@@ -1,0 +1,93 @@
+{
+  "created_at": "Sat Nov 03 14:18:52 +0000 2018",
+  "id": 1058725200689156097,
+  "id_str": "1058725200689156097",
+  "text": "(神・ω・)　ぶんちゃんはな……\n\n(神 ˘ ω ˘ )　こんな態度をとってはいるが\n\n(神・ω・)　内心皆と仲良くしたい\n\n(神・Д・)　ツンデレなんじゃ\n#神様が隠し事を暴露してくれる診断\nhttps://t.co/cE4NrMZyYr",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 333200735,
+    "id_str": "333200735",
+    "name": "ぶん",
+    "screen_name": "ito_cha",
+    "location": "I'am here♪ ",
+    "url": "http://blog.goo.ne.jp/itoraku110cha/",
+    "description": "日本刺繍を楽しみ！OHOにてアルトサックス吹いてます♪  よろしくね♪",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 80,
+    "friends_count": 144,
+    "listed_count": 0,
+    "favourites_count": 9300,
+    "statuses_count": 6177,
+    "created_at": "Mon Jul 11 04:35:59 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/533567961143857152/Z5F3Hh-R_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/533567961143857152/Z5F3Hh-R_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/333200735/1434329201",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "神様が隠し事を暴露してくれる診断",
+        "indices": [
+          79,
+          96
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/cE4NrMZyYr",
+        "expanded_url": "https://shindanmaker.com/841000",
+        "display_url": "shindanmaker.com/841000",
+        "indices": [
+          97,
+          120
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254732664"
+}

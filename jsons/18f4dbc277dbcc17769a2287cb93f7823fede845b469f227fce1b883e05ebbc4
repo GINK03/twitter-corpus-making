@@ -1,0 +1,206 @@
+{
+  "created_at": "Sat Nov 03 14:20:16 +0000 2018",
+  "id": 1058725552989757442,
+  "id_str": "1058725552989757442",
+  "text": "今日のテニヌハイライト #マリオテニスエース #NintendoSwitch https://t.co/Df8dQmK2sR",
+  "display_text_range": [
+    0,
+    38
+  ],
+  "source": "<a href=\"https://www.nintendo.com/countryselector\" rel=\"nofollow\">Nintendo Switch Share</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 431402631,
+    "id_str": "431402631",
+    "name": "ブートム太陽の戦士+3",
+    "screen_name": "BUUTOMU92",
+    "location": "アズラン農村4224-1、エレーミアス絵画世界",
+    "url": null,
+    "description": "ゴママギ・パ・ゴゴビブデロ・ヂギガブデロ・グ・ビ！",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 376,
+    "friends_count": 645,
+    "listed_count": 16,
+    "favourites_count": 23047,
+    "statuses_count": 53720,
+    "created_at": "Thu Dec 08 07:23:50 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F58EA8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "19CF86",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1055762465521201153/cILWVUtj_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055762465521201153/cILWVUtj_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/431402631/1540441937",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "マリオテニスエース",
+        "indices": [
+          12,
+          22
+        ]
+      },
+      {
+        "text": "NintendoSwitch",
+        "indices": [
+          23,
+          38
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058725492742795264,
+        "id_str": "1058725492742795264",
+        "indices": [
+          39,
+          62
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058725492742795264/pu/img/Cw34ZTAdBWN8W8Q6.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058725492742795264/pu/img/Cw34ZTAdBWN8W8Q6.jpg",
+        "url": "https://t.co/Df8dQmK2sR",
+        "display_url": "pic.twitter.com/Df8dQmK2sR",
+        "expanded_url": "https://twitter.com/BUUTOMU92/status/1058725552989757442/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058725492742795264,
+        "id_str": "1058725492742795264",
+        "indices": [
+          39,
+          62
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058725492742795264/pu/img/Cw34ZTAdBWN8W8Q6.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058725492742795264/pu/img/Cw34ZTAdBWN8W8Q6.jpg",
+        "url": "https://t.co/Df8dQmK2sR",
+        "display_url": "pic.twitter.com/Df8dQmK2sR",
+        "expanded_url": "https://twitter.com/BUUTOMU92/status/1058725552989757442/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 29568,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058725492742795264/pu/vid/640x360/JmeQdCNbn4-jWvSw.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058725492742795264/pu/pl/okh-1L1iLr8v8pEv.m3u8?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058725492742795264/pu/vid/1280x720/SgkK44qH8SKeuomL.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058725492742795264/pu/vid/320x180/AMdh0dYLrjrc4hrK.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254816659"
+}

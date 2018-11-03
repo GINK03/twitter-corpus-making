@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:21:46 +0000 2018",
+  "id": 1058725930489700352,
+  "id_str": "1058725930489700352",
+  "text": "RT @ochaumee: 先月久しぶりに関西人のオタクに会ったんですけど、話が細かすぎて涙出るほど笑った https://t.co/FjSGVGcnPy",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 129404375,
+    "id_str": "129404375",
+    "name": "虚無虚無ぱいん",
+    "screen_name": "Rem_nappo",
+    "location": "\n",
+    "url": null,
+    "description": "好きなことだけを呟くよ 固定→fgo/TB/声優(別垢にて) 成人済腐 FRBご自由に",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 382,
+    "friends_count": 336,
+    "listed_count": 9,
+    "favourites_count": 6651,
+    "statuses_count": 135981,
+    "created_at": "Sun Apr 04 05:20:13 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0F010E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "53ED4E",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_text_color": "362720",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/893328794773213184/U4Xf4i7o_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/893328794773213184/U4Xf4i7o_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/129404375/1514794519",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 10:32:39 +0000 2018",
+    "id": 1058305884328087552,
+    "id_str": "1058305884328087552",
+    "text": "先月久しぶりに関西人のオタクに会ったんですけど、話が細かすぎて涙出るほど笑った https://t.co/FjSGVGcnPy",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 212611950,
+      "id_str": "212611950",
+      "name": "地方民",
+      "screen_name": "ochaumee",
+      "location": null,
+      "url": "http://pixiv.me/kaoru_88",
+      "description": "スピリチュアル森ピエロ",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 2669,
+      "friends_count": 138,
+      "listed_count": 100,
+      "favourites_count": 647,
+      "statuses_count": 27156,
+      "created_at": "Sat Nov 06 15:22:46 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/592719884901036033/IVAf2TwF_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/592719884901036033/IVAf2TwF_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/212611950/1506516459",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 353,
+    "reply_count": 55,
+    "retweet_count": 22505,
+    "favorite_count": 55116,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058305609081094146,
+          "id_str": "1058305609081094146",
+          "indices": [
+            40,
+            63
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_bWCUVAAIHgfI.png",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_bWCUVAAIHgfI.png",
+          "url": "https://t.co/FjSGVGcnPy",
+          "display_url": "pic.twitter.com/FjSGVGcnPy",
+          "expanded_url": "https://twitter.com/ochaumee/status/1058305884328087552/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058305609081094146,
+          "id_str": "1058305609081094146",
+          "indices": [
+            40,
+            63
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_bWCUVAAIHgfI.png",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_bWCUVAAIHgfI.png",
+          "url": "https://t.co/FjSGVGcnPy",
+          "display_url": "pic.twitter.com/FjSGVGcnPy",
+          "expanded_url": "https://twitter.com/ochaumee/status/1058305884328087552/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "ochaumee",
+        "name": "地方民",
+        "id": 212611950,
+        "id_str": "212611950",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058305609081094146,
+        "id_str": "1058305609081094146",
+        "indices": [
+          54,
+          77
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_bWCUVAAIHgfI.png",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_bWCUVAAIHgfI.png",
+        "url": "https://t.co/FjSGVGcnPy",
+        "display_url": "pic.twitter.com/FjSGVGcnPy",
+        "expanded_url": "https://twitter.com/ochaumee/status/1058305884328087552/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        },
+        "source_status_id": 1058305884328087552,
+        "source_status_id_str": "1058305884328087552",
+        "source_user_id": 212611950,
+        "source_user_id_str": "212611950"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058305609081094146,
+        "id_str": "1058305609081094146",
+        "indices": [
+          54,
+          77
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_bWCUVAAIHgfI.png",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_bWCUVAAIHgfI.png",
+        "url": "https://t.co/FjSGVGcnPy",
+        "display_url": "pic.twitter.com/FjSGVGcnPy",
+        "expanded_url": "https://twitter.com/ochaumee/status/1058305884328087552/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        },
+        "source_status_id": 1058305884328087552,
+        "source_status_id_str": "1058305884328087552",
+        "source_user_id": 212611950,
+        "source_user_id_str": "212611950"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254906662"
+}

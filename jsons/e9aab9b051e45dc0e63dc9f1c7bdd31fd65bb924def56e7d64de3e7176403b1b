@@ -1,0 +1,480 @@
+{
+  "created_at": "Sat Nov 03 14:14:45 +0000 2018",
+  "id": 1058724164683497472,
+  "id_str": "1058724164683497472",
+  "text": "RT @kuma_045: サンローランの9万円のネックレス……\n\nなんか見慣れた形してる…… https://t.co/cBznQovdl7",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4556801426,
+    "id_str": "4556801426",
+    "name": "ゆきあつP",
+    "screen_name": "karakusa8250",
+    "location": "超進化研究所",
+    "url": null,
+    "description": "りらっくまと、時々お料理。デレステとかミリシタとかアイナナとか駅メモやってます。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 595,
+    "friends_count": 773,
+    "listed_count": 32,
+    "favourites_count": 113165,
+    "statuses_count": 238635,
+    "created_at": "Mon Dec 14 13:26:30 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "282834",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1020996100193378304/Y5XsL1Lo_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020996100193378304/Y5XsL1Lo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4556801426/1539765831",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Oct 28 05:50:41 +0000 2018",
+    "id": 1056422984469032960,
+    "id_str": "1056422984469032960",
+    "text": "サンローランの9万円のネックレス……\n\nなんか見慣れた形してる…… https://t.co/cBznQovdl7",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 266121714,
+      "id_str": "266121714",
+      "name": "しゅんた",
+      "screen_name": "kuma_045",
+      "location": "横浜",
+      "url": null,
+      "description": "横浜/ダーツ/BRAVE'S/D-WAVE/七味/ミニベロ/レザークラフト/モンハン/VAPE/etc… \nカードネーム[しゅんた♛Braves] フォーム改造中！Rt.14～16を行ったり来たり！フォローミー( ｢･(ｴ)･)｢ｶﾞｵｰ",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1470,
+      "friends_count": 1815,
+      "listed_count": 19,
+      "favourites_count": 2284,
+      "statuses_count": 29050,
+      "created_at": "Mon Mar 14 18:04:45 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1034353053393010688/mhXgwAi0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034353053393010688/mhXgwAi0_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/266121714/1516985026",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 664,
+    "reply_count": 88,
+    "retweet_count": 17636,
+    "favorite_count": 21539,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1056422958871150592,
+          "id_str": "1056422958871150592",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqkrFXwVAAAY0P5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqkrFXwVAAAY0P5.jpg",
+          "url": "https://t.co/cBznQovdl7",
+          "display_url": "pic.twitter.com/cBznQovdl7",
+          "expanded_url": "https://twitter.com/kuma_045/status/1056422984469032960/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 328,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 987,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 579,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1056422958871150592,
+          "id_str": "1056422958871150592",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqkrFXwVAAAY0P5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqkrFXwVAAAY0P5.jpg",
+          "url": "https://t.co/cBznQovdl7",
+          "display_url": "pic.twitter.com/cBznQovdl7",
+          "expanded_url": "https://twitter.com/kuma_045/status/1056422984469032960/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 328,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 987,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 579,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1056422967175860224,
+          "id_str": "1056422967175860224",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqkrF2sU0AAzHG2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqkrF2sU0AAzHG2.jpg",
+          "url": "https://t.co/cBznQovdl7",
+          "display_url": "pic.twitter.com/cBznQovdl7",
+          "expanded_url": "https://twitter.com/kuma_045/status/1056422984469032960/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 328,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 579,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 987,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1056422976139124741,
+          "id_str": "1056422976139124741",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqkrGYFVYAU-Ugf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqkrGYFVYAU-Ugf.jpg",
+          "url": "https://t.co/cBznQovdl7",
+          "display_url": "pic.twitter.com/cBznQovdl7",
+          "expanded_url": "https://twitter.com/kuma_045/status/1056422984469032960/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 328,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 579,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 987,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "kuma_045",
+        "name": "しゅんた",
+        "id": 266121714,
+        "id_str": "266121714",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1056422958871150592,
+        "id_str": "1056422958871150592",
+        "indices": [
+          48,
+          71
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqkrFXwVAAAY0P5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqkrFXwVAAAY0P5.jpg",
+        "url": "https://t.co/cBznQovdl7",
+        "display_url": "pic.twitter.com/cBznQovdl7",
+        "expanded_url": "https://twitter.com/kuma_045/status/1056422984469032960/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 328,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 987,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 579,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1056422984469032960,
+        "source_status_id_str": "1056422984469032960",
+        "source_user_id": 266121714,
+        "source_user_id_str": "266121714"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1056422958871150592,
+        "id_str": "1056422958871150592",
+        "indices": [
+          48,
+          71
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqkrFXwVAAAY0P5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqkrFXwVAAAY0P5.jpg",
+        "url": "https://t.co/cBznQovdl7",
+        "display_url": "pic.twitter.com/cBznQovdl7",
+        "expanded_url": "https://twitter.com/kuma_045/status/1056422984469032960/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 328,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 987,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 579,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1056422984469032960,
+        "source_status_id_str": "1056422984469032960",
+        "source_user_id": 266121714,
+        "source_user_id_str": "266121714"
+      },
+      {
+        "id": 1056422967175860224,
+        "id_str": "1056422967175860224",
+        "indices": [
+          48,
+          71
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqkrF2sU0AAzHG2.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqkrF2sU0AAzHG2.jpg",
+        "url": "https://t.co/cBznQovdl7",
+        "display_url": "pic.twitter.com/cBznQovdl7",
+        "expanded_url": "https://twitter.com/kuma_045/status/1056422984469032960/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 328,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 579,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 987,
+            "h": 2048,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1056422984469032960,
+        "source_status_id_str": "1056422984469032960",
+        "source_user_id": 266121714,
+        "source_user_id_str": "266121714"
+      },
+      {
+        "id": 1056422976139124741,
+        "id_str": "1056422976139124741",
+        "indices": [
+          48,
+          71
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqkrGYFVYAU-Ugf.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqkrGYFVYAU-Ugf.jpg",
+        "url": "https://t.co/cBznQovdl7",
+        "display_url": "pic.twitter.com/cBznQovdl7",
+        "expanded_url": "https://twitter.com/kuma_045/status/1056422984469032960/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 328,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 579,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 987,
+            "h": 2048,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1056422984469032960,
+        "source_status_id_str": "1056422984469032960",
+        "source_user_id": 266121714,
+        "source_user_id_str": "266121714"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254485661"
+}

@@ -1,0 +1,143 @@
+{
+  "created_at": "Sat Nov 03 14:19:05 +0000 2018",
+  "id": 1058725255189946368,
+  "id_str": "1058725255189946368",
+  "text": "@suikasu123 @dental_ske48 握手会レポ180%共感出来すぎます😭私も譜久村さんと初めて握手会した時、目を見た瞬間あまりの聖母感に圧倒されて一時停止してしまい「あっあ…大好きです…」としか言えない不審者となり… https://t.co/UOj7a5R4rK",
+  "display_text_range": [
+    26,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": true,
+  "in_reply_to_status_id": 1058719600458616832,
+  "in_reply_to_status_id_str": "1058719600458616832",
+  "in_reply_to_user_id": 910770230174953474,
+  "in_reply_to_user_id_str": "910770230174953474",
+  "in_reply_to_screen_name": "suikasu123",
+  "user": {
+    "id": 993000889710329857,
+    "id_str": "993000889710329857",
+    "name": "こけだま🔰++@Webデザイナーへの道⛰️😮💦グラレコ📝",
+    "screen_name": "hello_ookini",
+    "location": "毎日小さなイチを足していくハロヲタ",
+    "url": "https://note.mu/kokedama_note",
+    "description": "珍獣🐣として発見される→1月～Webデザイナー！😍→スキル😱→やるしかない🤣/#札幌Progateもくもく会 11/25/広報アシスタント×妻/書く描くグラレコ📝自然科学🏞️アドラー心理学❤️花💐  /楽しくわかりやすい伝え方😋2018.5.27-Progate/自分から楽しく😊DoitNow!",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1380,
+    "friends_count": 969,
+    "listed_count": 9,
+    "favourites_count": 14337,
+    "statuses_count": 6647,
+    "created_at": "Sun May 06 05:33:55 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/995997215628787712/WC2hMc71_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/995997215628787712/WC2hMc71_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/993000889710329857/1529168797",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "@suikasu123 @dental_ske48 握手会レポ180%共感出来すぎます😭私も譜久村さんと初めて握手会した時、目を見た瞬間あまりの聖母感に圧倒されて一時停止してしまい「あっあ…大好きです…」としか言えない不審者となりましたw\nあとりほりほとズッキと握手した後、何故か自然と涙出てきちゃました。キラキラしたお人形さんだった…😂",
+    "display_text_range": [
+      26,
+      169
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "suikasu123",
+          "name": "すいか@iパス仮合格💮🎉",
+          "id": 910770230174953474,
+          "id_str": "910770230174953474",
+          "indices": [
+            0,
+            11
+          ]
+        },
+        {
+          "screen_name": "dental_ske48",
+          "name": "矢作 有紀奈🍬💕(SKE48)",
+          "id": 905711758412701696,
+          "id_str": "905711758412701696",
+          "indices": [
+            12,
+            25
+          ]
+        }
+      ],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/UOj7a5R4rK",
+        "expanded_url": "https://twitter.com/i/web/status/1058725255189946368",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "suikasu123",
+        "name": "すいか@iパス仮合格💮🎉",
+        "id": 910770230174953474,
+        "id_str": "910770230174953474",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "dental_ske48",
+        "name": "矢作 有紀奈🍬💕(SKE48)",
+        "id": 905711758412701696,
+        "id_str": "905711758412701696",
+        "indices": [
+          12,
+          25
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254745658"
+}

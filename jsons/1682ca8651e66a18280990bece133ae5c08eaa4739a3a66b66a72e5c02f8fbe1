@@ -1,0 +1,221 @@
+{
+  "created_at": "Sat Nov 03 14:20:05 +0000 2018",
+  "id": 1058725506873352192,
+  "id_str": "1058725506873352192",
+  "text": "@satoshi_why 残念！\n明日もRTで参加可能！\n更にプレゼント→https://t.co/EYspzcWZkk\n\nNECイベントの最新情報はこちら\nhttps://t.co/E6ibX2fS03 https://t.co/nYAk3gVbQY",
+  "display_text_range": [
+    0,
+    102
+  ],
+  "source": "<a href=\"http://www.aainc.co.jp/\" rel=\"nofollow\">Echoes Act2</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 740088437974269953,
+  "in_reply_to_user_id_str": "740088437974269953",
+  "in_reply_to_screen_name": "satoshi_why",
+  "user": {
+    "id": 128023511,
+    "id_str": "128023511",
+    "name": "NEC (公式)",
+    "screen_name": "NEC_jp_pr",
+    "location": "東京都港区芝5-7-1",
+    "url": "http://jpn.nec.com/press/",
+    "description": "NECの公式アカウント。プレスリリースやNECの様々なトピックスを発信します。アカウントポリシー及び内容に関する詳細のお問い合わせは　https://t.co/6cKQS9hUqfをご覧下さい。発信する情報は、様々な後発事象等によって変更される可能性がありますので、予めご了承ください。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": true,
+    "followers_count": 26030,
+    "friends_count": 42,
+    "listed_count": 308,
+    "favourites_count": 112,
+    "statuses_count": 89332,
+    "created_at": "Tue Mar 30 22:08:10 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/753766115101159424/5TWSIj5k_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/753766115101159424/5TWSIj5k_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/128023511/1491177514",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/EYspzcWZkk",
+        "expanded_url": "https://wisdom.nec.com/ja/twc/",
+        "display_url": "wisdom.nec.com/ja/twc/",
+        "indices": [
+          37,
+          60
+        ]
+      },
+      {
+        "url": "https://t.co/E6ibX2fS03",
+        "expanded_url": "https://uf-iexpo.nec/?cid=ie2018n_sns19n_tw",
+        "display_url": "uf-iexpo.nec/?cid=ie2018n_s…",
+        "indices": [
+          79,
+          102
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "satoshi_why",
+        "name": "くらいむ",
+        "id": 740088437974269953,
+        "id_str": "740088437974269953",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1049599428183523328,
+        "id_str": "1049599428183523328",
+        "indices": [
+          103,
+          126
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1049599428183523328/img/s6mwjPrTTRuOzyLu.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1049599428183523328/img/s6mwjPrTTRuOzyLu.jpg",
+        "url": "https://t.co/nYAk3gVbQY",
+        "display_url": "pic.twitter.com/nYAk3gVbQY",
+        "expanded_url": "https://twitter.com/NEC_jp_pr/status/1058725506873352192/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1049599428183523328,
+        "id_str": "1049599428183523328",
+        "indices": [
+          103,
+          126
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1049599428183523328/img/s6mwjPrTTRuOzyLu.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1049599428183523328/img/s6mwjPrTTRuOzyLu.jpg",
+        "url": "https://t.co/nYAk3gVbQY",
+        "display_url": "pic.twitter.com/nYAk3gVbQY",
+        "expanded_url": "https://twitter.com/NEC_jp_pr/status/1058725506873352192/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 15933,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1049599428183523328/vid/480x480/uFJVOPc4JtjL8hjl.mp4?tag=8"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1049599428183523328/pl/sqk3Qtokw8RjmCa6.m3u8?tag=8"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1049599428183523328/vid/240x240/rn2gUil1sZZWNguA.mp4?tag=8"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1049599428183523328/vid/720x720/pvt8MlCqJwuApJWJ.mp4?tag=8"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254805664"
+}

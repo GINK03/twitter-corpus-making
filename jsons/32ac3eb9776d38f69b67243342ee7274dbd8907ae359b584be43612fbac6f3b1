@@ -1,0 +1,93 @@
+{
+  "created_at": "Sat Nov 03 13:58:31 +0000 2018",
+  "id": 1058720079121080320,
+  "id_str": "1058720079121080320",
+  "text": "ヴァルキリーの強さに戦慄〜ラストのスキル上げたりSAOコラボ語ったり！おいで！ #パズドラ | https://t.co/gf3ss8svTV",
+  "source": "<a href=\"https://www.mirrativ.com\" rel=\"nofollow\">Mirrativ</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 930456255381901312,
+    "id_str": "930456255381901312",
+    "name": "爆死を司る自称厄災と不幸の神 真・核爆死の狐饂飩饅頭改二甲Ver.1.41 SAN値⤵⤵ 通称:核爆",
+    "screen_name": "k_udon56721",
+    "location": "ハッ…パズドラはいつから編成を考えるゲームだと錯覚していた？",
+    "url": null,
+    "description": "娯楽が大好きな語彙力無さすぎるなんにも出来ない雑魚です。_(_´-ω-`)_\nパズドラマルチのお誘い大歓迎！！\n仕事？知らない子ですね！\nたまに落書き…\nどんどん絡んでね〜。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 219,
+    "friends_count": 210,
+    "listed_count": 1,
+    "favourites_count": 5422,
+    "statuses_count": 690,
+    "created_at": "Tue Nov 14 15:23:53 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1044117279246618624/JeHX-jjS_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044117279246618624/JeHX-jjS_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/930456255381901312/1539099845",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラ",
+        "indices": [
+          40,
+          45
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/gf3ss8svTV",
+        "expanded_url": "https://www.mirrativ.com/live/JNPusnnBJQLDOLXp6_NbMw?token=wXmtrKtis4l6w5pygPSpHA",
+        "display_url": "mirrativ.com/live/JNPusnnBJ…",
+        "indices": [
+          48,
+          71
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253511587"
+}

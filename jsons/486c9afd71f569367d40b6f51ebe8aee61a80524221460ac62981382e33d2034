@@ -1,0 +1,123 @@
+{
+  "created_at": "Sat Nov 03 14:20:56 +0000 2018",
+  "id": 1058725720787021825,
+  "id_str": "1058725720787021825",
+  "text": "@108ego 正直、ギョギョラス使ってる人なんてほとんどいないと思います……扱いづらいカードですし……\n元は侵略と同時に革命チェンジして使い回すというコンセプトで組み始めて、今ではお気に入りのデッキです\n使いどころは難しいですが… https://t.co/K5Hg2DZWiL",
+  "display_text_range": [
+    8,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": true,
+  "in_reply_to_status_id": 1058724687046369280,
+  "in_reply_to_status_id_str": "1058724687046369280",
+  "in_reply_to_user_id": 890199578967818240,
+  "in_reply_to_user_id_str": "890199578967818240",
+  "in_reply_to_screen_name": "108ego",
+  "user": {
+    "id": 4416306493,
+    "id_str": "4416306493",
+    "name": "モノクロのらいおん",
+    "screen_name": "whiteblackmono6",
+    "location": null,
+    "url": null,
+    "description": "いっぺん死んでから学ぶ獣",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 817,
+    "friends_count": 956,
+    "listed_count": 12,
+    "favourites_count": 57153,
+    "statuses_count": 80175,
+    "created_at": "Tue Dec 01 03:14:34 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/999295862416158728/sDH8pztu_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/999295862416158728/sDH8pztu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4416306493/1504826788",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "@108ego 正直、ギョギョラス使ってる人なんてほとんどいないと思います……扱いづらいカードですし……\n元は侵略と同時に革命チェンジして使い回すというコンセプトで組み始めて、今ではお気に入りのデッキです\n使いどころは難しいですが、打点上昇、除去、追加打点確保など、上手く使えたら楽しいです",
+    "display_text_range": [
+      8,
+      145
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "108ego",
+          "name": "ホワイト･ラム",
+          "id": 890199578967818240,
+          "id_str": "890199578967818240",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/K5Hg2DZWiL",
+        "expanded_url": "https://twitter.com/i/web/status/1058725720787021825",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "108ego",
+        "name": "ホワイト･ラム",
+        "id": 890199578967818240,
+        "id_str": "890199578967818240",
+        "indices": [
+          0,
+          7
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254856665"
+}

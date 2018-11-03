@@ -1,0 +1,167 @@
+{
+  "created_at": "Sat Nov 03 14:14:05 +0000 2018",
+  "id": 1058723996928139264,
+  "id_str": "1058723996928139264",
+  "text": "News: 練習試合結果のお知らせ（清水エスパルス） https://t.co/RQcGWN7sYp https://t.co/ECAJkwLRnr",
+  "display_text_range": [
+    0,
+    50
+  ],
+  "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14450586,
+    "id_str": "14450586",
+    "name": "湘南ベルマーレニュース",
+    "screen_name": "bellmare_news",
+    "location": "Shonan BMWスタジアム平塚",
+    "url": "http://twilog.org/bellmare_news/stats",
+    "description": "湘南公式サイトやGoogleNews,YouTubeなどから、#Bellmare 関連情報をお知らせしております。 なお、このアカウントは個人運営の自動配信botです。各リンク先の記載内容についての関わりはございません。（unofficial/非公式・2008年04月20日開設）",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2049,
+    "friends_count": 1094,
+    "listed_count": 140,
+    "favourites_count": 1,
+    "statuses_count": 49302,
+    "created_at": "Sun Apr 20 10:06:12 +0000 2008",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "55CC33",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "E6D62B",
+    "profile_sidebar_fill_color": "66FF00",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/948395677914054656/eunjFpTJ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/948395677914054656/eunjFpTJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14450586/1358949740",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/RQcGWN7sYp",
+        "expanded_url": "http://dlvr.it/QqMQXY",
+        "display_url": "dlvr.it/QqMQXY",
+        "indices": [
+          27,
+          50
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058723994289889281,
+        "id_str": "1058723994289889281",
+        "indices": [
+          51,
+          74
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFX3QrU4AEcY_I.png",
+        "media_url_https": "https://pbs.twimg.com/media/DrFX3QrU4AEcY_I.png",
+        "url": "https://t.co/ECAJkwLRnr",
+        "display_url": "pic.twitter.com/ECAJkwLRnr",
+        "expanded_url": "https://twitter.com/bellmare_news/status/1058723996928139264/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 630,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 357,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1200,
+            "h": 630,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058723994289889281,
+        "id_str": "1058723994289889281",
+        "indices": [
+          51,
+          74
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFX3QrU4AEcY_I.png",
+        "media_url_https": "https://pbs.twimg.com/media/DrFX3QrU4AEcY_I.png",
+        "url": "https://t.co/ECAJkwLRnr",
+        "display_url": "pic.twitter.com/ECAJkwLRnr",
+        "expanded_url": "https://twitter.com/bellmare_news/status/1058723996928139264/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 630,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 357,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1200,
+            "h": 630,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254445665"
+}

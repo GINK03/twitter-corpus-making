@@ -1,0 +1,93 @@
+{
+  "created_at": "Sat Nov 03 14:06:12 +0000 2018",
+  "id": 1058722010413449216,
+  "id_str": "1058722010413449216",
+  "text": "【生放送】FGOやりはじめた！131目!ｵｰﾊﾞｰﾋｰﾄ系生主！セイレム！ を開始しました。 https://t.co/YMC9UIaDYS #lv316667183",
+  "source": "<a href=\"http://www.nicovideo.jp/\" rel=\"nofollow\">niconico ニコレポ連携</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 494669065,
+    "id_str": "494669065",
+    "name": "ラキ@放送でさびしんぼ",
+    "screen_name": "raki2926",
+    "location": null,
+    "url": null,
+    "description": "充電中o(｀ω´ )o",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 487,
+    "friends_count": 418,
+    "listed_count": 18,
+    "favourites_count": 113,
+    "statuses_count": 27032,
+    "created_at": "Fri Feb 17 04:14:03 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/439046162247467008/jrba_0BS_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/439046162247467008/jrba_0BS_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/494669065/1393511737",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "lv316667183",
+        "indices": [
+          71,
+          83
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/YMC9UIaDYS",
+        "expanded_url": "http://nico.ms/lv316667183?nicorepotwitter_live_start",
+        "display_url": "nico.ms/lv316667183?ni…",
+        "indices": [
+          47,
+          70
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253972043"
+}

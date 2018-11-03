@@ -1,0 +1,103 @@
+{
+  "created_at": "Sat Nov 03 14:02:57 +0000 2018",
+  "id": 1058721193329516545,
+  "id_str": "1058721193329516545",
+  "text": "【定期】\nFate\nテイルズシリーズ\n大神\nPSO2\n艦これ\n刀剣乱舞\n\n血界戦線\n東京喰種\n進撃の巨人\n\n#アニメ好きと繋がりたい\n#ゲーム好きと繋がりたい\n#RTした人全員フォローする\n#相互希望です",
+  "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4896068808,
+    "id_str": "4896068808",
+    "name": "ラテ@FGOなう",
+    "screen_name": "w_fatego",
+    "location": null,
+    "url": null,
+    "description": "ZeroからSN、EXTRAとハマり続けて数年…型月のATMになれそう  \n8月からandroidでFGO始めました。エリちゃん愛おしい。でも本命は外道麻婆\n\nFate関連で話せる人に飢えてます…",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 193,
+    "friends_count": 203,
+    "listed_count": 0,
+    "favourites_count": 1,
+    "statuses_count": 1338,
+    "created_at": "Fri Feb 12 06:44:39 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "E81C4F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/698036454165852160/IpRQbuER_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/698036454165852160/IpRQbuER_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4896068808/1455284945",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "アニメ好きと繋がりたい",
+        "indices": [
+          54,
+          66
+        ]
+      },
+      {
+        "text": "ゲーム好きと繋がりたい",
+        "indices": [
+          67,
+          79
+        ]
+      },
+      {
+        "text": "RTした人全員フォローする",
+        "indices": [
+          80,
+          94
+        ]
+      },
+      {
+        "text": "相互希望です",
+        "indices": [
+          95,
+          102
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253777235"
+}

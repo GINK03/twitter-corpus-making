@@ -1,0 +1,344 @@
+{
+  "created_at": "Sat Nov 03 14:26:14 +0000 2018",
+  "id": 1058727054558945280,
+  "id_str": "1058727054558945280",
+  "text": "RT @tou_oh_: 落書きダイスケくん #放サモファンアート https://t.co/gLPr2ICuxZ",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 290866913,
+    "id_str": "290866913",
+    "name": "とーおー",
+    "screen_name": "tou_oh_",
+    "location": null,
+    "url": null,
+    "description": "龍桜です。趣味でお絵描きしてる雑多垢。チキンメンタルかつ身体がアホみたいに弱い。優しくしてほしい。20↑ イラストなどの転載・無断使用・自作発言禁止。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1276,
+    "friends_count": 372,
+    "listed_count": 39,
+    "favourites_count": 19391,
+    "statuses_count": 97358,
+    "created_at": "Sun May 01 02:36:31 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F58EA8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "981CEB",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1025396830207500288/vwEsYG_G_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025396830207500288/vwEsYG_G_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/290866913/1541254927",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Jun 04 15:56:41 +0000 2018",
+    "id": 1003666861995638785,
+    "id_str": "1003666861995638785",
+    "text": "落書きダイスケくん #放サモファンアート https://t.co/gLPr2ICuxZ",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 290866913,
+      "id_str": "290866913",
+      "name": "とーおー",
+      "screen_name": "tou_oh_",
+      "location": null,
+      "url": null,
+      "description": "龍桜です。趣味でお絵描きしてる雑多垢。チキンメンタルかつ身体がアホみたいに弱い。優しくしてほしい。20↑ イラストなどの転載・無断使用・自作発言禁止。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1276,
+      "friends_count": 372,
+      "listed_count": 39,
+      "favourites_count": 19391,
+      "statuses_count": 97357,
+      "created_at": "Sun May 01 02:36:31 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F58EA8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1025396830207500288/vwEsYG_G_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025396830207500288/vwEsYG_G_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/290866913/1541254927",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 33,
+    "favorite_count": 155,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "放サモファンアート",
+          "indices": [
+            10,
+            20
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1003666856371093506,
+          "id_str": "1003666856371093506",
+          "indices": [
+            21,
+            44
+          ],
+          "media_url": "http://pbs.twimg.com/media/De29sC7VAAIdO9w.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/De29sC7VAAIdO9w.jpg",
+          "url": "https://t.co/gLPr2ICuxZ",
+          "display_url": "pic.twitter.com/gLPr2ICuxZ",
+          "expanded_url": "https://twitter.com/tou_oh_/status/1003666861995638785/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 968,
+              "h": 931,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 968,
+              "h": 931,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 654,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1003666856371093506,
+          "id_str": "1003666856371093506",
+          "indices": [
+            21,
+            44
+          ],
+          "media_url": "http://pbs.twimg.com/media/De29sC7VAAIdO9w.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/De29sC7VAAIdO9w.jpg",
+          "url": "https://t.co/gLPr2ICuxZ",
+          "display_url": "pic.twitter.com/gLPr2ICuxZ",
+          "expanded_url": "https://twitter.com/tou_oh_/status/1003666861995638785/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 968,
+              "h": 931,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 968,
+              "h": 931,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 654,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "放サモファンアート",
+        "indices": [
+          23,
+          33
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "tou_oh_",
+        "name": "とーおー",
+        "id": 290866913,
+        "id_str": "290866913",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1003666856371093506,
+        "id_str": "1003666856371093506",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/media/De29sC7VAAIdO9w.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/De29sC7VAAIdO9w.jpg",
+        "url": "https://t.co/gLPr2ICuxZ",
+        "display_url": "pic.twitter.com/gLPr2ICuxZ",
+        "expanded_url": "https://twitter.com/tou_oh_/status/1003666861995638785/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 968,
+            "h": 931,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 968,
+            "h": 931,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 654,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1003666861995638785,
+        "source_status_id_str": "1003666861995638785",
+        "source_user_id": 290866913,
+        "source_user_id_str": "290866913"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1003666856371093506,
+        "id_str": "1003666856371093506",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/media/De29sC7VAAIdO9w.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/De29sC7VAAIdO9w.jpg",
+        "url": "https://t.co/gLPr2ICuxZ",
+        "display_url": "pic.twitter.com/gLPr2ICuxZ",
+        "expanded_url": "https://twitter.com/tou_oh_/status/1003666861995638785/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 968,
+            "h": 931,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 968,
+            "h": 931,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 654,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1003666861995638785,
+        "source_status_id_str": "1003666861995638785",
+        "source_user_id": 290866913,
+        "source_user_id_str": "290866913"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255174661"
+}

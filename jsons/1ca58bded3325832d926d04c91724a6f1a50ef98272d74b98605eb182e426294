@@ -1,0 +1,258 @@
+{
+  "created_at": "Sat Nov 03 14:21:04 +0000 2018",
+  "id": 1058725754333159424,
+  "id_str": "1058725754333159424",
+  "text": "【NEWS】KOJOE、昨年リリースの『here』より「Day n Nite」MV公開　ドローンによるモーション・コントロール撮影を駆使 https://t.co/WewEadzguo #spin_news @iamkojoe https://t.co/j3wxqzyWF8",
+  "display_text_range": [
+    0,
+    113
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1669735370,
+    "id_str": "1669735370",
+    "name": "Spincoaster／スピンコースター",
+    "screen_name": "Spincoaster",
+    "location": "Tokyo",
+    "url": "https://spincoaster.com",
+    "description": "『心が震える音楽との出逢いを』独自に厳選した国内外の新鋭MUSICを紹介。音楽ニュース、ここでしか読めないミュージシャンのルーツやインタビューを掲載。Japanese music media for new music.| 南新宿でMusic Barも営業🍸https://linktr.ee/spincoaster",
+    "translator_type": "none",
+    "protected": false,
+    "verified": true,
+    "followers_count": 15434,
+    "friends_count": 937,
+    "listed_count": 354,
+    "favourites_count": 21445,
+    "statuses_count": 23260,
+    "created_at": "Wed Aug 14 06:52:41 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F5F5",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "383838",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/732408312533131264/JtVFBIC6_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/732408312533131264/JtVFBIC6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669735370/1531019158",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "spin_news",
+        "indices": [
+          93,
+          103
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/WewEadzguo",
+        "expanded_url": "https://spincoaster.com/news/kojoe-share-day-n-nite-mv-from-here",
+        "display_url": "spincoaster.com/news/kojoe-sha…",
+        "indices": [
+          69,
+          92
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "iamkojoe",
+        "name": "Kojoe",
+        "id": 89852913,
+        "id_str": "89852913",
+        "indices": [
+          104,
+          113
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058725587987062785,
+        "id_str": "1058725587987062785",
+        "indices": [
+          114,
+          137
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZUBqV4AEo4q-.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZUBqV4AEo4q-.jpg",
+        "url": "https://t.co/j3wxqzyWF8",
+        "display_url": "pic.twitter.com/j3wxqzyWF8",
+        "expanded_url": "https://twitter.com/Spincoaster/status/1058725754333159424/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058725587987062785,
+        "id_str": "1058725587987062785",
+        "indices": [
+          114,
+          137
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZUBqV4AEo4q-.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZUBqV4AEo4q-.jpg",
+        "url": "https://t.co/j3wxqzyWF8",
+        "display_url": "pic.twitter.com/j3wxqzyWF8",
+        "expanded_url": "https://twitter.com/Spincoaster/status/1058725754333159424/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058725624037011456,
+        "id_str": "1058725624037011456",
+        "indices": [
+          114,
+          137
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZWH9UcAAgwBM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZWH9UcAAgwBM.jpg",
+        "url": "https://t.co/j3wxqzyWF8",
+        "display_url": "pic.twitter.com/j3wxqzyWF8",
+        "expanded_url": "https://twitter.com/Spincoaster/status/1058725754333159424/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 453,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 682,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 682,
+            "h": 1024,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058725624343195649,
+        "id_str": "1058725624343195649",
+        "indices": [
+          114,
+          137
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZWJGUcAEayJR.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZWJGUcAEayJR.jpg",
+        "url": "https://t.co/j3wxqzyWF8",
+        "display_url": "pic.twitter.com/j3wxqzyWF8",
+        "expanded_url": "https://twitter.com/Spincoaster/status/1058725754333159424/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 2048,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254864663"
+}

@@ -1,0 +1,582 @@
+{
+  "created_at": "Sat Nov 03 14:11:52 +0000 2018",
+  "id": 1058723436661374977,
+  "id_str": "1058723436661374977",
+  "text": "RT @wen_kimagure: キャンセルでました。てことで絶賛取引相手募集中です！ https://t.co/6Jcgmq38Rr",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1044121826798952448,
+    "id_str": "1044121826798952448",
+    "name": "みおぱ🙌@明後日から低浮上",
+    "screen_name": "poppinparty_mi",
+    "location": "10/2-相方記念日💏🎂💕",
+    "url": "https://bang-dream.com/",
+    "description": "みんな今までありがとう。 ※プロフィールはまた浮上したら戻します、 12月に戻ってきまーす！ (*⌒▽⌒*)// 明後日にログアウト。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1958,
+    "friends_count": 2350,
+    "listed_count": 15,
+    "favourites_count": 3662,
+    "statuses_count": 3383,
+    "created_at": "Mon Sep 24 07:10:17 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056906566685745152/jxSTdqOv_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056906566685745152/jxSTdqOv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1044121826798952448/1540891844",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:11:31 +0000 2018",
+    "id": 1058723351437303810,
+    "id_str": "1058723351437303810",
+    "text": "キャンセルでました。てことで絶賛取引相手募集中です！ https://t.co/6Jcgmq38Rr",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 978053948085911552,
+      "id_str": "978053948085911552",
+      "name": "wen@基本的に宣伝のみ",
+      "screen_name": "wen_kimagure",
+      "location": null,
+      "url": null,
+      "description": "【@u_fd99】【@ichinose_ban】主にパズドラ、モンストの垢を販売しています。【@namano_maguro】主にバンドリ垢を販売しています。【@479_X】主に代行をしている方です。無言フォロー失礼します。絡んでくれてとてもいい人！→@poppinparty_mi @4uDWjvuJezZltig",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 461,
+      "friends_count": 604,
+      "listed_count": 3,
+      "favourites_count": 1851,
+      "statuses_count": 2589,
+      "created_at": "Sun Mar 25 23:40:07 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1052862567188582400/C7VTlJK8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052862567188582400/C7VTlJK8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/978053948085911552/1538388501",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058422123461455872,
+    "quoted_status_id_str": "1058422123461455872",
+    "quoted_status": {
+      "created_at": "Fri Nov 02 18:14:33 +0000 2018",
+      "id": 1058422123461455872,
+      "id_str": "1058422123461455872",
+      "text": "この垢とパズドラの石垢or強垢希望ですm(_ _)m垢によっては石垢もつけます。気軽にDMお願いします！\n#バンドリ交換\n#バンドリ\n#パズドラ\n#パズドラ交換\n#垢交換 https://t.co/TIdXxP8uyT",
+      "display_text_range": [
+        0,
+        85
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 978053948085911552,
+        "id_str": "978053948085911552",
+        "name": "wen@基本的に宣伝のみ",
+        "screen_name": "wen_kimagure",
+        "location": null,
+        "url": null,
+        "description": "【@u_fd99】【@ichinose_ban】主にパズドラ、モンストの垢を販売しています。【@namano_maguro】主にバンドリ垢を販売しています。【@479_X】主に代行をしている方です。無言フォロー失礼します。絡んでくれてとてもいい人！→@poppinparty_mi @4uDWjvuJezZltig",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 461,
+        "friends_count": 604,
+        "listed_count": 3,
+        "favourites_count": 1851,
+        "statuses_count": 2589,
+        "created_at": "Sun Mar 25 23:40:07 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1052862567188582400/C7VTlJK8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052862567188582400/C7VTlJK8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/978053948085911552/1538388501",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 5,
+      "reply_count": 1,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "バンドリ交換",
+            "indices": [
+              53,
+              60
+            ]
+          },
+          {
+            "text": "バンドリ",
+            "indices": [
+              61,
+              66
+            ]
+          },
+          {
+            "text": "パズドラ",
+            "indices": [
+              67,
+              72
+            ]
+          },
+          {
+            "text": "パズドラ交換",
+            "indices": [
+              73,
+              80
+            ]
+          },
+          {
+            "text": "垢交換",
+            "indices": [
+              81,
+              85
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058422110391984129,
+            "id_str": "1058422110391984129",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrBFTThVYAEJr_K.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrBFTThVYAEJr_K.jpg",
+            "url": "https://t.co/TIdXxP8uyT",
+            "display_url": "pic.twitter.com/TIdXxP8uyT",
+            "expanded_url": "https://twitter.com/wen_kimagure/status/1058422123461455872/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058422110391984129,
+            "id_str": "1058422110391984129",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrBFTThVYAEJr_K.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrBFTThVYAEJr_K.jpg",
+            "url": "https://t.co/TIdXxP8uyT",
+            "display_url": "pic.twitter.com/TIdXxP8uyT",
+            "expanded_url": "https://twitter.com/wen_kimagure/status/1058422123461455872/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/6Jcgmq38Rr",
+      "expanded": "https://twitter.com/wen_kimagure/status/1058422123461455872",
+      "display": "twitter.com/wen_kimagure/s…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/6Jcgmq38Rr",
+          "expanded_url": "https://twitter.com/wen_kimagure/status/1058422123461455872",
+          "display_url": "twitter.com/wen_kimagure/s…",
+          "indices": [
+            27,
+            50
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058422123461455872,
+  "quoted_status_id_str": "1058422123461455872",
+  "quoted_status": {
+    "created_at": "Fri Nov 02 18:14:33 +0000 2018",
+    "id": 1058422123461455872,
+    "id_str": "1058422123461455872",
+    "text": "この垢とパズドラの石垢or強垢希望ですm(_ _)m垢によっては石垢もつけます。気軽にDMお願いします！\n#バンドリ交換\n#バンドリ\n#パズドラ\n#パズドラ交換\n#垢交換 https://t.co/TIdXxP8uyT",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 978053948085911552,
+      "id_str": "978053948085911552",
+      "name": "wen@基本的に宣伝のみ",
+      "screen_name": "wen_kimagure",
+      "location": null,
+      "url": null,
+      "description": "【@u_fd99】【@ichinose_ban】主にパズドラ、モンストの垢を販売しています。【@namano_maguro】主にバンドリ垢を販売しています。【@479_X】主に代行をしている方です。無言フォロー失礼します。絡んでくれてとてもいい人！→@poppinparty_mi @4uDWjvuJezZltig",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 461,
+      "friends_count": 604,
+      "listed_count": 3,
+      "favourites_count": 1851,
+      "statuses_count": 2589,
+      "created_at": "Sun Mar 25 23:40:07 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1052862567188582400/C7VTlJK8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052862567188582400/C7VTlJK8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/978053948085911552/1538388501",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 5,
+    "reply_count": 1,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "バンドリ交換",
+          "indices": [
+            53,
+            60
+          ]
+        },
+        {
+          "text": "バンドリ",
+          "indices": [
+            61,
+            66
+          ]
+        },
+        {
+          "text": "パズドラ",
+          "indices": [
+            67,
+            72
+          ]
+        },
+        {
+          "text": "パズドラ交換",
+          "indices": [
+            73,
+            80
+          ]
+        },
+        {
+          "text": "垢交換",
+          "indices": [
+            81,
+            85
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058422110391984129,
+          "id_str": "1058422110391984129",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrBFTThVYAEJr_K.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrBFTThVYAEJr_K.jpg",
+          "url": "https://t.co/TIdXxP8uyT",
+          "display_url": "pic.twitter.com/TIdXxP8uyT",
+          "expanded_url": "https://twitter.com/wen_kimagure/status/1058422123461455872/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058422110391984129,
+          "id_str": "1058422110391984129",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrBFTThVYAEJr_K.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrBFTThVYAEJr_K.jpg",
+          "url": "https://t.co/TIdXxP8uyT",
+          "display_url": "pic.twitter.com/TIdXxP8uyT",
+          "expanded_url": "https://twitter.com/wen_kimagure/status/1058422123461455872/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/6Jcgmq38Rr",
+    "expanded": "https://twitter.com/wen_kimagure/status/1058422123461455872",
+    "display": "twitter.com/wen_kimagure/s…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/6Jcgmq38Rr",
+        "expanded_url": "https://twitter.com/wen_kimagure/status/1058422123461455872",
+        "display_url": "twitter.com/wen_kimagure/s…",
+        "indices": [
+          45,
+          68
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wen_kimagure",
+        "name": "wen@基本的に宣伝のみ",
+        "id": 978053948085911552,
+        "id_str": "978053948085911552",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254312087"
+}

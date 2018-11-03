@@ -1,0 +1,157 @@
+{
+  "created_at": "Sat Nov 03 14:25:56 +0000 2018",
+  "id": 1058726979044700163,
+  "id_str": "1058726979044700163",
+  "text": "東京アドベンチャーラインにしてはなかなかな過密運転してるな() https://t.co/5Nt4s6Vv7W",
+  "display_text_range": [
+    0,
+    31
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3170771335,
+    "id_str": "3170771335",
+    "name": "くっしー",
+    "screen_name": "kusshie_0214",
+    "location": "秩父多摩甲斐国立公園",
+    "url": null,
+    "description": "奥多摩っ子の国高70期800→横国都市科環リス／国高弦部→横国オケ／鉄オタで天気好きのチェロ弾き",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 603,
+    "friends_count": 622,
+    "listed_count": 0,
+    "favourites_count": 10045,
+    "statuses_count": 3159,
+    "created_at": "Fri Apr 24 12:44:45 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/859606097027637249/4DTcEbXj_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/859606097027637249/4DTcEbXj_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3170771335/1535033637",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058726974514900994,
+        "id_str": "1058726974514900994",
+        "indices": [
+          32,
+          55
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaku4VsAIG5EU.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaku4VsAIG5EU.jpg",
+        "url": "https://t.co/5Nt4s6Vv7W",
+        "display_url": "pic.twitter.com/5Nt4s6Vv7W",
+        "expanded_url": "https://twitter.com/kusshie_0214/status/1058726979044700163/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058726974514900994,
+        "id_str": "1058726974514900994",
+        "indices": [
+          32,
+          55
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaku4VsAIG5EU.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaku4VsAIG5EU.jpg",
+        "url": "https://t.co/5Nt4s6Vv7W",
+        "display_url": "pic.twitter.com/5Nt4s6Vv7W",
+        "expanded_url": "https://twitter.com/kusshie_0214/status/1058726979044700163/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255156657"
+}

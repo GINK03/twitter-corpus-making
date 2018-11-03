@@ -1,0 +1,110 @@
+{
+  "created_at": "Sat Nov 03 14:14:53 +0000 2018",
+  "id": 1058724198258925568,
+  "id_str": "1058724198258925568",
+  "text": "何なのあれ。ハイジャックをしたサンドロは絶対的にダメ。だけど、誰一人殺してない。警察が殺してどーする。罪の無い子供も殺してどーするよ。はぁー何か、心苦しいわ。\n#土曜プレミアム \n#ブラジル警察\n#サンドロ\n#スラム\n#ストリートチルドレン",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1010923775099932672,
+    "id_str": "1010923775099932672",
+    "name": "yui☆take",
+    "screen_name": "yuitake4",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 0,
+    "friends_count": 6,
+    "listed_count": 0,
+    "favourites_count": 23,
+    "statuses_count": 7,
+    "created_at": "Sun Jun 24 16:33:04 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1024249857840623616/7VJ87yE6_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024249857840623616/7VJ87yE6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1010923775099932672/1533035330",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "土曜プレミアム",
+        "indices": [
+          80,
+          88
+        ]
+      },
+      {
+        "text": "ブラジル警察",
+        "indices": [
+          90,
+          97
+        ]
+      },
+      {
+        "text": "サンドロ",
+        "indices": [
+          98,
+          103
+        ]
+      },
+      {
+        "text": "スラム",
+        "indices": [
+          104,
+          108
+        ]
+      },
+      {
+        "text": "ストリートチルドレン",
+        "indices": [
+          109,
+          120
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254493666"
+}

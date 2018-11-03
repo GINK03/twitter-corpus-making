@@ -1,0 +1,100 @@
+{
+  "created_at": "Sat Nov 03 14:02:37 +0000 2018",
+  "id": 1058721111540621315,
+  "id_str": "1058721111540621315",
+  "text": "パズドラ配信ーーー！  #パズドラ  #Mirrativ で配信中！  https://t.co/JYmph3GqvV",
+  "source": "<a href=\"https://www.mirrativ.com\" rel=\"nofollow\">Mirrativ</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4667415864,
+    "id_str": "4667415864",
+    "name": "しん@闇属性大好き",
+    "screen_name": "shin__CR",
+    "location": null,
+    "url": null,
+    "description": "闇属性が大好きな高校一年生！！和楽器バンドにハマったかも サッカーやっぱり楽しい パズドラやってるよ〜ランク900↑ もちにハマってもた のえりんLOVE DJSODA可愛いわ〜",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1333,
+    "friends_count": 1996,
+    "listed_count": 17,
+    "favourites_count": 7521,
+    "statuses_count": 6841,
+    "created_at": "Mon Dec 28 13:16:27 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1036590467255685125/rqaeQobO_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1036590467255685125/rqaeQobO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4667415864/1535007005",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラ",
+        "indices": [
+          12,
+          17
+        ]
+      },
+      {
+        "text": "Mirrativ",
+        "indices": [
+          19,
+          28
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/JYmph3GqvV",
+        "expanded_url": "https://www.mirrativ.com/live/VcDPxIaEID2I7GACfTW3lQ",
+        "display_url": "mirrativ.com/live/VcDPxIaEI…",
+        "indices": [
+          36,
+          59
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253757735"
+}

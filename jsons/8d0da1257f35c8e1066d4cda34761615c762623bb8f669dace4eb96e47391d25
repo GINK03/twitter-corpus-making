@@ -1,0 +1,114 @@
+{
+  "created_at": "Sat Nov 03 14:00:39 +0000 2018",
+  "id": 1058720616654635008,
+  "id_str": "1058720616654635008",
+  "text": "【疑問】Twitterでサポ欄殆ど宝具5で無課金って書いてる人居たんだけど、ウソじゃね？⇐\nhttps://t.co/FFUBA7PGbd\n#FGO #Fate #FateGO #ガチャ",
+  "source": "<a href=\"http://xn--fgo-gh8fn72e.com\" rel=\"nofollow\">FGO攻略まとめ隊</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 874836726589599744,
+    "id_str": "874836726589599744",
+    "name": "FGO攻略まとめ隊",
+    "screen_name": "fgo_fan",
+    "location": null,
+    "url": "http://xn--fgo-gh8fn72e.com/",
+    "description": "Fate/Grand Order（FGO）の攻略最新情報のまとめサイトです。FGOに関する最新情報の更新をこちらでお知らせしていきます。フォローお願いします",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1281,
+    "friends_count": 1330,
+    "listed_count": 9,
+    "favourites_count": 0,
+    "statuses_count": 14667,
+    "created_at": "Wed Jun 14 03:51:44 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874837368225886209/43c45Xxa_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874837368225886209/43c45Xxa_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/874836726589599744/1497412582",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          70,
+          74
+        ]
+      },
+      {
+        "text": "Fate",
+        "indices": [
+          75,
+          80
+        ]
+      },
+      {
+        "text": "FateGO",
+        "indices": [
+          81,
+          88
+        ]
+      },
+      {
+        "text": "ガチャ",
+        "indices": [
+          89,
+          93
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/FFUBA7PGbd",
+        "expanded_url": "https://xn--fgo-gh8fn72e.com/51437",
+        "display_url": "fgo攻略.com/51437",
+        "indices": [
+          46,
+          69
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253639745"
+}

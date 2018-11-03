@@ -1,0 +1,239 @@
+{
+  "created_at": "Sat Nov 03 14:15:28 +0000 2018",
+  "id": 1058724345055346688,
+  "id_str": "1058724345055346688",
+  "text": "@fallcelio 調べましたw\n流石にガーベラは花の中でもメジャーな分類ですしねw\n入力中の候補としてギリギリガーベラテトラが出てくるくらい。 https://t.co/CXd2OTHzuV",
+  "display_text_range": [
+    11,
+    73
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058722348285669378,
+  "in_reply_to_status_id_str": "1058722348285669378",
+  "in_reply_to_user_id": 102658482,
+  "in_reply_to_user_id_str": "102658482",
+  "in_reply_to_screen_name": "fallcelio",
+  "user": {
+    "id": 2928578209,
+    "id_str": "2928578209",
+    "name": "ヒヤマカズト",
+    "screen_name": "khiyama1",
+    "location": "日本",
+    "url": null,
+    "description": "そこら辺のゲーマーデス。昨今のホラー人気と逆走するホラー怖いな人間です。まんじゅうやダチョウ倶楽部じゃありません。特に都市伝説系、驚かし系、追いかけられる系がダメです。ミステリーや2時間サスペンスは大好きです。伝奇物はモノによります。 無言フォロー、いいね、リツイート失礼します。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 54,
+    "friends_count": 137,
+    "listed_count": 0,
+    "favourites_count": 5761,
+    "statuses_count": 4515,
+    "created_at": "Sat Dec 13 12:58:47 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/936064484002508800/3kUysxBg_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/936064484002508800/3kUysxBg_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "fallcelio",
+        "name": "会人（かいと）＠土曜ＴＲＰＧコン",
+        "id": 102658482,
+        "id_str": "102658482",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724340277989376,
+        "id_str": "1058724340277989376",
+        "indices": [
+          74,
+          97
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYLZlUUAA6bgF.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYLZlUUAA6bgF.jpg",
+        "url": "https://t.co/CXd2OTHzuV",
+        "display_url": "pic.twitter.com/CXd2OTHzuV",
+        "expanded_url": "https://twitter.com/khiyama1/status/1058724345055346688/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724340277989376,
+        "id_str": "1058724340277989376",
+        "indices": [
+          74,
+          97
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYLZlUUAA6bgF.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYLZlUUAA6bgF.jpg",
+        "url": "https://t.co/CXd2OTHzuV",
+        "display_url": "pic.twitter.com/CXd2OTHzuV",
+        "expanded_url": "https://twitter.com/khiyama1/status/1058724345055346688/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058724340265435141,
+        "id_str": "1058724340265435141",
+        "indices": [
+          74,
+          97
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYLZiUwAUEVPk.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYLZiUwAUEVPk.jpg",
+        "url": "https://t.co/CXd2OTHzuV",
+        "display_url": "pic.twitter.com/CXd2OTHzuV",
+        "expanded_url": "https://twitter.com/khiyama1/status/1058724345055346688/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058724340265496579,
+        "id_str": "1058724340265496579",
+        "indices": [
+          74,
+          97
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYLZiVsAMZ5EO.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYLZiVsAMZ5EO.jpg",
+        "url": "https://t.co/CXd2OTHzuV",
+        "display_url": "pic.twitter.com/CXd2OTHzuV",
+        "expanded_url": "https://twitter.com/khiyama1/status/1058724345055346688/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254528665"
+}

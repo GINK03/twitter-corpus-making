@@ -1,0 +1,166 @@
+{
+  "created_at": "Sat Nov 03 14:20:03 +0000 2018",
+  "id": 1058725498484744193,
+  "id_str": "1058725498484744193",
+  "text": "【人気商品情報】全100種以上　立体ポップアップ グリーティングカード:立体クリスマスツリー X... https://t.co/o4Pzpj8A7T https://t.co/YyJ7H96Zqo",
+  "display_text_range": [
+    0,
+    75
+  ],
+  "source": "<a href=\"https://delta-tracer.com/\" rel=\"nofollow\">delta_bot</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 985551067541790722,
+    "id_str": "985551067541790722",
+    "name": "DELTA tracer",
+    "screen_name": "delta_tracer",
+    "location": null,
+    "url": null,
+    "description": "DELTA tracerは、Amazonで販売されている最新の人気商品やお買い得商品、お宝商品などをリアルタイムで紹介していくサイトです。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 899,
+    "friends_count": 1502,
+    "listed_count": 0,
+    "favourites_count": 0,
+    "statuses_count": 13585,
+    "created_at": "Sun Apr 15 16:10:59 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "E81C4F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/985552128314769408/BUExFTdV_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/985552128314769408/BUExFTdV_normal.jpg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/o4Pzpj8A7T",
+        "expanded_url": "https://delta-tracer.com/r/a/B00AGAE74Y",
+        "display_url": "delta-tracer.com/r/a/B00AGAE74Y",
+        "indices": [
+          52,
+          75
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058725496635047936,
+        "id_str": "1058725496635047936",
+        "indices": [
+          76,
+          99
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZOtWUwAANeB8.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZOtWUwAANeB8.jpg",
+        "url": "https://t.co/YyJ7H96Zqo",
+        "display_url": "pic.twitter.com/YyJ7H96Zqo",
+        "expanded_url": "https://twitter.com/delta_tracer/status/1058725498484744193/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 500,
+            "h": 375,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 500,
+            "h": 375,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 500,
+            "h": 375,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058725496635047936,
+        "id_str": "1058725496635047936",
+        "indices": [
+          76,
+          99
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZOtWUwAANeB8.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZOtWUwAANeB8.jpg",
+        "url": "https://t.co/YyJ7H96Zqo",
+        "display_url": "pic.twitter.com/YyJ7H96Zqo",
+        "expanded_url": "https://twitter.com/delta_tracer/status/1058725498484744193/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 500,
+            "h": 375,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 500,
+            "h": 375,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 500,
+            "h": 375,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254803664"
+}

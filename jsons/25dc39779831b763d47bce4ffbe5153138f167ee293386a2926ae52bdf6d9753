@@ -1,0 +1,358 @@
+{
+  "created_at": "Sat Nov 03 13:54:09 +0000 2018",
+  "id": 1058718978825023488,
+  "id_str": "1058718978825023488",
+  "text": "RT @kanadeyasan: 過去絵な「？」\n#艦これ #艦隊これくしょん https://t.co/Jgu17aq74f",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2209081542,
+    "id_str": "2209081542",
+    "name": "KANADE◆二日目西せ01a",
+    "screen_name": "kanadeyasan",
+    "location": "ネオサイタマ",
+    "url": "http://pixiv.net/member.php?id=512038",
+    "description": "趣味多数男。絵とか描きます。鉱石や化石も集めます。 同人サークル「かなでや」として活動中。主に艦これで執筆してます。 時たまR-18絵をRTすることがありますのでご注意を。お仕事募集中。 ◆Gmail→kanadeyasan@gmail.com",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2296,
+    "friends_count": 646,
+    "listed_count": 46,
+    "favourites_count": 4469,
+    "statuses_count": 19932,
+    "created_at": "Fri Nov 22 14:49:38 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/680410971299430400/vkt3kUVF_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/680410971299430400/vkt3kUVF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2209081542/1526561764",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:22:41 +0000 2018",
+    "id": 1058711060054568960,
+    "id_str": "1058711060054568960",
+    "text": "過去絵な「？」\n#艦これ #艦隊これくしょん https://t.co/Jgu17aq74f",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2209081542,
+      "id_str": "2209081542",
+      "name": "KANADE◆二日目西せ01a",
+      "screen_name": "kanadeyasan",
+      "location": "ネオサイタマ",
+      "url": "http://pixiv.net/member.php?id=512038",
+      "description": "趣味多数男。絵とか描きます。鉱石や化石も集めます。 同人サークル「かなでや」として活動中。主に艦これで執筆してます。 時たまR-18絵をRTすることがありますのでご注意を。お仕事募集中。 ◆Gmail→kanadeyasan@gmail.com",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 2296,
+      "friends_count": 646,
+      "listed_count": 46,
+      "favourites_count": 4469,
+      "statuses_count": 19931,
+      "created_at": "Fri Nov 22 14:49:38 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/680410971299430400/vkt3kUVF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/680410971299430400/vkt3kUVF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2209081542/1526561764",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "艦これ",
+          "indices": [
+            8,
+            12
+          ]
+        },
+        {
+          "text": "艦隊これくしょん",
+          "indices": [
+            13,
+            22
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058710953158561792,
+          "id_str": "1058710953158561792",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFMAKrU0AAyexE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFMAKrU0AAyexE.jpg",
+          "url": "https://t.co/Jgu17aq74f",
+          "display_url": "pic.twitter.com/Jgu17aq74f",
+          "expanded_url": "https://twitter.com/kanadeyasan/status/1058711060054568960/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 537,
+              "h": 330,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 537,
+              "h": 330,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 537,
+              "h": 330,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058710953158561792,
+          "id_str": "1058710953158561792",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFMAKrU0AAyexE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFMAKrU0AAyexE.jpg",
+          "url": "https://t.co/Jgu17aq74f",
+          "display_url": "pic.twitter.com/Jgu17aq74f",
+          "expanded_url": "https://twitter.com/kanadeyasan/status/1058711060054568960/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 537,
+              "h": 330,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 537,
+              "h": 330,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 537,
+              "h": 330,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ",
+        "indices": [
+          25,
+          29
+        ]
+      },
+      {
+        "text": "艦隊これくしょん",
+        "indices": [
+          30,
+          39
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "kanadeyasan",
+        "name": "KANADE◆二日目西せ01a",
+        "id": 2209081542,
+        "id_str": "2209081542",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058710953158561792,
+        "id_str": "1058710953158561792",
+        "indices": [
+          40,
+          63
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFMAKrU0AAyexE.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFMAKrU0AAyexE.jpg",
+        "url": "https://t.co/Jgu17aq74f",
+        "display_url": "pic.twitter.com/Jgu17aq74f",
+        "expanded_url": "https://twitter.com/kanadeyasan/status/1058711060054568960/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 537,
+            "h": 330,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 537,
+            "h": 330,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 537,
+            "h": 330,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058711060054568960,
+        "source_status_id_str": "1058711060054568960",
+        "source_user_id": 2209081542,
+        "source_user_id_str": "2209081542"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058710953158561792,
+        "id_str": "1058710953158561792",
+        "indices": [
+          40,
+          63
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFMAKrU0AAyexE.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFMAKrU0AAyexE.jpg",
+        "url": "https://t.co/Jgu17aq74f",
+        "display_url": "pic.twitter.com/Jgu17aq74f",
+        "expanded_url": "https://twitter.com/kanadeyasan/status/1058711060054568960/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 537,
+            "h": 330,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 537,
+            "h": 330,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 537,
+            "h": 330,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058711060054568960,
+        "source_status_id_str": "1058711060054568960",
+        "source_user_id": 2209081542,
+        "source_user_id_str": "2209081542"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253249256"
+}

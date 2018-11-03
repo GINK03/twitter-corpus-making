@@ -1,0 +1,96 @@
+{
+  "created_at": "Sat Nov 03 14:16:42 +0000 2018",
+  "id": 1058724655433887745,
+  "id_str": "1058724655433887745",
+  "text": "【テニス雑学】\n\n9月23日は「テニスの日」\n由来は”スポーツに適したシーズンだから”\nざっくりすぎませんか？笑 #テニス #雑学 #フォロー大歓迎",
+  "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1008357359511408640,
+    "id_str": "1008357359511408640",
+    "name": "image's tennis",
+    "screen_name": "imagestennis1",
+    "location": "日本 東京",
+    "url": "https://www.youtube.com/channel/UCeBlkSK9puzySIlUHAJ-6Zg?view_as=subscriber",
+    "description": "気軽にフォローしていただけると嬉しいです！🎾\n\nyoutubeでテニスに関する動画をアップしています🎬スーパープレイから面白いものまであらゆる角度から皆さんにお届けします！！ ぜひ見に来てください！😁",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 92,
+    "friends_count": 74,
+    "listed_count": 0,
+    "favourites_count": 196,
+    "statuses_count": 1627,
+    "created_at": "Sun Jun 17 14:35:03 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "19CF86",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1008358226558005250/kHmpNfSV_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1008358226558005250/kHmpNfSV_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008357359511408640/1529246365",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "テニス",
+        "indices": [
+          57,
+          61
+        ]
+      },
+      {
+        "text": "雑学",
+        "indices": [
+          62,
+          65
+        ]
+      },
+      {
+        "text": "フォロー大歓迎",
+        "indices": [
+          66,
+          74
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254602665"
+}

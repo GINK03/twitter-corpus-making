@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:16:00 +0000 2018",
+  "id": 1058724479264686081,
+  "id_str": "1058724479264686081",
+  "text": "@299hntb @inoino0309 初パんケーキ食べてきます！！",
+  "display_text_range": [
+    21,
+    35
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058718902392221696,
+  "in_reply_to_status_id_str": "1058718902392221696",
+  "in_reply_to_user_id": 2683604455,
+  "in_reply_to_user_id_str": "2683604455",
+  "in_reply_to_screen_name": "299hntb",
+  "user": {
+    "id": 1182332628,
+    "id_str": "1182332628",
+    "name": "花楠🦉🍎",
+    "screen_name": "hana_freesia",
+    "location": "沼底の隅っこ",
+    "url": null,
+    "description": "フィギュアスケート、THE YELLOW MONKEY、大相撲などなど。町田樹さんを敬愛🌻RT多め(特にフィギュア関係 試合・アイスショーなどあるとかなりうるさいです)",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 187,
+    "friends_count": 318,
+    "listed_count": 9,
+    "favourites_count": 38520,
+    "statuses_count": 67140,
+    "created_at": "Fri Feb 15 12:20:56 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/876829423483232256/GYYYPoRo_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/876829423483232256/GYYYPoRo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1182332628/1534775970",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "299hntb",
+        "name": "はなたぶ",
+        "id": 2683604455,
+        "id_str": "2683604455",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "screen_name": "inoino0309",
+        "name": "o-nio-n-i",
+        "id": 2493023449,
+        "id_str": "2493023449",
+        "indices": [
+          9,
+          20
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254560663"
+}

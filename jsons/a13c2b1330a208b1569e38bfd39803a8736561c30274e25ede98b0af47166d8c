@@ -1,0 +1,119 @@
+{
+  "created_at": "Sat Nov 03 14:13:28 +0000 2018",
+  "id": 1058723841738891264,
+  "id_str": "1058723841738891264",
+  "text": "@undercolorCHOCO @mAtoRjPZMfyKGU9 @arako_go @YTq8w5rb 面白いよねー😊\n\n私は秋田のババヘラアイスに興味津々だよ(^-^)",
+  "display_text_range": [
+    54,
+    87
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058722832190820352,
+  "in_reply_to_status_id_str": "1058722832190820352",
+  "in_reply_to_user_id": 936040848747249664,
+  "in_reply_to_user_id_str": "936040848747249664",
+  "in_reply_to_screen_name": "undercolorCHOCO",
+  "user": {
+    "id": 949554358156345345,
+    "id_str": "949554358156345345",
+    "name": "かわずちゃん　八方塞がり2018",
+    "screen_name": "TDH6WqVijE6ncTd",
+    "location": null,
+    "url": null,
+    "description": "ブラックもホワイトも呟きます。\nどちらも私であることには間違いないのだから。\n日常の何気ない話、お馬鹿な話、政治少々あります。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 289,
+    "friends_count": 113,
+    "listed_count": 4,
+    "favourites_count": 39636,
+    "statuses_count": 15307,
+    "created_at": "Sat Jan 06 08:12:55 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1020486090803826688/xppPQeRE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020486090803826688/xppPQeRE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/949554358156345345/1541231984",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "undercolorCHOCO",
+        "name": "あぁ♪んだから〜（略称:んだ）",
+        "id": 936040848747249664,
+        "id_str": "936040848747249664",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "screen_name": "mAtoRjPZMfyKGU9",
+        "name": "ソフィー",
+        "id": 1000564211318120448,
+        "id_str": "1000564211318120448",
+        "indices": [
+          17,
+          33
+        ]
+      },
+      {
+        "screen_name": "arako_go",
+        "name": "こてシャねーさん",
+        "id": 4581807318,
+        "id_str": "4581807318",
+        "indices": [
+          34,
+          43
+        ]
+      },
+      {
+        "screen_name": "YTq8w5rb",
+        "name": "す",
+        "id": 709871039207972864,
+        "id_str": "709871039207972864",
+        "indices": [
+          44,
+          53
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254408665"
+}

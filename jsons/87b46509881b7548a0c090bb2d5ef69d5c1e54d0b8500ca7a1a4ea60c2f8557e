@@ -1,0 +1,182 @@
+{
+  "created_at": "Sat Nov 03 14:16:55 +0000 2018",
+  "id": 1058724709926227968,
+  "id_str": "1058724709926227968",
+  "text": "2018.11.3 ー アメブロを更新しました\n#タップレッスン\n#焼肉チャンピオン\nhttps://t.co/9dtoD7DKvT https://t.co/WnVP3ppBUp",
+  "display_text_range": [
+    0,
+    66
+  ],
+  "source": "<a href=\"http://www.ameba.jp\" rel=\"nofollow\">Ameba smartphone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1595920506,
+    "id_str": "1595920506",
+    "name": "石丸椎菜 Shiina Ishimaru",
+    "screen_name": "shiina0704",
+    "location": "東宝芸能",
+    "url": "http://s.ameblo.jp/teeno50704/",
+    "description": "※毎日ブログ更新中,Twitterでシェアしてます。 ［次回出演作品] ☆2019年４月〜９月「レ・ミゼラブル」チケットのご予約は→💌shiina_i_0704@yahoo.co.jp",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1130,
+    "friends_count": 159,
+    "listed_count": 27,
+    "favourites_count": 3875,
+    "statuses_count": 4903,
+    "created_at": "Mon Jul 15 14:14:37 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/787867356613611520/tM3tppb0_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/787867356613611520/tM3tppb0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1595920506/1516804926",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "タップレッスン",
+        "indices": [
+          24,
+          32
+        ]
+      },
+      {
+        "text": "焼肉チャンピオン",
+        "indices": [
+          33,
+          42
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/9dtoD7DKvT",
+        "expanded_url": "https://ameblo.jp/teeno50704/entry-12416556198.html?timestamp=1541254611",
+        "display_url": "ameblo.jp/teeno50704/ent…",
+        "indices": [
+          43,
+          66
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724706864422913,
+        "id_str": "1058724706864422913",
+        "indices": [
+          67,
+          90
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYgvOVYAEJko_.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYgvOVYAEJko_.jpg",
+        "url": "https://t.co/WnVP3ppBUp",
+        "display_url": "pic.twitter.com/WnVP3ppBUp",
+        "expanded_url": "https://twitter.com/shiina0704/status/1058724709926227968/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1080,
+            "h": 809,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 809,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 509,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724706864422913,
+        "id_str": "1058724706864422913",
+        "indices": [
+          67,
+          90
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYgvOVYAEJko_.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYgvOVYAEJko_.jpg",
+        "url": "https://t.co/WnVP3ppBUp",
+        "display_url": "pic.twitter.com/WnVP3ppBUp",
+        "expanded_url": "https://twitter.com/shiina0704/status/1058724709926227968/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1080,
+            "h": 809,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 809,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 509,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254615657"
+}

@@ -1,0 +1,344 @@
+{
+  "created_at": "Sat Nov 03 14:22:29 +0000 2018",
+  "id": 1058726110857330689,
+  "id_str": "1058726110857330689",
+  "text": "RT @kuzugitsune: ラルセイくんKAWAII #DELTARUNE https://t.co/335KCNnJWJ",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 929671274,
+    "id_str": "929671274",
+    "name": "OGRE TRON",
+    "screen_name": "ogretron39",
+    "location": "Popolo Crois",
+    "url": "https://www.youtube.com/channel/UCMGRSojwNVn-EObDuSRCzBg",
+    "description": "動物看護師。ギタリスト。ゲーマー。PSID【crows-worst_1111 】たまにゲーム配信。Like: Transformers、My little pony、ニコニコ動画、Vtuber、Undertale、Overwatch、Bloodborne、Slipknot、Mili、etc…",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 244,
+    "friends_count": 185,
+    "listed_count": 2,
+    "favourites_count": 0,
+    "statuses_count": 45832,
+    "created_at": "Tue Nov 06 12:53:54 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1055855344658735104/_KORgx5o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055855344658735104/_KORgx5o_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/929671274/1540569341",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:40:59 +0000 2018",
+    "id": 1058715667564683264,
+    "id_str": "1058715667564683264",
+    "text": "ラルセイくんKAWAII #DELTARUNE https://t.co/335KCNnJWJ",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 878169619,
+      "id_str": "878169619",
+      "name": "葛ノ木",
+      "screen_name": "kuzugitsune",
+      "location": "@ura_gitsune",
+      "url": "http://twpf.jp/kuzugitsune",
+      "description": "※この妄想は開発中のものです。設定は予告なく変更される場合がございます。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 2211,
+      "friends_count": 261,
+      "listed_count": 67,
+      "favourites_count": 2228,
+      "statuses_count": 56123,
+      "created_at": "Sat Oct 13 16:15:07 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/922408554652246022/YgUmqOcd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/922408554652246022/YgUmqOcd_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/878169619/1472400330",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 105,
+    "favorite_count": 268,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "DELTARUNE",
+          "indices": [
+            13,
+            23
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058715527336493061,
+          "id_str": "1058715527336493061",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFQKa0VAAUZIE3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFQKa0VAAUZIE3.jpg",
+          "url": "https://t.co/335KCNnJWJ",
+          "display_url": "pic.twitter.com/335KCNnJWJ",
+          "expanded_url": "https://twitter.com/kuzugitsune/status/1058715667564683264/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058715527336493061,
+          "id_str": "1058715527336493061",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFQKa0VAAUZIE3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFQKa0VAAUZIE3.jpg",
+          "url": "https://t.co/335KCNnJWJ",
+          "display_url": "pic.twitter.com/335KCNnJWJ",
+          "expanded_url": "https://twitter.com/kuzugitsune/status/1058715667564683264/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "DELTARUNE",
+        "indices": [
+          30,
+          40
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "kuzugitsune",
+        "name": "葛ノ木",
+        "id": 878169619,
+        "id_str": "878169619",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058715527336493061,
+        "id_str": "1058715527336493061",
+        "indices": [
+          41,
+          64
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFQKa0VAAUZIE3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFQKa0VAAUZIE3.jpg",
+        "url": "https://t.co/335KCNnJWJ",
+        "display_url": "pic.twitter.com/335KCNnJWJ",
+        "expanded_url": "https://twitter.com/kuzugitsune/status/1058715667564683264/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 800,
+            "h": 800,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 800,
+            "h": 800,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058715667564683264,
+        "source_status_id_str": "1058715667564683264",
+        "source_user_id": 878169619,
+        "source_user_id_str": "878169619"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058715527336493061,
+        "id_str": "1058715527336493061",
+        "indices": [
+          41,
+          64
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFQKa0VAAUZIE3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFQKa0VAAUZIE3.jpg",
+        "url": "https://t.co/335KCNnJWJ",
+        "display_url": "pic.twitter.com/335KCNnJWJ",
+        "expanded_url": "https://twitter.com/kuzugitsune/status/1058715667564683264/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 800,
+            "h": 800,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 800,
+            "h": 800,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058715667564683264,
+        "source_status_id_str": "1058715667564683264",
+        "source_user_id": 878169619,
+        "source_user_id_str": "878169619"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254949665"
+}

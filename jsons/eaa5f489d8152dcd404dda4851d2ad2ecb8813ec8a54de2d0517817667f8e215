@@ -1,0 +1,358 @@
+{
+  "created_at": "Sat Nov 03 14:11:25 +0000 2018",
+  "id": 1058723324031774720,
+  "id_str": "1058723324031774720",
+  "text": "RT @motimotimeshi: お題箱から月の表制服清姫ちゃんお待たせしましたー！！\n#清姫 #FGO https://t.co/qQiO9MnYqh",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 926497073003765760,
+    "id_str": "926497073003765760",
+    "name": "もちめしもちもちおもち太郎",
+    "screen_name": "motimotimeshi",
+    "location": null,
+    "url": "https://www.pixiv.net/member.php?id=3977327",
+    "description": "うるさいぞ 気をつけて（成人済み。絵の転載や加工、再配布はやめてね。お題箱は閉鎖中です）",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 468,
+    "friends_count": 334,
+    "listed_count": 2,
+    "favourites_count": 5491,
+    "statuses_count": 2043,
+    "created_at": "Fri Nov 03 17:11:30 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1057653330476814336/ooexOuuY_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057653330476814336/ooexOuuY_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/926497073003765760/1541031797",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 14:51:05 +0000 2018",
+    "id": 1058370918190219265,
+    "id_str": "1058370918190219265",
+    "text": "お題箱から月の表制服清姫ちゃんお待たせしましたー！！\n#清姫 #FGO https://t.co/qQiO9MnYqh",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 926497073003765760,
+      "id_str": "926497073003765760",
+      "name": "もちめしもちもちおもち太郎",
+      "screen_name": "motimotimeshi",
+      "location": null,
+      "url": "https://www.pixiv.net/member.php?id=3977327",
+      "description": "うるさいぞ 気をつけて（成人済み。絵の転載や加工、再配布はやめてね。お題箱は閉鎖中です）",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 468,
+      "friends_count": 334,
+      "listed_count": 2,
+      "favourites_count": 5491,
+      "statuses_count": 2042,
+      "created_at": "Fri Nov 03 17:11:30 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1057653330476814336/ooexOuuY_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057653330476814336/ooexOuuY_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/926497073003765760/1541031797",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 48,
+    "favorite_count": 88,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "清姫",
+          "indices": [
+            27,
+            30
+          ]
+        },
+        {
+          "text": "FGO",
+          "indices": [
+            31,
+            35
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058370913052160000,
+          "id_str": "1058370913052160000",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrAWvOkUcAAy874.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrAWvOkUcAAy874.jpg",
+          "url": "https://t.co/qQiO9MnYqh",
+          "display_url": "pic.twitter.com/qQiO9MnYqh",
+          "expanded_url": "https://twitter.com/motimotimeshi/status/1058370918190219265/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 811,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1128,
+              "h": 1670,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 459,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058370913052160000,
+          "id_str": "1058370913052160000",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrAWvOkUcAAy874.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrAWvOkUcAAy874.jpg",
+          "url": "https://t.co/qQiO9MnYqh",
+          "display_url": "pic.twitter.com/qQiO9MnYqh",
+          "expanded_url": "https://twitter.com/motimotimeshi/status/1058370918190219265/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 811,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1128,
+              "h": 1670,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 459,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "清姫",
+        "indices": [
+          46,
+          49
+        ]
+      },
+      {
+        "text": "FGO",
+        "indices": [
+          50,
+          54
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "motimotimeshi",
+        "name": "もちめしもちもちおもち太郎",
+        "id": 926497073003765760,
+        "id_str": "926497073003765760",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058370913052160000,
+        "id_str": "1058370913052160000",
+        "indices": [
+          55,
+          78
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrAWvOkUcAAy874.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrAWvOkUcAAy874.jpg",
+        "url": "https://t.co/qQiO9MnYqh",
+        "display_url": "pic.twitter.com/qQiO9MnYqh",
+        "expanded_url": "https://twitter.com/motimotimeshi/status/1058370918190219265/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 811,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1128,
+            "h": 1670,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 459,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058370918190219265,
+        "source_status_id_str": "1058370918190219265",
+        "source_user_id": 926497073003765760,
+        "source_user_id_str": "926497073003765760"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058370913052160000,
+        "id_str": "1058370913052160000",
+        "indices": [
+          55,
+          78
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrAWvOkUcAAy874.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrAWvOkUcAAy874.jpg",
+        "url": "https://t.co/qQiO9MnYqh",
+        "display_url": "pic.twitter.com/qQiO9MnYqh",
+        "expanded_url": "https://twitter.com/motimotimeshi/status/1058370918190219265/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 811,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1128,
+            "h": 1670,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 459,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058370918190219265,
+        "source_status_id_str": "1058370918190219265",
+        "source_user_id": 926497073003765760,
+        "source_user_id_str": "926497073003765760"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254285234"
+}

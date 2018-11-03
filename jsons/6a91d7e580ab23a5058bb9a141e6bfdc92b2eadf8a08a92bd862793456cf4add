@@ -1,0 +1,184 @@
+{
+  "created_at": "Sat Nov 03 14:03:03 +0000 2018",
+  "id": 1058721217643827200,
+  "id_str": "1058721217643827200",
+  "text": "【艦これ】オフシーズンの浮輪さん達　他なごみネタ - 艦これ速報　艦隊こ... https://t.co/laalntxBbh #艦これ\n&lt;アニメアプリのアニマネ&gt; https://t.co/qtv0sNyuHB https://t.co/oQJB8TlKDw",
+  "display_text_range": [
+    0,
+    112
+  ],
+  "source": "<a href=\"https://twitter.com/animane_kankore\" rel=\"nofollow\">kancolle.animane.net</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2725752781,
+    "id_str": "2725752781",
+    "name": "アニマネ 艦これ最新情報",
+    "screen_name": "animane_kankore",
+    "location": null,
+    "url": "http://app.animane.net/",
+    "description": "アニメ好きのためのiPhoneアプリ「アニマネ」が提供する、艦これの最新情報です。アプリで掲載しているニュースをお知らせ。他にも攻略情報や動画、グッズ情報まで幅広くカバー！艦これファンに納得頂ける情報量を目指します！相互フォローはできる限りしたいと思います。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 3703,
+    "friends_count": 3991,
+    "listed_count": 39,
+    "favourites_count": 61774,
+    "statuses_count": 81020,
+    "created_at": "Tue Aug 12 08:44:11 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/499243722358259712/B9OakvjY_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/499243722358259712/B9OakvjY_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2725752781/1407850232",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ",
+        "indices": [
+          64,
+          68
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/laalntxBbh",
+        "expanded_url": "http://kancolle.doorblog.jp/archives/54381506.html",
+        "display_url": "kancolle.doorblog.jp/archives/54381…",
+        "indices": [
+          40,
+          63
+        ]
+      },
+      {
+        "url": "https://t.co/qtv0sNyuHB",
+        "expanded_url": "http://bit.ly/1fvWee1",
+        "display_url": "bit.ly/1fvWee1",
+        "indices": [
+          89,
+          112
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058721214091288578,
+        "id_str": "1058721214091288578",
+        "indices": [
+          113,
+          136
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFVVboU4AI9hhE.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFVVboU4AI9hhE.jpg",
+        "url": "https://t.co/oQJB8TlKDw",
+        "display_url": "pic.twitter.com/oQJB8TlKDw",
+        "expanded_url": "https://twitter.com/animane_kankore/status/1058721217643827200/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 600,
+            "h": 888,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 888,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 459,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058721214091288578,
+        "id_str": "1058721214091288578",
+        "indices": [
+          113,
+          136
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFVVboU4AI9hhE.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFVVboU4AI9hhE.jpg",
+        "url": "https://t.co/oQJB8TlKDw",
+        "display_url": "pic.twitter.com/oQJB8TlKDw",
+        "expanded_url": "https://twitter.com/animane_kankore/status/1058721217643827200/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 600,
+            "h": 888,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 888,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 459,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253783032"
+}

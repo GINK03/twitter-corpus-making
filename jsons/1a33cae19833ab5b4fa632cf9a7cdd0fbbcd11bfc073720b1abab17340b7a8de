@@ -1,0 +1,193 @@
+{
+  "created_at": "Sat Nov 03 14:04:22 +0000 2018",
+  "id": 1058721551837622272,
+  "id_str": "1058721551837622272",
+  "text": "やっとスマホを変えられたよ！\nこれで充電しながらFGOやらなくて済む(*^▽^*) https://t.co/UiTFnOCkqG",
+  "display_text_range": [
+    0,
+    41
+  ],
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2928578372,
+    "id_str": "2928578372",
+    "name": "ごっとた",
+    "screen_name": "gotpuri",
+    "location": null,
+    "url": "https://peing.net/ja/gotpuri?p=auto",
+    "description": "ミルキィホームズ/バンドリ/ラ！東條希/デレマスきらり芳乃P/FGO/キンプリ/プリパラ/プリリズ／東方/艦これ/コナン/リゼロ/ギター　その他雑食　カメラはNikonD810（SIGMAart35mm.85mm）撮影依頼は一ヵ月前の25日までに言ってくだされば空けられます",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1644,
+    "friends_count": 1657,
+    "listed_count": 28,
+    "favourites_count": 8631,
+    "statuses_count": 9664,
+    "created_at": "Sat Dec 13 13:14:45 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/599619775656951808/iaSvc6pH_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/599619775656951808/iaSvc6pH_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2928578372/1537380811",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058721539732848641,
+        "id_str": "1058721539732848641",
+        "indices": [
+          42,
+          65
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFVoYvUwAEhp7s.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFVoYvUwAEhp7s.jpg",
+        "url": "https://t.co/UiTFnOCkqG",
+        "display_url": "pic.twitter.com/UiTFnOCkqG",
+        "expanded_url": "https://twitter.com/gotpuri/status/1058721551837622272/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058721539732848641,
+        "id_str": "1058721539732848641",
+        "indices": [
+          42,
+          65
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFVoYvUwAEhp7s.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFVoYvUwAEhp7s.jpg",
+        "url": "https://t.co/UiTFnOCkqG",
+        "display_url": "pic.twitter.com/UiTFnOCkqG",
+        "expanded_url": "https://twitter.com/gotpuri/status/1058721551837622272/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058721539649036288,
+        "id_str": "1058721539649036288",
+        "indices": [
+          42,
+          65
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFVoYbV4AAXbCk.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFVoYbV4AAXbCk.jpg",
+        "url": "https://t.co/UiTFnOCkqG",
+        "display_url": "pic.twitter.com/UiTFnOCkqG",
+        "expanded_url": "https://twitter.com/gotpuri/status/1058721551837622272/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253862710"
+}

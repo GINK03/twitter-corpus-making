@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:14:12 +0000 2018",
+  "id": 1058724026288267264,
+  "id_str": "1058724026288267264",
+  "text": "@take_WINDS @asagiriya_k 君津の変だなこりゃ🙄",
+  "display_text_range": [
+    25,
+    35
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058723749460029441,
+  "in_reply_to_status_id_str": "1058723749460029441",
+  "in_reply_to_user_id": 912929641232347141,
+  "in_reply_to_user_id_str": "912929641232347141",
+  "in_reply_to_screen_name": "take_WINDS",
+  "user": {
+    "id": 938059525063446528,
+    "id_str": "938059525063446528",
+    "name": "Nokia",
+    "screen_name": "treknokia_41",
+    "location": "chiba  「TEAM WINDS」",
+    "url": null,
+    "description": "2017/12/05にdomane4.1を納車されました‼︎ ロードバイク超初心者٩( ᐛ )و TEAM WINDS所属しました！！無言フォロー&rtするかもです。中身はポンコツです笑 気軽に絡んで仲良くしてください🙇",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2075,
+    "friends_count": 2172,
+    "listed_count": 7,
+    "favourites_count": 22647,
+    "statuses_count": 2490,
+    "created_at": "Tue Dec 05 14:56:33 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1015768452571619328/XGn8lWwy_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1015768452571619328/XGn8lWwy_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/938059525063446528/1537183176",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "take_WINDS",
+        "name": "たけ",
+        "id": 912929641232347141,
+        "id_str": "912929641232347141",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "asagiriya_k",
+        "name": "朝霧屋黒兵衛",
+        "id": 848922485110128640,
+        "id_str": "848922485110128640",
+        "indices": [
+          12,
+          24
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254452665"
+}

@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:27:18 +0000 2018",
+  "id": 1058727322986020865,
+  "id_str": "1058727322986020865",
+  "text": "RT @shoo24max: これから原稿で修羅場になるみなさんへ\nケイローン先生からひとこと https://t.co/iJ48tiolWA",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 355505007,
+    "id_str": "355505007",
+    "name": "おーきどけい博士",
+    "screen_name": "tokg10HG",
+    "location": "成人済み",
+    "url": null,
+    "description": "やわらかササミ肉ぴょ\nしゅじんこうはみぎにおく",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 274,
+    "friends_count": 1413,
+    "listed_count": 18,
+    "favourites_count": 52644,
+    "statuses_count": 283961,
+    "created_at": "Mon Aug 15 13:23:45 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1049331124160188417/uG5hvsV1_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1049331124160188417/uG5hvsV1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/355505007/1466963786",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:19:46 +0000 2018",
+    "id": 1058710326265311232,
+    "id_str": "1058710326265311232",
+    "text": "これから原稿で修羅場になるみなさんへ\nケイローン先生からひとこと https://t.co/iJ48tiolWA",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1916474490,
+      "id_str": "1916474490",
+      "name": "対馬",
+      "screen_name": "shoo24max",
+      "location": "関東",
+      "url": "http://privatter.net/p/1013025",
+      "description": "趣味絵と宣伝を投げる漫画描きのバク。アルスノヴァよろしくね！現在は刀剣（三名槍、村正派）とFGO（緑茶、お花魔術師、ゴーレムおじさん）返信はタイミングですみません＆無断転載は稿料請求。詳細Privatter。ご連絡→shoo24max@gmail.com",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 3377,
+      "friends_count": 218,
+      "listed_count": 89,
+      "favourites_count": 70,
+      "statuses_count": 10532,
+      "created_at": "Sun Sep 29 07:52:33 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "546E79",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "1BAB9F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/653550746365898752/eL_SN0Y6_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/653550746365898752/eL_SN0Y6_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916474490/1504457066",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 486,
+    "favorite_count": 647,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058710156114980865,
+          "id_str": "1058710156114980865",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFLRxdU8AE9jKG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFLRxdU8AE9jKG.jpg",
+          "url": "https://t.co/iJ48tiolWA",
+          "display_url": "pic.twitter.com/iJ48tiolWA",
+          "expanded_url": "https://twitter.com/shoo24max/status/1058710326265311232/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 750,
+              "h": 634,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 575,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 634,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058710156114980865,
+          "id_str": "1058710156114980865",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFLRxdU8AE9jKG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFLRxdU8AE9jKG.jpg",
+          "url": "https://t.co/iJ48tiolWA",
+          "display_url": "pic.twitter.com/iJ48tiolWA",
+          "expanded_url": "https://twitter.com/shoo24max/status/1058710326265311232/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 750,
+              "h": 634,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 575,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 634,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "shoo24max",
+        "name": "対馬",
+        "id": 1916474490,
+        "id_str": "1916474490",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058710156114980865,
+        "id_str": "1058710156114980865",
+        "indices": [
+          48,
+          71
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFLRxdU8AE9jKG.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFLRxdU8AE9jKG.jpg",
+        "url": "https://t.co/iJ48tiolWA",
+        "display_url": "pic.twitter.com/iJ48tiolWA",
+        "expanded_url": "https://twitter.com/shoo24max/status/1058710326265311232/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 750,
+            "h": 634,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 575,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 750,
+            "h": 634,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058710326265311232,
+        "source_status_id_str": "1058710326265311232",
+        "source_user_id": 1916474490,
+        "source_user_id_str": "1916474490"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058710156114980865,
+        "id_str": "1058710156114980865",
+        "indices": [
+          48,
+          71
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFLRxdU8AE9jKG.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFLRxdU8AE9jKG.jpg",
+        "url": "https://t.co/iJ48tiolWA",
+        "display_url": "pic.twitter.com/iJ48tiolWA",
+        "expanded_url": "https://twitter.com/shoo24max/status/1058710326265311232/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 750,
+            "h": 634,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 575,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 750,
+            "h": 634,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058710326265311232,
+        "source_status_id_str": "1058710326265311232",
+        "source_user_id": 1916474490,
+        "source_user_id_str": "1916474490"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255238659"
+}

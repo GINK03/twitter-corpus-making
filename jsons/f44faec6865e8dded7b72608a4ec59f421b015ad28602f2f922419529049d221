@@ -1,0 +1,588 @@
+{
+  "created_at": "Sat Nov 03 14:25:49 +0000 2018",
+  "id": 1058726949684559872,
+  "id_str": "1058726949684559872",
+  "text": "RT @ryoko_kikuchi: ライカが生物として初めて地球周回軌道に打ち上げられたのが、61年前の11月3日。\n今日は追悼の日です。\n犬を飼っているものとしては、胸が詰まる思いです。 https://t.co/h1ugUphEqS",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3025161686,
+    "id_str": "3025161686",
+    "name": "Yuko Kotaki",
+    "screen_name": "yuko_kotaki",
+    "location": null,
+    "url": "http://www.kotakiyuko.com",
+    "description": "写真を撮ります。ほったらかしのアカウントを復活させて3年ぶりのTwitterリハビリ中・・・・お手柔らかに。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 36,
+    "friends_count": 135,
+    "listed_count": 0,
+    "favourites_count": 504,
+    "statuses_count": 463,
+    "created_at": "Wed Feb 18 08:57:55 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1015599725616115712/___DuOiA_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1015599725616115712/___DuOiA_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3025161686/1531187081",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 08:19:27 +0000 2018",
+    "id": 1058634748950601728,
+    "id_str": "1058634748950601728",
+    "text": "ライカが生物として初めて地球周回軌道に打ち上げられたのが、61年前の11月3日。\n今日は追悼の日です。\n犬を飼っているものとしては、胸が詰まる思いです。 https://t.co/h1ugUphEqS",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 96068111,
+      "id_str": "96068111",
+      "name": "菊地涼子",
+      "screen_name": "ryoko_kikuchi",
+      "location": "Tokyo",
+      "url": null,
+      "description": "ソ連末期「TBS宇宙プロジェクト」サブクルー。モスクワ・星の街で宇宙飛行士の訓練を受けました。 ロシア＆宇宙が主な話題です。\r KU-MA理事　http://ku-ma.or.jp　青山学院大・外部招聘講師",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 2919,
+      "friends_count": 645,
+      "listed_count": 97,
+      "favourites_count": 1174,
+      "statuses_count": 1793,
+      "created_at": "Fri Dec 11 05:51:50 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3164132112/73d46f4bf8dab5365db7b6833feddd2d_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3164132112/73d46f4bf8dab5365db7b6833feddd2d_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/96068111/1421313375",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058618529589555201,
+    "quoted_status_id_str": "1058618529589555201",
+    "quoted_status": {
+      "created_at": "Sat Nov 03 07:15:00 +0000 2018",
+      "id": 1058618529589555201,
+      "id_str": "1058618529589555201",
+      "text": "#История: 61 год назад, 3 ноября 1957 года, c Байконура был запущен второй искусственный спутник Земли и первый био… https://t.co/I8OMvLnmKN",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2306083502,
+        "id_str": "2306083502",
+        "name": "РОСКОСМОС",
+        "screen_name": "roscosmos",
+        "location": "г. Москва,  ул. Щепкина, д.42",
+        "url": "http://roscosmos.ru",
+        "description": "Госкорпорация Роскосмос",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "followers_count": 121489,
+        "friends_count": 44,
+        "listed_count": 1281,
+        "favourites_count": 280,
+        "statuses_count": 3619,
+        "created_at": "Thu Jan 23 06:45:35 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ru",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1014462014553579521/gdGcSj2j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1014462014553579521/gdGcSj2j_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2306083502/1485870430",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "#История: 61 год назад, 3 ноября 1957 года, c Байконура был запущен второй искусственный спутник Земли и первый биологический спутник — с собакой Лайкой на борту. \n\nЛайка — первое живое существо, выведенное на орбиту Земли. https://t.co/YwpDIjvMRE",
+        "display_text_range": [
+          0,
+          223
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "История",
+              "indices": [
+                0,
+                8
+              ]
+            }
+          ],
+          "urls": [],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1058411136163422208,
+              "id_str": "1058411136163422208",
+              "indices": [
+                224,
+                247
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrA7UhVWoAAd6Ov.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrA7UhVWoAAd6Ov.jpg",
+              "url": "https://t.co/YwpDIjvMRE",
+              "display_url": "pic.twitter.com/YwpDIjvMRE",
+              "expanded_url": "https://twitter.com/roscosmos/status/1058618529589555201/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 669,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 379,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 714,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1058411136163422208,
+              "id_str": "1058411136163422208",
+              "indices": [
+                224,
+                247
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrA7UhVWoAAd6Ov.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrA7UhVWoAAd6Ov.jpg",
+              "url": "https://t.co/YwpDIjvMRE",
+              "display_url": "pic.twitter.com/YwpDIjvMRE",
+              "expanded_url": "https://twitter.com/roscosmos/status/1058618529589555201/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 669,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 379,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 714,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 30,
+      "reply_count": 9,
+      "retweet_count": 122,
+      "favorite_count": 247,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "История",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/I8OMvLnmKN",
+            "expanded_url": "https://twitter.com/i/web/status/1058618529589555201",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ru"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/h1ugUphEqS",
+      "expanded": "https://twitter.com/roscosmos/status/1058618529589555201",
+      "display": "twitter.com/roscosmos/stat…"
+    },
+    "is_quote_status": true,
+    "quote_count": 5,
+    "reply_count": 0,
+    "retweet_count": 196,
+    "favorite_count": 185,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/h1ugUphEqS",
+          "expanded_url": "https://twitter.com/roscosmos/status/1058618529589555201",
+          "display_url": "twitter.com/roscosmos/stat…",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058618529589555201,
+  "quoted_status_id_str": "1058618529589555201",
+  "quoted_status": {
+    "created_at": "Sat Nov 03 07:15:00 +0000 2018",
+    "id": 1058618529589555201,
+    "id_str": "1058618529589555201",
+    "text": "#История: 61 год назад, 3 ноября 1957 года, c Байконура был запущен второй искусственный спутник Земли и первый био… https://t.co/I8OMvLnmKN",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2306083502,
+      "id_str": "2306083502",
+      "name": "РОСКОСМОС",
+      "screen_name": "roscosmos",
+      "location": "г. Москва,  ул. Щепкина, д.42",
+      "url": "http://roscosmos.ru",
+      "description": "Госкорпорация Роскосмос",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 121489,
+      "friends_count": 44,
+      "listed_count": 1281,
+      "favourites_count": 280,
+      "statuses_count": 3619,
+      "created_at": "Thu Jan 23 06:45:35 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ru",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1014462014553579521/gdGcSj2j_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1014462014553579521/gdGcSj2j_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2306083502/1485870430",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "#История: 61 год назад, 3 ноября 1957 года, c Байконура был запущен второй искусственный спутник Земли и первый биологический спутник — с собакой Лайкой на борту. \n\nЛайка — первое живое существо, выведенное на орбиту Земли. https://t.co/YwpDIjvMRE",
+      "display_text_range": [
+        0,
+        223
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "История",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058411136163422208,
+            "id_str": "1058411136163422208",
+            "indices": [
+              224,
+              247
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrA7UhVWoAAd6Ov.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrA7UhVWoAAd6Ov.jpg",
+            "url": "https://t.co/YwpDIjvMRE",
+            "display_url": "pic.twitter.com/YwpDIjvMRE",
+            "expanded_url": "https://twitter.com/roscosmos/status/1058618529589555201/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 669,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 379,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 714,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058411136163422208,
+            "id_str": "1058411136163422208",
+            "indices": [
+              224,
+              247
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrA7UhVWoAAd6Ov.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrA7UhVWoAAd6Ov.jpg",
+            "url": "https://t.co/YwpDIjvMRE",
+            "display_url": "pic.twitter.com/YwpDIjvMRE",
+            "expanded_url": "https://twitter.com/roscosmos/status/1058618529589555201/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 669,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 379,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 714,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 30,
+    "reply_count": 9,
+    "retweet_count": 122,
+    "favorite_count": 247,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "История",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/I8OMvLnmKN",
+          "expanded_url": "https://twitter.com/i/web/status/1058618529589555201",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ru"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/h1ugUphEqS",
+    "expanded": "https://twitter.com/roscosmos/status/1058618529589555201",
+    "display": "twitter.com/roscosmos/stat…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/h1ugUphEqS",
+        "expanded_url": "https://twitter.com/roscosmos/status/1058618529589555201",
+        "display_url": "twitter.com/roscosmos/stat…",
+        "indices": [
+          96,
+          119
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ryoko_kikuchi",
+        "name": "菊地涼子",
+        "id": 96068111,
+        "id_str": "96068111",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255149657"
+}

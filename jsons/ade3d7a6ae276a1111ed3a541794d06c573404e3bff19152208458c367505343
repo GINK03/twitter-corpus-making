@@ -1,0 +1,343 @@
+{
+  "created_at": "Sat Nov 03 14:01:33 +0000 2018",
+  "id": 1058720841226104832,
+  "id_str": "1058720841226104832",
+  "text": "RT @nagishy: 武蔵ちゃんを白馬に乗せたかっただけ\n#FGO https://t.co/HsgLGDzFJi",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 973843295070699520,
+    "id_str": "973843295070699520",
+    "name": "ｴﾝﾄﾞｩ ｱｯｷｰﾅ",
+    "screen_name": "ImoQwjySBP1jeRu",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 7,
+    "friends_count": 13,
+    "listed_count": 0,
+    "favourites_count": 542,
+    "statuses_count": 1396,
+    "created_at": "Wed Mar 14 08:48:29 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/973858283726368770/P-hk3qQU_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/973858283726368770/P-hk3qQU_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 10:24:23 +0000 2018",
+    "id": 1058303803970138112,
+    "id_str": "1058303803970138112",
+    "text": "武蔵ちゃんを白馬に乗せたかっただけ\n#FGO https://t.co/HsgLGDzFJi",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3622597753,
+      "id_str": "3622597753",
+      "name": "凪しぃ",
+      "screen_name": "nagishy",
+      "location": "巌流島",
+      "url": "http://www.pixiv.net/member.php?id=12518526",
+      "description": "FGOやらBLAZBLUEやら天華百剣の落書きしてる(R18も希に)\n\n\n  落書きだけして生きていたい\nhttp://peing.net/ja/nagishy?eve…(質問箱)",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 12298,
+      "friends_count": 486,
+      "listed_count": 121,
+      "favourites_count": 2107,
+      "statuses_count": 15151,
+      "created_at": "Sun Sep 20 03:09:01 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1055339791795990528/VkzdeHb3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055339791795990528/VkzdeHb3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3622597753/1540422226",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 8,
+    "retweet_count": 481,
+    "favorite_count": 1793,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            18,
+            22
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058303794830761984,
+          "id_str": "1058303794830761984",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_ZsbtV4AAJCgB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_ZsbtV4AAJCgB.jpg",
+          "url": "https://t.co/HsgLGDzFJi",
+          "display_url": "pic.twitter.com/HsgLGDzFJi",
+          "expanded_url": "https://twitter.com/nagishy/status/1058303803970138112/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 803,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1049,
+              "h": 1568,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 455,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058303794830761984,
+          "id_str": "1058303794830761984",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_ZsbtV4AAJCgB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_ZsbtV4AAJCgB.jpg",
+          "url": "https://t.co/HsgLGDzFJi",
+          "display_url": "pic.twitter.com/HsgLGDzFJi",
+          "expanded_url": "https://twitter.com/nagishy/status/1058303803970138112/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 803,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1049,
+              "h": 1568,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 455,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          31,
+          35
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "nagishy",
+        "name": "凪しぃ",
+        "id": 3622597753,
+        "id_str": "3622597753",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058303794830761984,
+        "id_str": "1058303794830761984",
+        "indices": [
+          36,
+          59
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_ZsbtV4AAJCgB.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_ZsbtV4AAJCgB.jpg",
+        "url": "https://t.co/HsgLGDzFJi",
+        "display_url": "pic.twitter.com/HsgLGDzFJi",
+        "expanded_url": "https://twitter.com/nagishy/status/1058303803970138112/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 803,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1049,
+            "h": 1568,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 455,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058303803970138112,
+        "source_status_id_str": "1058303803970138112",
+        "source_user_id": 3622597753,
+        "source_user_id_str": "3622597753"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058303794830761984,
+        "id_str": "1058303794830761984",
+        "indices": [
+          36,
+          59
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_ZsbtV4AAJCgB.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_ZsbtV4AAJCgB.jpg",
+        "url": "https://t.co/HsgLGDzFJi",
+        "display_url": "pic.twitter.com/HsgLGDzFJi",
+        "expanded_url": "https://twitter.com/nagishy/status/1058303803970138112/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 803,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1049,
+            "h": 1568,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 455,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058303803970138112,
+        "source_status_id_str": "1058303803970138112",
+        "source_user_id": 3622597753,
+        "source_user_id_str": "3622597753"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253693287"
+}

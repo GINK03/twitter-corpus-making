@@ -1,0 +1,117 @@
+{
+  "created_at": "Sat Nov 03 14:16:39 +0000 2018",
+  "id": 1058724642817376256,
+  "id_str": "1058724642817376256",
+  "text": "17 Liveで楽しいライブ配信を見つけたよ！遊びに行こう！\nhttps://t.co/AcELsHCLQs",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1041302165497638912,
+    "id_str": "1041302165497638912",
+    "name": "夢空ちゃん大好き！むあにまる佐藤宏樹😈✡️　【地震活動調査部】",
+    "screen_name": "muanimalhiroki",
+    "location": "愛知県名古屋市緑区",
+    "url": null,
+    "description": "日本全国で地震活動が活発、もしくは活動に変化があった日の1日分の地震活動を調査しています。日本で最大震度4以上、もしくは一日の地震回数が1000回を超えた場合にお知らせします。また、強震モニターでは自動ツイートでお知らせしています。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 705,
+    "friends_count": 2504,
+    "listed_count": 1,
+    "favourites_count": 5116,
+    "statuses_count": 9896,
+    "created_at": "Sun Sep 16 12:25:57 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1042764558476009472/GYIQFwAF_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042764558476009472/GYIQFwAF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1041302165497638912/1537183521",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "3159168a1c05d876",
+    "url": "https://api.twitter.com/1.1/geo/id/3159168a1c05d876.json",
+    "place_type": "city",
+    "name": "名古屋市 南区",
+    "full_name": "愛知 名古屋市 南区",
+    "country_code": "JP",
+    "country": "日本",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            136.905671,
+            35.064168
+          ],
+          [
+            136.905671,
+            35.11574
+          ],
+          [
+            136.957042,
+            35.11574
+          ],
+          [
+            136.957042,
+            35.064168
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/AcELsHCLQs",
+        "expanded_url": "http://17.media/share/live/1650614?lang=JP",
+        "display_url": "17.media/share/live/165…",
+        "indices": [
+          31,
+          54
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254599657"
+}

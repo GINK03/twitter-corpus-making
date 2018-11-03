@@ -1,0 +1,165 @@
+{
+  "created_at": "Sat Nov 03 13:56:53 +0000 2018",
+  "id": 1058719668129558528,
+  "id_str": "1058719668129558528",
+  "text": "誰かこれ組める人いない？\n#パズドラ https://t.co/mo932jNc9l",
+  "display_text_range": [
+    0,
+    18
+  ],
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1029364597294354432,
+    "id_str": "1029364597294354432",
+    "name": "HikaRu👑",
+    "screen_name": "HikaRu94708680",
+    "location": null,
+    "url": null,
+    "description": "パズドラほぼ700",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 11,
+    "friends_count": 24,
+    "listed_count": 0,
+    "favourites_count": 336,
+    "statuses_count": 46,
+    "created_at": "Tue Aug 14 13:50:19 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1029366154442285056/9hUN9T2q_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029366154442285056/9hUN9T2q_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1029364597294354432/1540038386",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラ",
+        "indices": [
+          13,
+          18
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058719661963935745,
+        "id_str": "1058719661963935745",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFT7FgVAAEG4sL.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFT7FgVAAEG4sL.jpg",
+        "url": "https://t.co/mo932jNc9l",
+        "display_url": "pic.twitter.com/mo932jNc9l",
+        "expanded_url": "https://twitter.com/HikaRu94708680/status/1058719668129558528/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1233,
+            "h": 1233,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058719661963935745,
+        "id_str": "1058719661963935745",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFT7FgVAAEG4sL.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFT7FgVAAEG4sL.jpg",
+        "url": "https://t.co/mo932jNc9l",
+        "display_url": "pic.twitter.com/mo932jNc9l",
+        "expanded_url": "https://twitter.com/HikaRu94708680/status/1058719668129558528/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1233,
+            "h": 1233,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253413599"
+}

@@ -1,0 +1,255 @@
+{
+  "created_at": "Sat Nov 03 14:14:11 +0000 2018",
+  "id": 1058724022098120705,
+  "id_str": "1058724022098120705",
+  "text": "@Indie_VR 結果は・・・残念！！\nアニマックスでは『欧州情緒系アニメ特集』を実施中！\n秋の夜長にアニメの世界にどっぷり惹き込まれてください！\n番組特集の詳細はこちら&gt;https://t.co/EcbNA1jbXO… https://t.co/kd6xQ2Zdv9",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "source": "<a href=\"http://www.aainc.co.jp/\" rel=\"nofollow\">Echoes Act2</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 843811732741087232,
+  "in_reply_to_user_id_str": "843811732741087232",
+  "in_reply_to_screen_name": "Indie_VR",
+  "user": {
+    "id": 333362169,
+    "id_str": "333362169",
+    "name": "アニマックス（公式）",
+    "screen_name": "ANIMAX_Japan",
+    "location": "日本",
+    "url": "http://www.animax.co.jp/",
+    "description": "「ドラゴンボール」「機動戦士ガンダム」など不朽の名作や「名探偵コナン」など最新ヒットアニメ等々、皆様にお楽しみいただけるアニメを、24時間365日放送しています。ご意見・ご要望はカスタマーセンター(0570-002-600)へご連絡下さい。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 57049,
+    "friends_count": 538,
+    "listed_count": 592,
+    "favourites_count": 29,
+    "statuses_count": 71564,
+    "created_at": "Mon Jul 11 12:26:43 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0074C2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0074C2",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/716906411909849088/OdjVpDrU_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/716906411909849088/OdjVpDrU_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/333362169/1522823537",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "@Indie_VR 結果は・・・残念！！\nアニマックスでは『欧州情緒系アニメ特集』を実施中！\n秋の夜長にアニメの世界にどっぷり惹き込まれてください！\n番組特集の詳細はこちら&gt;https://t.co/EcbNA1jbXO\n#アニマックスCP https://t.co/KUKPdKFg84",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "アニマックスCP",
+          "indices": [
+            114,
+            123
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EcbNA1jbXO",
+          "expanded_url": "http://u0u1.net/MEGH",
+          "display_url": "u0u1.net/MEGH",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Indie_VR",
+          "name": "indievr",
+          "id": 843811732741087232,
+          "id_str": "843811732741087232",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1054173319295983616,
+          "id_str": "1054173319295983616",
+          "indices": [
+            124,
+            147
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DqEtDHRU4AArLiz.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DqEtDHRU4AArLiz.jpg",
+          "url": "https://t.co/KUKPdKFg84",
+          "display_url": "pic.twitter.com/KUKPdKFg84",
+          "expanded_url": "https://twitter.com/ANIMAX_Japan/status/1058724022098120705/photo/1",
+          "type": "animated_gif",
+          "video_info": {
+            "aspect_ratio": [
+              300,
+              167
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/DqEtDHRU4AArLiz.mp4"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 334,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 334,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 334,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1054173319295983616,
+          "id_str": "1054173319295983616",
+          "indices": [
+            124,
+            147
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DqEtDHRU4AArLiz.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DqEtDHRU4AArLiz.jpg",
+          "url": "https://t.co/KUKPdKFg84",
+          "display_url": "pic.twitter.com/KUKPdKFg84",
+          "expanded_url": "https://twitter.com/ANIMAX_Japan/status/1058724022098120705/photo/1",
+          "type": "animated_gif",
+          "video_info": {
+            "aspect_ratio": [
+              300,
+              167
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/DqEtDHRU4AArLiz.mp4"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 334,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 334,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 334,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/EcbNA1jbXO",
+        "expanded_url": "http://u0u1.net/MEGH",
+        "display_url": "u0u1.net/MEGH",
+        "indices": [
+          90,
+          113
+        ]
+      },
+      {
+        "url": "https://t.co/kd6xQ2Zdv9",
+        "expanded_url": "https://twitter.com/i/web/status/1058724022098120705",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Indie_VR",
+        "name": "indievr",
+        "id": 843811732741087232,
+        "id_str": "843811732741087232",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254451666"
+}

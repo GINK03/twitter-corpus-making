@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:18:06 +0000 2018",
+  "id": 1058725007730270211,
+  "id_str": "1058725007730270211",
+  "text": "@_HiroChannel @HiroChannel_B 我慢できなかったのかなぁ🤭許してあげてちょ😅",
+  "display_text_range": [
+    29,
+    51
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058724456405692416,
+  "in_reply_to_status_id_str": "1058724456405692416",
+  "in_reply_to_user_id": 751450064929730561,
+  "in_reply_to_user_id_str": "751450064929730561",
+  "in_reply_to_screen_name": "_HiroChannel",
+  "user": {
+    "id": 390682327,
+    "id_str": "390682327",
+    "name": "ないちゃん",
+    "screen_name": "LICENSEnaichan",
+    "location": "神奈川県",
+    "url": null,
+    "description": "Nissyラブ❤️水溜りボンド💕１０／３０カンティーからリプ記念日🎉 ひろむさん💘ちゃちゃさん😻",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 15,
+    "friends_count": 73,
+    "listed_count": 0,
+    "favourites_count": 2702,
+    "statuses_count": 612,
+    "created_at": "Fri Oct 14 11:05:09 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1033606266038378501/tRH5FW6x_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1033606266038378501/tRH5FW6x_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/390682327/1484357953",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "_HiroChannel",
+        "name": "ひろむ（TWINS/ツインズ）",
+        "id": 751450064929730561,
+        "id_str": "751450064929730561",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "HiroChannel_B",
+        "name": "コウ（TWINS/ツインズ）",
+        "id": 864521851820691456,
+        "id_str": "864521851820691456",
+        "indices": [
+          14,
+          28
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254686659"
+}

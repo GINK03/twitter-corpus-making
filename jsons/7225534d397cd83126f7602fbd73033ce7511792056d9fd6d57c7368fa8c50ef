@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:15:43 +0000 2018",
+  "id": 1058724407969906690,
+  "id_str": "1058724407969906690",
+  "text": "@trickydesigns @natuyusa 歯科用の硬化スプレーおすすめっす",
+  "display_text_range": [
+    25,
+    41
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058717615021993984,
+  "in_reply_to_status_id_str": "1058717615021993984",
+  "in_reply_to_user_id": 91376332,
+  "in_reply_to_user_id_str": "91376332",
+  "in_reply_to_screen_name": "trickydesigns",
+  "user": {
+    "id": 1725139968,
+    "id_str": "1725139968",
+    "name": "樹@ユーカリ展示会までになんか出来ると良いなあ",
+    "screen_name": "YFL019ADA",
+    "location": "GKディーラーTiTAN CHANNEL 制作室",
+    "url": "https://www.facebook.com/groups/167767237217002/",
+    "description": "別名：Hプラ棒の人とかプラ溶接マンとか火炎放射ロボとか。 海外水性塗料推進派、ラファエル8402教団。メガミデバイスとかプラバンとかプラバンとかプラ棒とかたまにミニチュア いじります。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1311,
+    "friends_count": 2333,
+    "listed_count": 34,
+    "favourites_count": 23350,
+    "statuses_count": 50723,
+    "created_at": "Tue Sep 03 11:08:24 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1043552815786819584/wKDRYcLn_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043552815786819584/wKDRYcLn_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1725139968/1536986988",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "trickydesigns",
+        "name": "TRICK@ミタカモ",
+        "id": 91376332,
+        "id_str": "91376332",
+        "indices": [
+          0,
+          14
+        ]
+      },
+      {
+        "screen_name": "natuyusa",
+        "name": "なつゆさ@ユーカリ模型展示会までデスレース",
+        "id": 124126659,
+        "id_str": "124126659",
+        "indices": [
+          15,
+          24
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254543665"
+}

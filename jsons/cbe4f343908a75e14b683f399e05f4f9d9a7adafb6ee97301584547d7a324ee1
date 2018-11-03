@@ -1,0 +1,670 @@
+{
+  "created_at": "Sat Nov 03 14:15:38 +0000 2018",
+  "id": 1058724386989998081,
+  "id_str": "1058724386989998081",
+  "text": "RT @d3SRWaoULhY8y4q: ヒヤヒヤしたんじゃないの〜？\n((時代遅れのアキラ100% https://t.co/6LMEznTVxx",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4357289004,
+    "id_str": "4357289004",
+    "name": "Shinri",
+    "screen_name": "shinri006",
+    "location": null,
+    "url": "http://privatter.net/u/shinri006",
+    "description": "妄 想 家 。別 垢 → @shinri005 鍵 垢 → @mia_9612 シリーズ垢→ @shinri004 中 身 → 【 @shinri_0006 】",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 45184,
+    "friends_count": 288,
+    "listed_count": 532,
+    "favourites_count": 38564,
+    "statuses_count": 45284,
+    "created_at": "Wed Nov 25 16:00:17 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1051833811502215168/_AcItEsZ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051833811502215168/_AcItEsZ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4357289004/1539611699",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:13:44 +0000 2018",
+    "id": 1058723906796761093,
+    "id_str": "1058723906796761093",
+    "text": "ヒヤヒヤしたんじゃないの〜？\n((時代遅れのアキラ100% https://t.co/6LMEznTVxx",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 849562574395985920,
+      "id_str": "849562574395985920",
+      "name": "カナで",
+      "screen_name": "d3SRWaoULhY8y4q",
+      "location": null,
+      "url": null,
+      "description": "ﾊﾞﾝﾀﾝallペン\nﾊﾞﾝﾀﾝ垢\n韓国🇰🇷10.14進撃済み🏃\n　　👤絡んでくれる人DM🌷",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 36,
+      "friends_count": 220,
+      "listed_count": 0,
+      "favourites_count": 16126,
+      "statuses_count": 2580,
+      "created_at": "Wed Apr 05 10:01:16 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/978560803719733248/OJR5I2y6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/978560803719733248/OJR5I2y6_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/849562574395985920/1522142210",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058720812612472832,
+    "quoted_status_id_str": "1058720812612472832",
+    "quoted_status": {
+      "created_at": "Sat Nov 03 14:01:26 +0000 2018",
+      "id": 1058720812612472832,
+      "id_str": "1058720812612472832",
+      "text": "#BTSで妄想 \n\n恋人達が思う本音のすれ違い。4 https://t.co/xjBErOf0Ha",
+      "display_text_range": [
+        0,
+        25
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 1057638130549874688,
+      "in_reply_to_status_id_str": "1057638130549874688",
+      "in_reply_to_user_id": 4357289004,
+      "in_reply_to_user_id_str": "4357289004",
+      "in_reply_to_screen_name": "shinri006",
+      "user": {
+        "id": 4357289004,
+        "id_str": "4357289004",
+        "name": "Shinri",
+        "screen_name": "shinri006",
+        "location": null,
+        "url": "http://privatter.net/u/shinri006",
+        "description": "妄 想 家 。別 垢 → @shinri005 鍵 垢 → @mia_9612 シリーズ垢→ @shinri004 中 身 → 【 @shinri_0006 】",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 45184,
+        "friends_count": 288,
+        "listed_count": 532,
+        "favourites_count": 38564,
+        "statuses_count": 45283,
+        "created_at": "Wed Nov 25 16:00:17 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1051833811502215168/_AcItEsZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051833811502215168/_AcItEsZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4357289004/1539611699",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 6,
+      "reply_count": 0,
+      "retweet_count": 21,
+      "favorite_count": 231,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "BTSで妄想",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058720783302717440,
+            "id_str": "1058720783302717440",
+            "indices": [
+              26,
+              49
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFU8W0U8AAtvr1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFU8W0U8AAtvr1.jpg",
+            "url": "https://t.co/xjBErOf0Ha",
+            "display_url": "pic.twitter.com/xjBErOf0Ha",
+            "expanded_url": "https://twitter.com/shinri006/status/1058720812612472832/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 730,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 730,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 485,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058720783302717440,
+            "id_str": "1058720783302717440",
+            "indices": [
+              26,
+              49
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFU8W0U8AAtvr1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFU8W0U8AAtvr1.jpg",
+            "url": "https://t.co/xjBErOf0Ha",
+            "display_url": "pic.twitter.com/xjBErOf0Ha",
+            "expanded_url": "https://twitter.com/shinri006/status/1058720812612472832/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 730,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 730,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 485,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058720782975623172,
+            "id_str": "1058720782975623172",
+            "indices": [
+              26,
+              49
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFU8VmV4AQzoFo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFU8VmV4AQzoFo.jpg",
+            "url": "https://t.co/xjBErOf0Ha",
+            "display_url": "pic.twitter.com/xjBErOf0Ha",
+            "expanded_url": "https://twitter.com/shinri006/status/1058720812612472832/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 752,
+                "h": 1023,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 500,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 752,
+                "h": 1023,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058720782975623170,
+            "id_str": "1058720782975623170",
+            "indices": [
+              26,
+              49
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFU8VmV4AIXoC8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFU8VmV4AIXoC8.jpg",
+            "url": "https://t.co/xjBErOf0Ha",
+            "display_url": "pic.twitter.com/xjBErOf0Ha",
+            "expanded_url": "https://twitter.com/shinri006/status/1058720812612472832/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 496,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 747,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 747,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/6LMEznTVxx",
+      "expanded": "https://twitter.com/shinri006/status/1058720812612472832",
+      "display": "twitter.com/shinri006/stat…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/6LMEznTVxx",
+          "expanded_url": "https://twitter.com/shinri006/status/1058720812612472832",
+          "display_url": "twitter.com/shinri006/stat…",
+          "indices": [
+            30,
+            53
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058720812612472832,
+  "quoted_status_id_str": "1058720812612472832",
+  "quoted_status": {
+    "created_at": "Sat Nov 03 14:01:26 +0000 2018",
+    "id": 1058720812612472832,
+    "id_str": "1058720812612472832",
+    "text": "#BTSで妄想 \n\n恋人達が思う本音のすれ違い。4 https://t.co/xjBErOf0Ha",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1057638130549874688,
+    "in_reply_to_status_id_str": "1057638130549874688",
+    "in_reply_to_user_id": 4357289004,
+    "in_reply_to_user_id_str": "4357289004",
+    "in_reply_to_screen_name": "shinri006",
+    "user": {
+      "id": 4357289004,
+      "id_str": "4357289004",
+      "name": "Shinri",
+      "screen_name": "shinri006",
+      "location": null,
+      "url": "http://privatter.net/u/shinri006",
+      "description": "妄 想 家 。別 垢 → @shinri005 鍵 垢 → @mia_9612 シリーズ垢→ @shinri004 中 身 → 【 @shinri_0006 】",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 45184,
+      "friends_count": 288,
+      "listed_count": 532,
+      "favourites_count": 38564,
+      "statuses_count": 45283,
+      "created_at": "Wed Nov 25 16:00:17 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1051833811502215168/_AcItEsZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051833811502215168/_AcItEsZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4357289004/1539611699",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 6,
+    "reply_count": 0,
+    "retweet_count": 21,
+    "favorite_count": 231,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BTSで妄想",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058720783302717440,
+          "id_str": "1058720783302717440",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFU8W0U8AAtvr1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFU8W0U8AAtvr1.jpg",
+          "url": "https://t.co/xjBErOf0Ha",
+          "display_url": "pic.twitter.com/xjBErOf0Ha",
+          "expanded_url": "https://twitter.com/shinri006/status/1058720812612472832/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 730,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 730,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 485,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058720783302717440,
+          "id_str": "1058720783302717440",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFU8W0U8AAtvr1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFU8W0U8AAtvr1.jpg",
+          "url": "https://t.co/xjBErOf0Ha",
+          "display_url": "pic.twitter.com/xjBErOf0Ha",
+          "expanded_url": "https://twitter.com/shinri006/status/1058720812612472832/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 730,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 730,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 485,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058720782975623172,
+          "id_str": "1058720782975623172",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFU8VmV4AQzoFo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFU8VmV4AQzoFo.jpg",
+          "url": "https://t.co/xjBErOf0Ha",
+          "display_url": "pic.twitter.com/xjBErOf0Ha",
+          "expanded_url": "https://twitter.com/shinri006/status/1058720812612472832/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 752,
+              "h": 1023,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 500,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 752,
+              "h": 1023,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058720782975623170,
+          "id_str": "1058720782975623170",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFU8VmV4AIXoC8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFU8VmV4AIXoC8.jpg",
+          "url": "https://t.co/xjBErOf0Ha",
+          "display_url": "pic.twitter.com/xjBErOf0Ha",
+          "expanded_url": "https://twitter.com/shinri006/status/1058720812612472832/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 496,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 747,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 747,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/6LMEznTVxx",
+    "expanded": "https://twitter.com/shinri006/status/1058720812612472832",
+    "display": "twitter.com/shinri006/stat…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/6LMEznTVxx",
+        "expanded_url": "https://twitter.com/shinri006/status/1058720812612472832",
+        "display_url": "twitter.com/shinri006/stat…",
+        "indices": [
+          51,
+          74
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "d3SRWaoULhY8y4q",
+        "name": "カナで",
+        "id": 849562574395985920,
+        "id_str": "849562574395985920",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254538663"
+}

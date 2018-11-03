@@ -1,0 +1,400 @@
+{
+  "created_at": "Sat Nov 03 14:21:29 +0000 2018",
+  "id": 1058725859907891201,
+  "id_str": "1058725859907891201",
+  "text": "RT @aki0107_inica: 朧『あーん』\n漣『あー！あたしを差し置いてずるい！』\n曙『あんたの分もあるから騒がないでよ！』\n潮『(おいしい✨)』\n＃艦これ　＃朧　＃漣　＃曙　＃潮 https://t.co/krFufSG7GD",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3714360014,
+    "id_str": "3714360014",
+    "name": "プロフィール読んでお😘",
+    "screen_name": "KanColle_ekuo",
+    "location": "琵琶湖の底",
+    "url": null,
+    "description": "ほー",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1771,
+    "friends_count": 1541,
+    "listed_count": 63,
+    "favourites_count": 363057,
+    "statuses_count": 146145,
+    "created_at": "Mon Sep 28 11:52:15 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "7FDBB6",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056511276040445952/lzreQVC6_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056511276040445952/lzreQVC6_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3714360014/1494160196",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:35:45 +0000 2018",
+    "id": 1058714350033104898,
+    "id_str": "1058714350033104898",
+    "text": "朧『あーん』\n漣『あー！あたしを差し置いてずるい！』\n曙『あんたの分もあるから騒がないでよ！』\n潮『(おいしい✨)』\n＃艦これ　＃朧　＃漣　＃曙　＃潮 https://t.co/krFufSG7GD",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 173880890,
+      "id_str": "173880890",
+      "name": "あき缶@inica",
+      "screen_name": "aki0107_inica",
+      "location": "熊本県",
+      "url": "http://inica.pupu.jp/",
+      "description": "昼間は会社員、夜はお絵描きマン。RT、いいねありがとうございます！ サークル名SAVAKANで活動中：HP：http://inica.pupu.jp/",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 4195,
+      "friends_count": 4070,
+      "listed_count": 75,
+      "favourites_count": 30100,
+      "statuses_count": 10655,
+      "created_at": "Mon Aug 02 15:59:39 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "89C9FA",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/689467280753762305/IKM1TYCw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/689467280753762305/IKM1TYCw_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/173880890/1537184703",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 7,
+    "retweet_count": 62,
+    "favorite_count": 117,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "艦これ",
+          "indices": [
+            59,
+            63
+          ]
+        },
+        {
+          "text": "朧",
+          "indices": [
+            64,
+            66
+          ]
+        },
+        {
+          "text": "漣",
+          "indices": [
+            67,
+            69
+          ]
+        },
+        {
+          "text": "曙",
+          "indices": [
+            70,
+            72
+          ]
+        },
+        {
+          "text": "潮",
+          "indices": [
+            73,
+            75
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058714340549750785,
+          "id_str": "1058714340549750785",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFPFVsUcAE2wmd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFPFVsUcAE2wmd.jpg",
+          "url": "https://t.co/krFufSG7GD",
+          "display_url": "pic.twitter.com/krFufSG7GD",
+          "expanded_url": "https://twitter.com/aki0107_inica/status/1058714350033104898/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 549,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1331,
+              "h": 1648,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 969,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058714340549750785,
+          "id_str": "1058714340549750785",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFPFVsUcAE2wmd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFPFVsUcAE2wmd.jpg",
+          "url": "https://t.co/krFufSG7GD",
+          "display_url": "pic.twitter.com/krFufSG7GD",
+          "expanded_url": "https://twitter.com/aki0107_inica/status/1058714350033104898/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 549,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1331,
+              "h": 1648,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 969,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ",
+        "indices": [
+          78,
+          82
+        ]
+      },
+      {
+        "text": "朧",
+        "indices": [
+          83,
+          85
+        ]
+      },
+      {
+        "text": "漣",
+        "indices": [
+          86,
+          88
+        ]
+      },
+      {
+        "text": "曙",
+        "indices": [
+          89,
+          91
+        ]
+      },
+      {
+        "text": "潮",
+        "indices": [
+          92,
+          94
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "aki0107_inica",
+        "name": "あき缶@inica",
+        "id": 173880890,
+        "id_str": "173880890",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058714340549750785,
+        "id_str": "1058714340549750785",
+        "indices": [
+          95,
+          118
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFPFVsUcAE2wmd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFPFVsUcAE2wmd.jpg",
+        "url": "https://t.co/krFufSG7GD",
+        "display_url": "pic.twitter.com/krFufSG7GD",
+        "expanded_url": "https://twitter.com/aki0107_inica/status/1058714350033104898/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 549,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1331,
+            "h": 1648,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 969,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058714350033104898,
+        "source_status_id_str": "1058714350033104898",
+        "source_user_id": 173880890,
+        "source_user_id_str": "173880890"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058714340549750785,
+        "id_str": "1058714340549750785",
+        "indices": [
+          95,
+          118
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFPFVsUcAE2wmd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFPFVsUcAE2wmd.jpg",
+        "url": "https://t.co/krFufSG7GD",
+        "display_url": "pic.twitter.com/krFufSG7GD",
+        "expanded_url": "https://twitter.com/aki0107_inica/status/1058714350033104898/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 549,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1331,
+            "h": 1648,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 969,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058714350033104898,
+        "source_status_id_str": "1058714350033104898",
+        "source_user_id": 173880890,
+        "source_user_id_str": "173880890"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254889834"
+}

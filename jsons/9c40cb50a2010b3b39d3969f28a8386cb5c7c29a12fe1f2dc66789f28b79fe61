@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 14:19:24 +0000 2018",
+  "id": 1058725334885924864,
+  "id_str": "1058725334885924864",
+  "text": "RT @miku_emori: すまねぇみんな。今日はもう無理だ。\nふがいない姉御を許してくれ https://t.co/mPG5rknh6U",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2393135396,
+    "id_str": "2393135396",
+    "name": "タイショー",
+    "screen_name": "tisyoriser",
+    "location": "エンジェル・ハイロゥ",
+    "url": null,
+    "description": "ライトブルーとオレンジ。ザンネックのビームに驚いた時は、お前らは死んでいるよ！",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 434,
+    "friends_count": 998,
+    "listed_count": 7,
+    "favourites_count": 36098,
+    "statuses_count": 91924,
+    "created_at": "Sun Mar 16 18:50:39 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1017446625034137600/oVhfPkMZ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017446625034137600/oVhfPkMZ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2393135396/1521942656",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:41:47 +0000 2018",
+    "id": 1058715865628127233,
+    "id_str": "1058715865628127233",
+    "text": "すまねぇみんな。今日はもう無理だ。\nふがいない姉御を許してくれ https://t.co/mPG5rknh6U",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 719725302532874240,
+      "id_str": "719725302532874240",
+      "name": "絵守未來【公式】",
+      "screen_name": "miku_emori",
+      "location": "愛知 名古屋市",
+      "url": "http://www.emorimiku.com",
+      "description": "MEWorks G.Kが運営する絵守未來プロジェクト公式アカウントです。2次元と3次元が混在する2.5次元運営です。リプ返はなるべくします。原画担当はみこ先生。二次創作大歓迎します。イラストおよびテキストの転載は一律禁止とさせていただきます。みったんって呼んでね！",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 34471,
+      "friends_count": 595,
+      "listed_count": 520,
+      "favourites_count": 11236,
+      "statuses_count": 85399,
+      "created_at": "Tue Apr 12 03:14:18 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/994974396837019653/d3Lo638m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/994974396837019653/d3Lo638m_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/719725302532874240/1541227648",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 1,
+    "reply_count": 10,
+    "retweet_count": 8,
+    "favorite_count": 74,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058715855146471424,
+          "id_str": "1058715855146471424",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFQdgAUUAA9op4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFQdgAUUAA9op4.jpg",
+          "url": "https://t.co/mPG5rknh6U",
+          "display_url": "pic.twitter.com/mPG5rknh6U",
+          "expanded_url": "https://twitter.com/miku_emori/status/1058715865628127233/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 523,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 788,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 788,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058715855146471424,
+          "id_str": "1058715855146471424",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFQdgAUUAA9op4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFQdgAUUAA9op4.jpg",
+          "url": "https://t.co/mPG5rknh6U",
+          "display_url": "pic.twitter.com/mPG5rknh6U",
+          "expanded_url": "https://twitter.com/miku_emori/status/1058715865628127233/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 523,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 788,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 788,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "miku_emori",
+        "name": "絵守未來【公式】",
+        "id": 719725302532874240,
+        "id_str": "719725302532874240",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058715855146471424,
+        "id_str": "1058715855146471424",
+        "indices": [
+          48,
+          71
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFQdgAUUAA9op4.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFQdgAUUAA9op4.jpg",
+        "url": "https://t.co/mPG5rknh6U",
+        "display_url": "pic.twitter.com/mPG5rknh6U",
+        "expanded_url": "https://twitter.com/miku_emori/status/1058715865628127233/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 523,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 788,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 788,
+            "h": 1024,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058715865628127233,
+        "source_status_id_str": "1058715865628127233",
+        "source_user_id": 719725302532874240,
+        "source_user_id_str": "719725302532874240"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058715855146471424,
+        "id_str": "1058715855146471424",
+        "indices": [
+          48,
+          71
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFQdgAUUAA9op4.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFQdgAUUAA9op4.jpg",
+        "url": "https://t.co/mPG5rknh6U",
+        "display_url": "pic.twitter.com/mPG5rknh6U",
+        "expanded_url": "https://twitter.com/miku_emori/status/1058715865628127233/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 523,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 788,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 788,
+            "h": 1024,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058715865628127233,
+        "source_status_id_str": "1058715865628127233",
+        "source_user_id": 719725302532874240,
+        "source_user_id_str": "719725302532874240"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254764659"
+}

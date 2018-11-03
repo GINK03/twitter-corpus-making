@@ -1,0 +1,344 @@
+{
+  "created_at": "Sat Nov 03 14:15:28 +0000 2018",
+  "id": 1058724345030238208,
+  "id_str": "1058724345030238208",
+  "text": "RT @BuccoRoth: クジラが一番映えるのはどこであろうや。 #FF14 https://t.co/JJoZOPScGw",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 488511628,
+    "id_str": "488511628",
+    "name": "FFXI・XIV  ☆  行こう、2020年！",
+    "screen_name": "NobuYanagieao",
+    "location": "神ニャンコ川",
+    "url": null,
+    "description": "(ゆめ) : トイプ〜とミーコ(^_^A そして、未来へ。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 633,
+    "friends_count": 3374,
+    "listed_count": 29,
+    "favourites_count": 48148,
+    "statuses_count": 144714,
+    "created_at": "Fri Feb 10 14:50:48 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ABB8C2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "E81C4F",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/871162346676170752/S3NUob6O_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/871162346676170752/S3NUob6O_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/488511628/1498044220",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 00:13:56 +0000 2018",
+    "id": 1058512567482503168,
+    "id_str": "1058512567482503168",
+    "text": "クジラが一番映えるのはどこであろうや。 #FF14 https://t.co/JJoZOPScGw",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 85238877,
+      "id_str": "85238877",
+      "name": "Toshio Murouchi",
+      "screen_name": "BuccoRoth",
+      "location": "Tokyo, Japan",
+      "url": "http://ibuc.co/PugYamadaZ",
+      "description": "I can fly! 新メンバーヤマダが加入しました。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 26097,
+      "friends_count": 99,
+      "listed_count": 624,
+      "favourites_count": 1828,
+      "statuses_count": 45305,
+      "created_at": "Mon Oct 26 04:37:42 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "228B22",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1036566443125440512/i56w3R4y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1036566443125440512/i56w3R4y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/85238877/1533078573",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 1,
+    "reply_count": 5,
+    "retweet_count": 108,
+    "favorite_count": 655,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FF14",
+          "indices": [
+            20,
+            25
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058512437123592192,
+          "id_str": "1058512437123592192",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrCXdA0VsAAQdk7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrCXdA0VsAAQdk7.jpg",
+          "url": "https://t.co/JJoZOPScGw",
+          "display_url": "pic.twitter.com/JJoZOPScGw",
+          "expanded_url": "https://twitter.com/BuccoRoth/status/1058512567482503168/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 285,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 502,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 857,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058512437123592192,
+          "id_str": "1058512437123592192",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrCXdA0VsAAQdk7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrCXdA0VsAAQdk7.jpg",
+          "url": "https://t.co/JJoZOPScGw",
+          "display_url": "pic.twitter.com/JJoZOPScGw",
+          "expanded_url": "https://twitter.com/BuccoRoth/status/1058512567482503168/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 285,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 502,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 857,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FF14",
+        "indices": [
+          35,
+          40
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "BuccoRoth",
+        "name": "Toshio Murouchi",
+        "id": 85238877,
+        "id_str": "85238877",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058512437123592192,
+        "id_str": "1058512437123592192",
+        "indices": [
+          41,
+          64
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrCXdA0VsAAQdk7.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrCXdA0VsAAQdk7.jpg",
+        "url": "https://t.co/JJoZOPScGw",
+        "display_url": "pic.twitter.com/JJoZOPScGw",
+        "expanded_url": "https://twitter.com/BuccoRoth/status/1058512567482503168/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 285,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 502,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 857,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058512567482503168,
+        "source_status_id_str": "1058512567482503168",
+        "source_user_id": 85238877,
+        "source_user_id_str": "85238877"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058512437123592192,
+        "id_str": "1058512437123592192",
+        "indices": [
+          41,
+          64
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrCXdA0VsAAQdk7.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrCXdA0VsAAQdk7.jpg",
+        "url": "https://t.co/JJoZOPScGw",
+        "display_url": "pic.twitter.com/JJoZOPScGw",
+        "expanded_url": "https://twitter.com/BuccoRoth/status/1058512567482503168/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 285,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 502,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 857,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058512567482503168,
+        "source_status_id_str": "1058512567482503168",
+        "source_user_id": 85238877,
+        "source_user_id_str": "85238877"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254528659"
+}

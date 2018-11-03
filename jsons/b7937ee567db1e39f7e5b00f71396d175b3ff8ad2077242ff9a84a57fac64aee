@@ -1,0 +1,386 @@
+{
+  "created_at": "Sat Nov 03 14:22:22 +0000 2018",
+  "id": 1058726080759005184,
+  "id_str": "1058726080759005184",
+  "text": "RT @sameiku: 干潟で。\n#艦これ #綾波 #綾波進水日 #綾波生誕祭2018 https://t.co/nacvPe6S4D",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 391923731,
+    "id_str": "391923731",
+    "name": "沒有熊所在-熊界戰線。",
+    "screen_name": "bearhung8000",
+    "location": "香港",
+    "url": null,
+    "description": "就是一場由我所引起的戰爭",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 119,
+    "friends_count": 2107,
+    "listed_count": 0,
+    "favourites_count": 20645,
+    "statuses_count": 19456,
+    "created_at": "Sun Oct 16 09:16:53 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/605745240654278657/XohG6I27_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/605745240654278657/XohG6I27_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/391923731/1477398388",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Oct 05 05:40:15 +0000 2018",
+    "id": 1048085436436865024,
+    "id_str": "1048085436436865024",
+    "text": "干潟で。\n#艦これ #綾波 #綾波進水日 #綾波生誕祭2018 https://t.co/nacvPe6S4D",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1917803455,
+      "id_str": "1917803455",
+      "name": "さめいく",
+      "screen_name": "sameiku",
+      "location": "神奈川県",
+      "url": "https://pixiv.me/sameiku",
+      "description": "漫画家：鮫葉いくや、2DCG：Same. 、またはてれすけ。古典＆現代音楽、水樹奈々、漫画＆動画の話をします。聖俗混濁です。時々絵を貼ります。知人以外の鍵垢＆未成年はフォロー非推奨。単行本「ワカゲノイタリ」「なんでもあり♥異文化エロコミュニケーション」。各種ご依頼は⇒ sameiku@goo.jp",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 4179,
+      "friends_count": 744,
+      "listed_count": 151,
+      "favourites_count": 4302,
+      "statuses_count": 21117,
+      "created_at": "Sun Sep 29 18:11:37 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/512874563625959424/u82DOXmV_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/512874563625959424/u82DOXmV_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917803455/1409644781",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 139,
+    "favorite_count": 326,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "艦これ",
+          "indices": [
+            5,
+            9
+          ]
+        },
+        {
+          "text": "綾波",
+          "indices": [
+            10,
+            13
+          ]
+        },
+        {
+          "text": "綾波進水日",
+          "indices": [
+            14,
+            20
+          ]
+        },
+        {
+          "text": "綾波生誕祭2018",
+          "indices": [
+            21,
+            31
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1048085043325747201,
+          "id_str": "1048085043325747201",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/media/DouLyz3UwAEGV0d.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DouLyz3UwAEGV0d.jpg",
+          "url": "https://t.co/nacvPe6S4D",
+          "display_url": "pic.twitter.com/nacvPe6S4D",
+          "expanded_url": "https://twitter.com/sameiku/status/1048085436436865024/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 1000,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1048085043325747201,
+          "id_str": "1048085043325747201",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/media/DouLyz3UwAEGV0d.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DouLyz3UwAEGV0d.jpg",
+          "url": "https://t.co/nacvPe6S4D",
+          "display_url": "pic.twitter.com/nacvPe6S4D",
+          "expanded_url": "https://twitter.com/sameiku/status/1048085436436865024/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 1000,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ",
+        "indices": [
+          18,
+          22
+        ]
+      },
+      {
+        "text": "綾波",
+        "indices": [
+          23,
+          26
+        ]
+      },
+      {
+        "text": "綾波進水日",
+        "indices": [
+          27,
+          33
+        ]
+      },
+      {
+        "text": "綾波生誕祭2018",
+        "indices": [
+          34,
+          44
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "sameiku",
+        "name": "さめいく",
+        "id": 1917803455,
+        "id_str": "1917803455",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1048085043325747201,
+        "id_str": "1048085043325747201",
+        "indices": [
+          45,
+          68
+        ],
+        "media_url": "http://pbs.twimg.com/media/DouLyz3UwAEGV0d.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DouLyz3UwAEGV0d.jpg",
+        "url": "https://t.co/nacvPe6S4D",
+        "display_url": "pic.twitter.com/nacvPe6S4D",
+        "expanded_url": "https://twitter.com/sameiku/status/1048085436436865024/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 544,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 800,
+            "h": 1000,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 800,
+            "h": 1000,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1048085436436865024,
+        "source_status_id_str": "1048085436436865024",
+        "source_user_id": 1917803455,
+        "source_user_id_str": "1917803455"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1048085043325747201,
+        "id_str": "1048085043325747201",
+        "indices": [
+          45,
+          68
+        ],
+        "media_url": "http://pbs.twimg.com/media/DouLyz3UwAEGV0d.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DouLyz3UwAEGV0d.jpg",
+        "url": "https://t.co/nacvPe6S4D",
+        "display_url": "pic.twitter.com/nacvPe6S4D",
+        "expanded_url": "https://twitter.com/sameiku/status/1048085436436865024/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 544,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 800,
+            "h": 1000,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 800,
+            "h": 1000,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1048085436436865024,
+        "source_status_id_str": "1048085436436865024",
+        "source_user_id": 1917803455,
+        "source_user_id_str": "1917803455"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254942489"
+}

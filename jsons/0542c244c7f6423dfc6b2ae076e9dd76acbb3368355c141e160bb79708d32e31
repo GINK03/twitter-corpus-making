@@ -1,0 +1,429 @@
+{
+  "created_at": "Sat Nov 03 14:14:52 +0000 2018",
+  "id": 1058724194056208384,
+  "id_str": "1058724194056208384",
+  "text": "RT @wni_jp: 【ドリル？コロネ？】3日(土)夕方、佐賀など九州北部で渦を巻いたような、荒ぶる雲の目撃が相次ぎました。この雲は上空の強い西風と周辺の地形効果で現れたと見られ、被害をもたらす竜巻やつむじ風ではないようです。\nhttps://t.co/KbWg5ly46j…",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 225715139,
+    "id_str": "225715139",
+    "name": "syd",
+    "screen_name": "maika579",
+    "location": null,
+    "url": null,
+    "description": "フィメール　ペーパードライバーになって10年以上になります。今はバイクの方が好き。好きな写真・画像のRTが中心です。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 177,
+    "friends_count": 164,
+    "listed_count": 8,
+    "favourites_count": 584,
+    "statuses_count": 27249,
+    "created_at": "Sun Dec 12 08:04:41 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/574574984460308481/hz6fBi0O_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/574574984460308481/hz6fBi0O_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/225715139/1425824613",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 10:17:39 +0000 2018",
+    "id": 1058664494052896768,
+    "id_str": "1058664494052896768",
+    "text": "【ドリル？コロネ？】3日(土)夕方、佐賀など九州北部で渦を巻いたような、荒ぶる雲の目撃が相次ぎました。この雲は上空の強い西風と周辺の地形効果で現れたと見られ、被害をもたらす竜巻やつむじ風ではないようです。… https://t.co/jbwEtDT3ht",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 712914636203433984,
+      "id_str": "712914636203433984",
+      "name": "ウェザーニュース",
+      "screen_name": "wni_jp",
+      "location": "千葉県千葉市",
+      "url": "https://weathernews.jp/s/download/weathernewstouch.html?fm=twitter_w",
+      "description": "世界最大の民間気象情報会社ウェザーニューズ公式アカウント。 天気予報の精度で選ぶならウェザーニュース！スマホアプリは基本無料で利用可能。 Twitterでは日々の天気をはじめ、地震速報、台風情報などの防災情報、季節や星空の話題などをつぶやきます。 ▼生放送番組ウェザーニュースLiVEのアカウント→@wni_live",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 160806,
+      "friends_count": 166,
+      "listed_count": 4065,
+      "favourites_count": 409,
+      "statuses_count": 16419,
+      "created_at": "Thu Mar 24 08:11:09 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0C419A",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/878447388641251328/ZAeYiaAF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/878447388641251328/ZAeYiaAF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/712914636203433984/1525904731",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "【ドリル？コロネ？】3日(土)夕方、佐賀など九州北部で渦を巻いたような、荒ぶる雲の目撃が相次ぎました。この雲は上空の強い西風と周辺の地形効果で現れたと見られ、被害をもたらす竜巻やつむじ風ではないようです。\nhttps://t.co/KbWg5ly46j https://t.co/zyk7NgowDR",
+      "display_text_range": [
+        0,
+        126
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/KbWg5ly46j",
+            "expanded_url": "https://weathernews.jp/s/topics/201811/030115/",
+            "display_url": "weathernews.jp/s/topics/20181…",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058664491309826048,
+            "id_str": "1058664491309826048",
+            "indices": [
+              127,
+              150
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrEhvuzXgAAV8rm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrEhvuzXgAAV8rm.jpg",
+            "url": "https://t.co/zyk7NgowDR",
+            "display_url": "pic.twitter.com/zyk7NgowDR",
+            "expanded_url": "https://twitter.com/wni_jp/status/1058664494052896768/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 800,
+                "h": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 800,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058664492463284224,
+            "id_str": "1058664492463284224",
+            "indices": [
+              127,
+              150
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrEhvzGX4AAkq4m.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrEhvzGX4AAkq4m.jpg",
+            "url": "https://t.co/zyk7NgowDR",
+            "display_url": "pic.twitter.com/zyk7NgowDR",
+            "expanded_url": "https://twitter.com/wni_jp/status/1058664494052896768/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 720,
+                "h": 720,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 720,
+                "h": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058664491318214657,
+            "id_str": "1058664491318214657",
+            "indices": [
+              127,
+              150
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrEhvu1XgAEBq22.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrEhvu1XgAEBq22.jpg",
+            "url": "https://t.co/zyk7NgowDR",
+            "display_url": "pic.twitter.com/zyk7NgowDR",
+            "expanded_url": "https://twitter.com/wni_jp/status/1058664494052896768/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 800,
+                "h": 600,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 600,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058664491309826048,
+            "id_str": "1058664491309826048",
+            "indices": [
+              127,
+              150
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrEhvuzXgAAV8rm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrEhvuzXgAAV8rm.jpg",
+            "url": "https://t.co/zyk7NgowDR",
+            "display_url": "pic.twitter.com/zyk7NgowDR",
+            "expanded_url": "https://twitter.com/wni_jp/status/1058664494052896768/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 800,
+                "h": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 800,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058664492463284224,
+            "id_str": "1058664492463284224",
+            "indices": [
+              127,
+              150
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrEhvzGX4AAkq4m.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrEhvzGX4AAkq4m.jpg",
+            "url": "https://t.co/zyk7NgowDR",
+            "display_url": "pic.twitter.com/zyk7NgowDR",
+            "expanded_url": "https://twitter.com/wni_jp/status/1058664494052896768/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 720,
+                "h": 720,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 720,
+                "h": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058664491318214657,
+            "id_str": "1058664491318214657",
+            "indices": [
+              127,
+              150
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrEhvu1XgAEBq22.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrEhvu1XgAEBq22.jpg",
+            "url": "https://t.co/zyk7NgowDR",
+            "display_url": "pic.twitter.com/zyk7NgowDR",
+            "expanded_url": "https://twitter.com/wni_jp/status/1058664494052896768/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 800,
+                "h": 600,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 600,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 47,
+    "reply_count": 26,
+    "retweet_count": 1315,
+    "favorite_count": 2134,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/jbwEtDT3ht",
+          "expanded_url": "https://twitter.com/i/web/status/1058664494052896768",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            104,
+            127
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/KbWg5ly46j",
+        "expanded_url": "https://weathernews.jp/s/topics/201811/030115/",
+        "display_url": "weathernews.jp/s/topics/20181…",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wni_jp",
+        "name": "ウェザーニュース",
+        "id": 712914636203433984,
+        "id_str": "712914636203433984",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254492664"
+}

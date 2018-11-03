@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:19:05 +0000 2018",
+  "id": 1058725255185715200,
+  "id_str": "1058725255185715200",
+  "text": "@no_magic_spoon @kawanonatuaki ぐっ……(´；ω；｀)",
+  "display_text_range": [
+    31,
+    42
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058725164064460800,
+  "in_reply_to_status_id_str": "1058725164064460800",
+  "in_reply_to_user_id": 868783632231444480,
+  "in_reply_to_user_id_str": "868783632231444480",
+  "in_reply_to_screen_name": "no_magic_spoon",
+  "user": {
+    "id": 858310358578085890,
+    "id_str": "858310358578085890",
+    "name": "神崎 月桂@嘘創夢想　48555/180000　語尾が「にゃー」になる生活3/31まで",
+    "screen_name": "kanzaki_narou",
+    "location": "よくわかんないけど兄弟姉妹の１番上？",
+    "url": "http://mypage.syosetu.com/884351/",
+    "description": "男です　小説家になろう用アカウントです（多分）自作を読んでいただいたら歓喜します感想とか評価とか貰ったら悶絶します（嬉しさで）小説とゲームと数学と吹奏楽と雑談が基本です（どれだよ）気軽に絡んでください　無言フォローしますご了承ください　短編小説のリクエストはいつでも受け付けてます　ヘッダーは姉より　アイコンは匿名様より",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 349,
+    "friends_count": 120,
+    "listed_count": 16,
+    "favourites_count": 3033,
+    "statuses_count": 7824,
+    "created_at": "Sat Apr 29 13:21:50 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1052910070936174592/FPTDx8iZ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052910070936174592/FPTDx8iZ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/858310358578085890/1530374384",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "no_magic_spoon",
+        "name": "不屈の匙",
+        "id": 868783632231444480,
+        "id_str": "868783632231444480",
+        "indices": [
+          0,
+          15
+        ]
+      },
+      {
+        "screen_name": "kawanonatuaki",
+        "name": "夏野レイジ　5000/100000字",
+        "id": 858217547723751424,
+        "id_str": "858217547723751424",
+        "indices": [
+          16,
+          30
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254745657"
+}

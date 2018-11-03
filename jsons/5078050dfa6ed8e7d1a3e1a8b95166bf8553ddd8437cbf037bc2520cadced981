@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:21:12 +0000 2018",
+  "id": 1058725787900162048,
+  "id_str": "1058725787900162048",
+  "text": "@_HiroChannel @HiroChannel_B 怒っちょる～～Σ(´ ∀`ﾉ)ﾉ\n今度ご馳走して貰いなよｗ",
+  "display_text_range": [
+    29,
+    58
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058724456405692416,
+  "in_reply_to_status_id_str": "1058724456405692416",
+  "in_reply_to_user_id": 751450064929730561,
+  "in_reply_to_user_id_str": "751450064929730561",
+  "in_reply_to_screen_name": "_HiroChannel",
+  "user": {
+    "id": 151717909,
+    "id_str": "151717909",
+    "name": "伊園若芽",
+    "screen_name": "wakame3_yo",
+    "location": null,
+    "url": null,
+    "description": "☆*ﾟみんな！愛してるよ～.｡.:*☆\n人生...山あり谷あり\n楽しく生き隊☆彡\nよろしくお願いします♪\nTWINS(ひろむの部屋～ひろちゃんねる)の黒歴史観覧中～(`L_` )ｸｸｸ何度見ても面白いｗにゃんねる大好き(๑˙―˙๑)スコ猫スズの垢@yadokari3_yo",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 20,
+    "friends_count": 29,
+    "listed_count": 0,
+    "favourites_count": 2266,
+    "statuses_count": 1534,
+    "created_at": "Fri Jun 04 02:33:11 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/983873380821577729/UDTBI1Js_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/983873380821577729/UDTBI1Js_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/151717909/1519454223",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "_HiroChannel",
+        "name": "ひろむ（TWINS/ツインズ）",
+        "id": 751450064929730561,
+        "id_str": "751450064929730561",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "HiroChannel_B",
+        "name": "コウ（TWINS/ツインズ）",
+        "id": 864521851820691456,
+        "id_str": "864521851820691456",
+        "indices": [
+          14,
+          28
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254872666"
+}

@@ -1,0 +1,371 @@
+{
+  "created_at": "Sat Nov 03 14:25:21 +0000 2018",
+  "id": 1058726832260952064,
+  "id_str": "1058726832260952064",
+  "text": "RT @MappaNinatta: 15000フォロワー記念イラスト✨感謝です！\n#アズールレーン #愛宕 #高雄 https://t.co/JHyNludrTD",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 715465165,
+    "id_str": "715465165",
+    "name": "Jorge Alberto",
+    "screen_name": "JorgeAl83175986",
+    "location": "Monterrey, Nuevo León",
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 66,
+    "friends_count": 2072,
+    "listed_count": 0,
+    "favourites_count": 16225,
+    "statuses_count": 3702,
+    "created_at": "Wed Jul 25 04:27:38 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/947518174160830464/7M_vFFMT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/947518174160830464/7M_vFFMT_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 09:59:38 +0000 2018",
+    "id": 1058659962774155264,
+    "id_str": "1058659962774155264",
+    "text": "15000フォロワー記念イラスト✨感謝です！\n#アズールレーン #愛宕 #高雄 https://t.co/JHyNludrTD",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 746171165559787520,
+      "id_str": "746171165559787520",
+      "name": "マッパニナッタ@2日目西す12b",
+      "screen_name": "MappaNinatta",
+      "location": "日本 東京",
+      "url": "https://namamugi77.wixsite.com/mnpic",
+      "description": "イラストレーターです。成人向漫画も描いてます。(アへ顔属性)  映画やアニメ、ゲーム全般大好きです ツイッターではイラスト中心のつぶやきになるかと思います。 pixivではR18絵もアップしてます👉\nhttps://pixiv.me/mappaninatta",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 16362,
+      "friends_count": 257,
+      "listed_count": 297,
+      "favourites_count": 6026,
+      "statuses_count": 1656,
+      "created_at": "Fri Jun 24 02:40:43 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "F431A0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/939865365181489152/Sncf6EPc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/939865365181489152/Sncf6EPc_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/746171165559787520/1513675369",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 2,
+    "reply_count": 10,
+    "retweet_count": 598,
+    "favorite_count": 1816,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "アズールレーン",
+          "indices": [
+            23,
+            31
+          ]
+        },
+        {
+          "text": "愛宕",
+          "indices": [
+            32,
+            35
+          ]
+        },
+        {
+          "text": "高雄",
+          "indices": [
+            36,
+            39
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058659848663969792,
+          "id_str": "1058659848663969792",
+          "indices": [
+            40,
+            63
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrEdhfmVsAAqFAd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrEdhfmVsAAqFAd.jpg",
+          "url": "https://t.co/JHyNludrTD",
+          "display_url": "pic.twitter.com/JHyNludrTD",
+          "expanded_url": "https://twitter.com/MappaNinatta/status/1058659962774155264/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 849,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 849,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058659848663969792,
+          "id_str": "1058659848663969792",
+          "indices": [
+            40,
+            63
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrEdhfmVsAAqFAd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrEdhfmVsAAqFAd.jpg",
+          "url": "https://t.co/JHyNludrTD",
+          "display_url": "pic.twitter.com/JHyNludrTD",
+          "expanded_url": "https://twitter.com/MappaNinatta/status/1058659962774155264/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 849,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 849,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "アズールレーン",
+        "indices": [
+          41,
+          49
+        ]
+      },
+      {
+        "text": "愛宕",
+        "indices": [
+          50,
+          53
+        ]
+      },
+      {
+        "text": "高雄",
+        "indices": [
+          54,
+          57
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "MappaNinatta",
+        "name": "マッパニナッタ@2日目西す12b",
+        "id": 746171165559787520,
+        "id_str": "746171165559787520",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058659848663969792,
+        "id_str": "1058659848663969792",
+        "indices": [
+          58,
+          81
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrEdhfmVsAAqFAd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrEdhfmVsAAqFAd.jpg",
+        "url": "https://t.co/JHyNludrTD",
+        "display_url": "pic.twitter.com/JHyNludrTD",
+        "expanded_url": "https://twitter.com/MappaNinatta/status/1058659962774155264/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 481,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 849,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 849,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058659962774155264,
+        "source_status_id_str": "1058659962774155264",
+        "source_user_id": 746171165559787520,
+        "source_user_id_str": "746171165559787520"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058659848663969792,
+        "id_str": "1058659848663969792",
+        "indices": [
+          58,
+          81
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrEdhfmVsAAqFAd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrEdhfmVsAAqFAd.jpg",
+        "url": "https://t.co/JHyNludrTD",
+        "display_url": "pic.twitter.com/JHyNludrTD",
+        "expanded_url": "https://twitter.com/MappaNinatta/status/1058659962774155264/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 481,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 849,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 849,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058659962774155264,
+        "source_status_id_str": "1058659962774155264",
+        "source_user_id": 746171165559787520,
+        "source_user_id_str": "746171165559787520"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255121661"
+}

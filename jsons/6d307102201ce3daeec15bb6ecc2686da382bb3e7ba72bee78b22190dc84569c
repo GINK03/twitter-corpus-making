@@ -1,0 +1,438 @@
+{
+  "created_at": "Sat Nov 03 14:16:52 +0000 2018",
+  "id": 1058724697347547136,
+  "id_str": "1058724697347547136",
+  "text": "RT @319happiness: 錦戸亮ちゃん、\n\nなっぴばーすでぃ✨✨\n\n#錦戸亮誕生祭 #HΛRUムビ https://t.co/y0Rr2xx8W8",
+  "source": "<a href=\"http://twitter.softama.com/\" rel=\"nofollow\">ツイタマ for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 227261717,
+    "id_str": "227261717",
+    "name": "クロ",
+    "screen_name": "0504777",
+    "location": null,
+    "url": null,
+    "description": "浜崎あゆみ、ジャニーズKis-My-Ft2、舞祭組、生田斗真、内博貴、ジャニーズJr. Love-tune安井謙太郎",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 439,
+    "friends_count": 542,
+    "listed_count": 10,
+    "favourites_count": 18507,
+    "statuses_count": 80445,
+    "created_at": "Thu Dec 16 10:43:55 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/554270640996220928/mVAWtqKG_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/554270640996220928/mVAWtqKG_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/227261717/1395022842",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 15:21:50 +0000 2018",
+    "id": 1058378656572104705,
+    "id_str": "1058378656572104705",
+    "text": "錦戸亮ちゃん、\n\nなっぴばーすでぃ✨✨\n\n#錦戸亮誕生祭 #HΛRUムビ https://t.co/y0Rr2xx8W8",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 714347768,
+      "id_str": "714347768",
+      "name": "春",
+      "screen_name": "319happiness",
+      "location": null,
+      "url": "https://www.infinity-r.jp/",
+      "description": "→🆕@kura_yoshi516",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 32823,
+      "friends_count": 387,
+      "listed_count": 152,
+      "favourites_count": 22688,
+      "statuses_count": 40880,
+      "created_at": "Tue Jul 24 14:07:29 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1052502321127600128/NHtA2SNe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052502321127600128/NHtA2SNe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/714347768/1534092516",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 25,
+    "reply_count": 1,
+    "retweet_count": 1335,
+    "favorite_count": 5235,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "錦戸亮誕生祭",
+          "indices": [
+            21,
+            28
+          ]
+        },
+        {
+          "text": "HΛRUムビ",
+          "indices": [
+            29,
+            36
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 926127889661095936,
+          "id_str": "926127889661095936",
+          "indices": [
+            37,
+            60
+          ],
+          "additional_media_info": {
+            "title": "",
+            "description": "",
+            "embeddable": true,
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/926127889661095936/img/ndubY12gd_BFHyK3.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/926127889661095936/img/ndubY12gd_BFHyK3.jpg",
+          "url": "https://t.co/y0Rr2xx8W8",
+          "display_url": "pic.twitter.com/y0Rr2xx8W8",
+          "expanded_url": "https://twitter.com/319happiness/status/1058378656572104705/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 926127889661095936,
+          "id_str": "926127889661095936",
+          "indices": [
+            37,
+            60
+          ],
+          "additional_media_info": {
+            "title": "",
+            "description": "",
+            "embeddable": true,
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/926127889661095936/img/ndubY12gd_BFHyK3.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/926127889661095936/img/ndubY12gd_BFHyK3.jpg",
+          "url": "https://t.co/y0Rr2xx8W8",
+          "display_url": "pic.twitter.com/y0Rr2xx8W8",
+          "expanded_url": "https://twitter.com/319happiness/status/1058378656572104705/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 190300,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/926127889661095936/vid/640x360/gt2wJx2vsGLY_4Qk.mp4"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/926127889661095936/vid/1280x720/Tx1fC2aV1yVhTJMv.mp4"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/926127889661095936/pl/HHkqWxfiGKfMbOTa.m3u8"
+              },
+              {
+                "bitrate": 320000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/926127889661095936/vid/320x180/lkNf0ibSRe5FXYSf.mp4"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "錦戸亮誕生祭",
+        "indices": [
+          39,
+          46
+        ]
+      },
+      {
+        "text": "HΛRUムビ",
+        "indices": [
+          47,
+          54
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "319happiness",
+        "name": "春",
+        "id": 714347768,
+        "id_str": "714347768",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 926127889661095936,
+        "id_str": "926127889661095936",
+        "indices": [
+          55,
+          78
+        ],
+        "additional_media_info": {
+          "title": "",
+          "description": "",
+          "embeddable": true,
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/926127889661095936/img/ndubY12gd_BFHyK3.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/926127889661095936/img/ndubY12gd_BFHyK3.jpg",
+        "url": "https://t.co/y0Rr2xx8W8",
+        "display_url": "pic.twitter.com/y0Rr2xx8W8",
+        "expanded_url": "https://twitter.com/319happiness/status/1058378656572104705/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058378656572104705,
+        "source_status_id_str": "1058378656572104705",
+        "source_user_id": 714347768,
+        "source_user_id_str": "714347768"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 926127889661095936,
+        "id_str": "926127889661095936",
+        "indices": [
+          55,
+          78
+        ],
+        "additional_media_info": {
+          "title": "",
+          "description": "",
+          "embeddable": true,
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/926127889661095936/img/ndubY12gd_BFHyK3.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/926127889661095936/img/ndubY12gd_BFHyK3.jpg",
+        "url": "https://t.co/y0Rr2xx8W8",
+        "display_url": "pic.twitter.com/y0Rr2xx8W8",
+        "expanded_url": "https://twitter.com/319happiness/status/1058378656572104705/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 190300,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/926127889661095936/vid/640x360/gt2wJx2vsGLY_4Qk.mp4"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/926127889661095936/vid/1280x720/Tx1fC2aV1yVhTJMv.mp4"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/926127889661095936/pl/HHkqWxfiGKfMbOTa.m3u8"
+            },
+            {
+              "bitrate": 320000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/926127889661095936/vid/320x180/lkNf0ibSRe5FXYSf.mp4"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058378656572104705,
+        "source_status_id_str": "1058378656572104705",
+        "source_user_id": 714347768,
+        "source_user_id_str": "714347768"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254612658"
+}

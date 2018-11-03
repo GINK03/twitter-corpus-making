@@ -1,0 +1,96 @@
+{
+  "created_at": "Sat Nov 03 14:22:36 +0000 2018",
+  "id": 1058726140221677569,
+  "id_str": "1058726140221677569",
+  "text": "小林くんに被せぎみで\n２個あるのよww\n\n#中居正広ON_and_ON_AIR\n#jolf\n#サムガ",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4299185114,
+    "id_str": "4299185114",
+    "name": "cooooorp.",
+    "screen_name": "ststsm",
+    "location": null,
+    "url": null,
+    "description": "SMAP🎵サタスマダイスキ👑さかさまの空🌈たいせつ🎶ドラ1中居正広(´✪ω✪`)💫ライトニングプラズマ層です➰🐬↪️🔥🔥🔁↩️",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 35,
+    "friends_count": 35,
+    "listed_count": 0,
+    "favourites_count": 2813,
+    "statuses_count": 17281,
+    "created_at": "Fri Nov 20 08:52:38 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/991296632678367233/4-Of7Vl2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/991296632678367233/4-Of7Vl2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4299185114/1528716350",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "中居正広ON_and_ON_AIR",
+        "indices": [
+          21,
+          39
+        ]
+      },
+      {
+        "text": "jolf",
+        "indices": [
+          40,
+          45
+        ]
+      },
+      {
+        "text": "サムガ",
+        "indices": [
+          46,
+          50
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254956666"
+}

@@ -1,0 +1,396 @@
+{
+  "created_at": "Sat Nov 03 14:27:16 +0000 2018",
+  "id": 1058727314589020160,
+  "id_str": "1058727314589020160",
+  "text": "RT @inohanadance: そして、IDCよりメッセージ😁 https://t.co/YkTakKX5UJ",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 901749012490895360,
+    "id_str": "901749012490895360",
+    "name": "ごとうのおじき",
+    "screen_name": "gotuannnn",
+    "location": null,
+    "url": null,
+    "description": "13M学年代表。将来の夢は平成の不動産王。趣味はダイエット特技はリバウンド。千葉大学医学部、醫水、IDC、Breakin'、Poppin'、TUT、踊って治せる医者になります。圧倒的な内科。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 333,
+    "friends_count": 426,
+    "listed_count": 2,
+    "favourites_count": 2300,
+    "statuses_count": 855,
+    "created_at": "Sun Aug 27 10:11:33 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1015815414637518848/2E03tQ8m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1015815414637518848/2E03tQ8m_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/901749012490895360/1531024243",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:06:54 +0000 2018",
+    "id": 1058722190319742976,
+    "id_str": "1058722190319742976",
+    "text": "そして、IDCよりメッセージ😁 https://t.co/YkTakKX5UJ",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1058721668930002950,
+    "in_reply_to_status_id_str": "1058721668930002950",
+    "in_reply_to_user_id": 3148084370,
+    "in_reply_to_user_id_str": "3148084370",
+    "in_reply_to_screen_name": "inohanadance",
+    "user": {
+      "id": 3148084370,
+      "id_str": "3148084370",
+      "name": "IDC 亥鼻ダンスサークル",
+      "screen_name": "inohanadance",
+      "location": "いのはなキャンパス",
+      "url": "http://inohanadance.wix.com/dance#",
+      "description": "【実は今年で10周年】IDCこと亥鼻ダンスサークルの公式アカウントです！主にイベントへの出演情報をツイートします。 たまにプライベート写真も上がるかも。 亥鼻生の皆さん、ぜひぜひフォローしてください！／練習→毎週金曜日 18:00〜",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 296,
+      "friends_count": 406,
+      "listed_count": 1,
+      "favourites_count": 61,
+      "statuses_count": 151,
+      "created_at": "Fri Apr 10 13:39:52 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "FFCC4D",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/586720064566493184/gkbehoWa_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/586720064566493184/gkbehoWa_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3148084370/1458817234",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058722150914256896,
+          "id_str": "1058722150914256896",
+          "indices": [
+            16,
+            39
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058722150914256896/pu/img/xlXmj9turee5BoPT.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058722150914256896/pu/img/xlXmj9turee5BoPT.jpg",
+          "url": "https://t.co/YkTakKX5UJ",
+          "display_url": "pic.twitter.com/YkTakKX5UJ",
+          "expanded_url": "https://twitter.com/inohanadance/status/1058722190319742976/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058722150914256896,
+          "id_str": "1058722150914256896",
+          "indices": [
+            16,
+            39
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058722150914256896/pu/img/xlXmj9turee5BoPT.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058722150914256896/pu/img/xlXmj9turee5BoPT.jpg",
+          "url": "https://t.co/YkTakKX5UJ",
+          "display_url": "pic.twitter.com/YkTakKX5UJ",
+          "expanded_url": "https://twitter.com/inohanadance/status/1058722190319742976/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 10500,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058722150914256896/pu/vid/640x360/kzvojPKfuzRG02Et.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058722150914256896/pu/pl/39vkpzZCdcR-gbXr.m3u8?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058722150914256896/pu/vid/320x180/g3__UlinzSra6_yZ.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058722150914256896/pu/vid/1280x720/UYiXDIQeAK9Pajvw.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "inohanadance",
+        "name": "IDC 亥鼻ダンスサークル",
+        "id": 3148084370,
+        "id_str": "3148084370",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058722150914256896,
+        "id_str": "1058722150914256896",
+        "indices": [
+          34,
+          57
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058722150914256896/pu/img/xlXmj9turee5BoPT.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058722150914256896/pu/img/xlXmj9turee5BoPT.jpg",
+        "url": "https://t.co/YkTakKX5UJ",
+        "display_url": "pic.twitter.com/YkTakKX5UJ",
+        "expanded_url": "https://twitter.com/inohanadance/status/1058722190319742976/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058722190319742976,
+        "source_status_id_str": "1058722190319742976",
+        "source_user_id": 3148084370,
+        "source_user_id_str": "3148084370"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058722150914256896,
+        "id_str": "1058722150914256896",
+        "indices": [
+          34,
+          57
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058722150914256896/pu/img/xlXmj9turee5BoPT.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058722150914256896/pu/img/xlXmj9turee5BoPT.jpg",
+        "url": "https://t.co/YkTakKX5UJ",
+        "display_url": "pic.twitter.com/YkTakKX5UJ",
+        "expanded_url": "https://twitter.com/inohanadance/status/1058722190319742976/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 10500,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058722150914256896/pu/vid/640x360/kzvojPKfuzRG02Et.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058722150914256896/pu/pl/39vkpzZCdcR-gbXr.m3u8?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058722150914256896/pu/vid/320x180/g3__UlinzSra6_yZ.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058722150914256896/pu/vid/1280x720/UYiXDIQeAK9Pajvw.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058722190319742976,
+        "source_status_id_str": "1058722190319742976",
+        "source_user_id": 3148084370,
+        "source_user_id_str": "3148084370"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255236657"
+}

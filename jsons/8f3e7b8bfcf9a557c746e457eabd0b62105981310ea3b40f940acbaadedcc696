@@ -1,0 +1,167 @@
+{
+  "created_at": "Sat Nov 03 14:15:53 +0000 2018",
+  "id": 1058724449887883264,
+  "id_str": "1058724449887883264",
+  "text": "【ポケモンGo】ついに！いつでも冒険モードの実装開始！ https://t.co/alzoLuANS3 https://t.co/8g98w6Rt66",
+  "display_text_range": [
+    0,
+    51
+  ],
+  "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 858735640120139776,
+    "id_str": "858735640120139776",
+    "name": "Kitokito\\( ･ω･)/@日本留学",
+    "screen_name": "KitokitoWorld",
+    "location": "Lyon, France✈️7月〜日本",
+    "url": "http://kitokito.world",
+    "description": "ブログ http://kitokito.world / 旅/ 留学/ 🇫🇷/ リヨン/ Ingress/ Enlightened/ Instinct/ ミッション/ ハリボーが大好き/ 2020まで日本に留学中！",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 917,
+    "friends_count": 710,
+    "listed_count": 21,
+    "favourites_count": 9213,
+    "statuses_count": 9115,
+    "created_at": "Sun Apr 30 17:31:45 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "19CF86",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/996759027777490944/CNoVqZMG_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/996759027777490944/CNoVqZMG_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/858735640120139776/1510748029",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/alzoLuANS3",
+        "expanded_url": "https://kitokito.world/pokemongo/modedeitudemovoyage",
+        "display_url": "kitokito.world/pokemongo/mode…",
+        "indices": [
+          28,
+          51
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724448151293952,
+        "id_str": "1058724448151293952",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYRrcUUAAxj4b.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYRrcUUAAxj4b.jpg",
+        "url": "https://t.co/8g98w6Rt66",
+        "display_url": "pic.twitter.com/8g98w6Rt66",
+        "expanded_url": "https://twitter.com/KitokitoWorld/status/1058724449887883264/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 340,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724448151293952,
+        "id_str": "1058724448151293952",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYRrcUUAAxj4b.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYRrcUUAAxj4b.jpg",
+        "url": "https://t.co/8g98w6Rt66",
+        "display_url": "pic.twitter.com/8g98w6Rt66",
+        "expanded_url": "https://twitter.com/KitokitoWorld/status/1058724449887883264/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 340,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254553659"
+}

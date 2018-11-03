@@ -1,0 +1,193 @@
+{
+  "created_at": "Sat Nov 03 14:25:06 +0000 2018",
+  "id": 1058726769367244801,
+  "id_str": "1058726769367244801",
+  "text": "デッキを晒すことが生きがいマン\nリースNEX王と勝利の将龍剣ガイオウバーン\nこの日のためにモルト覇スリーブ取り寄せました https://t.co/HYylz4WwfI",
+  "display_text_range": [
+    0,
+    60
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058713598266994688,
+  "in_reply_to_status_id_str": "1058713598266994688",
+  "in_reply_to_user_id": 157506251,
+  "in_reply_to_user_id_str": "157506251",
+  "in_reply_to_screen_name": "nottye24",
+  "user": {
+    "id": 157506251,
+    "id_str": "157506251",
+    "name": "みとな",
+    "screen_name": "nottye24",
+    "location": "バンダイチャンネル デュエマVS 1話 見放題",
+    "url": "http://sp.b-ch.com/episodetop.php?ttl_c=5439&slspkg_c=261322",
+    "description": "18↑腐 遊戯王ゼアル/デュエマVS~/ポケモン/バディファ無印~/ベイバ~/ウルトラマンオーブ/NARUTO/ヒロ銀/デュラ @nottye24_2 http://twpf.jp/nottye24 ヘッダーは頂きもの→@O_taki0606 もうほとんどデュエマの話しかしてない",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1177,
+    "friends_count": 1158,
+    "listed_count": 53,
+    "favourites_count": 38755,
+    "statuses_count": 238011,
+    "created_at": "Sun Jun 20 01:28:56 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/902156893891600384/JsjZ2-g-_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/902156893891600384/JsjZ2-g-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/157506251/1495351790",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058726753948975104,
+        "id_str": "1058726753948975104",
+        "indices": [
+          61,
+          84
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaX5NUwAABS3k.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaX5NUwAABS3k.jpg",
+        "url": "https://t.co/HYylz4WwfI",
+        "display_url": "pic.twitter.com/HYylz4WwfI",
+        "expanded_url": "https://twitter.com/nottye24/status/1058726769367244801/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 619,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1056,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 351,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058726753948975104,
+        "id_str": "1058726753948975104",
+        "indices": [
+          61,
+          84
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaX5NUwAABS3k.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaX5NUwAABS3k.jpg",
+        "url": "https://t.co/HYylz4WwfI",
+        "display_url": "pic.twitter.com/HYylz4WwfI",
+        "expanded_url": "https://twitter.com/nottye24/status/1058726769367244801/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 619,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1056,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 351,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058726753932177408,
+        "id_str": "1058726753932177408",
+        "indices": [
+          61,
+          84
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaX5JUcAAomYB.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaX5JUcAAomYB.jpg",
+        "url": "https://t.co/HYylz4WwfI",
+        "display_url": "pic.twitter.com/HYylz4WwfI",
+        "expanded_url": "https://twitter.com/nottye24/status/1058726769367244801/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 334,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1005,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 589,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255106666"
+}

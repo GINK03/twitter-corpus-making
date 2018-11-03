@@ -1,0 +1,165 @@
+{
+  "created_at": "Sat Nov 03 14:11:12 +0000 2018",
+  "id": 1058723269031784454,
+  "id_str": "1058723269031784454",
+  "text": "１－５　２４周、１－１　１２周、２－２　２５周の合計６１周して１日であ号とろ号終わらせる計画性のない人がいるらしい…\n#艦これ https://t.co/tPyA98NeHC",
+  "display_text_range": [
+    0,
+    63
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1010672961664118784,
+    "id_str": "1010672961664118784",
+    "name": "萌やしっ娘",
+    "screen_name": "MoyashinoSochan",
+    "location": "カバが治める熊の国　(ﾎﾞｿｯ二次元)",
+    "url": null,
+    "description": "リンガ泊地で提督やってます　　主に艦これ、見たアニメについてつぶやきます　\nサブ垢：メモ帳@Bibouroku_moya　　日常、他ゲー絵描きなど＠nichijyo_yasai　　\n＊ヘッダーについて＊＠iki_bluebird　さん作のヘッダーをお借りしています",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 110,
+    "friends_count": 172,
+    "listed_count": 1,
+    "favourites_count": 345,
+    "statuses_count": 361,
+    "created_at": "Sat Jun 23 23:56:26 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "7FDBB6",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1057937236719689728/U7y8PAw0_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057937236719689728/U7y8PAw0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1010672961664118784/1541066889",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ",
+        "indices": [
+          59,
+          63
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058723013925920771,
+        "id_str": "1058723013925920771",
+        "indices": [
+          64,
+          87
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFW-MiV4AMrRXV.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFW-MiV4AMrRXV.jpg",
+        "url": "https://t.co/tPyA98NeHC",
+        "display_url": "pic.twitter.com/tPyA98NeHC",
+        "expanded_url": "https://twitter.com/MoyashinoSochan/status/1058723269031784454/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 409,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 959,
+            "h": 577,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 959,
+            "h": 577,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058723013925920771,
+        "id_str": "1058723013925920771",
+        "indices": [
+          64,
+          87
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFW-MiV4AMrRXV.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFW-MiV4AMrRXV.jpg",
+        "url": "https://t.co/tPyA98NeHC",
+        "display_url": "pic.twitter.com/tPyA98NeHC",
+        "expanded_url": "https://twitter.com/MoyashinoSochan/status/1058723269031784454/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 409,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 959,
+            "h": 577,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 959,
+            "h": 577,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254272121"
+}

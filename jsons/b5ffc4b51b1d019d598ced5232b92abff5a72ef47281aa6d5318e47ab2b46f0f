@@ -1,0 +1,95 @@
+{
+  "created_at": "Sat Nov 03 14:22:18 +0000 2018",
+  "id": 1058726064720146432,
+  "id_str": "1058726064720146432",
+  "text": "【PS4】弟的オープンワールド三國散歩【三國無双8】: https://t.co/dkUpVZQLNj、@YouTube がアップロード",
+  "source": "<a href=\"https://www.google.com/\" rel=\"nofollow\">Google</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 130476097,
+    "id_str": "130476097",
+    "name": "カズヤ",
+    "screen_name": "dodo_ria",
+    "location": "福井県",
+    "url": null,
+    "description": "生態：recogの実弟。\n行動：バイオ５兄弟実況（ニコニコ）\nYoutubeゲーム実況\n由来：兄者の生放送にて→(ホモじゃない)カズヤ",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2183,
+    "friends_count": 8,
+    "listed_count": 66,
+    "favourites_count": 14,
+    "statuses_count": 3252,
+    "created_at": "Wed Apr 07 11:49:33 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/804247810/top261a_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/804247810/top261a_normal.jpg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/dkUpVZQLNj",
+        "expanded_url": "http://youtu.be/X97WrhtxCjk?a",
+        "display_url": "youtu.be/X97WrhtxCjk?a",
+        "indices": [
+          28,
+          51
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "YouTube",
+        "name": "YouTube",
+        "id": 10228272,
+        "id_str": "10228272",
+        "indices": [
+          52,
+          60
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254938665"
+}

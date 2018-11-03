@@ -1,0 +1,529 @@
+{
+  "created_at": "Sat Nov 03 14:19:51 +0000 2018",
+  "id": 1058725447431675906,
+  "id_str": "1058725447431675906",
+  "text": "RT @YugeBakuha2: コミケ受かりました！日曜日　東地区Lブロック19bです。メルトリリスの寿司対決漫画（予定）です。これの清書番の完全ストーリーバージョンです。若干エロ要素ありきの健全な漫画です。よろしくおねがいいたします！ https://t.co/eIt4Kb…",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2241911382,
+    "id_str": "2241911382",
+    "name": "パライソちゃんください",
+    "screen_name": "salt_spice7",
+    "location": "日本 東京",
+    "url": null,
+    "description": "FGOを主にやってます。FGO/MHW/グラブル/遊戯王DL最近DBDやり始めました〜",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 605,
+    "friends_count": 1431,
+    "listed_count": 21,
+    "favourites_count": 16188,
+    "statuses_count": 65396,
+    "created_at": "Thu Dec 12 06:29:57 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1057107515027054592/r8Bdt9Xn_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057107515027054592/r8Bdt9Xn_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2241911382/1540286994",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 09:03:50 +0000 2018",
+    "id": 1058283533100187648,
+    "id_str": "1058283533100187648",
+    "text": "コミケ受かりました！日曜日　東地区Lブロック19bです。メルトリリスの寿司対決漫画（予定）です。これの清書番の完全ストーリーバージョンです。若干エロ要素ありきの健全な漫画です。よろしくおねがいいたします！ https://t.co/eIt4KbP5GS",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4838450797,
+      "id_str": "4838450797",
+      "name": "ゆげ＠C95東L19b",
+      "screen_name": "YugeBakuha2",
+      "location": "霊子虚構世界SERAPH",
+      "url": "https://www.pixiv.net/member.php?id=17057367",
+      "description": "メルトリリス大好きマン　フツカヨイニンジャ　ゲーム作ってる会社でデザインやったりしてます。 個人では漫画とソシャゲイラスト案件を少々。仕事細々連絡先yugebakuhatsu@gmail.com  http://twpf.jp/YugeBakuha2",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 16085,
+      "friends_count": 261,
+      "listed_count": 273,
+      "favourites_count": 8332,
+      "statuses_count": 29283,
+      "created_at": "Sun Jan 31 05:31:49 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1041334500406390785/BSfKVoyD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1041334500406390785/BSfKVoyD_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4838450797/1534514105",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1045305948846190593,
+    "quoted_status_id_str": "1045305948846190593",
+    "quoted_status": {
+      "created_at": "Thu Sep 27 13:35:33 +0000 2018",
+      "id": 1045305948846190593,
+      "id_str": "1045305948846190593",
+      "text": "メルトリリスが寿司屋始める漫画。メルトリリス料理属性が欠点ぽいですがメルトリリスの料理属性の欠点を改善した漫画描きました。ちょっと前ので申し訳ないですがm(_ _)m　ヘイラッシャイマシー　#FGO #FateGO https://t.co/UxxLNX5Z6X",
+      "display_text_range": [
+        0,
+        107
+      ],
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4838450797,
+        "id_str": "4838450797",
+        "name": "ゆげ＠C95東L19b",
+        "screen_name": "YugeBakuha2",
+        "location": "霊子虚構世界SERAPH",
+        "url": "https://www.pixiv.net/member.php?id=17057367",
+        "description": "メルトリリス大好きマン　フツカヨイニンジャ　ゲーム作ってる会社でデザインやったりしてます。 個人では漫画とソシャゲイラスト案件を少々。仕事細々連絡先yugebakuhatsu@gmail.com  http://twpf.jp/YugeBakuha2",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 16085,
+        "friends_count": 261,
+        "listed_count": 273,
+        "favourites_count": 8332,
+        "statuses_count": 29283,
+        "created_at": "Sun Jan 31 05:31:49 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1041334500406390785/BSfKVoyD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1041334500406390785/BSfKVoyD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4838450797/1534514105",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 2,
+      "reply_count": 6,
+      "retweet_count": 311,
+      "favorite_count": 750,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "FGO",
+            "indices": [
+              95,
+              99
+            ]
+          },
+          {
+            "text": "FateGO",
+            "indices": [
+              100,
+              107
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1045305939862085632,
+            "id_str": "1045305939862085632",
+            "indices": [
+              108,
+              131
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoGsNssV4AAcyyz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoGsNssV4AAcyyz.jpg",
+            "url": "https://t.co/UxxLNX5Z6X",
+            "display_url": "pic.twitter.com/UxxLNX5Z6X",
+            "expanded_url": "https://twitter.com/YugeBakuha2/status/1045305948846190593/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 849,
+                "h": 1330,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 434,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 766,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1045305939862085632,
+            "id_str": "1045305939862085632",
+            "indices": [
+              108,
+              131
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoGsNssV4AAcyyz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoGsNssV4AAcyyz.jpg",
+            "url": "https://t.co/UxxLNX5Z6X",
+            "display_url": "pic.twitter.com/UxxLNX5Z6X",
+            "expanded_url": "https://twitter.com/YugeBakuha2/status/1045305948846190593/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 849,
+                "h": 1330,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 434,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 766,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/eIt4KbP5GS",
+      "expanded": "https://twitter.com/YugeBakuha2/status/1045305948846190593",
+      "display": "twitter.com/YugeBakuha2/st…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 4,
+    "retweet_count": 85,
+    "favorite_count": 210,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/eIt4KbP5GS",
+          "expanded_url": "https://twitter.com/YugeBakuha2/status/1045305948846190593",
+          "display_url": "twitter.com/YugeBakuha2/st…",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1045305948846190593,
+  "quoted_status_id_str": "1045305948846190593",
+  "quoted_status": {
+    "created_at": "Thu Sep 27 13:35:33 +0000 2018",
+    "id": 1045305948846190593,
+    "id_str": "1045305948846190593",
+    "text": "メルトリリスが寿司屋始める漫画。メルトリリス料理属性が欠点ぽいですがメルトリリスの料理属性の欠点を改善した漫画描きました。ちょっと前ので申し訳ないですがm(_ _)m　ヘイラッシャイマシー　#FGO #FateGO https://t.co/UxxLNX5Z6X",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4838450797,
+      "id_str": "4838450797",
+      "name": "ゆげ＠C95東L19b",
+      "screen_name": "YugeBakuha2",
+      "location": "霊子虚構世界SERAPH",
+      "url": "https://www.pixiv.net/member.php?id=17057367",
+      "description": "メルトリリス大好きマン　フツカヨイニンジャ　ゲーム作ってる会社でデザインやったりしてます。 個人では漫画とソシャゲイラスト案件を少々。仕事細々連絡先yugebakuhatsu@gmail.com  http://twpf.jp/YugeBakuha2",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 16085,
+      "friends_count": 261,
+      "listed_count": 273,
+      "favourites_count": 8332,
+      "statuses_count": 29283,
+      "created_at": "Sun Jan 31 05:31:49 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1041334500406390785/BSfKVoyD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1041334500406390785/BSfKVoyD_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4838450797/1534514105",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 2,
+    "reply_count": 6,
+    "retweet_count": 311,
+    "favorite_count": 750,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            95,
+            99
+          ]
+        },
+        {
+          "text": "FateGO",
+          "indices": [
+            100,
+            107
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1045305939862085632,
+          "id_str": "1045305939862085632",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoGsNssV4AAcyyz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoGsNssV4AAcyyz.jpg",
+          "url": "https://t.co/UxxLNX5Z6X",
+          "display_url": "pic.twitter.com/UxxLNX5Z6X",
+          "expanded_url": "https://twitter.com/YugeBakuha2/status/1045305948846190593/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 849,
+              "h": 1330,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 434,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 766,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1045305939862085632,
+          "id_str": "1045305939862085632",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoGsNssV4AAcyyz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoGsNssV4AAcyyz.jpg",
+          "url": "https://t.co/UxxLNX5Z6X",
+          "display_url": "pic.twitter.com/UxxLNX5Z6X",
+          "expanded_url": "https://twitter.com/YugeBakuha2/status/1045305948846190593/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 849,
+              "h": 1330,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 434,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 766,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/eIt4KbP5GS",
+    "expanded": "https://twitter.com/YugeBakuha2/status/1045305948846190593",
+    "display": "twitter.com/YugeBakuha2/st…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "YugeBakuha2",
+        "name": "ゆげ＠C95東L19b",
+        "id": 4838450797,
+        "id_str": "4838450797",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254791492"
+}

@@ -1,0 +1,215 @@
+{
+  "created_at": "Sat Nov 03 14:05:37 +0000 2018",
+  "id": 1058721866381111296,
+  "id_str": "1058721866381111296",
+  "text": "このゆーちゅーばーさん言ってることがただしすぎておもしろかったです！\nすぐたたかれる笑\n#パズドラ #オワドラ #パズドラーと繋がりたい https://t.co/ejSz1Vrhv0",
+  "display_text_range": [
+    0,
+    68
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 937171838781743105,
+    "id_str": "937171838781743105",
+    "name": "ma-ya/ちゃんまや",
+    "screen_name": "mayagarupa119",
+    "location": "アニメ/ゲーム/ギター関係フォロバ100％です！",
+    "url": null,
+    "description": "#介護職 モンスト/パズドラ/ガルパしてます！モンストグルはいってます！相方→@3141592suruga さんです！フォロバ100%なので、フォローどんどんお待ちしてます！フレンド申請もψ(⃔ ･-･×)⃕↝運極82⤴⤴⤴⤴⤴⤴絡んでくれる人募集⭐️DM待ってます！/タメで話す人と仲良くなりたい✨",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 4297,
+    "friends_count": 4278,
+    "listed_count": 27,
+    "favourites_count": 7539,
+    "statuses_count": 7254,
+    "created_at": "Sun Dec 03 04:09:12 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1034791141776842752/fpmmyfSc_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034791141776842752/fpmmyfSc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/937171838781743105/1535548409",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラ",
+        "indices": [
+          44,
+          49
+        ]
+      },
+      {
+        "text": "オワドラ",
+        "indices": [
+          50,
+          55
+        ]
+      },
+      {
+        "text": "パズドラーと繋がりたい",
+        "indices": [
+          56,
+          68
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058721860290924545,
+        "id_str": "1058721860290924545",
+        "indices": [
+          69,
+          92
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFV7C6U0AEdH1-.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFV7C6U0AEdH1-.jpg",
+        "url": "https://t.co/ejSz1Vrhv0",
+        "display_url": "pic.twitter.com/ejSz1Vrhv0",
+        "expanded_url": "https://twitter.com/mayagarupa119/status/1058721866381111296/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1109,
+            "h": 1479,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058721860290924545,
+        "id_str": "1058721860290924545",
+        "indices": [
+          69,
+          92
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFV7C6U0AEdH1-.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFV7C6U0AEdH1-.jpg",
+        "url": "https://t.co/ejSz1Vrhv0",
+        "display_url": "pic.twitter.com/ejSz1Vrhv0",
+        "expanded_url": "https://twitter.com/mayagarupa119/status/1058721866381111296/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1109,
+            "h": 1479,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058721860282540032,
+        "id_str": "1058721860282540032",
+        "indices": [
+          69,
+          92
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFV7C4U4AABwlH.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFV7C4U4AABwlH.jpg",
+        "url": "https://t.co/ejSz1Vrhv0",
+        "display_url": "pic.twitter.com/ejSz1Vrhv0",
+        "expanded_url": "https://twitter.com/mayagarupa119/status/1058721866381111296/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1109,
+            "h": 1479,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253937703"
+}

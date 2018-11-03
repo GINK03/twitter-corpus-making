@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:04:49 +0000 2018",
+  "id": 1058721663091531776,
+  "id_str": "1058721663091531776",
+  "text": "@akiracchi2002 @popopi_q 履歴書\n\nガルパ小学校卒業\nチュウニズム中学校卒業\nオンゲキ高校在席\n\n資格\nFGO依存検定1級\nスマホ依存技能検定1級",
+  "display_text_range": [
+    25,
+    85
+  ],
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058708105704263682,
+  "in_reply_to_status_id_str": "1058708105704263682",
+  "in_reply_to_user_id": 772432228357812225,
+  "in_reply_to_user_id_str": "772432228357812225",
+  "in_reply_to_screen_name": "akiracchi2002",
+  "user": {
+    "id": 1045275034204299265,
+    "id_str": "1045275034204299265",
+    "name": "ゆ",
+    "screen_name": "Name_is_yu",
+    "location": "社畜養成所 第一学年 第六科",
+    "url": null,
+    "description": "某高校の某組の某人です リア垢需要なさそうだけど、作れって言われたのでTukutter(作ったー)",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 28,
+    "friends_count": 30,
+    "listed_count": 0,
+    "favourites_count": 45,
+    "statuses_count": 394,
+    "created_at": "Thu Sep 27 11:32:43 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1045279090473725953/JKrI9j7S_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045279090473725953/JKrI9j7S_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1045275034204299265/1538048114",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "akiracchi2002",
+        "name": "アキラッチ@次はももクリ",
+        "id": 772432228357812225,
+        "id_str": "772432228357812225",
+        "indices": [
+          0,
+          14
+        ]
+      },
+      {
+        "screen_name": "popopi_q",
+        "name": "りゅうが",
+        "id": 1018551778185375744,
+        "id_str": "1018551778185375744",
+        "indices": [
+          15,
+          24
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253889235"
+}

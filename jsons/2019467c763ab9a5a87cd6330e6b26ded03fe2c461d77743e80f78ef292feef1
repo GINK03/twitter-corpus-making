@@ -1,0 +1,157 @@
+{
+  "created_at": "Sat Nov 03 14:26:36 +0000 2018",
+  "id": 1058727146842025984,
+  "id_str": "1058727146842025984",
+  "text": "kiidaさんのコラボ衣装カーデ着てみた！ https://t.co/ECvGG9x50z",
+  "display_text_range": [
+    0,
+    21
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 112050658,
+    "id_str": "112050658",
+    "name": "ひさと🦁ケセラファイナル",
+    "screen_name": "gio2haze5",
+    "location": "ふくおか",
+    "url": "https://peing.net/ja/gio2haze5?event=6",
+    "description": "ｱｰｶｲﾌﾞ:204394 /雑多垢/20↑/heidi.が大好き/ビールと肉ℒℴνℯ",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 802,
+    "friends_count": 678,
+    "listed_count": 52,
+    "favourites_count": 18570,
+    "statuses_count": 215103,
+    "created_at": "Sun Feb 07 03:10:05 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FC0AA7",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "0E7505",
+    "profile_sidebar_border_color": "924DEB",
+    "profile_sidebar_fill_color": "F70596",
+    "profile_text_color": "0A2E04",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1046295541540220928/HQnBf-h3_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046295541540220928/HQnBf-h3_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/112050658/1538981455",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058727139028033536,
+        "id_str": "1058727139028033536",
+        "indices": [
+          22,
+          45
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFauTvU4AA-AJu.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFauTvU4AA-AJu.jpg",
+        "url": "https://t.co/ECvGG9x50z",
+        "display_url": "pic.twitter.com/ECvGG9x50z",
+        "expanded_url": "https://twitter.com/gio2haze5/status/1058727146842025984/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 529,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 768,
+            "h": 988,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 768,
+            "h": 988,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058727139028033536,
+        "id_str": "1058727139028033536",
+        "indices": [
+          22,
+          45
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFauTvU4AA-AJu.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFauTvU4AA-AJu.jpg",
+        "url": "https://t.co/ECvGG9x50z",
+        "display_url": "pic.twitter.com/ECvGG9x50z",
+        "expanded_url": "https://twitter.com/gio2haze5/status/1058727146842025984/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 529,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 768,
+            "h": 988,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 768,
+            "h": 988,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255196663"
+}

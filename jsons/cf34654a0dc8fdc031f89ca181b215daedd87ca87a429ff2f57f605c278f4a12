@@ -1,0 +1,247 @@
+{
+  "created_at": "Sat Nov 03 14:13:45 +0000 2018",
+  "id": 1058723913029443585,
+  "id_str": "1058723913029443585",
+  "text": "えっ",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 703918410439102464,
+    "id_str": "703918410439102464",
+    "name": "ぱき",
+    "screen_name": "kero_paqui",
+    "location": null,
+    "url": null,
+    "description": "装丁と文章が素敵な本、音楽、美術、美人は宝\n【いちおし】皆川博子/Franz Liszt/Tommy Karevik/Craig Armstrong/KOKIA/Pet Shop Boys/Gerhard Freidl",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 52,
+    "friends_count": 58,
+    "listed_count": 2,
+    "favourites_count": 5088,
+    "statuses_count": 3951,
+    "created_at": "Sun Feb 28 12:23:22 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/947487595453231105/fi4w64x0_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/947487595453231105/fi4w64x0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/703918410439102464/1536325038",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "quoted_status_id": 1056702501905297410,
+  "quoted_status_id_str": "1056702501905297410",
+  "quoted_status": {
+    "created_at": "Mon Oct 29 00:21:23 +0000 2018",
+    "id": 1056702501905297410,
+    "id_str": "1056702501905297410",
+    "text": "書上奈朋子　新譜「Requiem」入荷しました！！https://t.co/rU0zuPyK3t\n予約の方から随時発送していきます https://t.co/BN8eoQKBWI",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 146317793,
+      "id_str": "146317793",
+      "name": "kakiage",
+      "screen_name": "kakiagenahoko",
+      "location": "東京",
+      "url": null,
+      "description": "音楽家",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 257,
+      "friends_count": 25,
+      "listed_count": 17,
+      "favourites_count": 128,
+      "statuses_count": 272,
+      "created_at": "Fri May 21 04:03:04 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1052854159949553668/aiWn66b-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052854159949553668/aiWn66b-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/146317793/1539855687",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 4,
+    "reply_count": 1,
+    "retweet_count": 23,
+    "favorite_count": 32,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/rU0zuPyK3t",
+          "expanded_url": "https://nahoko-kakiage.com",
+          "display_url": "nahoko-kakiage.com",
+          "indices": [
+            25,
+            48
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1056701033123012609,
+          "id_str": "1056701033123012609",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dqon_bEV4AEr44v.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dqon_bEV4AEr44v.jpg",
+          "url": "https://t.co/BN8eoQKBWI",
+          "display_url": "pic.twitter.com/BN8eoQKBWI",
+          "expanded_url": "https://twitter.com/kakiagenahoko/status/1056702501905297410/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1668,
+              "h": 1644,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 670,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1183,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1056701033123012609,
+          "id_str": "1056701033123012609",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dqon_bEV4AEr44v.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dqon_bEV4AEr44v.jpg",
+          "url": "https://t.co/BN8eoQKBWI",
+          "display_url": "pic.twitter.com/BN8eoQKBWI",
+          "expanded_url": "https://twitter.com/kakiagenahoko/status/1056702501905297410/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1668,
+              "h": 1644,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 670,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1183,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/SpaetHzcmc",
+    "expanded": "https://twitter.com/kakiagenahoko/status/1056702501905297410",
+    "display": "twitter.com/kakiagenahoko/…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254425662"
+}

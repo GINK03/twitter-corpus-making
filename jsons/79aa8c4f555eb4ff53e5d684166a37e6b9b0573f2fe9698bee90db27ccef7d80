@@ -1,0 +1,396 @@
+{
+  "created_at": "Sat Nov 03 14:20:11 +0000 2018",
+  "id": 1058725532009869314,
+  "id_str": "1058725532009869314",
+  "text": "RT @jirosan77: 寝てたらベッドの上に乗ってきて甘えてくる ぽてと https://t.co/qG0Wyn42qX",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2342132744,
+    "id_str": "2342132744",
+    "name": "リエ",
+    "screen_name": "aimaruifuku",
+    "location": "日本 関東地方",
+    "url": null,
+    "description": "好き⇨V6坂本さん、モフモフしたもの☆野望⇨世界中の動物達が幸せに暮らせる世の中にしたいなぁ。小さな事からコツコツと。まずは我が家のニャンコ達に笑顔いっぱいの毎日を…(o^^o)無言フォロー、RTすみません。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 597,
+    "friends_count": 618,
+    "listed_count": 6,
+    "favourites_count": 10153,
+    "statuses_count": 39954,
+    "created_at": "Thu Feb 13 15:16:03 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/434221445275582465/SbjT1fYJ_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/434221445275582465/SbjT1fYJ_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2342132744/1392361434",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:34:26 +0000 2018",
+    "id": 1058714017793884160,
+    "id_str": "1058714017793884160",
+    "text": "寝てたらベッドの上に乗ってきて甘えてくる ぽてと https://t.co/qG0Wyn42qX",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2888686112,
+      "id_str": "2888686112",
+      "name": "みかんとじろうさん家@ねこ休み展",
+      "screen_name": "jirosan77",
+      "location": null,
+      "url": null,
+      "description": "ブリティッシュショートヘアのじろうさんと姉弟のみかんとぽてとの日常🍊🍟【インスタhttps://goo.gl/EUUpJ7】【連絡先@anicas_jp】",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 122792,
+      "friends_count": 59852,
+      "listed_count": 1312,
+      "favourites_count": 58336,
+      "statuses_count": 3991,
+      "created_at": "Mon Nov 03 15:07:41 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1017115366764380160/IdfBUEWL_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017115366764380160/IdfBUEWL_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2888686112/1530848574",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 2,
+    "reply_count": 13,
+    "retweet_count": 277,
+    "favorite_count": 1367,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058713899426430976,
+          "id_str": "1058713899426430976",
+          "indices": [
+            25,
+            48
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058713899426430976/pu/img/FFy17rDhT1k2dr0g.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058713899426430976/pu/img/FFy17rDhT1k2dr0g.jpg",
+          "url": "https://t.co/qG0Wyn42qX",
+          "display_url": "pic.twitter.com/qG0Wyn42qX",
+          "expanded_url": "https://twitter.com/jirosan77/status/1058714017793884160/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058713899426430976,
+          "id_str": "1058713899426430976",
+          "indices": [
+            25,
+            48
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058713899426430976/pu/img/FFy17rDhT1k2dr0g.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058713899426430976/pu/img/FFy17rDhT1k2dr0g.jpg",
+          "url": "https://t.co/qG0Wyn42qX",
+          "display_url": "pic.twitter.com/qG0Wyn42qX",
+          "expanded_url": "https://twitter.com/jirosan77/status/1058714017793884160/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 73640,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058713899426430976/pu/vid/720x1280/XbKh02GeP3CVate1.mp4?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058713899426430976/pu/vid/180x320/721g42r9WWl5Vqa9.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058713899426430976/pu/vid/360x640/TObkX2Yy67cyrhWB.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058713899426430976/pu/pl/oneLqJR2u_heD-RO.m3u8?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "jirosan77",
+        "name": "みかんとじろうさん家@ねこ休み展",
+        "id": 2888686112,
+        "id_str": "2888686112",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058713899426430976,
+        "id_str": "1058713899426430976",
+        "indices": [
+          40,
+          63
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058713899426430976/pu/img/FFy17rDhT1k2dr0g.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058713899426430976/pu/img/FFy17rDhT1k2dr0g.jpg",
+        "url": "https://t.co/qG0Wyn42qX",
+        "display_url": "pic.twitter.com/qG0Wyn42qX",
+        "expanded_url": "https://twitter.com/jirosan77/status/1058714017793884160/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058714017793884160,
+        "source_status_id_str": "1058714017793884160",
+        "source_user_id": 2888686112,
+        "source_user_id_str": "2888686112"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058713899426430976,
+        "id_str": "1058713899426430976",
+        "indices": [
+          40,
+          63
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058713899426430976/pu/img/FFy17rDhT1k2dr0g.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058713899426430976/pu/img/FFy17rDhT1k2dr0g.jpg",
+        "url": "https://t.co/qG0Wyn42qX",
+        "display_url": "pic.twitter.com/qG0Wyn42qX",
+        "expanded_url": "https://twitter.com/jirosan77/status/1058714017793884160/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 73640,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058713899426430976/pu/vid/720x1280/XbKh02GeP3CVate1.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058713899426430976/pu/vid/180x320/721g42r9WWl5Vqa9.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058713899426430976/pu/vid/360x640/TObkX2Yy67cyrhWB.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058713899426430976/pu/pl/oneLqJR2u_heD-RO.m3u8?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058714017793884160,
+        "source_status_id_str": "1058714017793884160",
+        "source_user_id": 2888686112,
+        "source_user_id_str": "2888686112"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254811657"
+}

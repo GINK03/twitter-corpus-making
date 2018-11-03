@@ -1,0 +1,144 @@
+{
+  "created_at": "Sat Nov 03 14:12:37 +0000 2018",
+  "id": 1058723625379889153,
+  "id_str": "1058723625379889153",
+  "text": "下記のアカウント買い取ります\n #モンスト #パズドラ #バンドリ #デレステ #スクフェス #クラッシュオブクラン #パワプロ #ドカバト\n#DQMSL \n一つのアカウントあたりの3000〜3万程度のものを考えています\nよろしくお願い致します\n#アカウント買取",
+  "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 881355610855424000,
+    "id_str": "881355610855424000",
+    "name": "ポン太@アカウント買取",
+    "screen_name": "apo_sno",
+    "location": null,
+    "url": null,
+    "description": "よろしくお願いします、ヤフオクでの実績3桁超え。フォロー無しでもdm受け取れる設定にしてあるのでお気軽にどうぞ。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 187,
+    "friends_count": 4,
+    "listed_count": 0,
+    "favourites_count": 0,
+    "statuses_count": 1000,
+    "created_at": "Sun Jul 02 03:35:27 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/881356122069663744/2oAOo724_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/881356122069663744/2oAOo724_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "モンスト",
+        "indices": [
+          16,
+          21
+        ]
+      },
+      {
+        "text": "パズドラ",
+        "indices": [
+          22,
+          27
+        ]
+      },
+      {
+        "text": "バンドリ",
+        "indices": [
+          28,
+          33
+        ]
+      },
+      {
+        "text": "デレステ",
+        "indices": [
+          34,
+          39
+        ]
+      },
+      {
+        "text": "スクフェス",
+        "indices": [
+          40,
+          46
+        ]
+      },
+      {
+        "text": "クラッシュオブクラン",
+        "indices": [
+          47,
+          58
+        ]
+      },
+      {
+        "text": "パワプロ",
+        "indices": [
+          59,
+          64
+        ]
+      },
+      {
+        "text": "ドカバト",
+        "indices": [
+          65,
+          70
+        ]
+      },
+      {
+        "text": "DQMSL",
+        "indices": [
+          71,
+          77
+        ]
+      },
+      {
+        "text": "アカウント買取",
+        "indices": [
+          123,
+          131
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254357081"
+}

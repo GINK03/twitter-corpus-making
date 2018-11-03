@@ -1,0 +1,178 @@
+{
+  "created_at": "Sat Nov 03 14:22:17 +0000 2018",
+  "id": 1058726061431615489,
+  "id_str": "1058726061431615489",
+  "text": "マヘラ周回 闇メタサレーネB募集です。33338131 #パズドラ #マヘラ #パズドラマルチ https://t.co/HcFpnoVghE",
+  "display_text_range": [
+    0,
+    47
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1600382011,
+    "id_str": "1600382011",
+    "name": "田中 太郎",
+    "screen_name": "noenoe608",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 9,
+    "friends_count": 4,
+    "listed_count": 0,
+    "favourites_count": 0,
+    "statuses_count": 6,
+    "created_at": "Wed Jul 17 07:31:14 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/413323260789415936/slF87wKh_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/413323260789415936/slF87wKh_normal.jpeg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラ",
+        "indices": [
+          28,
+          33
+        ]
+      },
+      {
+        "text": "マヘラ",
+        "indices": [
+          34,
+          38
+        ]
+      },
+      {
+        "text": "パズドラマルチ",
+        "indices": [
+          39,
+          47
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058726053596655618,
+        "id_str": "1058726053596655618",
+        "indices": [
+          48,
+          71
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZvIMUcAIKJ7c.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZvIMUcAIKJ7c.jpg",
+        "url": "https://t.co/HcFpnoVghE",
+        "display_url": "pic.twitter.com/HcFpnoVghE",
+        "expanded_url": "https://twitter.com/noenoe608/status/1058726061431615489/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058726053596655618,
+        "id_str": "1058726053596655618",
+        "indices": [
+          48,
+          71
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZvIMUcAIKJ7c.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZvIMUcAIKJ7c.jpg",
+        "url": "https://t.co/HcFpnoVghE",
+        "display_url": "pic.twitter.com/HcFpnoVghE",
+        "expanded_url": "https://twitter.com/noenoe608/status/1058726061431615489/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254937881"
+}

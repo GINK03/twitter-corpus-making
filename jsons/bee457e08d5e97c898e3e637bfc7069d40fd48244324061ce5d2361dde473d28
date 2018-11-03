@@ -1,0 +1,211 @@
+{
+  "created_at": "Sat Nov 03 14:07:07 +0000 2018",
+  "id": 1058722244497563649,
+  "id_str": "1058722244497563649",
+  "text": "連れに単発一回引かれた！！Σ（・□・；）\n\nただ二回転して、\nブレーメンきた！\nこれはありがとうなのか？？\n\n#モンスト\n#モンスターストライク\n#モンスト好きと繋がりたい https://t.co/LGvwOzr1MT",
+  "display_text_range": [
+    0,
+    86
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 894049823208292352,
+    "id_str": "894049823208292352",
+    "name": "monsuto。NAO",
+    "screen_name": "Monsuto_1_NAO",
+    "location": null,
+    "url": null,
+    "description": "®️404🍀133 楽しくモンストしてます。相方× マルチ喜んでついて行きます٩( 'ω' )و チート、売買垢はフォロしないでね！迷惑です。 轟絶究極とニギミタマ以外はソロ制覇╰(*´︶`*)╯イベクエやってないのあるけど、勝てると思うw モンスト、最近楽しく遊んでます٩(๑❛ᴗ❛๑)۶",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 513,
+    "friends_count": 475,
+    "listed_count": 2,
+    "favourites_count": 4447,
+    "statuses_count": 840,
+    "created_at": "Sun Aug 06 04:17:43 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/971596790339219459/eBg76krI_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/971596790339219459/eBg76krI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/894049823208292352/1520481699",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "bd7c260075ddfe29",
+    "url": "https://api.twitter.com/1.1/geo/id/bd7c260075ddfe29.json",
+    "place_type": "city",
+    "name": "神戸市 垂水区",
+    "full_name": "兵庫 神戸市 垂水区",
+    "country_code": "JP",
+    "country": "日本",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            135.013764,
+            34.624072
+          ],
+          [
+            135.013764,
+            34.678399
+          ],
+          [
+            135.096447,
+            34.678399
+          ],
+          [
+            135.096447,
+            34.624072
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "モンスト",
+        "indices": [
+          55,
+          60
+        ]
+      },
+      {
+        "text": "モンスターストライク",
+        "indices": [
+          61,
+          72
+        ]
+      },
+      {
+        "text": "モンスト好きと繋がりたい",
+        "indices": [
+          73,
+          86
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058722233235857409,
+        "id_str": "1058722233235857409",
+        "indices": [
+          87,
+          110
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWQwPU4AEMuFD.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWQwPU4AEMuFD.jpg",
+        "url": "https://t.co/LGvwOzr1MT",
+        "display_url": "pic.twitter.com/LGvwOzr1MT",
+        "expanded_url": "https://twitter.com/Monsuto_1_NAO/status/1058722244497563649/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058722233235857409,
+        "id_str": "1058722233235857409",
+        "indices": [
+          87,
+          110
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWQwPU4AEMuFD.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWQwPU4AEMuFD.jpg",
+        "url": "https://t.co/LGvwOzr1MT",
+        "display_url": "pic.twitter.com/LGvwOzr1MT",
+        "expanded_url": "https://twitter.com/Monsuto_1_NAO/status/1058722244497563649/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254027853"
+}

@@ -1,0 +1,193 @@
+{
+  "created_at": "Sat Nov 03 14:06:34 +0000 2018",
+  "id": 1058722104353247234,
+  "id_str": "1058722104353247234",
+  "text": "や、やっちまった…\n単発でシトナイちゃん来ちゃったよ…\nFGOのガチャ運怖い… https://t.co/YFkJdoBtBf",
+  "display_text_range": [
+    0,
+    39
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 810469099994128384,
+    "id_str": "810469099994128384",
+    "name": "まてさん@FGO(～ ˙-˙ )～",
+    "screen_name": "Matei_45",
+    "location": null,
+    "url": null,
+    "description": "FGOをガチりすぎてお金飛ぶ( ˘ω˘ ) 親友→@Mevius0617",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 75,
+    "friends_count": 68,
+    "listed_count": 1,
+    "favourites_count": 1163,
+    "statuses_count": 4964,
+    "created_at": "Sun Dec 18 12:57:46 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1052544421323988993/glS22yrR_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052544421323988993/glS22yrR_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/810469099994128384/1535901248",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058722088905670656,
+        "id_str": "1058722088905670656",
+        "indices": [
+          40,
+          63
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWIWkVAAAif4r.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWIWkVAAAif4r.jpg",
+        "url": "https://t.co/YFkJdoBtBf",
+        "display_url": "pic.twitter.com/YFkJdoBtBf",
+        "expanded_url": "https://twitter.com/Matei_45/status/1058722104353247234/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058722088905670656,
+        "id_str": "1058722088905670656",
+        "indices": [
+          40,
+          63
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWIWkVAAAif4r.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWIWkVAAAif4r.jpg",
+        "url": "https://t.co/YFkJdoBtBf",
+        "display_url": "pic.twitter.com/YFkJdoBtBf",
+        "expanded_url": "https://twitter.com/Matei_45/status/1058722104353247234/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058722088909864960,
+        "id_str": "1058722088909864960",
+        "indices": [
+          40,
+          63
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWIWlVAAAV0Nb.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWIWlVAAAV0Nb.jpg",
+        "url": "https://t.co/YFkJdoBtBf",
+        "display_url": "pic.twitter.com/YFkJdoBtBf",
+        "expanded_url": "https://twitter.com/Matei_45/status/1058722104353247234/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253994440"
+}

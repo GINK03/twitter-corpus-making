@@ -1,0 +1,383 @@
+{
+  "created_at": "Sat Nov 03 13:49:43 +0000 2018",
+  "id": 1058717865400918018,
+  "id_str": "1058717865400918018",
+  "text": "RT @CandlMix: 護法少女茨木　#fgo　#live2d https://t.co/KQcD8tTS1G",
+  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1414613700,
+    "id_str": "1414613700",
+    "name": "ありよりのかさばり",
+    "screen_name": "bulky_qm",
+    "location": "笹木ありがとう元気でね",
+    "url": null,
+    "description": "🎋🐼🐙 仮想的な容積 😈✡️♀🐾☪️",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 213,
+    "friends_count": 2872,
+    "listed_count": 4,
+    "favourites_count": 46336,
+    "statuses_count": 79368,
+    "created_at": "Thu May 09 05:05:15 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1006893890782130176/G2VP8QeF_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006893890782130176/G2VP8QeF_normal.jpg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 08:42:40 +0000 2018",
+    "id": 1058278202638921728,
+    "id_str": "1058278202638921728",
+    "text": "護法少女茨木　#fgo　#live2d https://t.co/KQcD8tTS1G",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 748223204460625923,
+      "id_str": "748223204460625923",
+      "name": "mix20",
+      "screen_name": "CandlMix",
+      "location": "Live2DLive2D！！！",
+      "url": null,
+      "description": "神絵師になれないと確信した男。RT多めエアプ陰キャ",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 882,
+      "friends_count": 1023,
+      "listed_count": 14,
+      "favourites_count": 53639,
+      "statuses_count": 19230,
+      "created_at": "Wed Jun 29 18:34:48 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1019792560137502720/L12swLoR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1019792560137502720/L12swLoR_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/748223204460625923/1538622222",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 4,
+    "retweet_count": 126,
+    "favorite_count": 286,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "fgo",
+          "indices": [
+            7,
+            11
+          ]
+        },
+        {
+          "text": "live2d",
+          "indices": [
+            12,
+            19
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058277671241580544,
+          "id_str": "1058277671241580544",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dq_B71wVAAAS05i.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dq_B71wVAAAS05i.jpg",
+          "url": "https://t.co/KQcD8tTS1G",
+          "display_url": "pic.twitter.com/KQcD8tTS1G",
+          "expanded_url": "https://twitter.com/CandlMix/status/1058278202638921728/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058277671241580544,
+          "id_str": "1058277671241580544",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dq_B71wVAAAS05i.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dq_B71wVAAAS05i.jpg",
+          "url": "https://t.co/KQcD8tTS1G",
+          "display_url": "pic.twitter.com/KQcD8tTS1G",
+          "expanded_url": "https://twitter.com/CandlMix/status/1058278202638921728/photo/1",
+          "type": "animated_gif",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/Dq_B71wVAAAS05i.mp4"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "fgo",
+        "indices": [
+          21,
+          25
+        ]
+      },
+      {
+        "text": "live2d",
+        "indices": [
+          26,
+          33
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "CandlMix",
+        "name": "mix20",
+        "id": 748223204460625923,
+        "id_str": "748223204460625923",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058277671241580544,
+        "id_str": "1058277671241580544",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dq_B71wVAAAS05i.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dq_B71wVAAAS05i.jpg",
+        "url": "https://t.co/KQcD8tTS1G",
+        "display_url": "pic.twitter.com/KQcD8tTS1G",
+        "expanded_url": "https://twitter.com/CandlMix/status/1058278202638921728/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 600,
+            "h": 600,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 600,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 600,
+            "h": 600,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058278202638921728,
+        "source_status_id_str": "1058278202638921728",
+        "source_user_id": 748223204460625923,
+        "source_user_id_str": "748223204460625923"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058277671241580544,
+        "id_str": "1058277671241580544",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dq_B71wVAAAS05i.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dq_B71wVAAAS05i.jpg",
+        "url": "https://t.co/KQcD8tTS1G",
+        "display_url": "pic.twitter.com/KQcD8tTS1G",
+        "expanded_url": "https://twitter.com/CandlMix/status/1058278202638921728/photo/1",
+        "type": "animated_gif",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/Dq_B71wVAAAS05i.mp4"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 600,
+            "h": 600,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 600,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 600,
+            "h": 600,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058278202638921728,
+        "source_status_id_str": "1058278202638921728",
+        "source_user_id": 748223204460625923,
+        "source_user_id_str": "748223204460625923"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541252983795"
+}

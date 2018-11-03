@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:15:51 +0000 2018",
+  "id": 1058724441528524800,
+  "id_str": "1058724441528524800",
+  "text": "@koutadesu_0811 @keyakizukino 分かったw",
+  "display_text_range": [
+    30,
+    35
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058724295373778944,
+  "in_reply_to_status_id_str": "1058724295373778944",
+  "in_reply_to_user_id": 774162191524040704,
+  "in_reply_to_user_id_str": "774162191524040704",
+  "in_reply_to_screen_name": "koutadesu_0811",
+  "user": {
+    "id": 1002519022284312576,
+    "id_str": "1002519022284312576",
+    "name": "ミルクティー",
+    "screen_name": "JrtLxLQloneT1tO",
+    "location": null,
+    "url": null,
+    "description": "楽しくモンスターを狩れれば良いなと思っておる雑魚でございます\nチャアク練習中\n #モンハン #カラオケ",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 47,
+    "friends_count": 70,
+    "listed_count": 0,
+    "favourites_count": 85,
+    "statuses_count": 313,
+    "created_at": "Fri Jun 01 11:55:35 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1026486931251548160/LlN9vDtd_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026486931251548160/LlN9vDtd_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1002519022284312576/1529245244",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "koutadesu_0811",
+        "name": "こうたです 👾💀",
+        "id": 774162191524040704,
+        "id_str": "774162191524040704",
+        "indices": [
+          0,
+          15
+        ]
+      },
+      {
+        "screen_name": "keyakizukino",
+        "name": "はるか",
+        "id": 993088752653234176,
+        "id_str": "993088752653234176",
+        "indices": [
+          16,
+          29
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254551666"
+}

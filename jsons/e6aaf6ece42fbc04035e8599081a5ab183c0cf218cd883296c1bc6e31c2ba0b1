@@ -1,0 +1,420 @@
+{
+  "created_at": "Sat Nov 03 14:21:03 +0000 2018",
+  "id": 1058725750134714368,
+  "id_str": "1058725750134714368",
+  "text": "RT @RDJlock: エリオル &amp; ゆえ #カードキャプターさくら https://t.co/UUC9yYzfIY",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2717135697,
+    "id_str": "2717135697",
+    "name": "Cis",
+    "screen_name": "MissusCis",
+    "location": null,
+    "url": "http://ko-fi.com/misscis",
+    "description": "college kid that scribbles.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 27,
+    "friends_count": 367,
+    "listed_count": 0,
+    "favourites_count": 14564,
+    "statuses_count": 7310,
+    "created_at": "Fri Jul 18 21:58:23 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "9266CC",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1000427606183788544/EQRCT968_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1000427606183788544/EQRCT968_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2717135697/1527355349",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Apr 15 13:30:10 +0000 2018",
+    "id": 985510593401466880,
+    "id_str": "985510593401466880",
+    "text": "エリオル &amp; ゆえ #カードキャプターさくら https://t.co/UUC9yYzfIY",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 774502707218395136,
+      "id_str": "774502707218395136",
+      "name": "眠狼",
+      "screen_name": "RDJlock",
+      "location": null,
+      "url": "https://www.instagram.com/rdjlock/",
+      "description": "Illustrator | The Great RDJ 💗 Team Iron Man 💗 Stark | David Marquez 's Super Fan | Lofter：http://sevnilock.lofter.com | Weibo：http://weibo.com/1267224222s",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 76635,
+      "friends_count": 78,
+      "listed_count": 1101,
+      "favourites_count": 1565,
+      "statuses_count": 115,
+      "created_at": "Sat Sep 10 07:00:09 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "zh-cn",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "A3BB29",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988774594080194564/qIPZTuAy_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988774594080194564/qIPZTuAy_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/774502707218395136/1530087205",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 29,
+    "reply_count": 11,
+    "retweet_count": 5233,
+    "favorite_count": 14449,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "カードキャプターさくら",
+          "indices": [
+            14,
+            26
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 985510397519147013,
+          "id_str": "985510397519147013",
+          "indices": [
+            27,
+            50
+          ],
+          "media_url": "http://pbs.twimg.com/media/Da08fC6VMAUHiI6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Da08fC6VMAUHiI6.jpg",
+          "url": "https://t.co/UUC9yYzfIY",
+          "display_url": "pic.twitter.com/UUC9yYzfIY",
+          "expanded_url": "https://twitter.com/RDJlock/status/985510593401466880/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 700,
+              "h": 1243,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 676,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 985510397519147013,
+          "id_str": "985510397519147013",
+          "indices": [
+            27,
+            50
+          ],
+          "media_url": "http://pbs.twimg.com/media/Da08fC6VMAUHiI6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Da08fC6VMAUHiI6.jpg",
+          "url": "https://t.co/UUC9yYzfIY",
+          "display_url": "pic.twitter.com/UUC9yYzfIY",
+          "expanded_url": "https://twitter.com/RDJlock/status/985510593401466880/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 700,
+              "h": 1243,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 676,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 985510428301148160,
+          "id_str": "985510428301148160",
+          "indices": [
+            27,
+            50
+          ],
+          "media_url": "http://pbs.twimg.com/media/Da08g1lVQAAbBra.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Da08g1lVQAAbBra.jpg",
+          "url": "https://t.co/UUC9yYzfIY",
+          "display_url": "pic.twitter.com/UUC9yYzfIY",
+          "expanded_url": "https://twitter.com/RDJlock/status/985510593401466880/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 676,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 700,
+              "h": 1243,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "カードキャプターさくら",
+        "indices": [
+          27,
+          39
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "RDJlock",
+        "name": "眠狼",
+        "id": 774502707218395136,
+        "id_str": "774502707218395136",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 985510397519147013,
+        "id_str": "985510397519147013",
+        "indices": [
+          40,
+          63
+        ],
+        "media_url": "http://pbs.twimg.com/media/Da08fC6VMAUHiI6.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Da08fC6VMAUHiI6.jpg",
+        "url": "https://t.co/UUC9yYzfIY",
+        "display_url": "pic.twitter.com/UUC9yYzfIY",
+        "expanded_url": "https://twitter.com/RDJlock/status/985510593401466880/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 700,
+            "h": 1243,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 676,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 985510593401466880,
+        "source_status_id_str": "985510593401466880",
+        "source_user_id": 774502707218395136,
+        "source_user_id_str": "774502707218395136"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 985510397519147013,
+        "id_str": "985510397519147013",
+        "indices": [
+          40,
+          63
+        ],
+        "media_url": "http://pbs.twimg.com/media/Da08fC6VMAUHiI6.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Da08fC6VMAUHiI6.jpg",
+        "url": "https://t.co/UUC9yYzfIY",
+        "display_url": "pic.twitter.com/UUC9yYzfIY",
+        "expanded_url": "https://twitter.com/RDJlock/status/985510593401466880/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 700,
+            "h": 1243,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 676,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 985510593401466880,
+        "source_status_id_str": "985510593401466880",
+        "source_user_id": 774502707218395136,
+        "source_user_id_str": "774502707218395136"
+      },
+      {
+        "id": 985510428301148160,
+        "id_str": "985510428301148160",
+        "indices": [
+          40,
+          63
+        ],
+        "media_url": "http://pbs.twimg.com/media/Da08g1lVQAAbBra.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Da08g1lVQAAbBra.jpg",
+        "url": "https://t.co/UUC9yYzfIY",
+        "display_url": "pic.twitter.com/UUC9yYzfIY",
+        "expanded_url": "https://twitter.com/RDJlock/status/985510593401466880/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 676,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 700,
+            "h": 1243,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 985510593401466880,
+        "source_status_id_str": "985510593401466880",
+        "source_user_id": 774502707218395136,
+        "source_user_id_str": "774502707218395136"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254863662"
+}

@@ -1,0 +1,404 @@
+{
+  "created_at": "Sat Nov 03 14:24:01 +0000 2018",
+  "id": 1058726496729161728,
+  "id_str": "1058726496729161728",
+  "text": "RT @ChaTea2016: レモンツリー♪　自己満足～❤❤ https://t.co/a1csbmeys3",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 40192123,
+    "id_str": "40192123",
+    "name": "Sandra Bisenco",
+    "screen_name": "bisenco",
+    "location": "JAPAN",
+    "url": null,
+    "description": "読み方：びーせんこ　 好きなもの：バレエ、フィギュアスケート、美術館巡り、読書、海外旅行、映画鑑賞、クラシック音楽、アンティーク、紅茶　 好きなスケーターは羽生君、ジョニー、プルシェンコ、パパダキス＆シゼロン、真央ちゃんです。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1709,
+    "friends_count": 632,
+    "listed_count": 125,
+    "favourites_count": 4259,
+    "statuses_count": 78895,
+    "created_at": "Fri May 15 06:43:12 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5ABB5",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "B40B43",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1045948807601479680/rK9ioyqP_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045948807601479680/rK9ioyqP_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/40192123/1412944593",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:11:44 +0000 2018",
+    "id": 1058723404033867776,
+    "id_str": "1058723404033867776",
+    "text": "レモンツリー♪　自己満足～❤❤ https://t.co/a1csbmeys3",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 709906940013326336,
+      "id_str": "709906940013326336",
+      "name": "★Cha Tea 紅茶教室★",
+      "screen_name": "ChaTea2016",
+      "location": "東京都荒川区西日暮里3-3-11",
+      "url": "http://tea-school.com/",
+      "description": "東京谷中にある小さな紅茶教室より日々のお教室の様子や、ティータイムの風景を発信！ ネットショップもやってますよ♪ http://tea-school.com/shop/index.htm",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 4561,
+      "friends_count": 953,
+      "listed_count": 109,
+      "favourites_count": 742,
+      "statuses_count": 5456,
+      "created_at": "Wed Mar 16 00:59:38 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/823681067672424448/T8qIXogQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/823681067672424448/T8qIXogQ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/709906940013326336/1485243026",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 6,
+    "favorite_count": 31,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058723218884767746,
+          "id_str": "1058723218884767746",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFXKIEVsAIzFVV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFXKIEVsAIzFVV.jpg",
+          "url": "https://t.co/a1csbmeys3",
+          "display_url": "pic.twitter.com/a1csbmeys3",
+          "expanded_url": "https://twitter.com/ChaTea2016/status/1058723404033867776/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 1246,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 963,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 546,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058723218884767746,
+          "id_str": "1058723218884767746",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFXKIEVsAIzFVV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFXKIEVsAIzFVV.jpg",
+          "url": "https://t.co/a1csbmeys3",
+          "display_url": "pic.twitter.com/a1csbmeys3",
+          "expanded_url": "https://twitter.com/ChaTea2016/status/1058723404033867776/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 1246,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 963,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 546,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058723219010543617,
+          "id_str": "1058723219010543617",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFXKIiU4AELC-X.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFXKIiU4AELC-X.jpg",
+          "url": "https://t.co/a1csbmeys3",
+          "display_url": "pic.twitter.com/a1csbmeys3",
+          "expanded_url": "https://twitter.com/ChaTea2016/status/1058723404033867776/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 940,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2000,
+              "h": 1566,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 532,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "ChaTea2016",
+        "name": "★Cha Tea 紅茶教室★",
+        "id": 709906940013326336,
+        "id_str": "709906940013326336",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058723218884767746,
+        "id_str": "1058723218884767746",
+        "indices": [
+          32,
+          55
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXKIEVsAIzFVV.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXKIEVsAIzFVV.jpg",
+        "url": "https://t.co/a1csbmeys3",
+        "display_url": "pic.twitter.com/a1csbmeys3",
+        "expanded_url": "https://twitter.com/ChaTea2016/status/1058723404033867776/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1000,
+            "h": 1246,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 963,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 546,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058723404033867776,
+        "source_status_id_str": "1058723404033867776",
+        "source_user_id": 709906940013326336,
+        "source_user_id_str": "709906940013326336"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058723218884767746,
+        "id_str": "1058723218884767746",
+        "indices": [
+          32,
+          55
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXKIEVsAIzFVV.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXKIEVsAIzFVV.jpg",
+        "url": "https://t.co/a1csbmeys3",
+        "display_url": "pic.twitter.com/a1csbmeys3",
+        "expanded_url": "https://twitter.com/ChaTea2016/status/1058723404033867776/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1000,
+            "h": 1246,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 963,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 546,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058723404033867776,
+        "source_status_id_str": "1058723404033867776",
+        "source_user_id": 709906940013326336,
+        "source_user_id_str": "709906940013326336"
+      },
+      {
+        "id": 1058723219010543617,
+        "id_str": "1058723219010543617",
+        "indices": [
+          32,
+          55
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFXKIiU4AELC-X.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFXKIiU4AELC-X.jpg",
+        "url": "https://t.co/a1csbmeys3",
+        "display_url": "pic.twitter.com/a1csbmeys3",
+        "expanded_url": "https://twitter.com/ChaTea2016/status/1058723404033867776/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 940,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2000,
+            "h": 1566,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 532,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058723404033867776,
+        "source_status_id_str": "1058723404033867776",
+        "source_user_id": 709906940013326336,
+        "source_user_id_str": "709906940013326336"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255041664"
+}

@@ -1,0 +1,426 @@
+{
+  "created_at": "Sat Nov 03 14:20:38 +0000 2018",
+  "id": 1058725645285347328,
+  "id_str": "1058725645285347328",
+  "text": "RT @0a0k0o: 【181103 SEVENTEEN #IDEALCUT\n#TheFinalscene inSEOUL】\n\n 18:15スタート\nハイライト ホシ&amp;ウジ https://t.co/nXHISEFpN4",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 828980978781532160,
+    "id_str": "828980978781532160",
+    "name": "ユノ 9/6",
+    "screen_name": "woozi_svt01",
+    "location": "うーたん",
+    "url": "https://Instagram.com/yunocarat1122?r=nametag",
+    "description": "🍼01(00)line🚺🍼",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 94,
+    "friends_count": 136,
+    "listed_count": 3,
+    "favourites_count": 3342,
+    "statuses_count": 1222,
+    "created_at": "Tue Feb 07 14:57:21 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1037104753438674944/bijgSmjV_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037104753438674944/bijgSmjV_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/828980978781532160/1537014897",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 09:20:40 +0000 2018",
+    "id": 1058650154310332416,
+    "id_str": "1058650154310332416",
+    "text": "【181103 SEVENTEEN #IDEALCUT\n#TheFinalscene inSEOUL】\n\n 18:15スタート\nハイライト ホシ&amp;ウジ https://t.co/nXHISEFpN4",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2937843870,
+      "id_str": "2937843870",
+      "name": "ako",
+      "screen_name": "0a0k0o",
+      "location": null,
+      "url": "https://m.youtube.com/channel/UCAn-1xHEHHHd7W1Szzw4Ogg",
+      "description": "Do not Re-upload my videos.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 26683,
+      "friends_count": 81,
+      "listed_count": 360,
+      "favourites_count": 3041,
+      "statuses_count": 4872,
+      "created_at": "Sun Dec 21 08:03:39 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/943824314331119616/lrCzM0dH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/943824314331119616/lrCzM0dH_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2937843870/1518272121",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 161,
+    "reply_count": 5,
+    "retweet_count": 1593,
+    "favorite_count": 2858,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "IDEALCUT",
+          "indices": [
+            18,
+            27
+          ]
+        },
+        {
+          "text": "TheFinalscene",
+          "indices": [
+            28,
+            42
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058650094570881024,
+          "id_str": "1058650094570881024",
+          "indices": [
+            80,
+            103
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058650094570881024/pu/img/2gHe5gcUaOsleDqT.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058650094570881024/pu/img/2gHe5gcUaOsleDqT.jpg",
+          "url": "https://t.co/nXHISEFpN4",
+          "display_url": "pic.twitter.com/nXHISEFpN4",
+          "expanded_url": "https://twitter.com/0a0k0o/status/1058650154310332416/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058650094570881024,
+          "id_str": "1058650094570881024",
+          "indices": [
+            80,
+            103
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058650094570881024/pu/img/2gHe5gcUaOsleDqT.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058650094570881024/pu/img/2gHe5gcUaOsleDqT.jpg",
+          "url": "https://t.co/nXHISEFpN4",
+          "display_url": "pic.twitter.com/nXHISEFpN4",
+          "expanded_url": "https://twitter.com/0a0k0o/status/1058650154310332416/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 9000,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058650094570881024/pu/vid/640x360/lFX0cQGqv5ikL3-w.mp4?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058650094570881024/pu/vid/320x180/sUvdG2N73YK3aNLa.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058650094570881024/pu/pl/GgXMYTgE4RD813i2.m3u8?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058650094570881024/pu/vid/1280x720/Kzy-BEjYFuX6PFiQ.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "IDEALCUT",
+        "indices": [
+          30,
+          39
+        ]
+      },
+      {
+        "text": "TheFinalscene",
+        "indices": [
+          40,
+          54
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "0a0k0o",
+        "name": "ako",
+        "id": 2937843870,
+        "id_str": "2937843870",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058650094570881024,
+        "id_str": "1058650094570881024",
+        "indices": [
+          92,
+          115
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058650094570881024/pu/img/2gHe5gcUaOsleDqT.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058650094570881024/pu/img/2gHe5gcUaOsleDqT.jpg",
+        "url": "https://t.co/nXHISEFpN4",
+        "display_url": "pic.twitter.com/nXHISEFpN4",
+        "expanded_url": "https://twitter.com/0a0k0o/status/1058650154310332416/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058650154310332416,
+        "source_status_id_str": "1058650154310332416",
+        "source_user_id": 2937843870,
+        "source_user_id_str": "2937843870"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058650094570881024,
+        "id_str": "1058650094570881024",
+        "indices": [
+          92,
+          115
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058650094570881024/pu/img/2gHe5gcUaOsleDqT.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058650094570881024/pu/img/2gHe5gcUaOsleDqT.jpg",
+        "url": "https://t.co/nXHISEFpN4",
+        "display_url": "pic.twitter.com/nXHISEFpN4",
+        "expanded_url": "https://twitter.com/0a0k0o/status/1058650154310332416/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 9000,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058650094570881024/pu/vid/640x360/lFX0cQGqv5ikL3-w.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058650094570881024/pu/vid/320x180/sUvdG2N73YK3aNLa.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058650094570881024/pu/pl/GgXMYTgE4RD813i2.m3u8?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058650094570881024/pu/vid/1280x720/Kzy-BEjYFuX6PFiQ.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058650154310332416,
+        "source_status_id_str": "1058650154310332416",
+        "source_user_id": 2937843870,
+        "source_user_id_str": "2937843870"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254838664"
+}

@@ -1,0 +1,354 @@
+{
+  "created_at": "Sat Nov 03 14:26:03 +0000 2018",
+  "id": 1058727008404877314,
+  "id_str": "1058727008404877314",
+  "text": "RT @rikachan_24chu: みんなのハートも日向の衣で包んだんで〜(制服の芽ver.) https://t.co/IxNxs5zuHE",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 781575845261357056,
+    "id_str": "781575845261357056",
+    "name": "kouji yamamoto",
+    "screen_name": "kouji_yamotomo",
+    "location": null,
+    "url": null,
+    "description": "ザ・イーズ永久不滅ですうう！",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 85,
+    "friends_count": 78,
+    "listed_count": 0,
+    "favourites_count": 10325,
+    "statuses_count": 10593,
+    "created_at": "Thu Sep 29 19:26:17 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058366211241598976/s9q7c8a5_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058366211241598976/s9q7c8a5_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/781575845261357056/1540813888",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:38:15 +0000 2018",
+    "id": 1058714979300298752,
+    "id_str": "1058714979300298752",
+    "text": "みんなのハートも日向の衣で包んだんで〜(制服の芽ver.) https://t.co/IxNxs5zuHE",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 754691666854895616,
+      "id_str": "754691666854895616",
+      "name": "りゅうしょう",
+      "screen_name": "rikachan_24chu",
+      "location": null,
+      "url": "https://Instagram.com/erena_hkt48?r=nametag",
+      "description": "HKT48 坂本愛玲菜 激推しマン @Ern807hkt ／ #えれじふ #えれしょ",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 663,
+      "friends_count": 547,
+      "listed_count": 3,
+      "favourites_count": 24139,
+      "statuses_count": 32841,
+      "created_at": "Sun Jul 17 14:58:09 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/937357125776433152/HUo9NmZW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/937357125776433152/HUo9NmZW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/754691666854895616/1535066725",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058714958320390145,
+          "id_str": "1058714958320390145",
+          "indices": [
+            30,
+            53
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DrFPpTEUUAETDKA.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrFPpTEUUAETDKA.jpg",
+          "url": "https://t.co/IxNxs5zuHE",
+          "display_url": "pic.twitter.com/IxNxs5zuHE",
+          "expanded_url": "https://twitter.com/rikachan_24chu/status/1058714979300298752/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 624,
+              "h": 400,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 624,
+              "h": 400,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 624,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058714958320390145,
+          "id_str": "1058714958320390145",
+          "indices": [
+            30,
+            53
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DrFPpTEUUAETDKA.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrFPpTEUUAETDKA.jpg",
+          "url": "https://t.co/IxNxs5zuHE",
+          "display_url": "pic.twitter.com/IxNxs5zuHE",
+          "expanded_url": "https://twitter.com/rikachan_24chu/status/1058714979300298752/photo/1",
+          "type": "animated_gif",
+          "video_info": {
+            "aspect_ratio": [
+              39,
+              25
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/DrFPpTEUUAETDKA.mp4"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 624,
+              "h": 400,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 624,
+              "h": 400,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 624,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "rikachan_24chu",
+        "name": "りゅうしょう",
+        "id": 754691666854895616,
+        "id_str": "754691666854895616",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058714958320390145,
+        "id_str": "1058714958320390145",
+        "indices": [
+          50,
+          73
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DrFPpTEUUAETDKA.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrFPpTEUUAETDKA.jpg",
+        "url": "https://t.co/IxNxs5zuHE",
+        "display_url": "pic.twitter.com/IxNxs5zuHE",
+        "expanded_url": "https://twitter.com/rikachan_24chu/status/1058714979300298752/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 624,
+            "h": 400,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 624,
+            "h": 400,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 624,
+            "h": 400,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058714979300298752,
+        "source_status_id_str": "1058714979300298752",
+        "source_user_id": 754691666854895616,
+        "source_user_id_str": "754691666854895616"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058714958320390145,
+        "id_str": "1058714958320390145",
+        "indices": [
+          50,
+          73
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DrFPpTEUUAETDKA.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrFPpTEUUAETDKA.jpg",
+        "url": "https://t.co/IxNxs5zuHE",
+        "display_url": "pic.twitter.com/IxNxs5zuHE",
+        "expanded_url": "https://twitter.com/rikachan_24chu/status/1058714979300298752/photo/1",
+        "type": "animated_gif",
+        "video_info": {
+          "aspect_ratio": [
+            39,
+            25
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/DrFPpTEUUAETDKA.mp4"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 624,
+            "h": 400,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 624,
+            "h": 400,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 624,
+            "h": 400,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058714979300298752,
+        "source_status_id_str": "1058714979300298752",
+        "source_user_id": 754691666854895616,
+        "source_user_id_str": "754691666854895616"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255163657"
+}

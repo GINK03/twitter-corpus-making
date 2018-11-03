@@ -1,0 +1,358 @@
+{
+  "created_at": "Sat Nov 03 14:15:21 +0000 2018",
+  "id": 1058724315695210498,
+  "id_str": "1058724315695210498",
+  "text": "RT @Rakuten_Panda: 秋の夜長にちょっと夜更かし。楽天TVで観たかったドラマを一気に観ちゃおう！ #楽天TV #お買いものパンダ https://t.co/W7p4G7lfON",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4486983614,
+    "id_str": "4486983614",
+    "name": "まき(仝_仝:)",
+    "screen_name": "go_makiv6",
+    "location": "恋をするなら坂本昌行",
+    "url": null,
+    "description": "98line 昌さん寄りのall担/ 東京住み/ 坂剛/ 恋弾/ 剛健/ 井ノ原組/ 看護学生",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 119,
+    "friends_count": 209,
+    "listed_count": 4,
+    "favourites_count": 303,
+    "statuses_count": 29781,
+    "created_at": "Mon Dec 07 14:51:44 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874999975087714305/-UJhgCpM_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874999975087714305/-UJhgCpM_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4486983614/1449726527",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:00:08 +0000 2018",
+    "id": 1058705384934907905,
+    "id_str": "1058705384934907905",
+    "text": "秋の夜長にちょっと夜更かし。楽天TVで観たかったドラマを一気に観ちゃおう！ #楽天TV #お買いものパンダ https://t.co/W7p4G7lfON",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 770460733117173760,
+      "id_str": "770460733117173760",
+      "name": "お買いものパンダ【楽天公式】",
+      "screen_name": "Rakuten_Panda",
+      "location": "東京 世田谷区",
+      "url": "http://bit.ly/rakupanda",
+      "description": "お買いもの大好き♪楽天お買いものパンダの公式アカウントです。 お買いものパンダと小パンダの楽しい毎日をゆるっとつぶやきます。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 128972,
+      "friends_count": 1,
+      "listed_count": 664,
+      "favourites_count": 1225,
+      "statuses_count": 735,
+      "created_at": "Tue Aug 30 03:18:48 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1046580116145369088/V_sdVkYa_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046580116145369088/V_sdVkYa_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/770460733117173760/1538359143",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 20,
+    "reply_count": 156,
+    "retweet_count": 601,
+    "favorite_count": 3495,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "楽天TV",
+          "indices": [
+            38,
+            43
+          ]
+        },
+        {
+          "text": "お買いものパンダ",
+          "indices": [
+            44,
+            53
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058705380585414656,
+          "id_str": "1058705380585414656",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFG7zOWoAAhoPr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFG7zOWoAAhoPr.jpg",
+          "url": "https://t.co/W7p4G7lfON",
+          "display_url": "pic.twitter.com/W7p4G7lfON",
+          "expanded_url": "https://twitter.com/Rakuten_Panda/status/1058705384934907905/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 600,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058705380585414656,
+          "id_str": "1058705380585414656",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFG7zOWoAAhoPr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFG7zOWoAAhoPr.jpg",
+          "url": "https://t.co/W7p4G7lfON",
+          "display_url": "pic.twitter.com/W7p4G7lfON",
+          "expanded_url": "https://twitter.com/Rakuten_Panda/status/1058705384934907905/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 600,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "楽天TV",
+        "indices": [
+          57,
+          62
+        ]
+      },
+      {
+        "text": "お買いものパンダ",
+        "indices": [
+          63,
+          72
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Rakuten_Panda",
+        "name": "お買いものパンダ【楽天公式】",
+        "id": 770460733117173760,
+        "id_str": "770460733117173760",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058705380585414656,
+        "id_str": "1058705380585414656",
+        "indices": [
+          73,
+          96
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFG7zOWoAAhoPr.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFG7zOWoAAhoPr.jpg",
+        "url": "https://t.co/W7p4G7lfON",
+        "display_url": "pic.twitter.com/W7p4G7lfON",
+        "expanded_url": "https://twitter.com/Rakuten_Panda/status/1058705384934907905/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 340,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1200,
+            "h": 600,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 600,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058705384934907905,
+        "source_status_id_str": "1058705384934907905",
+        "source_user_id": 770460733117173760,
+        "source_user_id_str": "770460733117173760"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058705380585414656,
+        "id_str": "1058705380585414656",
+        "indices": [
+          73,
+          96
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFG7zOWoAAhoPr.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFG7zOWoAAhoPr.jpg",
+        "url": "https://t.co/W7p4G7lfON",
+        "display_url": "pic.twitter.com/W7p4G7lfON",
+        "expanded_url": "https://twitter.com/Rakuten_Panda/status/1058705384934907905/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 340,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1200,
+            "h": 600,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 600,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058705384934907905,
+        "source_status_id_str": "1058705384934907905",
+        "source_user_id": 770460733117173760,
+        "source_user_id_str": "770460733117173760"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254521665"
+}

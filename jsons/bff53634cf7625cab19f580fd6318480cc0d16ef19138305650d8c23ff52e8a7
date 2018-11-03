@@ -1,0 +1,167 @@
+{
+  "created_at": "Sat Nov 03 14:19:40 +0000 2018",
+  "id": 1058725401986560000,
+  "id_str": "1058725401986560000",
+  "text": "【嫁姑夫】現在夫は失業中で私が働いてるが、先週ウトが体調を崩したとかで夫が泊まりに行った。で昨日帰った夫に「嫁が一度も顔を出さなかったとウトメがご立腹」と告げられた https://t.co/iNBdLqPExt https://t.co/UfC2FY4JXE",
+  "display_text_range": [
+    0,
+    106
+  ],
+  "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1041625604292923394,
+    "id_str": "1041625604292923394",
+    "name": "鬼女2chまとめのまとめ",
+    "screen_name": "infofunwariinfo",
+    "location": null,
+    "url": "https://funwari.info/",
+    "description": "「鬼女2chまとめのまとめ」記事の更新をつぶやいています。\n基本フォローいただきましたらフォローさせていただきます。\n#鬼女まとめのまとめ #2chまとめのまとめ #相互フォロー #sogofollow",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 74,
+    "friends_count": 169,
+    "listed_count": 0,
+    "favourites_count": 308,
+    "statuses_count": 6365,
+    "created_at": "Mon Sep 17 09:51:11 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1041736132860403712/pCWH05CT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1041736132860403712/pCWH05CT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1041625604292923394/1537204331",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/iNBdLqPExt",
+        "expanded_url": "https://funwari.info/%e3%80%90%e5%ab%81%e5%a7%91%e5%a4%ab%e3%80%91%e7%8f%be%e5%9c%a8%e5%a4%ab%e3%81%af%e5%a4%b1%e6%a5%ad%e4%b8%ad%e3%81%a7%e7%a7%81%e3%81%8c%e5%83%8d%e3%81%84%e3%81%a6%e3%82%8b%e3%81%8c%e3%80%81%e5%85%88/",
+        "display_url": "funwari.info/%e3%80%90%e5%a…",
+        "indices": [
+          83,
+          106
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058725399629246465,
+        "id_str": "1058725399629246465",
+        "indices": [
+          107,
+          130
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZJD-VsAEnKqy.png",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZJD-VsAEnKqy.png",
+        "url": "https://t.co/UfC2FY4JXE",
+        "display_url": "pic.twitter.com/UfC2FY4JXE",
+        "expanded_url": "https://twitter.com/infofunwariinfo/status/1058725401986560000/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 400,
+            "h": 363,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 400,
+            "h": 363,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 400,
+            "h": 363,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058725399629246465,
+        "id_str": "1058725399629246465",
+        "indices": [
+          107,
+          130
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZJD-VsAEnKqy.png",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZJD-VsAEnKqy.png",
+        "url": "https://t.co/UfC2FY4JXE",
+        "display_url": "pic.twitter.com/UfC2FY4JXE",
+        "expanded_url": "https://twitter.com/infofunwariinfo/status/1058725401986560000/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 400,
+            "h": 363,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 400,
+            "h": 363,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 400,
+            "h": 363,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254780657"
+}

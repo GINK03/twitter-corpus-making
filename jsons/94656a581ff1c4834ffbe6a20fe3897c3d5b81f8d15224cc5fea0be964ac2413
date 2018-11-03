@@ -1,0 +1,571 @@
+{
+  "created_at": "Sat Nov 03 14:26:56 +0000 2018",
+  "id": 1058727230740688896,
+  "id_str": "1058727230740688896",
+  "text": "RT @tamao_writer: 開幕Rebellion Starなんて最高でしょうが…\n＃あんスタユニソンリクエスト https://t.co/LxI9DJxtKV",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1290313327,
+    "id_str": "1290313327",
+    "name": "ナッツ",
+    "screen_name": "kmkm_lo",
+    "location": null,
+    "url": null,
+    "description": "廣瀬大介さん/前山剛久さん/荒牧慶彦さん。湯木んこの鎖骨。「また花が咲くその時まで」。天祥院英智に生きてほしい。夢ノ咲箱推しのfineP。年パス買おうか迷ってる程度のディズニー好き。msn65",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1145,
+    "friends_count": 1791,
+    "listed_count": 6,
+    "favourites_count": 15405,
+    "statuses_count": 26876,
+    "created_at": "Sat Mar 23 03:30:42 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1031895778095116288/Z0wnhsxk_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031895778095116288/Z0wnhsxk_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1290313327/1449382200",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:18:06 +0000 2018",
+    "id": 1058725005117157376,
+    "id_str": "1058725005117157376",
+    "text": "開幕Rebellion Starなんて最高でしょうが…\n＃あんスタユニソンリクエスト https://t.co/LxI9DJxtKV",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 964011379257573376,
+      "id_str": "964011379257573376",
+      "name": "たまお（ライター）",
+      "screen_name": "tamao_writer",
+      "location": "日本 東京",
+      "url": "http://tamaoblog.hatenablog.com/",
+      "description": "たまおです。フリーのゲーム系ライターです。現在は主にWebメディア「4gamer」「ゲームギフト」で女性向けタイトル記事を担当しております。 お仕事のご相談や記事の感想等ご連絡はリプ/DM/メールまでお願いいたします！メールはこちら→tamao.writerアットhttp://gmail.com",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 3131,
+      "friends_count": 187,
+      "listed_count": 37,
+      "favourites_count": 171,
+      "statuses_count": 1305,
+      "created_at": "Thu Feb 15 05:39:58 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/997349544479277058/0aPd8sWY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/997349544479277058/0aPd8sWY_normal.jpg",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 150,
+    "favorite_count": 242,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "あんスタユニソンリクエスト",
+          "indices": [
+            28,
+            42
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058724468866994177,
+          "id_str": "1058724468866994177",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFYS4nU0AEvBiR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFYS4nU0AEvBiR.jpg",
+          "url": "https://t.co/LxI9DJxtKV",
+          "display_url": "pic.twitter.com/LxI9DJxtKV",
+          "expanded_url": "https://twitter.com/tamao_writer/status/1058725005117157376/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 722,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 409,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1794,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058724468866994177,
+          "id_str": "1058724468866994177",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFYS4nU0AEvBiR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFYS4nU0AEvBiR.jpg",
+          "url": "https://t.co/LxI9DJxtKV",
+          "display_url": "pic.twitter.com/LxI9DJxtKV",
+          "expanded_url": "https://twitter.com/tamao_writer/status/1058725005117157376/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 722,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 409,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1794,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058724769204293632,
+          "id_str": "1058724769204293632",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFYkXdUUAAIKii.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFYkXdUUAAIKii.jpg",
+          "url": "https://t.co/LxI9DJxtKV",
+          "display_url": "pic.twitter.com/LxI9DJxtKV",
+          "expanded_url": "https://twitter.com/tamao_writer/status/1058725005117157376/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 722,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 409,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1794,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058724855246290945,
+          "id_str": "1058724855246290945",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFYpX_VAAEoqEa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFYpX_VAAEoqEa.jpg",
+          "url": "https://t.co/LxI9DJxtKV",
+          "display_url": "pic.twitter.com/LxI9DJxtKV",
+          "expanded_url": "https://twitter.com/tamao_writer/status/1058725005117157376/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 722,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 409,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1794,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058724901459156992,
+          "id_str": "1058724901459156992",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFYsEJVYAA3uig.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFYsEJVYAA3uig.jpg",
+          "url": "https://t.co/LxI9DJxtKV",
+          "display_url": "pic.twitter.com/LxI9DJxtKV",
+          "expanded_url": "https://twitter.com/tamao_writer/status/1058725005117157376/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1794,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 722,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 409,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "あんスタユニソンリクエスト",
+        "indices": [
+          46,
+          60
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "tamao_writer",
+        "name": "たまお（ライター）",
+        "id": 964011379257573376,
+        "id_str": "964011379257573376",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724468866994177,
+        "id_str": "1058724468866994177",
+        "indices": [
+          61,
+          84
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYS4nU0AEvBiR.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYS4nU0AEvBiR.jpg",
+        "url": "https://t.co/LxI9DJxtKV",
+        "display_url": "pic.twitter.com/LxI9DJxtKV",
+        "expanded_url": "https://twitter.com/tamao_writer/status/1058725005117157376/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 722,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 409,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1794,
+            "h": 1080,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058725005117157376,
+        "source_status_id_str": "1058725005117157376",
+        "source_user_id": 964011379257573376,
+        "source_user_id_str": "964011379257573376"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724468866994177,
+        "id_str": "1058724468866994177",
+        "indices": [
+          61,
+          84
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYS4nU0AEvBiR.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYS4nU0AEvBiR.jpg",
+        "url": "https://t.co/LxI9DJxtKV",
+        "display_url": "pic.twitter.com/LxI9DJxtKV",
+        "expanded_url": "https://twitter.com/tamao_writer/status/1058725005117157376/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 722,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 409,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1794,
+            "h": 1080,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058725005117157376,
+        "source_status_id_str": "1058725005117157376",
+        "source_user_id": 964011379257573376,
+        "source_user_id_str": "964011379257573376"
+      },
+      {
+        "id": 1058724769204293632,
+        "id_str": "1058724769204293632",
+        "indices": [
+          61,
+          84
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYkXdUUAAIKii.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYkXdUUAAIKii.jpg",
+        "url": "https://t.co/LxI9DJxtKV",
+        "display_url": "pic.twitter.com/LxI9DJxtKV",
+        "expanded_url": "https://twitter.com/tamao_writer/status/1058725005117157376/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 722,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 409,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1794,
+            "h": 1080,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058725005117157376,
+        "source_status_id_str": "1058725005117157376",
+        "source_user_id": 964011379257573376,
+        "source_user_id_str": "964011379257573376"
+      },
+      {
+        "id": 1058724855246290945,
+        "id_str": "1058724855246290945",
+        "indices": [
+          61,
+          84
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYpX_VAAEoqEa.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYpX_VAAEoqEa.jpg",
+        "url": "https://t.co/LxI9DJxtKV",
+        "display_url": "pic.twitter.com/LxI9DJxtKV",
+        "expanded_url": "https://twitter.com/tamao_writer/status/1058725005117157376/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 722,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 409,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1794,
+            "h": 1080,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058725005117157376,
+        "source_status_id_str": "1058725005117157376",
+        "source_user_id": 964011379257573376,
+        "source_user_id_str": "964011379257573376"
+      },
+      {
+        "id": 1058724901459156992,
+        "id_str": "1058724901459156992",
+        "indices": [
+          61,
+          84
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYsEJVYAA3uig.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYsEJVYAA3uig.jpg",
+        "url": "https://t.co/LxI9DJxtKV",
+        "display_url": "pic.twitter.com/LxI9DJxtKV",
+        "expanded_url": "https://twitter.com/tamao_writer/status/1058725005117157376/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1794,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 722,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 409,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058725005117157376,
+        "source_status_id_str": "1058725005117157376",
+        "source_user_id": 964011379257573376,
+        "source_user_id_str": "964011379257573376"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255216666"
+}

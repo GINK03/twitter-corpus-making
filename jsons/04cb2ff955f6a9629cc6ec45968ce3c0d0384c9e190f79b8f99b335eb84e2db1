@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:16:10 +0000 2018",
+  "id": 1058724521203531776,
+  "id_str": "1058724521203531776",
+  "text": "@Sankei_news @amiga2500 「最低でも県外」と言うのか\n「小沢さんに聞かないと…」と言うのか…",
+  "display_text_range": [
+    24,
+    57
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058295413726359552,
+  "in_reply_to_status_id_str": "1058295413726359552",
+  "in_reply_to_user_id": 562773398,
+  "in_reply_to_user_id_str": "562773398",
+  "in_reply_to_screen_name": "Sankei_news",
+  "user": {
+    "id": 3935440273,
+    "id_str": "3935440273",
+    "name": "もんがまえ",
+    "screen_name": "mongamae0630",
+    "location": "宮城の左  福島の斜め上  秋田の下  横顔の県",
+    "url": null,
+    "description": "ウルトラセブンと同い年の天の邪鬼です  ffuwp三万双  最近TLを見る間もなく見逃しが多いのが悩み…※後で見直すためのマーカーとして「いいね❤」する場合があります  ご了承下さい",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 234,
+    "friends_count": 592,
+    "listed_count": 3,
+    "favourites_count": 47889,
+    "statuses_count": 17808,
+    "created_at": "Sun Oct 18 11:28:58 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/985432764328456192/j1LEhIPB_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/985432764328456192/j1LEhIPB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3935440273/1523780455",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Sankei_news",
+        "name": "産経ニュース",
+        "id": 562773398,
+        "id_str": "562773398",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "amiga2500",
+        "name": "Katana Edge",
+        "id": 99279118,
+        "id_str": "99279118",
+        "indices": [
+          13,
+          23
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254570662"
+}

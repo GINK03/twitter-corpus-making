@@ -1,0 +1,330 @@
+{
+  "created_at": "Sat Nov 03 14:18:29 +0000 2018",
+  "id": 1058725104220168193,
+  "id_str": "1058725104220168193",
+  "text": "RT @Minzokubot: 明治初期に撮影されたとされる写真。御高祖頭巾を身につけた冬の装い。方形の布に耳をかける輪をつけており、耳にかけて顔を出す被り方と、目の周りだけ出す被り方がある。 https://t.co/XhdOI0qm1K",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 46442014,
+    "id_str": "46442014",
+    "name": "キ之國屋紊左ヱ門",
+    "screen_name": "kinobun",
+    "location": null,
+    "url": null,
+    "description": "グラフィックデザイナー兼映像屋。こちら宇宙の何でも屋でござい。小学生じゃありません。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 343,
+    "friends_count": 456,
+    "listed_count": 29,
+    "favourites_count": 5524,
+    "statuses_count": 148122,
+    "created_at": "Thu Jun 11 17:43:20 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/517337660218568706/S5CKe8mS_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/517337660218568706/S5CKe8mS_normal.jpeg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Oct 23 11:04:24 +0000 2018",
+    "id": 1054689994911039493,
+    "id_str": "1054689994911039493",
+    "text": "明治初期に撮影されたとされる写真。御高祖頭巾を身につけた冬の装い。方形の布に耳をかける輪をつけており、耳にかけて顔を出す被り方と、目の周りだけ出す被り方がある。 https://t.co/XhdOI0qm1K",
+    "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1642967539,
+      "id_str": "1642967539",
+      "name": "民族衣装bot",
+      "screen_name": "Minzokubot",
+      "location": null,
+      "url": "http://twilog.org/Minzokubot",
+      "description": "民族服飾や服装史についての雑学や画像を雑につぶやく半手動bot。不定期更新。中の人（@shikibu56）は粗忽なので誤字脱字等ございます。画像はパブリックドメイン、クリエイティブコモンズライセンス。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 132647,
+      "friends_count": 5996,
+      "listed_count": 4081,
+      "favourites_count": 0,
+      "statuses_count": 16459,
+      "created_at": "Sat Aug 03 14:24:38 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/447559417320333312/LlGD-ydL_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/447559417320333312/LlGD-ydL_normal.jpeg",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 3,
+    "reply_count": 0,
+    "retweet_count": 100,
+    "favorite_count": 318,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 445917614439534592,
+          "id_str": "445917614439534592",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/BjA3tS_CEAAagEv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/BjA3tS_CEAAagEv.jpg",
+          "url": "https://t.co/XhdOI0qm1K",
+          "display_url": "pic.twitter.com/XhdOI0qm1K",
+          "expanded_url": "https://twitter.com/Minzokubot/status/445917614636670976/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 672,
+              "h": 1001,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 457,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 672,
+              "h": 1001,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 445917614636670976,
+          "source_status_id_str": "445917614636670976",
+          "source_user_id": 1642967539,
+          "source_user_id_str": "1642967539"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 445917614439534592,
+          "id_str": "445917614439534592",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/BjA3tS_CEAAagEv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/BjA3tS_CEAAagEv.jpg",
+          "url": "https://t.co/XhdOI0qm1K",
+          "display_url": "pic.twitter.com/XhdOI0qm1K",
+          "expanded_url": "https://twitter.com/Minzokubot/status/445917614636670976/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 672,
+              "h": 1001,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 457,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 672,
+              "h": 1001,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 445917614636670976,
+          "source_status_id_str": "445917614636670976",
+          "source_user_id": 1642967539,
+          "source_user_id_str": "1642967539"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Minzokubot",
+        "name": "民族衣装bot",
+        "id": 1642967539,
+        "id_str": "1642967539",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 445917614439534592,
+        "id_str": "445917614439534592",
+        "indices": [
+          97,
+          120
+        ],
+        "media_url": "http://pbs.twimg.com/media/BjA3tS_CEAAagEv.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/BjA3tS_CEAAagEv.jpg",
+        "url": "https://t.co/XhdOI0qm1K",
+        "display_url": "pic.twitter.com/XhdOI0qm1K",
+        "expanded_url": "https://twitter.com/Minzokubot/status/445917614636670976/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 672,
+            "h": 1001,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 457,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 672,
+            "h": 1001,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 445917614636670976,
+        "source_status_id_str": "445917614636670976",
+        "source_user_id": 1642967539,
+        "source_user_id_str": "1642967539"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 445917614439534592,
+        "id_str": "445917614439534592",
+        "indices": [
+          97,
+          120
+        ],
+        "media_url": "http://pbs.twimg.com/media/BjA3tS_CEAAagEv.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/BjA3tS_CEAAagEv.jpg",
+        "url": "https://t.co/XhdOI0qm1K",
+        "display_url": "pic.twitter.com/XhdOI0qm1K",
+        "expanded_url": "https://twitter.com/Minzokubot/status/445917614636670976/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 672,
+            "h": 1001,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 457,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 672,
+            "h": 1001,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 445917614636670976,
+        "source_status_id_str": "445917614636670976",
+        "source_user_id": 1642967539,
+        "source_user_id_str": "1642967539"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254709664"
+}

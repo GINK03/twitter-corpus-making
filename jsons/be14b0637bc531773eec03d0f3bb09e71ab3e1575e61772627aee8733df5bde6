@@ -1,0 +1,179 @@
+{
+  "created_at": "Sat Nov 03 14:00:07 +0000 2018",
+  "id": 1058720482541727744,
+  "id_str": "1058720482541727744",
+  "text": "司令Lv120になったので更新\n\nついに艦これ初心者卒業！\n初期艦は電ちゃん、4年間ありがとう\n\n#艦これ\n#艦これ好きと繋がりたい \n#提督さんと繋がりたい https://t.co/4gjoOswBry",
+  "display_text_range": [
+    0,
+    79
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2989652092,
+    "id_str": "2989652092",
+    "name": "ヘタレの提督",
+    "screen_name": "Fleet_Love",
+    "location": "佐伯湾泊地",
+    "url": null,
+    "description": "勉強＜ 二次元の学生です。平日はFGOAC、休日は艦これしてます。嫁艦 水着大和 佐伯湾泊地に在籍 祝★大型建造卒業(ゲーム上では「はるかぜ」というHNを名乗っております",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 593,
+    "friends_count": 1095,
+    "listed_count": 5,
+    "favourites_count": 1803,
+    "statuses_count": 1971,
+    "created_at": "Wed Jan 21 11:31:24 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/859413812566306816/4rocyZkV_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/859413812566306816/4rocyZkV_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2989652092/1450136841",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ",
+        "indices": [
+          49,
+          53
+        ]
+      },
+      {
+        "text": "艦これ好きと繋がりたい",
+        "indices": [
+          54,
+          66
+        ]
+      },
+      {
+        "text": "提督さんと繋がりたい",
+        "indices": [
+          68,
+          79
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058720475843444738,
+        "id_str": "1058720475843444738",
+        "indices": [
+          80,
+          103
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFUqdcUwAIOg94.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFUqdcUwAIOg94.jpg",
+        "url": "https://t.co/4gjoOswBry",
+        "display_url": "pic.twitter.com/4gjoOswBry",
+        "expanded_url": "https://twitter.com/Fleet_Love/status/1058720482541727744/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1193,
+            "h": 710,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1193,
+            "h": 710,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 405,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058720475843444738,
+        "id_str": "1058720475843444738",
+        "indices": [
+          80,
+          103
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFUqdcUwAIOg94.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFUqdcUwAIOg94.jpg",
+        "url": "https://t.co/4gjoOswBry",
+        "display_url": "pic.twitter.com/4gjoOswBry",
+        "expanded_url": "https://twitter.com/Fleet_Love/status/1058720482541727744/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1193,
+            "h": 710,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1193,
+            "h": 710,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 405,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253607770"
+}

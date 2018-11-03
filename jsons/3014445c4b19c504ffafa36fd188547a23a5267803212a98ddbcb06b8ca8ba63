@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:15:04 +0000 2018",
+  "id": 1058724244383649792,
+  "id_str": "1058724244383649792",
+  "text": "@takejun2220 @kingyo108 どっちも",
+  "display_text_range": [
+    24,
+    28
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058723365643382787,
+  "in_reply_to_status_id_str": "1058723365643382787",
+  "in_reply_to_user_id": 771303260925730816,
+  "in_reply_to_user_id_str": "771303260925730816",
+  "in_reply_to_screen_name": "takejun2220",
+  "user": {
+    "id": 814020748960374786,
+    "id_str": "814020748960374786",
+    "name": "あらた",
+    "screen_name": "mmmmmmrnmmmmmm",
+    "location": "圧倒的猫派🐈",
+    "url": "https://Twitter.com/Liyu0109",
+    "description": "ゲーム垢とリア垢の境界線に立つ男",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 125,
+    "friends_count": 113,
+    "listed_count": 0,
+    "favourites_count": 699,
+    "statuses_count": 3340,
+    "created_at": "Wed Dec 28 08:10:45 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056884964115902464/vT8ey4xK_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056884964115902464/vT8ey4xK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/814020748960374786/1540809156",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "takejun2220",
+        "name": "たけば",
+        "id": 771303260925730816,
+        "id_str": "771303260925730816",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "kingyo108",
+        "name": "透哉",
+        "id": 842719798794440704,
+        "id_str": "842719798794440704",
+        "indices": [
+          13,
+          23
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254504663"
+}

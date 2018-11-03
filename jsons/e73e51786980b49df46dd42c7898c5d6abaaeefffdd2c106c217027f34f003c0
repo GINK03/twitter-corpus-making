@@ -1,0 +1,294 @@
+{
+  "created_at": "Sat Nov 03 14:20:39 +0000 2018",
+  "id": 1058725649844645889,
+  "id_str": "1058725649844645889",
+  "text": "求 白猫 石垢でも検討します\n\n#白猫 販売 \n#白猫 交換\n#パズドラ\n#パズドラ 交換 https://t.co/OvA0jpRSuJ",
+  "display_text_range": [
+    0,
+    45
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3891149414,
+    "id_str": "3891149414",
+    "name": "きゃぱ",
+    "screen_name": "mhmy1029",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 7,
+    "friends_count": 20,
+    "listed_count": 0,
+    "favourites_count": 8,
+    "statuses_count": 62,
+    "created_at": "Wed Oct 14 11:29:33 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/654640255400738816/wd11jWqn_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/654640255400738816/wd11jWqn_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3891149414/1444914053",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "白猫",
+        "indices": [
+          16,
+          19
+        ]
+      },
+      {
+        "text": "白猫",
+        "indices": [
+          24,
+          27
+        ]
+      },
+      {
+        "text": "パズドラ",
+        "indices": [
+          31,
+          36
+        ]
+      },
+      {
+        "text": "パズドラ",
+        "indices": [
+          37,
+          42
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058725615136780288,
+        "id_str": "1058725615136780288",
+        "indices": [
+          46,
+          69
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZVmzVsAA5wK1.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZVmzVsAA5wK1.jpg",
+        "url": "https://t.co/OvA0jpRSuJ",
+        "display_url": "pic.twitter.com/OvA0jpRSuJ",
+        "expanded_url": "https://twitter.com/mhmy1029/status/1058725649844645889/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058725615136780288,
+        "id_str": "1058725615136780288",
+        "indices": [
+          46,
+          69
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZVmzVsAA5wK1.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZVmzVsAA5wK1.jpg",
+        "url": "https://t.co/OvA0jpRSuJ",
+        "display_url": "pic.twitter.com/OvA0jpRSuJ",
+        "expanded_url": "https://twitter.com/mhmy1029/status/1058725649844645889/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058725615237386241,
+        "id_str": "1058725615237386241",
+        "indices": [
+          46,
+          69
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZVnLU0AECRcb.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZVnLU0AECRcb.jpg",
+        "url": "https://t.co/OvA0jpRSuJ",
+        "display_url": "pic.twitter.com/OvA0jpRSuJ",
+        "expanded_url": "https://twitter.com/mhmy1029/status/1058725649844645889/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058725615237394432,
+        "id_str": "1058725615237394432",
+        "indices": [
+          46,
+          69
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZVnLU8AAOiRa.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZVnLU8AAOiRa.jpg",
+        "url": "https://t.co/OvA0jpRSuJ",
+        "display_url": "pic.twitter.com/OvA0jpRSuJ",
+        "expanded_url": "https://twitter.com/mhmy1029/status/1058725649844645889/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058725615128371203,
+        "id_str": "1058725615128371203",
+        "indices": [
+          46,
+          69
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZVmxVYAMqjjB.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZVmxVYAMqjjB.jpg",
+        "url": "https://t.co/OvA0jpRSuJ",
+        "display_url": "pic.twitter.com/OvA0jpRSuJ",
+        "expanded_url": "https://twitter.com/mhmy1029/status/1058725649844645889/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254839751"
+}

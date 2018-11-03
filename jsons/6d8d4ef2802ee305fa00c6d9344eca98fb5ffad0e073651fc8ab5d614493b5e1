@@ -1,0 +1,358 @@
+{
+  "created_at": "Sat Nov 03 14:08:00 +0000 2018",
+  "id": 1058722464346165248,
+  "id_str": "1058722464346165248",
+  "text": "RT @Shinono_Mary: ハイカラ初風！！\n#初風　 #艦これ https://t.co/UeucZZzje8",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 93836729,
+    "id_str": "93836729",
+    "name": "上杉潤輝提督／漱石タラちゃん",
+    "screen_name": "uesugijyunki",
+    "location": "奈良の空の下",
+    "url": null,
+    "description": "艦これで提督稼業に励んでます。あと田舎暮らし、プロ野球、将棋の事などをつぶやいています。アイコンは妹の元気な五月雨にリクエストして描いてもらいました。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 407,
+    "friends_count": 427,
+    "listed_count": 19,
+    "favourites_count": 20793,
+    "statuses_count": 116131,
+    "created_at": "Tue Dec 01 10:57:32 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/700720618224783360/QTFGstOk_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/700720618224783360/QTFGstOk_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/93836729/1455899867",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:23:55 +0000 2018",
+    "id": 1058711372463140865,
+    "id_str": "1058711372463140865",
+    "text": "ハイカラ初風！！\n#初風　 #艦これ https://t.co/UeucZZzje8",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 767943914,
+      "id_str": "767943914",
+      "name": "東雲 有",
+      "screen_name": "Shinono_Mary",
+      "location": "トラック泊地  ",
+      "url": null,
+      "description": "お絵描きする 艦これ 加賀さんと初風 初風 初風 サークル【敷きレタス】 https://touch.pixiv.net/member_illust.php?id=3443753 イラスト以外の画像ツイートは数日経つと消えます",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1921,
+      "friends_count": 1311,
+      "listed_count": 54,
+      "favourites_count": 10997,
+      "statuses_count": 40508,
+      "created_at": "Sun Aug 19 17:42:37 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "B2DFDA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "203CA1",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/985413095227998208/fiSnA71v_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/985413095227998208/fiSnA71v_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/767943914/1510366859",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 5,
+    "retweet_count": 70,
+    "favorite_count": 110,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "初風",
+          "indices": [
+            9,
+            12
+          ]
+        },
+        {
+          "text": "艦これ",
+          "indices": [
+            14,
+            18
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058711365349601280,
+          "id_str": "1058711365349601280",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFMYKNU8AATE-0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFMYKNU8AATE-0.jpg",
+          "url": "https://t.co/UeucZZzje8",
+          "display_url": "pic.twitter.com/UeucZZzje8",
+          "expanded_url": "https://twitter.com/Shinono_Mary/status/1058711372463140865/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 513,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 754,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 754,
+              "h": 1000,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058711365349601280,
+          "id_str": "1058711365349601280",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFMYKNU8AATE-0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFMYKNU8AATE-0.jpg",
+          "url": "https://t.co/UeucZZzje8",
+          "display_url": "pic.twitter.com/UeucZZzje8",
+          "expanded_url": "https://twitter.com/Shinono_Mary/status/1058711372463140865/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 513,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 754,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 754,
+              "h": 1000,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "初風",
+        "indices": [
+          27,
+          30
+        ]
+      },
+      {
+        "text": "艦これ",
+        "indices": [
+          32,
+          36
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Shinono_Mary",
+        "name": "東雲 有",
+        "id": 767943914,
+        "id_str": "767943914",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058711365349601280,
+        "id_str": "1058711365349601280",
+        "indices": [
+          37,
+          60
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFMYKNU8AATE-0.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFMYKNU8AATE-0.jpg",
+        "url": "https://t.co/UeucZZzje8",
+        "display_url": "pic.twitter.com/UeucZZzje8",
+        "expanded_url": "https://twitter.com/Shinono_Mary/status/1058711372463140865/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 513,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 754,
+            "h": 1000,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 754,
+            "h": 1000,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058711372463140865,
+        "source_status_id_str": "1058711372463140865",
+        "source_user_id": 767943914,
+        "source_user_id_str": "767943914"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058711365349601280,
+        "id_str": "1058711365349601280",
+        "indices": [
+          37,
+          60
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFMYKNU8AATE-0.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFMYKNU8AATE-0.jpg",
+        "url": "https://t.co/UeucZZzje8",
+        "display_url": "pic.twitter.com/UeucZZzje8",
+        "expanded_url": "https://twitter.com/Shinono_Mary/status/1058711372463140865/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 513,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 754,
+            "h": 1000,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 754,
+            "h": 1000,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058711372463140865,
+        "source_status_id_str": "1058711372463140865",
+        "source_user_id": 767943914,
+        "source_user_id_str": "767943914"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254080269"
+}

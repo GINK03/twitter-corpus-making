@@ -1,0 +1,195 @@
+{
+  "created_at": "Sat Nov 03 14:18:15 +0000 2018",
+  "id": 1058725045495771136,
+  "id_str": "1058725045495771136",
+  "text": "RT @ingkgrofficial: 東京国際映画祭 ー アメブロを更新しました\n#稲垣吾郎\n https://t.co/OsNoBQPpfB",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 151911715,
+    "id_str": "151911715",
+    "name": "えり",
+    "screen_name": "eriaimi",
+    "location": null,
+    "url": null,
+    "description": "放射能が大嫌い。脱原発。犬も猫もみーんな幸せになりますように…。SMAPが好き、中居さんが、好き。夢は保護犬猫のボランティアさん。\n介護職:現在デイサービス。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 170,
+    "friends_count": 293,
+    "listed_count": 4,
+    "favourites_count": 1519,
+    "statuses_count": 26476,
+    "created_at": "Fri Jun 04 15:26:35 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2923368052/448d66d5042bab232ff6ec4bc387b490_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2923368052/448d66d5042bab232ff6ec4bc387b490_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/151911715/1348229322",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 02:44:55 +0000 2018",
+    "id": 1058550561073582080,
+    "id_str": "1058550561073582080",
+    "text": "東京国際映画祭 ー アメブロを更新しました\n#稲垣吾郎\n https://t.co/OsNoBQPpfB",
+    "source": "<a href=\"http://www.ameba.jp\" rel=\"nofollow\">Ameba smartphone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 911743944311971842,
+      "id_str": "911743944311971842",
+      "name": "稲垣 吾郎",
+      "screen_name": "ingkgrofficial",
+      "location": null,
+      "url": "https://ameblo.jp/inagakigoro-official",
+      "description": null,
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 697638,
+      "friends_count": 7,
+      "listed_count": 9207,
+      "favourites_count": 619,
+      "statuses_count": 373,
+      "created_at": "Sun Sep 24 00:07:50 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/983339547789422592/H5NI2yd8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/983339547789422592/H5NI2yd8_normal.jpg",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 12,
+    "reply_count": 967,
+    "retweet_count": 3516,
+    "favorite_count": 14602,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "稲垣吾郎",
+          "indices": [
+            22,
+            27
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OsNoBQPpfB",
+          "expanded_url": "https://ameblo.jp/inagakigoro-official/entry-12416398756.html",
+          "display_url": "ameblo.jp/inagakigoro-of…",
+          "indices": [
+            29,
+            52
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "稲垣吾郎",
+        "indices": [
+          42,
+          47
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/OsNoBQPpfB",
+        "expanded_url": "https://ameblo.jp/inagakigoro-official/entry-12416398756.html",
+        "display_url": "ameblo.jp/inagakigoro-of…",
+        "indices": [
+          49,
+          72
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ingkgrofficial",
+        "name": "稲垣 吾郎",
+        "id": 911743944311971842,
+        "id_str": "911743944311971842",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254695663"
+}

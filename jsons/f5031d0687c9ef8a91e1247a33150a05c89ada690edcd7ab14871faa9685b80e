@@ -1,0 +1,556 @@
+{
+  "created_at": "Sat Nov 03 14:09:35 +0000 2018",
+  "id": 1058722863706890240,
+  "id_str": "1058722863706890240",
+  "text": "RT @waza0g1: FGO/ヴラド三世\n衣装が完成しました https://t.co/akG2DyhFCR",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 138644898,
+    "id_str": "138644898",
+    "name": "ひゆう",
+    "screen_name": "hiyuu1020",
+    "location": null,
+    "url": null,
+    "description": "遥か昔に成人済。加工厨。写真とは別の人。藤丸立香は♂♀どっちも最高に尊い。本当に大好き。🇮🇳インドの女🇮🇳最推鯖アルジュナ🎤は👔🥂と🍭💉と📚🎲、A3！は夏組箱推し。Free!は鮫🦈 基本雑食。熱しやすく冷めやすい。愛犬、日常ツイートも多め。 気まぐれ民。最近はカメラもしたい。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 293,
+    "friends_count": 359,
+    "listed_count": 20,
+    "favourites_count": 33435,
+    "statuses_count": 33723,
+    "created_at": "Fri Apr 30 04:16:56 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1045125167632924673/mw7XCg0n_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045125167632924673/mw7XCg0n_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/138644898/1539953836",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 13:44:21 +0000 2018",
+    "id": 1058354124591230976,
+    "id_str": "1058354124591230976",
+    "text": "FGO/ヴラド三世\n衣装が完成しました https://t.co/akG2DyhFCR",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 149062416,
+      "id_str": "149062416",
+      "name": "淮莉",
+      "screen_name": "waza0g1",
+      "location": "神威家の向かい",
+      "url": null,
+      "description": "伶 淮莉(わざおぎ かいじ)と申します。東北在住。珍装趣味あり。ボカロ(がくっぽいど)、マギ(シンドバッド)、FGO(狂公)が熱い。審神者業してる。たまに腐る。手探りで写真撮影勉強中。ツイート内容は独り言の垂れ流しです。 http://twilog.org/waza0g1",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 170,
+      "friends_count": 159,
+      "listed_count": 4,
+      "favourites_count": 4166,
+      "statuses_count": 41822,
+      "created_at": "Fri May 28 09:24:21 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "9370DB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "3900B5",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1057585638134886400/bOTjOYZR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057585638134886400/bOTjOYZR_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/149062416/1533484956",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 4,
+    "retweet_count": 4,
+    "favorite_count": 22,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058354116383072256,
+          "id_str": "1058354116383072256",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrAHdiGV4AA-s2q.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrAHdiGV4AA-s2q.jpg",
+          "url": "https://t.co/akG2DyhFCR",
+          "display_url": "pic.twitter.com/akG2DyhFCR",
+          "expanded_url": "https://twitter.com/waza0g1/status/1058354124591230976/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058354116383072256,
+          "id_str": "1058354116383072256",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrAHdiGV4AA-s2q.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrAHdiGV4AA-s2q.jpg",
+          "url": "https://t.co/akG2DyhFCR",
+          "display_url": "pic.twitter.com/akG2DyhFCR",
+          "expanded_url": "https://twitter.com/waza0g1/status/1058354124591230976/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058354116391460864,
+          "id_str": "1058354116391460864",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrAHdiIV4AAa1rC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrAHdiIV4AAa1rC.jpg",
+          "url": "https://t.co/akG2DyhFCR",
+          "display_url": "pic.twitter.com/akG2DyhFCR",
+          "expanded_url": "https://twitter.com/waza0g1/status/1058354124591230976/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058354116336902144,
+          "id_str": "1058354116336902144",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrAHdh7VYAAVbE8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrAHdh7VYAAVbE8.jpg",
+          "url": "https://t.co/akG2DyhFCR",
+          "display_url": "pic.twitter.com/akG2DyhFCR",
+          "expanded_url": "https://twitter.com/waza0g1/status/1058354124591230976/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058354116383006720,
+          "id_str": "1058354116383006720",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrAHdiGU4AAMFba.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrAHdiGU4AAMFba.jpg",
+          "url": "https://t.co/akG2DyhFCR",
+          "display_url": "pic.twitter.com/akG2DyhFCR",
+          "expanded_url": "https://twitter.com/waza0g1/status/1058354124591230976/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "waza0g1",
+        "name": "淮莉",
+        "id": 149062416,
+        "id_str": "149062416",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058354116383072256,
+        "id_str": "1058354116383072256",
+        "indices": [
+          33,
+          56
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrAHdiGV4AA-s2q.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrAHdiGV4AA-s2q.jpg",
+        "url": "https://t.co/akG2DyhFCR",
+        "display_url": "pic.twitter.com/akG2DyhFCR",
+        "expanded_url": "https://twitter.com/waza0g1/status/1058354124591230976/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058354124591230976,
+        "source_status_id_str": "1058354124591230976",
+        "source_user_id": 149062416,
+        "source_user_id_str": "149062416"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058354116383072256,
+        "id_str": "1058354116383072256",
+        "indices": [
+          33,
+          56
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrAHdiGV4AA-s2q.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrAHdiGV4AA-s2q.jpg",
+        "url": "https://t.co/akG2DyhFCR",
+        "display_url": "pic.twitter.com/akG2DyhFCR",
+        "expanded_url": "https://twitter.com/waza0g1/status/1058354124591230976/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058354124591230976,
+        "source_status_id_str": "1058354124591230976",
+        "source_user_id": 149062416,
+        "source_user_id_str": "149062416"
+      },
+      {
+        "id": 1058354116391460864,
+        "id_str": "1058354116391460864",
+        "indices": [
+          33,
+          56
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrAHdiIV4AAa1rC.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrAHdiIV4AAa1rC.jpg",
+        "url": "https://t.co/akG2DyhFCR",
+        "display_url": "pic.twitter.com/akG2DyhFCR",
+        "expanded_url": "https://twitter.com/waza0g1/status/1058354124591230976/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058354124591230976,
+        "source_status_id_str": "1058354124591230976",
+        "source_user_id": 149062416,
+        "source_user_id_str": "149062416"
+      },
+      {
+        "id": 1058354116336902144,
+        "id_str": "1058354116336902144",
+        "indices": [
+          33,
+          56
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrAHdh7VYAAVbE8.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrAHdh7VYAAVbE8.jpg",
+        "url": "https://t.co/akG2DyhFCR",
+        "display_url": "pic.twitter.com/akG2DyhFCR",
+        "expanded_url": "https://twitter.com/waza0g1/status/1058354124591230976/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058354124591230976,
+        "source_status_id_str": "1058354124591230976",
+        "source_user_id": 149062416,
+        "source_user_id_str": "149062416"
+      },
+      {
+        "id": 1058354116383006720,
+        "id_str": "1058354116383006720",
+        "indices": [
+          33,
+          56
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrAHdiGU4AAMFba.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrAHdiGU4AAMFba.jpg",
+        "url": "https://t.co/akG2DyhFCR",
+        "display_url": "pic.twitter.com/akG2DyhFCR",
+        "expanded_url": "https://twitter.com/waza0g1/status/1058354124591230976/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058354124591230976,
+        "source_status_id_str": "1058354124591230976",
+        "source_user_id": 149062416,
+        "source_user_id_str": "149062416"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254175484"
+}

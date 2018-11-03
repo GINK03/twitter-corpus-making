@@ -1,0 +1,193 @@
+{
+  "created_at": "Sat Nov 03 13:54:41 +0000 2018",
+  "id": 1058719112589799426,
+  "id_str": "1058719112589799426",
+  "text": "fgo宝具クイズ https://t.co/yLCtK2I2BC",
+  "display_text_range": [
+    0,
+    8
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 532423319,
+    "id_str": "532423319",
+    "name": "カルナと生きるこぐれ",
+    "screen_name": "matakichitan",
+    "location": "こぐれのはんべん",
+    "url": null,
+    "description": "君んちでいらないものは、僕んちでもいらない",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 863,
+    "friends_count": 804,
+    "listed_count": 29,
+    "favourites_count": 3976,
+    "statuses_count": 77169,
+    "created_at": "Wed Mar 21 17:55:12 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1026771203946512384/C2ZRNeeD_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026771203946512384/C2ZRNeeD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/532423319/1538806722",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058719096685060098,
+        "id_str": "1058719096685060098",
+        "indices": [
+          9,
+          32
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFTaLrV4AIrgd8.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFTaLrV4AIrgd8.jpg",
+        "url": "https://t.co/yLCtK2I2BC",
+        "display_url": "pic.twitter.com/yLCtK2I2BC",
+        "expanded_url": "https://twitter.com/matakichitan/status/1058719112589799426/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1108,
+            "h": 1478,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058719096685060098,
+        "id_str": "1058719096685060098",
+        "indices": [
+          9,
+          32
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFTaLrV4AIrgd8.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFTaLrV4AIrgd8.jpg",
+        "url": "https://t.co/yLCtK2I2BC",
+        "display_url": "pic.twitter.com/yLCtK2I2BC",
+        "expanded_url": "https://twitter.com/matakichitan/status/1058719112589799426/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1108,
+            "h": 1478,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058719104478011392,
+        "id_str": "1058719104478011392",
+        "indices": [
+          9,
+          32
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFTaotU4AAVgXT.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFTaotU4AAVgXT.jpg",
+        "url": "https://t.co/yLCtK2I2BC",
+        "display_url": "pic.twitter.com/yLCtK2I2BC",
+        "expanded_url": "https://twitter.com/matakichitan/status/1058719112589799426/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1108,
+            "h": 1478,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253281148"
+}

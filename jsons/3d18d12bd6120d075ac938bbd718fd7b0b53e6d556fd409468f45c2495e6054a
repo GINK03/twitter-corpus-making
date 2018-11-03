@@ -1,0 +1,342 @@
+{
+  "created_at": "Sat Nov 03 14:15:33 +0000 2018",
+  "id": 1058724365993299968,
+  "id_str": "1058724365993299968",
+  "text": "RT @konnyak86392863: あさぱいつづみちゃん！ﾆﾌﾟﾚｽはやってるみたいなので\n#すずきつづみ https://t.co/VZVLfHWtb1",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 906503758120497152,
+    "id_str": "906503758120497152",
+    "name": "裏ルアルイエ暴菓子",
+    "screen_name": "UcLEbByz9ewuJkt",
+    "location": null,
+    "url": null,
+    "description": "イメージするのは常に最高のボイスロイド   きりたんに叱ってほしい",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 93,
+    "friends_count": 598,
+    "listed_count": 0,
+    "favourites_count": 31525,
+    "statuses_count": 23603,
+    "created_at": "Sat Sep 09 13:05:12 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Oct 25 01:03:27 +0000 2018",
+    "id": 1055263537474428929,
+    "id_str": "1055263537474428929",
+    "text": "あさぱいつづみちゃん！ﾆﾌﾟﾚｽはやってるみたいなので\n#すずきつづみ https://t.co/VZVLfHWtb1",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1025398292341915648,
+      "id_str": "1025398292341915648",
+      "name": "konnyaku",
+      "screen_name": "konnyak86392863",
+      "location": "ちゅうごくちほー",
+      "url": null,
+      "description": "イラストとか描いてます。バイク(KTM-DUKE390)も乗ります。 pixiv:https://www.pixiv.net/member.php?id=1391461 nikoniko:http://www.nicovideo.jp/user/17752833",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 22569,
+      "friends_count": 185,
+      "listed_count": 429,
+      "favourites_count": 1498,
+      "statuses_count": 1608,
+      "created_at": "Fri Aug 03 15:09:38 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1025398798112055296/xwsgP80n_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025398798112055296/xwsgP80n_normal.jpg",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 16,
+    "retweet_count": 626,
+    "favorite_count": 2475,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "すずきつづみ",
+          "indices": [
+            28,
+            35
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1055263198390116352,
+          "id_str": "1055263198390116352",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqUMSbSV4AA5bV-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqUMSbSV4AA5bV-.jpg",
+          "url": "https://t.co/VZVLfHWtb1",
+          "display_url": "pic.twitter.com/VZVLfHWtb1",
+          "expanded_url": "https://twitter.com/konnyak86392863/status/1055263537474428929/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 900,
+              "h": 1257,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 859,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 487,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1055263198390116352,
+          "id_str": "1055263198390116352",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqUMSbSV4AA5bV-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqUMSbSV4AA5bV-.jpg",
+          "url": "https://t.co/VZVLfHWtb1",
+          "display_url": "pic.twitter.com/VZVLfHWtb1",
+          "expanded_url": "https://twitter.com/konnyak86392863/status/1055263537474428929/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 900,
+              "h": 1257,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 859,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 487,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "すずきつづみ",
+        "indices": [
+          49,
+          56
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "konnyak86392863",
+        "name": "konnyaku",
+        "id": 1025398292341915648,
+        "id_str": "1025398292341915648",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1055263198390116352,
+        "id_str": "1055263198390116352",
+        "indices": [
+          57,
+          80
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqUMSbSV4AA5bV-.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqUMSbSV4AA5bV-.jpg",
+        "url": "https://t.co/VZVLfHWtb1",
+        "display_url": "pic.twitter.com/VZVLfHWtb1",
+        "expanded_url": "https://twitter.com/konnyak86392863/status/1055263537474428929/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 900,
+            "h": 1257,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 859,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 487,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1055263537474428929,
+        "source_status_id_str": "1055263537474428929",
+        "source_user_id": 1025398292341915648,
+        "source_user_id_str": "1025398292341915648"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1055263198390116352,
+        "id_str": "1055263198390116352",
+        "indices": [
+          57,
+          80
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqUMSbSV4AA5bV-.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqUMSbSV4AA5bV-.jpg",
+        "url": "https://t.co/VZVLfHWtb1",
+        "display_url": "pic.twitter.com/VZVLfHWtb1",
+        "expanded_url": "https://twitter.com/konnyak86392863/status/1055263537474428929/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 900,
+            "h": 1257,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 859,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 487,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1055263537474428929,
+        "source_status_id_str": "1055263537474428929",
+        "source_user_id": 1025398292341915648,
+        "source_user_id_str": "1025398292341915648"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254533657"
+}

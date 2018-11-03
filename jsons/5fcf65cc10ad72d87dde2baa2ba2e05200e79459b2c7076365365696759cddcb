@@ -1,0 +1,407 @@
+{
+  "created_at": "Sat Nov 03 14:25:40 +0000 2018",
+  "id": 1058726911935897600,
+  "id_str": "1058726911935897600",
+  "text": "RT @Fukadanbou37: @MoriMorrix グルメレースVer https://t.co/vPnKrBN8s0",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 938345576,
+    "id_str": "938345576",
+    "name": "🦌🦌鹿丸🦌🦌",
+    "screen_name": "ena0422",
+    "location": null,
+    "url": "https://www.pixiv.net/member.php?id=4950639",
+    "description": "ショタコン娘です。 まんばくんを産み育てたいだけの人生。地雷無しTL会話多め。下ネタは息をするように話す。まんばくんは総受けでも攻めでも美味しいよねまんばくん。刀さにとくりんば。絵も文もかくよ。成人済",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 566,
+    "friends_count": 457,
+    "listed_count": 17,
+    "favourites_count": 42620,
+    "statuses_count": 107201,
+    "created_at": "Sat Nov 10 04:10:24 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1046308164503625729/G5w3WTAy_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046308164503625729/G5w3WTAy_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/938345576/1498646409",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 09:40:12 +0000 2018",
+    "id": 1058655071154524161,
+    "id_str": "1058655071154524161",
+    "text": "@MoriMorrix グルメレースVer https://t.co/vPnKrBN8s0",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1058516362434306049,
+    "in_reply_to_status_id_str": "1058516362434306049",
+    "in_reply_to_user_id": 572387767,
+    "in_reply_to_user_id_str": "572387767",
+    "in_reply_to_screen_name": "MoriMorrix",
+    "user": {
+      "id": 800951420350406656,
+      "id_str": "800951420350406656",
+      "name": "ふか🦔",
+      "screen_name": "Fukadanbou37",
+      "location": null,
+      "url": null,
+      "description": "たまによく分からない動画上げてます。よければフォローお願いします！#BO4 #BO3 #BF1 #太鼓の達人",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 570,
+      "friends_count": 428,
+      "listed_count": 0,
+      "favourites_count": 914,
+      "statuses_count": 340,
+      "created_at": "Tue Nov 22 06:37:54 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1058720083088818176/fi0gcvOQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058720083088818176/fi0gcvOQ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/800951420350406656/1540892105",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 2,
+    "reply_count": 2,
+    "retweet_count": 479,
+    "favorite_count": 1208,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "MoriMorrix",
+          "name": "もりもり",
+          "id": 572387767,
+          "id_str": "572387767",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058655017668771840,
+          "id_str": "1058655017668771840",
+          "indices": [
+            22,
+            45
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058655017668771840/pu/img/wqVmobsNy0EGOyh4.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058655017668771840/pu/img/wqVmobsNy0EGOyh4.jpg",
+          "url": "https://t.co/vPnKrBN8s0",
+          "display_url": "pic.twitter.com/vPnKrBN8s0",
+          "expanded_url": "https://twitter.com/Fukadanbou37/status/1058655071154524161/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058655017668771840,
+          "id_str": "1058655017668771840",
+          "indices": [
+            22,
+            45
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058655017668771840/pu/img/wqVmobsNy0EGOyh4.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058655017668771840/pu/img/wqVmobsNy0EGOyh4.jpg",
+          "url": "https://t.co/vPnKrBN8s0",
+          "display_url": "pic.twitter.com/vPnKrBN8s0",
+          "expanded_url": "https://twitter.com/Fukadanbou37/status/1058655071154524161/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 24752,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058655017668771840/pu/vid/640x360/nQHu8SQx1GBbqRmO.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058655017668771840/pu/pl/5SevBiz_Zj7fINHB.m3u8?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058655017668771840/pu/vid/320x180/hBw1ErpujF8Pve9R.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Fukadanbou37",
+        "name": "ふか🦔",
+        "id": 800951420350406656,
+        "id_str": "800951420350406656",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "MoriMorrix",
+        "name": "もりもり",
+        "id": 572387767,
+        "id_str": "572387767",
+        "indices": [
+          18,
+          29
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058655017668771840,
+        "id_str": "1058655017668771840",
+        "indices": [
+          40,
+          63
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058655017668771840/pu/img/wqVmobsNy0EGOyh4.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058655017668771840/pu/img/wqVmobsNy0EGOyh4.jpg",
+        "url": "https://t.co/vPnKrBN8s0",
+        "display_url": "pic.twitter.com/vPnKrBN8s0",
+        "expanded_url": "https://twitter.com/Fukadanbou37/status/1058655071154524161/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058655071154524161,
+        "source_status_id_str": "1058655071154524161",
+        "source_user_id": 800951420350406656,
+        "source_user_id_str": "800951420350406656"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058655017668771840,
+        "id_str": "1058655017668771840",
+        "indices": [
+          40,
+          63
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058655017668771840/pu/img/wqVmobsNy0EGOyh4.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058655017668771840/pu/img/wqVmobsNy0EGOyh4.jpg",
+        "url": "https://t.co/vPnKrBN8s0",
+        "display_url": "pic.twitter.com/vPnKrBN8s0",
+        "expanded_url": "https://twitter.com/Fukadanbou37/status/1058655071154524161/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 24752,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058655017668771840/pu/vid/640x360/nQHu8SQx1GBbqRmO.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058655017668771840/pu/pl/5SevBiz_Zj7fINHB.m3u8?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058655017668771840/pu/vid/320x180/hBw1ErpujF8Pve9R.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 640,
+            "h": 360,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058655071154524161,
+        "source_status_id_str": "1058655071154524161",
+        "source_user_id": 800951420350406656,
+        "source_user_id_str": "800951420350406656"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255140657"
+}

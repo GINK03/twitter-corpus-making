@@ -1,0 +1,174 @@
+{
+  "created_at": "Sat Nov 03 14:18:09 +0000 2018",
+  "id": 1058725020325703680,
+  "id_str": "1058725020325703680",
+  "text": "「時を超えて紡がれる、真の愛憎劇。」女の、女による、女のための戦略ドロドロ物語が今始まるー　#謀りの姫 https://t.co/CXMAaLCzfI https://t.co/AHOIarY67d",
+  "display_text_range": [
+    0,
+    75
+  ],
+  "source": "<a href=\"http://xfz.wishgame.net/\" rel=\"nofollow\">謀りの姫</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1023211258693083136,
+    "id_str": "1023211258693083136",
+    "name": "show.show",
+    "screen_name": "showsho28423976",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 0,
+    "friends_count": 1,
+    "listed_count": 0,
+    "favourites_count": 0,
+    "statuses_count": 97,
+    "created_at": "Sat Jul 28 14:19:09 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "謀りの姫",
+        "indices": [
+          46,
+          51
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/CXMAaLCzfI",
+        "expanded_url": "http://tabakari.wishgamer.com",
+        "display_url": "tabakari.wishgamer.com",
+        "indices": [
+          52,
+          75
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058725014835318784,
+        "id_str": "1058725014835318784",
+        "indices": [
+          76,
+          99
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYyqgUUAACbiL.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYyqgUUAACbiL.jpg",
+        "url": "https://t.co/AHOIarY67d",
+        "display_url": "pic.twitter.com/AHOIarY67d",
+        "expanded_url": "https://twitter.com/showsho28423976/status/1058725020325703680/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 960,
+            "h": 640,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 960,
+            "h": 640,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058725014835318784,
+        "id_str": "1058725014835318784",
+        "indices": [
+          76,
+          99
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYyqgUUAACbiL.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYyqgUUAACbiL.jpg",
+        "url": "https://t.co/AHOIarY67d",
+        "display_url": "pic.twitter.com/AHOIarY67d",
+        "expanded_url": "https://twitter.com/showsho28423976/status/1058725020325703680/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 960,
+            "h": 640,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 960,
+            "h": 640,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254689662"
+}

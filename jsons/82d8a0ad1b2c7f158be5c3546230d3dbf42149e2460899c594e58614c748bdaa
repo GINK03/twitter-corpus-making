@@ -1,0 +1,860 @@
+{
+  "created_at": "Sat Nov 03 14:21:22 +0000 2018",
+  "id": 1058725829834731520,
+  "id_str": "1058725829834731520",
+  "text": "RT @chanjin0116: あ、左京さんとこの人\nあんなにアニキアニキ叫んでて、喉大丈夫すか？\n\nきっと、アニキ愛伝わってますよ。 https://t.co/N3JNrJ1uDb",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 990557661123952641,
+    "id_str": "990557661123952641",
+    "name": "もちこ",
+    "screen_name": "ktih_0808",
+    "location": null,
+    "url": null,
+    "description": "2.5垢 / HQ!! / A3! / Footloose",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 3,
+    "friends_count": 105,
+    "listed_count": 0,
+    "favourites_count": 4397,
+    "statuses_count": 1723,
+    "created_at": "Sun Apr 29 11:45:24 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1057560080042717184/9KiaAZYB_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057560080042717184/9KiaAZYB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/990557661123952641/1538449053",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:32:34 +0000 2018",
+    "id": 1058713548166057986,
+    "id_str": "1058713548166057986",
+    "text": "あ、左京さんとこの人\nあんなにアニキアニキ叫んでて、喉大丈夫すか？\n\nきっと、アニキ愛伝わってますよ。 https://t.co/N3JNrJ1uDb",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3141517070,
+      "id_str": "3141517070",
+      "name": "陳内将",
+      "screen_name": "chanjin0116",
+      "location": null,
+      "url": "https://www.watanabepro.co.jp/mypage/10000036/",
+      "description": "ワタナベエンターテインメント。陳内将。舞台『A3 !』皇天馬。〜11/4。『暁のヨナ』スウォン。11/15〜25。「封神演義」黄天化。1/13〜1/20。「文豪とアルケミスト」織田作之助。東京2/21〜2/28。京都3/9.10。ig→https://www.instagram.com/chanjin0116/",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 45305,
+      "friends_count": 266,
+      "listed_count": 1732,
+      "favourites_count": 61,
+      "statuses_count": 3552,
+      "created_at": "Mon Apr 06 08:58:36 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1050266989355196417/4cjuWO0Q_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050266989355196417/4cjuWO0Q_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3141517070/1539239210",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058710579429335041,
+    "quoted_status_id_str": "1058710579429335041",
+    "quoted_status": {
+      "created_at": "Sat Nov 03 13:20:46 +0000 2018",
+      "id": 1058710579429335041,
+      "id_str": "1058710579429335041",
+      "text": "本日もご来場ありがとうございました！！\nあと1日…\nひたすらエネルギー出して、観に来てくれる方、ライブビューイングをご覧の方にアニキへの愛を見せつけたいと思います！！！\n\n皇 天馬さん、もう一回サイン書いてくれて！しかも熱い握手ま… https://t.co/OzhAfkhLKs",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 764766957451161600,
+        "id_str": "764766957451161600",
+        "name": "田内季宇(とっきー)",
+        "screen_name": "toki_hiro8",
+        "location": "ミライプロダクション",
+        "url": "http://s.ameblo.jp/act-honestly/",
+        "description": "俳優/たうちときひろ/RICE on STAGE「ラブ米」黒太閤 役🌾/ MANKAI STAGE『A3!』～SPRING & SUMMER 2018～ 迫田ケン 役 10/26-11/4東京凱旋 /「MEMORY BOYS〜想い出を売る店〜」マーチ役 〜9/26",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 5551,
+        "friends_count": 225,
+        "listed_count": 458,
+        "favourites_count": 2801,
+        "statuses_count": 1656,
+        "created_at": "Sun Aug 14 10:13:46 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1001100397426098177/mlu2Y4dj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001100397426098177/mlu2Y4dj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/764766957451161600/1506183020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "本日もご来場ありがとうございました！！\nあと1日…\nひたすらエネルギー出して、観に来てくれる方、ライブビューイングをご覧の方にアニキへの愛を見せつけたいと思います！！！\n\n皇 天馬さん、もう一回サイン書いてくれて！しかも熱い握手までしてくれたっす！！\nアニキに自慢するっす！\n#エーステ https://t.co/mvzRWM0Myw",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "エーステ",
+              "indices": [
+                138,
+                143
+              ]
+            }
+          ],
+          "urls": [],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1058710565365866496,
+              "id_str": "1058710565365866496",
+              "indices": [
+                144,
+                167
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrFLpmCV4AAK3yw.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrFLpmCV4AAK3yw.jpg",
+              "url": "https://t.co/mvzRWM0Myw",
+              "display_url": "pic.twitter.com/mvzRWM0Myw",
+              "expanded_url": "https://twitter.com/toki_hiro8/status/1058710579429335041/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1058710565353181184,
+              "id_str": "1058710565353181184",
+              "indices": [
+                144,
+                167
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrFLpl_UUAAK2tv.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrFLpl_UUAAK2tv.jpg",
+              "url": "https://t.co/mvzRWM0Myw",
+              "display_url": "pic.twitter.com/mvzRWM0Myw",
+              "expanded_url": "https://twitter.com/toki_hiro8/status/1058710579429335041/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1058710565353250818,
+              "id_str": "1058710565353250818",
+              "indices": [
+                144,
+                167
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrFLpl_VYAIajNd.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrFLpl_VYAIajNd.jpg",
+              "url": "https://t.co/mvzRWM0Myw",
+              "display_url": "pic.twitter.com/mvzRWM0Myw",
+              "expanded_url": "https://twitter.com/toki_hiro8/status/1058710579429335041/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1058710565365866496,
+              "id_str": "1058710565365866496",
+              "indices": [
+                144,
+                167
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrFLpmCV4AAK3yw.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrFLpmCV4AAK3yw.jpg",
+              "url": "https://t.co/mvzRWM0Myw",
+              "display_url": "pic.twitter.com/mvzRWM0Myw",
+              "expanded_url": "https://twitter.com/toki_hiro8/status/1058710579429335041/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1058710565353181184,
+              "id_str": "1058710565353181184",
+              "indices": [
+                144,
+                167
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrFLpl_UUAAK2tv.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrFLpl_UUAAK2tv.jpg",
+              "url": "https://t.co/mvzRWM0Myw",
+              "display_url": "pic.twitter.com/mvzRWM0Myw",
+              "expanded_url": "https://twitter.com/toki_hiro8/status/1058710579429335041/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1058710565353250818,
+              "id_str": "1058710565353250818",
+              "indices": [
+                144,
+                167
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrFLpl_VYAIajNd.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrFLpl_VYAIajNd.jpg",
+              "url": "https://t.co/mvzRWM0Myw",
+              "display_url": "pic.twitter.com/mvzRWM0Myw",
+              "expanded_url": "https://twitter.com/toki_hiro8/status/1058710579429335041/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 5,
+      "reply_count": 4,
+      "retweet_count": 197,
+      "favorite_count": 707,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/OzhAfkhLKs",
+            "expanded_url": "https://twitter.com/i/web/status/1058710579429335041",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/N3JNrJ1uDb",
+      "expanded": "https://twitter.com/toki_hiro8/status/1058710579429335041",
+      "display": "twitter.com/toki_hiro8/sta…"
+    },
+    "is_quote_status": true,
+    "quote_count": 2,
+    "reply_count": 2,
+    "retweet_count": 123,
+    "favorite_count": 601,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/N3JNrJ1uDb",
+          "expanded_url": "https://twitter.com/toki_hiro8/status/1058710579429335041",
+          "display_url": "twitter.com/toki_hiro8/sta…",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058710579429335041,
+  "quoted_status_id_str": "1058710579429335041",
+  "quoted_status": {
+    "created_at": "Sat Nov 03 13:20:46 +0000 2018",
+    "id": 1058710579429335041,
+    "id_str": "1058710579429335041",
+    "text": "本日もご来場ありがとうございました！！\nあと1日…\nひたすらエネルギー出して、観に来てくれる方、ライブビューイングをご覧の方にアニキへの愛を見せつけたいと思います！！！\n\n皇 天馬さん、もう一回サイン書いてくれて！しかも熱い握手ま… https://t.co/OzhAfkhLKs",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 764766957451161600,
+      "id_str": "764766957451161600",
+      "name": "田内季宇(とっきー)",
+      "screen_name": "toki_hiro8",
+      "location": "ミライプロダクション",
+      "url": "http://s.ameblo.jp/act-honestly/",
+      "description": "俳優/たうちときひろ/RICE on STAGE「ラブ米」黒太閤 役🌾/ MANKAI STAGE『A3!』～SPRING & SUMMER 2018～ 迫田ケン 役 10/26-11/4東京凱旋 /「MEMORY BOYS〜想い出を売る店〜」マーチ役 〜9/26",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 5551,
+      "friends_count": 225,
+      "listed_count": 458,
+      "favourites_count": 2801,
+      "statuses_count": 1656,
+      "created_at": "Sun Aug 14 10:13:46 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1001100397426098177/mlu2Y4dj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001100397426098177/mlu2Y4dj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/764766957451161600/1506183020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "本日もご来場ありがとうございました！！\nあと1日…\nひたすらエネルギー出して、観に来てくれる方、ライブビューイングをご覧の方にアニキへの愛を見せつけたいと思います！！！\n\n皇 天馬さん、もう一回サイン書いてくれて！しかも熱い握手までしてくれたっす！！\nアニキに自慢するっす！\n#エーステ https://t.co/mvzRWM0Myw",
+      "display_text_range": [
+        0,
+        143
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "エーステ",
+            "indices": [
+              138,
+              143
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058710565365866496,
+            "id_str": "1058710565365866496",
+            "indices": [
+              144,
+              167
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFLpmCV4AAK3yw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFLpmCV4AAK3yw.jpg",
+            "url": "https://t.co/mvzRWM0Myw",
+            "display_url": "pic.twitter.com/mvzRWM0Myw",
+            "expanded_url": "https://twitter.com/toki_hiro8/status/1058710579429335041/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058710565353181184,
+            "id_str": "1058710565353181184",
+            "indices": [
+              144,
+              167
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFLpl_UUAAK2tv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFLpl_UUAAK2tv.jpg",
+            "url": "https://t.co/mvzRWM0Myw",
+            "display_url": "pic.twitter.com/mvzRWM0Myw",
+            "expanded_url": "https://twitter.com/toki_hiro8/status/1058710579429335041/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058710565353250818,
+            "id_str": "1058710565353250818",
+            "indices": [
+              144,
+              167
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFLpl_VYAIajNd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFLpl_VYAIajNd.jpg",
+            "url": "https://t.co/mvzRWM0Myw",
+            "display_url": "pic.twitter.com/mvzRWM0Myw",
+            "expanded_url": "https://twitter.com/toki_hiro8/status/1058710579429335041/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058710565365866496,
+            "id_str": "1058710565365866496",
+            "indices": [
+              144,
+              167
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFLpmCV4AAK3yw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFLpmCV4AAK3yw.jpg",
+            "url": "https://t.co/mvzRWM0Myw",
+            "display_url": "pic.twitter.com/mvzRWM0Myw",
+            "expanded_url": "https://twitter.com/toki_hiro8/status/1058710579429335041/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058710565353181184,
+            "id_str": "1058710565353181184",
+            "indices": [
+              144,
+              167
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFLpl_UUAAK2tv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFLpl_UUAAK2tv.jpg",
+            "url": "https://t.co/mvzRWM0Myw",
+            "display_url": "pic.twitter.com/mvzRWM0Myw",
+            "expanded_url": "https://twitter.com/toki_hiro8/status/1058710579429335041/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058710565353250818,
+            "id_str": "1058710565353250818",
+            "indices": [
+              144,
+              167
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFLpl_VYAIajNd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFLpl_VYAIajNd.jpg",
+            "url": "https://t.co/mvzRWM0Myw",
+            "display_url": "pic.twitter.com/mvzRWM0Myw",
+            "expanded_url": "https://twitter.com/toki_hiro8/status/1058710579429335041/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 5,
+    "reply_count": 4,
+    "retweet_count": 197,
+    "favorite_count": 707,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/OzhAfkhLKs",
+          "expanded_url": "https://twitter.com/i/web/status/1058710579429335041",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/N3JNrJ1uDb",
+    "expanded": "https://twitter.com/toki_hiro8/status/1058710579429335041",
+    "display": "twitter.com/toki_hiro8/sta…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/N3JNrJ1uDb",
+        "expanded_url": "https://twitter.com/toki_hiro8/status/1058710579429335041",
+        "display_url": "twitter.com/toki_hiro8/sta…",
+        "indices": [
+          69,
+          92
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chanjin0116",
+        "name": "陳内将",
+        "id": 3141517070,
+        "id_str": "3141517070",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254882664"
+}

@@ -1,0 +1,390 @@
+{
+  "created_at": "Sat Nov 03 14:08:06 +0000 2018",
+  "id": 1058722490686431232,
+  "id_str": "1058722490686431232",
+  "text": "RT @kon_kato: #秋刀魚祭り 、作戦開始しますっ！\n\n#艦これ https://t.co/oSdPGalhfy",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 265136872,
+    "id_str": "265136872",
+    "name": "homa2＠おじさんモデラー",
+    "screen_name": "homaotoko",
+    "location": null,
+    "url": "http://blog.livedoor.jp/homa2/",
+    "description": "美少女フィギュアからロボットまで気に入ったものはなんでも作るオの字です。嫁はアルトリアと榛名。そしておっぱい星人。ドールをお迎えして楽しいドールライフを満喫中。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1405,
+    "friends_count": 267,
+    "listed_count": 52,
+    "favourites_count": 44550,
+    "statuses_count": 228993,
+    "created_at": "Sun Mar 13 02:36:12 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1042682123264524289/UNOGfVu9_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042682123264524289/UNOGfVu9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/265136872/1522726736",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:06:14 +0000 2018",
+    "id": 1058722019431206912,
+    "id_str": "1058722019431206912",
+    "text": "#秋刀魚祭り 、作戦開始しますっ！\n\n#艦これ https://t.co/oSdPGalhfy",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 541632610,
+      "id_str": "541632610",
+      "name": "SSSS.うーぱぱ歌頭坤@日ピ05b",
+      "screen_name": "kon_kato",
+      "location": "Selenium北関東支部",
+      "url": "http://ameblo.jp/kon-kato/",
+      "description": "僕は物書き（Lv26）で、ねんどろ使い(Lv29)で、ボカロP（Lv5）で、ドールオーナー（Lv22）で、ミニ四レーサー（Lv39）だ！・・・貴様、終わっているようだなw ＞＞＞ねんどろ写真集みくのおでかけ展開中、ミニ四駆小説エアーズ第3期準備中。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1161,
+      "friends_count": 745,
+      "listed_count": 60,
+      "favourites_count": 83187,
+      "statuses_count": 41681,
+      "created_at": "Sat Mar 31 12:55:44 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/975714122493865984/nU0HlHoI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/975714122493865984/nU0HlHoI_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/541632610/1539964789",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "28b9063fdce43645",
+      "url": "https://api.twitter.com/1.1/geo/id/28b9063fdce43645.json",
+      "place_type": "city",
+      "name": "千代田区",
+      "full_name": "東京 千代田区",
+      "country_code": "JP",
+      "country": "日本",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.729893,
+              35.668551
+            ],
+            [
+              139.729893,
+              35.705218
+            ],
+            [
+              139.782836,
+              35.705218
+            ],
+            [
+              139.782836,
+              35.668551
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "秋刀魚祭り",
+          "indices": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "艦これ",
+          "indices": [
+            19,
+            23
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058722006483427328,
+          "id_str": "1058722006483427328",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFWDjhVYAAUJfM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFWDjhVYAAUJfM.jpg",
+          "url": "https://t.co/oSdPGalhfy",
+          "display_url": "pic.twitter.com/oSdPGalhfy",
+          "expanded_url": "https://twitter.com/kon_kato/status/1058722019431206912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1358,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 451,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 796,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058722006483427328,
+          "id_str": "1058722006483427328",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFWDjhVYAAUJfM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFWDjhVYAAUJfM.jpg",
+          "url": "https://t.co/oSdPGalhfy",
+          "display_url": "pic.twitter.com/oSdPGalhfy",
+          "expanded_url": "https://twitter.com/kon_kato/status/1058722019431206912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1358,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 451,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 796,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "秋刀魚祭り",
+        "indices": [
+          14,
+          20
+        ]
+      },
+      {
+        "text": "艦これ",
+        "indices": [
+          33,
+          37
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "kon_kato",
+        "name": "SSSS.うーぱぱ歌頭坤@日ピ05b",
+        "id": 541632610,
+        "id_str": "541632610",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058722006483427328,
+        "id_str": "1058722006483427328",
+        "indices": [
+          38,
+          61
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWDjhVYAAUJfM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWDjhVYAAUJfM.jpg",
+        "url": "https://t.co/oSdPGalhfy",
+        "display_url": "pic.twitter.com/oSdPGalhfy",
+        "expanded_url": "https://twitter.com/kon_kato/status/1058722019431206912/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1358,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 451,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 796,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058722019431206912,
+        "source_status_id_str": "1058722019431206912",
+        "source_user_id": 541632610,
+        "source_user_id_str": "541632610"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058722006483427328,
+        "id_str": "1058722006483427328",
+        "indices": [
+          38,
+          61
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFWDjhVYAAUJfM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFWDjhVYAAUJfM.jpg",
+        "url": "https://t.co/oSdPGalhfy",
+        "display_url": "pic.twitter.com/oSdPGalhfy",
+        "expanded_url": "https://twitter.com/kon_kato/status/1058722019431206912/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1358,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 451,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 796,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058722019431206912,
+        "source_status_id_str": "1058722019431206912",
+        "source_user_id": 541632610,
+        "source_user_id_str": "541632610"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254086549"
+}

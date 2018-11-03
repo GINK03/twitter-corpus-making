@@ -1,0 +1,143 @@
+{
+  "created_at": "Sat Nov 03 14:13:46 +0000 2018",
+  "id": 1058723917219561474,
+  "id_str": "1058723917219561474",
+  "text": "@okitahadoes @yrzygintokiiii そーちゃん！\nまぁ。こんなに一味唐辛子を持って来てくれてありがとう。これで坂田さんが助かるわ。\nさっ、坂田さん早くこれを飲んでください。\n（大量に一味唐辛子が入った水を渡し… https://t.co/2e2BwfZHXo",
+  "display_text_range": [
+    29,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": true,
+  "in_reply_to_status_id": 1058721102027874305,
+  "in_reply_to_status_id_str": "1058721102027874305",
+  "in_reply_to_user_id": 1043434706660818944,
+  "in_reply_to_user_id_str": "1043434706660818944",
+  "in_reply_to_screen_name": "okitahadoes",
+  "user": {
+    "id": 1056378350510333952,
+    "id_str": "1056378350510333952",
+    "name": "沖田ミツバ",
+    "screen_name": "o__mitsuba",
+    "location": "江戸",
+    "url": null,
+    "description": "そーちゃんに勧められて始めてみました。楽しいお話しができたら嬉しいです。宜しくお願いします。\n【仕様書】❁非公式❁縁繋ぎは何方でも❁基本相互❁無言はスルー❁背後模索✕❁お別れはご自由に❁お部屋常時開放❁縁は大切にしたいと思っております❁ですが、相性が合わないと感じたら離れます",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 34,
+    "friends_count": 33,
+    "listed_count": 0,
+    "favourites_count": 305,
+    "statuses_count": 417,
+    "created_at": "Sun Oct 28 02:53:20 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056382038419300352/l6W5AaJZ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056382038419300352/l6W5AaJZ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056378350510333952/1540696662",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "@okitahadoes @yrzygintokiiii そーちゃん！\nまぁ。こんなに一味唐辛子を持って来てくれてありがとう。これで坂田さんが助かるわ。\nさっ、坂田さん早くこれを飲んでください。\n（大量に一味唐辛子が入った水を渡し）\n自分で飲むのが大変でしたら、そーちゃんが優しく飲ませてくれますよ？（微笑み）",
+    "display_text_range": [
+      29,
+      155
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "okitahadoes",
+          "name": "沖田総悟",
+          "id": 1043434706660818944,
+          "id_str": "1043434706660818944",
+          "indices": [
+            0,
+            12
+          ]
+        },
+        {
+          "screen_name": "yrzygintokiiii",
+          "name": "銀 時",
+          "id": 927411911792082946,
+          "id_str": "927411911792082946",
+          "indices": [
+            13,
+            28
+          ]
+        }
+      ],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/2e2BwfZHXo",
+        "expanded_url": "https://twitter.com/i/web/status/1058723917219561474",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "okitahadoes",
+        "name": "沖田総悟",
+        "id": 1043434706660818944,
+        "id_str": "1043434706660818944",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "yrzygintokiiii",
+        "name": "銀 時",
+        "id": 927411911792082946,
+        "id_str": "927411911792082946",
+        "indices": [
+          13,
+          28
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254426661"
+}

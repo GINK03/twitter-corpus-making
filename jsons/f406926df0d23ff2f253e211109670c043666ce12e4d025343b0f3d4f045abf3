@@ -1,0 +1,201 @@
+{
+  "created_at": "Sat Nov 03 13:55:34 +0000 2018",
+  "id": 1058719336846651392,
+  "id_str": "1058719336846651392",
+  "text": "裏闘技25回目勝利\nベオークは久しぶりに見た\n次は誰で裏闘技行こかな\n#パズドラ https://t.co/NyiPq5Spwv",
+  "display_text_range": [
+    0,
+    40
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 880907584680583168,
+    "id_str": "880907584680583168",
+    "name": "てんぱろう@のぶたす大好き",
+    "screen_name": "nisnis1029",
+    "location": null,
+    "url": null,
+    "description": "18 銀魂とゲームが全て バンドリーマーと繋がりたい お気軽にフォローお願いします バンドリーマーさん 銀魂好きの方 フォロー返します DM大丈夫です フォロバよろしく〜 りさねぇ星四欲しすぎる",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 4863,
+    "friends_count": 4628,
+    "listed_count": 27,
+    "favourites_count": 12967,
+    "statuses_count": 5509,
+    "created_at": "Fri Jun 30 21:55:09 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/959294322230181888/WZUrjUrX_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/959294322230181888/WZUrjUrX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/880907584680583168/1526297246",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラ",
+        "indices": [
+          35,
+          40
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058719326675423232,
+        "id_str": "1058719326675423232",
+        "indices": [
+          41,
+          64
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFTnkdUUAAgUvg.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFTnkdUUAAgUvg.jpg",
+        "url": "https://t.co/NyiPq5Spwv",
+        "display_url": "pic.twitter.com/NyiPq5Spwv",
+        "expanded_url": "https://twitter.com/nisnis1029/status/1058719336846651392/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 1135,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 1135,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058719326675423232,
+        "id_str": "1058719326675423232",
+        "indices": [
+          41,
+          64
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFTnkdUUAAgUvg.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFTnkdUUAAgUvg.jpg",
+        "url": "https://t.co/NyiPq5Spwv",
+        "display_url": "pic.twitter.com/NyiPq5Spwv",
+        "expanded_url": "https://twitter.com/nisnis1029/status/1058719336846651392/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 1135,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 1135,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058719326683844608,
+        "id_str": "1058719326683844608",
+        "indices": [
+          41,
+          64
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFTnkfU0AAebU-.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFTnkfU0AAebU-.jpg",
+        "url": "https://t.co/NyiPq5Spwv",
+        "display_url": "pic.twitter.com/NyiPq5Spwv",
+        "expanded_url": "https://twitter.com/nisnis1029/status/1058719336846651392/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 640,
+            "h": 1136,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 1136,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253334615"
+}

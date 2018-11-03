@@ -1,0 +1,358 @@
+{
+  "created_at": "Sat Nov 03 13:53:27 +0000 2018",
+  "id": 1058718802618155009,
+  "id_str": "1058718802618155009",
+  "text": "RT @misumi01: 覚醒したいナガットマン「私と君達は覚醒しなければならない！」\n#艦これ\n#SSSS_GRIDMAN https://t.co/J4DyAoV1h4",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2741578153,
+    "id_str": "2741578153",
+    "name": "まめ◯△",
+    "screen_name": "LUMEN122",
+    "location": "乳成分３％乳圧１０トン",
+    "url": null,
+    "description": "ほぼＲＴしかしません。\n絵は見る専です。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 85,
+    "friends_count": 173,
+    "listed_count": 2,
+    "favourites_count": 11746,
+    "statuses_count": 6067,
+    "created_at": "Mon Aug 18 07:11:35 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "91D2FA",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1016803767394549761/dCgaLBcF_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1016803767394549761/dCgaLBcF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2741578153/1536966342",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 23:24:51 +0000 2018",
+    "id": 1058500211310440449,
+    "id_str": "1058500211310440449",
+    "text": "覚醒したいナガットマン「私と君達は覚醒しなければならない！」\n#艦これ\n#SSSS_GRIDMAN https://t.co/J4DyAoV1h4",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3171277159,
+      "id_str": "3171277159",
+      "name": "みすみ",
+      "screen_name": "misumi01",
+      "location": "サイレントヒル県",
+      "url": "http://pixiv.me/niku-kyu",
+      "description": "絵かいてます。\nニコ生 http://com.nicovideo.jp/community/co2811637\n支援\nhttps://enty.jp/misumi    又は       https://www.pixiv.net/fanbox/creator/453221",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 6801,
+      "friends_count": 615,
+      "listed_count": 116,
+      "favourites_count": 2862,
+      "statuses_count": 1243,
+      "created_at": "Fri Apr 24 20:21:48 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/591701173159112705/TUPIBgE7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/591701173159112705/TUPIBgE7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3171277159/1487004503",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 1,
+    "reply_count": 7,
+    "retweet_count": 158,
+    "favorite_count": 354,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "艦これ",
+          "indices": [
+            31,
+            35
+          ]
+        },
+        {
+          "text": "SSSS_GRIDMAN",
+          "indices": [
+            36,
+            49
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058500170776633344,
+          "id_str": "1058500170776633344",
+          "indices": [
+            50,
+            73
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrCMTBHU4AAlQkk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrCMTBHU4AAlQkk.jpg",
+          "url": "https://t.co/J4DyAoV1h4",
+          "display_url": "pic.twitter.com/J4DyAoV1h4",
+          "expanded_url": "https://twitter.com/misumi01/status/1058500211310440449/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 467,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1500,
+              "h": 1031,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 825,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058500170776633344,
+          "id_str": "1058500170776633344",
+          "indices": [
+            50,
+            73
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrCMTBHU4AAlQkk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrCMTBHU4AAlQkk.jpg",
+          "url": "https://t.co/J4DyAoV1h4",
+          "display_url": "pic.twitter.com/J4DyAoV1h4",
+          "expanded_url": "https://twitter.com/misumi01/status/1058500211310440449/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 467,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1500,
+              "h": 1031,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 825,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ",
+        "indices": [
+          45,
+          49
+        ]
+      },
+      {
+        "text": "SSSS_GRIDMAN",
+        "indices": [
+          50,
+          63
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "misumi01",
+        "name": "みすみ",
+        "id": 3171277159,
+        "id_str": "3171277159",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058500170776633344,
+        "id_str": "1058500170776633344",
+        "indices": [
+          64,
+          87
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrCMTBHU4AAlQkk.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrCMTBHU4AAlQkk.jpg",
+        "url": "https://t.co/J4DyAoV1h4",
+        "display_url": "pic.twitter.com/J4DyAoV1h4",
+        "expanded_url": "https://twitter.com/misumi01/status/1058500211310440449/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 467,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1500,
+            "h": 1031,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 825,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058500211310440449,
+        "source_status_id_str": "1058500211310440449",
+        "source_user_id": 3171277159,
+        "source_user_id_str": "3171277159"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058500170776633344,
+        "id_str": "1058500170776633344",
+        "indices": [
+          64,
+          87
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrCMTBHU4AAlQkk.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrCMTBHU4AAlQkk.jpg",
+        "url": "https://t.co/J4DyAoV1h4",
+        "display_url": "pic.twitter.com/J4DyAoV1h4",
+        "expanded_url": "https://twitter.com/misumi01/status/1058500211310440449/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 467,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1500,
+            "h": 1031,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 825,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058500211310440449,
+        "source_status_id_str": "1058500211310440449",
+        "source_user_id": 3171277159,
+        "source_user_id_str": "3171277159"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253207245"
+}

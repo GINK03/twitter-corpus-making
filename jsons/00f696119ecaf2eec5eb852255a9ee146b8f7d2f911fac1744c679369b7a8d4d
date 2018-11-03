@@ -1,0 +1,577 @@
+{
+  "created_at": "Sat Nov 03 14:18:43 +0000 2018",
+  "id": 1058725162936295424,
+  "id_str": "1058725162936295424",
+  "text": "RT @sakatandao: 智久これはあかん。。 https://t.co/7DosdPIUga",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2515603802,
+    "id_str": "2515603802",
+    "name": "麻袴",
+    "screen_name": "shimagunimako",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 13,
+    "friends_count": 67,
+    "listed_count": 0,
+    "favourites_count": 1589,
+    "statuses_count": 4728,
+    "created_at": "Thu May 22 14:46:23 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/856714388828332032/KjdWR4nF_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/856714388828332032/KjdWR4nF_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 12:21:28 +0000 2018",
+    "id": 1058695655143563265,
+    "id_str": "1058695655143563265",
+    "text": "智久これはあかん。。 https://t.co/7DosdPIUga",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 108223197,
+      "id_str": "108223197",
+      "name": "となりの坂田。@浦島坂田船",
+      "screen_name": "sakatandao",
+      "location": null,
+      "url": "http://com.nicovideo.jp/community/co15480",
+      "description": "あほの坂田。となりの坂田。という二つの名前でネット中心に色々やってます。ラインでも色々お知らせしてるよ検索してみて(@ lgz4390q)youtubeもやってるので気軽に登録してね！👉《https://m.youtube.com/channel/UCvOX0NWMvYrgSV15vuxV4Pg》",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 677037,
+      "friends_count": 1124,
+      "listed_count": 9460,
+      "favourites_count": 4083,
+      "statuses_count": 2785,
+      "created_at": "Mon Jan 25 07:18:05 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "C1C9EB",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1058599562837807104/6LTpeyJc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058599562837807104/6LTpeyJc_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/108223197/1509193568",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058695337450201088,
+    "quoted_status_id_str": "1058695337450201088",
+    "quoted_status": {
+      "created_at": "Sat Nov 03 12:20:12 +0000 2018",
+      "id": 1058695337450201088,
+      "id_str": "1058695337450201088",
+      "text": "やばい！！！！\nこれはみんなには内緒にしてくれ… https://t.co/BOTzTA1jlc",
+      "display_text_range": [
+        0,
+        24
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 523136880,
+        "id_str": "523136880",
+        "name": "佐香智久（少年T）",
+        "screen_name": "syounen_t_sako",
+        "location": "いえにいたい",
+        "url": "http://www.sakotomohisa.com",
+        "description": "Tくんと呼ばれています。曲作って歌います。駆け出した声優。18歳でした。特技は液晶保護フィルムを貼ること。「君と僕。」「絶園のテンペスト」「抱かれたい男１位に脅されています。」「夏目友人帳」「ポケットモンスター」 「メガネブ!」",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "followers_count": 295211,
+        "friends_count": 678,
+        "listed_count": 3999,
+        "favourites_count": 213,
+        "statuses_count": 21131,
+        "created_at": "Tue Mar 13 11:10:54 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/962635869856268290/I_VgNrVf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/962635869856268290/I_VgNrVf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/523136880/1518345493",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 34,
+      "reply_count": 342,
+      "retweet_count": 5599,
+      "favorite_count": 23209,
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058695266016980993,
+            "id_str": "1058695266016980993",
+            "indices": [
+              25,
+              48
+            ],
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058695266016980993/pu/img/lyVa9vY_iQscH2Qt.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058695266016980993/pu/img/lyVa9vY_iQscH2Qt.jpg",
+            "url": "https://t.co/BOTzTA1jlc",
+            "display_url": "pic.twitter.com/BOTzTA1jlc",
+            "expanded_url": "https://twitter.com/syounen_t_sako/status/1058695337450201088/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058695266016980993,
+            "id_str": "1058695266016980993",
+            "indices": [
+              25,
+              48
+            ],
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058695266016980993/pu/img/lyVa9vY_iQscH2Qt.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058695266016980993/pu/img/lyVa9vY_iQscH2Qt.jpg",
+            "url": "https://t.co/BOTzTA1jlc",
+            "display_url": "pic.twitter.com/BOTzTA1jlc",
+            "expanded_url": "https://twitter.com/syounen_t_sako/status/1058695337450201088/video/1",
+            "type": "video",
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 19702,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1058695266016980993/pu/vid/360x640/nSgk8ti8iWW36VVQ.mp4?tag=5"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1058695266016980993/pu/vid/720x1280/5XsPl9cDtoaR8b9k.mp4?tag=5"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1058695266016980993/pu/pl/e6qTqQ1CZW1uc0rw.m3u8?tag=5"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1058695266016980993/pu/vid/180x320/r69M5p4LiPZfUl6t.mp4?tag=5"
+                }
+              ]
+            },
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/7DosdPIUga",
+      "expanded": "https://twitter.com/syounen_t_sako/status/1058695337450201088",
+      "display": "twitter.com/syounen_t_sako…"
+    },
+    "is_quote_status": true,
+    "quote_count": 37,
+    "reply_count": 585,
+    "retweet_count": 3863,
+    "favorite_count": 23716,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/7DosdPIUga",
+          "expanded_url": "https://twitter.com/syounen_t_sako/status/1058695337450201088",
+          "display_url": "twitter.com/syounen_t_sako…",
+          "indices": [
+            11,
+            34
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058695337450201088,
+  "quoted_status_id_str": "1058695337450201088",
+  "quoted_status": {
+    "created_at": "Sat Nov 03 12:20:12 +0000 2018",
+    "id": 1058695337450201088,
+    "id_str": "1058695337450201088",
+    "text": "やばい！！！！\nこれはみんなには内緒にしてくれ… https://t.co/BOTzTA1jlc",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 523136880,
+      "id_str": "523136880",
+      "name": "佐香智久（少年T）",
+      "screen_name": "syounen_t_sako",
+      "location": "いえにいたい",
+      "url": "http://www.sakotomohisa.com",
+      "description": "Tくんと呼ばれています。曲作って歌います。駆け出した声優。18歳でした。特技は液晶保護フィルムを貼ること。「君と僕。」「絶園のテンペスト」「抱かれたい男１位に脅されています。」「夏目友人帳」「ポケットモンスター」 「メガネブ!」",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 295211,
+      "friends_count": 678,
+      "listed_count": 3999,
+      "favourites_count": 213,
+      "statuses_count": 21131,
+      "created_at": "Tue Mar 13 11:10:54 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/962635869856268290/I_VgNrVf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/962635869856268290/I_VgNrVf_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/523136880/1518345493",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 34,
+    "reply_count": 342,
+    "retweet_count": 5599,
+    "favorite_count": 23209,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058695266016980993,
+          "id_str": "1058695266016980993",
+          "indices": [
+            25,
+            48
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058695266016980993/pu/img/lyVa9vY_iQscH2Qt.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058695266016980993/pu/img/lyVa9vY_iQscH2Qt.jpg",
+          "url": "https://t.co/BOTzTA1jlc",
+          "display_url": "pic.twitter.com/BOTzTA1jlc",
+          "expanded_url": "https://twitter.com/syounen_t_sako/status/1058695337450201088/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058695266016980993,
+          "id_str": "1058695266016980993",
+          "indices": [
+            25,
+            48
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058695266016980993/pu/img/lyVa9vY_iQscH2Qt.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058695266016980993/pu/img/lyVa9vY_iQscH2Qt.jpg",
+          "url": "https://t.co/BOTzTA1jlc",
+          "display_url": "pic.twitter.com/BOTzTA1jlc",
+          "expanded_url": "https://twitter.com/syounen_t_sako/status/1058695337450201088/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 19702,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058695266016980993/pu/vid/360x640/nSgk8ti8iWW36VVQ.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058695266016980993/pu/vid/720x1280/5XsPl9cDtoaR8b9k.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058695266016980993/pu/pl/e6qTqQ1CZW1uc0rw.m3u8?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058695266016980993/pu/vid/180x320/r69M5p4LiPZfUl6t.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/7DosdPIUga",
+    "expanded": "https://twitter.com/syounen_t_sako/status/1058695337450201088",
+    "display": "twitter.com/syounen_t_sako…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/7DosdPIUga",
+        "expanded_url": "https://twitter.com/syounen_t_sako/status/1058695337450201088",
+        "display_url": "twitter.com/syounen_t_sako…",
+        "indices": [
+          27,
+          50
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sakatandao",
+        "name": "となりの坂田。@浦島坂田船",
+        "id": 108223197,
+        "id_str": "108223197",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254723663"
+}

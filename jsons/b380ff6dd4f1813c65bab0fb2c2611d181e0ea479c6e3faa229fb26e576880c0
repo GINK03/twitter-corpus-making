@@ -1,0 +1,207 @@
+{
+  "created_at": "Sat Nov 03 14:16:08 +0000 2018",
+  "id": 1058724512827506688,
+  "id_str": "1058724512827506688",
+  "text": "@QI40058688 スロットマシーンで「7」がそろえばプレゼント🎰\n\n7がそろった方には、別途DMにてご連絡します❗️\n（11月中旬～下旬予定）\nくわしくはこちらをご確認ください⬇\nhttps://t.co/f7qh1voQ2a https://t.co/GBHQ01M1l1",
+  "display_text_range": [
+    0,
+    116
+  ],
+  "source": "<a href=\"http://www.aainc.co.jp/\" rel=\"nofollow\">Echoes Act2</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 1038972308633706497,
+  "in_reply_to_user_id_str": "1038972308633706497",
+  "in_reply_to_screen_name": "QI40058688",
+  "user": {
+    "id": 987228577522376704,
+    "id_str": "987228577522376704",
+    "name": "【公式】ポケモン情報局",
+    "screen_name": "poke_times",
+    "location": null,
+    "url": "http://www.pokemon.co.jp/",
+    "description": "ポケモン公式アカウント #ポケモン情報局 。 最新情報や気になるトピックスなど、ポケモンがもっと楽しくなる情報を発信していきます。 \n\n©2018 Pokémon. ©1995-2018 Nintendo/Creatures Inc. /GAME FREAK inc.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": true,
+    "followers_count": 158291,
+    "friends_count": 19,
+    "listed_count": 904,
+    "favourites_count": 115,
+    "statuses_count": 156809,
+    "created_at": "Fri Apr 20 07:16:49 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/988706568362311680/5MiIPs5W_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/988706568362311680/5MiIPs5W_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/987228577522376704/1531458608",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/f7qh1voQ2a",
+        "expanded_url": "https://www.pokemon.co.jp/info/2018/10/181026_cm01.html?utm_source=TWITTER2&utm_medium=social",
+        "display_url": "pokemon.co.jp/info/2018/10/1…",
+        "indices": [
+          93,
+          116
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "QI40058688",
+        "name": "maki",
+        "id": 1038972308633706497,
+        "id_str": "1038972308633706497",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1054905743525130240,
+        "id_str": "1054905743525130240",
+        "indices": [
+          117,
+          140
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1054905743525130240/img/84sVG2xfc_KYBRPv.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1054905743525130240/img/84sVG2xfc_KYBRPv.jpg",
+        "url": "https://t.co/GBHQ01M1l1",
+        "display_url": "pic.twitter.com/GBHQ01M1l1",
+        "expanded_url": "https://twitter.com/poke_times/status/1058724512827506688/video/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 520,
+            "h": 520,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 520,
+            "h": 520,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 520,
+            "h": 520,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1054905743525130240,
+        "id_str": "1054905743525130240",
+        "indices": [
+          117,
+          140
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1054905743525130240/img/84sVG2xfc_KYBRPv.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1054905743525130240/img/84sVG2xfc_KYBRPv.jpg",
+        "url": "https://t.co/GBHQ01M1l1",
+        "display_url": "pic.twitter.com/GBHQ01M1l1",
+        "expanded_url": "https://twitter.com/poke_times/status/1058724512827506688/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 19017,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1054905743525130240/vid/520x520/TUbAxVELaB4IFZo-.mp4?tag=8"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1054905743525130240/pl/P3fi0NXwV4j3Oagg.m3u8?tag=8"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1054905743525130240/vid/240x240/8BdSaaRsxjdIcB8d.mp4?tag=8"
+            }
+          ]
+        },
+        "sizes": {
+          "small": {
+            "w": 520,
+            "h": 520,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 520,
+            "h": 520,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 520,
+            "h": 520,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254568665"
+}

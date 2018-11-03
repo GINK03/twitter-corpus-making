@@ -1,0 +1,171 @@
+{
+  "created_at": "Sat Nov 03 14:28:30 +0000 2018",
+  "id": 1058727624975953920,
+  "id_str": "1058727624975953920",
+  "text": "かゆい　痛い　腫れる\n性感染症によるこのような症状の時はほおっておいても治りません。\n\n症状からみる感染症の種類\nhttps://t.co/DDLs0fI3Gu\n\nhttps://t.co/ZCt0JXGNu6",
+  "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1324406995,
+    "id_str": "1324406995",
+    "name": "性病検査",
+    "screen_name": "STD_CHECKER",
+    "location": "性病-検査.jp",
+    "url": "http://goo.gl/D1m7X",
+    "description": "性病自宅検査では、男性女性問わずあらゆる性病の検査を自宅で匿名できるキットのご購入、ご使用方法などをつぶやいています。詳しいことはホームページもご覧ください。http://goo.gl/D1m7X",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 3918,
+    "friends_count": 4620,
+    "listed_count": 12,
+    "favourites_count": 0,
+    "statuses_count": 92808,
+    "created_at": "Wed Apr 03 11:32:17 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3480636307/4529424ebd7b42e5938cef9b38b464ca_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3480636307/4529424ebd7b42e5938cef9b38b464ca_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1324406995/1365182783",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/DDLs0fI3Gu",
+        "expanded_url": "http://goo.gl/g0o3gF",
+        "display_url": "goo.gl/g0o3gF",
+        "indices": [
+          57,
+          80
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 459617182821785600,
+        "id_str": "459617182821785600",
+        "indices": [
+          82,
+          105
+        ],
+        "media_url": "http://pbs.twimg.com/media/BmDjZILCIAAOl9u.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/BmDjZILCIAAOl9u.jpg",
+        "url": "https://t.co/ZCt0JXGNu6",
+        "display_url": "pic.twitter.com/ZCt0JXGNu6",
+        "expanded_url": "http://twitter.com/STD_CHECKER/status/459617182817591298/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 500,
+            "h": 248,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 500,
+            "h": 248,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 500,
+            "h": 248,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 459617182817591298,
+        "source_status_id_str": "459617182817591298",
+        "source_user_id": 1324406995,
+        "source_user_id_str": "1324406995"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 459617182821785600,
+        "id_str": "459617182821785600",
+        "indices": [
+          82,
+          105
+        ],
+        "media_url": "http://pbs.twimg.com/media/BmDjZILCIAAOl9u.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/BmDjZILCIAAOl9u.jpg",
+        "url": "https://t.co/ZCt0JXGNu6",
+        "display_url": "pic.twitter.com/ZCt0JXGNu6",
+        "expanded_url": "http://twitter.com/STD_CHECKER/status/459617182817591298/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 500,
+            "h": 248,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 500,
+            "h": 248,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 500,
+            "h": 248,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 459617182817591298,
+        "source_status_id_str": "459617182817591298",
+        "source_user_id": 1324406995,
+        "source_user_id_str": "1324406995"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255310659"
+}

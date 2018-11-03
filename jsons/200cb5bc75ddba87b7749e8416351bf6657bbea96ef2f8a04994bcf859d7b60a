@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:15:16 +0000 2018",
+  "id": 1058724294702841856,
+  "id_str": "1058724294702841856",
+  "text": "@ryotadarts @Rinchaaan23 こちらこそですー！！\nあと、是非とも対戦を(｀・ω・´)",
+  "display_text_range": [
+    25,
+    53
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058720471326191617,
+  "in_reply_to_status_id_str": "1058720471326191617",
+  "in_reply_to_user_id": 915035789221806080,
+  "in_reply_to_user_id_str": "915035789221806080",
+  "in_reply_to_screen_name": "ryotadarts",
+  "user": {
+    "id": 3037990032,
+    "id_str": "3037990032",
+    "name": "橋爪優季",
+    "screen_name": "hassydarts",
+    "location": null,
+    "url": null,
+    "description": "プロダーツプレーヤーをしております。橋爪優季と申します。 声が大きいわけではありません 声が通るんです 内緒話出来ません とゆーか、内緒になりません 生まれた時からの悩みは顔面です 宜しくお願いします推しは齋藤飛鳥さん",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1157,
+    "friends_count": 320,
+    "listed_count": 15,
+    "favourites_count": 227,
+    "statuses_count": 5541,
+    "created_at": "Mon Feb 23 13:12:37 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/915016927692521473/ScZUdVVT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/915016927692521473/ScZUdVVT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3037990032/1519934603",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "ryotadarts",
+        "name": "北川 良太 @Unison",
+        "id": 915035789221806080,
+        "id_str": "915035789221806080",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "Rinchaaan23",
+        "name": "りんたーげっと",
+        "id": 361874058,
+        "id_str": "361874058",
+        "indices": [
+          12,
+          24
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254516660"
+}

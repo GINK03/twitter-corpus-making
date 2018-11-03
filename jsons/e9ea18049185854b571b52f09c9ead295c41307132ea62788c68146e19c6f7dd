@@ -1,0 +1,165 @@
+{
+  "created_at": "Sat Nov 03 14:01:20 +0000 2018",
+  "id": 1058720786372947968,
+  "id_str": "1058720786372947968",
+  "text": "久々に復帰してやってます\nフレ申請はご自由にどうぞ\nリーダーはヴァルキリーCIELにしてます\n#パズドラ https://t.co/f33xWcMPtv",
+  "display_text_range": [
+    0,
+    52
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 835400479089680384,
+    "id_str": "835400479089680384",
+    "name": "はらっち@メグっち",
+    "screen_name": "haratti0124",
+    "location": null,
+    "url": "https://www.mirrativ.com/user/1552218",
+    "description": "#バンドリ #コンパス #ミラティブ 配信はたまにやるようになりました タメで大丈夫です！ 基本無言フォローです 無視しても構いません",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 388,
+    "friends_count": 408,
+    "listed_count": 1,
+    "favourites_count": 1066,
+    "statuses_count": 4687,
+    "created_at": "Sat Feb 25 08:06:10 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048845783926169600/vK5qdZls_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048845783926169600/vK5qdZls_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/835400479089680384/1534679158",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラ",
+        "indices": [
+          47,
+          52
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058720773924253696,
+        "id_str": "1058720773924253696",
+        "indices": [
+          53,
+          76
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFU7z4U8AAm1_l.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFU7z4U8AAm1_l.jpg",
+        "url": "https://t.co/f33xWcMPtv",
+        "display_url": "pic.twitter.com/f33xWcMPtv",
+        "expanded_url": "https://twitter.com/haratti0124/status/1058720786372947968/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058720773924253696,
+        "id_str": "1058720773924253696",
+        "indices": [
+          53,
+          76
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFU7z4U8AAm1_l.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFU7z4U8AAm1_l.jpg",
+        "url": "https://t.co/f33xWcMPtv",
+        "display_url": "pic.twitter.com/f33xWcMPtv",
+        "expanded_url": "https://twitter.com/haratti0124/status/1058720786372947968/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253680209"
+}

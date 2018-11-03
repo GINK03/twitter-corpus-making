@@ -1,0 +1,93 @@
+{
+  "created_at": "Sat Nov 03 14:23:40 +0000 2018",
+  "id": 1058726408640327680,
+  "id_str": "1058726408640327680",
+  "text": "ドルトさんが今年の冬経験する事\n\n①【クリスマスまでに恋人が出来ず】\n\n②【クリスマスを一人で過ごす】\n\n③【寂しいクリスマスの夜】\n\n④【一人で新年を迎える】\n\n⑤【一人で初詣】\n#今年の冬経験する事\nhttps://t.co/CbJlZs8Z6K\n( ˙-˙ )",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 765119468896780288,
+    "id_str": "765119468896780288",
+    "name": "ドルト",
+    "screen_name": "doruto9s",
+    "location": "唐津",
+    "url": null,
+    "description": "元舞鎮提督　アリスギア　グラブル　自転車乗り　痩せたい",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 152,
+    "friends_count": 272,
+    "listed_count": 2,
+    "favourites_count": 10872,
+    "statuses_count": 9410,
+    "created_at": "Mon Aug 15 09:34:31 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "91D2FA",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/996189108417454082/G3PWQJlZ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/996189108417454082/G3PWQJlZ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/765119468896780288/1518833800",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "今年の冬経験する事",
+        "indices": [
+          91,
+          101
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/CbJlZs8Z6K",
+        "expanded_url": "https://shindanmaker.com/841250",
+        "display_url": "shindanmaker.com/841250",
+        "indices": [
+          102,
+          125
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255020662"
+}

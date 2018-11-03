@@ -1,0 +1,254 @@
+{
+  "created_at": "Sat Nov 03 14:03:30 +0000 2018",
+  "id": 1058721333037527040,
+  "id_str": "1058721333037527040",
+  "text": "アプリの購入・課金額の5%がキャッシュバックされる注目のアプリ♪\n魔法石をお得に手に入れよう！→https://t.co/4BQRG26CgF #パズドラ #課金 #魔法石 #モンスト #オーブ #ツムツム https://t.co/dXiLbwKtts",
+  "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 712635072311009281,
+    "id_str": "712635072311009281",
+    "name": "パズドラ最新情報局",
+    "screen_name": "pazu_info",
+    "location": "☟パズドラ最新情報局TOPページ",
+    "url": "http://padinfo.blog.jp/",
+    "description": "★☆★パズドラ最新情報局(http://padinfo.blog.jp)です★☆★ ★☆パズドラ最新情報・攻略情報をお届けします♪☆★アプリの購入・課金額の5%がキャッシュバックされる注目のアプリ♪ 魔法石をお得に手に入れよう！！→(https://gamemarket-app.com/r/?7kypxd&at)",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 660,
+    "friends_count": 1985,
+    "listed_count": 2,
+    "favourites_count": 0,
+    "statuses_count": 19579,
+    "created_at": "Wed Mar 23 13:40:16 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/712635391413608449/F9uR65ND_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/712635391413608449/F9uR65ND_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/712635072311009281/1458740710",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "パズドラ",
+        "indices": [
+          72,
+          77
+        ]
+      },
+      {
+        "text": "課金",
+        "indices": [
+          78,
+          81
+        ]
+      },
+      {
+        "text": "魔法石",
+        "indices": [
+          82,
+          86
+        ]
+      },
+      {
+        "text": "モンスト",
+        "indices": [
+          87,
+          92
+        ]
+      },
+      {
+        "text": "オーブ",
+        "indices": [
+          93,
+          97
+        ]
+      },
+      {
+        "text": "ツムツム",
+        "indices": [
+          98,
+          103
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/4BQRG26CgF",
+        "expanded_url": "https://gamemarket-app.com/r/?7kypxd&at",
+        "display_url": "gamemarket-app.com/r/?7kypxd&at",
+        "indices": [
+          48,
+          71
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 694104650241277952,
+        "id_str": "694104650241277952",
+        "indices": [
+          104,
+          127
+        ],
+        "media_url": "http://pbs.twimg.com/media/CaH0gHqUAAASN_0.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/CaH0gHqUAAASN_0.jpg",
+        "url": "https://t.co/dXiLbwKtts",
+        "display_url": "pic.twitter.com/dXiLbwKtts",
+        "expanded_url": "http://twitter.com/pazu_labo/status/694104667093995520/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 750,
+            "h": 856,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 750,
+            "h": 856,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 596,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 694104667093995520,
+        "source_status_id_str": "694104667093995520",
+        "source_user_id": 4229629513,
+        "source_user_id_str": "4229629513"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 694104650241277952,
+        "id_str": "694104650241277952",
+        "indices": [
+          104,
+          127
+        ],
+        "media_url": "http://pbs.twimg.com/media/CaH0gHqUAAASN_0.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/CaH0gHqUAAASN_0.jpg",
+        "url": "https://t.co/dXiLbwKtts",
+        "display_url": "pic.twitter.com/dXiLbwKtts",
+        "expanded_url": "http://twitter.com/pazu_labo/status/694104667093995520/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 750,
+            "h": 856,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 750,
+            "h": 856,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 596,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 694104667093995520,
+        "source_status_id_str": "694104667093995520",
+        "source_user_id": 4229629513,
+        "source_user_id_str": "4229629513"
+      },
+      {
+        "id": 694104650270711808,
+        "id_str": "694104650270711808",
+        "indices": [
+          104,
+          127
+        ],
+        "media_url": "http://pbs.twimg.com/media/CaH0gHxVIAAsD6g.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/CaH0gHxVIAAsD6g.jpg",
+        "url": "https://t.co/dXiLbwKtts",
+        "display_url": "pic.twitter.com/dXiLbwKtts",
+        "expanded_url": "http://twitter.com/pazu_labo/status/694104667093995520/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 447,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 750,
+            "h": 447,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 405,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 694104667093995520,
+        "source_status_id_str": "694104667093995520",
+        "source_user_id": 4229629513,
+        "source_user_id_str": "4229629513"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253810544"
+}

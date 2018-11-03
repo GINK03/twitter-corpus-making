@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:14:19 +0000 2018",
+  "id": 1058724055639973888,
+  "id_str": "1058724055639973888",
+  "text": "@take_WINDS @treknokia_41 いや紐はつけましょ？(￣∇￣💧)ヤバイヨ\n\nいっそ滝に落としましょう。wwwww",
+  "display_text_range": [
+    26,
+    66
+  ],
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058723193404350465,
+  "in_reply_to_status_id_str": "1058723193404350465",
+  "in_reply_to_user_id": 912929641232347141,
+  "in_reply_to_user_id_str": "912929641232347141",
+  "in_reply_to_screen_name": "take_WINDS",
+  "user": {
+    "id": 848922485110128640,
+    "id_str": "848922485110128640",
+    "name": "朝霧屋黒兵衛",
+    "screen_name": "asagiriya_k",
+    "location": "兵庫県伊丹市",
+    "url": null,
+    "description": "好きな物＞ロードバイク(丸６年、７年目突入)/写真(下手の横好きレベル)/読書/お酒(主に日本酒)/かわいいもの/イラスト・造形(見る方専門)/主に大阪府豊能郡能勢町にある、能勢妙見山にロードバイクで出没する野生のツキノワグマ(笑)/ときどきえっちい事呟くので未成年は注意。45歳になったぜイェイ！",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 202,
+    "friends_count": 137,
+    "listed_count": 4,
+    "favourites_count": 119569,
+    "statuses_count": 18911,
+    "created_at": "Mon Apr 03 15:37:47 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1016276117387239426/URqjKH2t_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1016276117387239426/URqjKH2t_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/848922485110128640/1538357399",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "take_WINDS",
+        "name": "たけ",
+        "id": 912929641232347141,
+        "id_str": "912929641232347141",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "treknokia_41",
+        "name": "Nokia",
+        "id": 938059525063446528,
+        "id_str": "938059525063446528",
+        "indices": [
+          12,
+          25
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254459663"
+}

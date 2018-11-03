@@ -1,0 +1,404 @@
+{
+  "created_at": "Sat Nov 03 14:10:25 +0000 2018",
+  "id": 1058723073820639232,
+  "id_str": "1058723073820639232",
+  "text": "RT @hironox_: ◎あなたのサークル「HIGE-ALOHA」は、日曜日　東地区“Ｃ”ブロック－02b に配置されました。 FGOイラスト本の予定です\nよろしくお願いいたします https://t.co/7OCBYVYVLd",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3026615303,
+    "id_str": "3026615303",
+    "name": "Sayonara waifu",
+    "screen_name": "Waifucky",
+    "location": null,
+    "url": null,
+    "description": "Amante de las waifus,anime, juegos japoneses y VNs.\nBizarro bajo tus ojos. venía a decir que, tus gustos son inferiores./Interés:Shinza,Megaten,Touhou,Nasuverse",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 85,
+    "friends_count": 345,
+    "listed_count": 1,
+    "favourites_count": 7424,
+    "statuses_count": 4694,
+    "created_at": "Mon Feb 09 15:55:37 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056920514793537539/qupxqoqI_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056920514793537539/qupxqoqI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3026615303/1462480063",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 08:25:41 +0000 2018",
+    "id": 1058273932417986565,
+    "id_str": "1058273932417986565",
+    "text": "◎あなたのサークル「HIGE-ALOHA」は、日曜日　東地区“Ｃ”ブロック－02b に配置されました。 FGOイラスト本の予定です\nよろしくお願いいたします https://t.co/7OCBYVYVLd",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 64181649,
+      "id_str": "64181649",
+      "name": "HIRONOX C95２日目東C02b",
+      "screen_name": "hironox_",
+      "location": "Tokyo",
+      "url": "http://www.pixiv.net/member.php?id=98777",
+      "description": "イラストレーター、キャラクターデザイナー。ゲーム会社を退職しフリーランスになりました。お仕事募集中です。\r\n依頼はこちらにお願いいたします\r\nhironox.xo★http://gmail.com \r\n★を@に変えてください",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 13849,
+      "friends_count": 1104,
+      "listed_count": 894,
+      "favourites_count": 3514,
+      "statuses_count": 126264,
+      "created_at": "Sun Aug 09 14:24:17 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "FF7700",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "94918A",
+      "profile_text_color": "0A0A0A",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2216405237/tw_spg22_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2216405237/tw_spg22_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/64181649/1348023059",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 50,
+    "favorite_count": 173,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058273882975567872,
+          "id_str": "1058273882975567872",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq--fVXVAAAT-gE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq--fVXVAAAT-gE.jpg",
+          "url": "https://t.co/7OCBYVYVLd",
+          "display_url": "pic.twitter.com/7OCBYVYVLd",
+          "expanded_url": "https://twitter.com/hironox_/status/1058273932417986565/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 870,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 943,
+              "h": 1300,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 493,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058273882975567872,
+          "id_str": "1058273882975567872",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq--fVXVAAAT-gE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq--fVXVAAAT-gE.jpg",
+          "url": "https://t.co/7OCBYVYVLd",
+          "display_url": "pic.twitter.com/7OCBYVYVLd",
+          "expanded_url": "https://twitter.com/hironox_/status/1058273932417986565/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 870,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 943,
+              "h": 1300,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 493,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058273898137960448,
+          "id_str": "1058273898137960448",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq--gN2UwAA7hrl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq--gN2UwAA7hrl.jpg",
+          "url": "https://t.co/7OCBYVYVLd",
+          "display_url": "pic.twitter.com/7OCBYVYVLd",
+          "expanded_url": "https://twitter.com/hironox_/status/1058273932417986565/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 635,
+              "h": 903,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 635,
+              "h": 903,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 478,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "hironox_",
+        "name": "HIRONOX C95２日目東C02b",
+        "id": 64181649,
+        "id_str": "64181649",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058273882975567872,
+        "id_str": "1058273882975567872",
+        "indices": [
+          93,
+          116
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq--fVXVAAAT-gE.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq--fVXVAAAT-gE.jpg",
+        "url": "https://t.co/7OCBYVYVLd",
+        "display_url": "pic.twitter.com/7OCBYVYVLd",
+        "expanded_url": "https://twitter.com/hironox_/status/1058273932417986565/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 870,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 943,
+            "h": 1300,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 493,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058273932417986565,
+        "source_status_id_str": "1058273932417986565",
+        "source_user_id": 64181649,
+        "source_user_id_str": "64181649"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058273882975567872,
+        "id_str": "1058273882975567872",
+        "indices": [
+          93,
+          116
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq--fVXVAAAT-gE.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq--fVXVAAAT-gE.jpg",
+        "url": "https://t.co/7OCBYVYVLd",
+        "display_url": "pic.twitter.com/7OCBYVYVLd",
+        "expanded_url": "https://twitter.com/hironox_/status/1058273932417986565/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 870,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 943,
+            "h": 1300,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 493,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058273932417986565,
+        "source_status_id_str": "1058273932417986565",
+        "source_user_id": 64181649,
+        "source_user_id_str": "64181649"
+      },
+      {
+        "id": 1058273898137960448,
+        "id_str": "1058273898137960448",
+        "indices": [
+          93,
+          116
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq--gN2UwAA7hrl.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq--gN2UwAA7hrl.jpg",
+        "url": "https://t.co/7OCBYVYVLd",
+        "display_url": "pic.twitter.com/7OCBYVYVLd",
+        "expanded_url": "https://twitter.com/hironox_/status/1058273932417986565/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 635,
+            "h": 903,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 635,
+            "h": 903,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 478,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058273932417986565,
+        "source_status_id_str": "1058273932417986565",
+        "source_user_id": 64181649,
+        "source_user_id_str": "64181649"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254225579"
+}

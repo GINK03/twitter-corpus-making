@@ -1,0 +1,348 @@
+{
+  "created_at": "Sat Nov 03 14:22:44 +0000 2018",
+  "id": 1058726173750976513,
+  "id_str": "1058726173750976513",
+  "text": "RT @natalie_mu: Nulbarich、武道館ワンマンでアルバム発売＆全国ツアー開催を発表 https://t.co/1F6yzWMly7 https://t.co/L7uNgoN85m",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 344015546,
+    "id_str": "344015546",
+    "name": "みやぎ",
+    "screen_name": "miyagisaaaaan",
+    "location": null,
+    "url": null,
+    "description": "ナックスと山田孝之と映画とお笑いとおじさんが好き。\n\n観た映画 http://filmarks.com/users/miyagisaaaaan",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 113,
+    "friends_count": 133,
+    "listed_count": 2,
+    "favourites_count": 1307,
+    "statuses_count": 5097,
+    "created_at": "Thu Jul 28 12:24:00 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/973559357240631296/Pt3JD8dX_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/973559357240631296/Pt3JD8dX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/344015546/1514645458",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 12:00:34 +0000 2018",
+    "id": 1058328006144385024,
+    "id_str": "1058328006144385024",
+    "text": "Nulbarich、武道館ワンマンでアルバム発売＆全国ツアー開催を発表 https://t.co/1F6yzWMly7 https://t.co/L7uNgoN85m",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "source": "<a href=\"http://natalie.mu/music\" rel=\"nofollow\">ナタリー</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 5649672,
+      "id_str": "5649672",
+      "name": "音楽ナタリー",
+      "screen_name": "natalie_mu",
+      "location": "東京",
+      "url": "http://natalie.mu/music",
+      "description": "国内No.1の情報量を誇る音楽ニュースサイト。コミックナタリー（@comic_natalie）、お笑いナタリー（@owarai_natalie）、映画ナタリー（@eiga_natalie）、ステージナタリー（@stage_natalie）、ナタリーストア（@natalie_store）もあわせてどうぞ。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 1259138,
+      "friends_count": 6,
+      "listed_count": 22165,
+      "favourites_count": 0,
+      "statuses_count": 148506,
+      "created_at": "Mon Apr 30 11:00:09 +0000 2007",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "E4E0D9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "F980BC",
+      "profile_sidebar_border_color": "E4E0D9",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/541889848726921216/idvp5jki_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/541889848726921216/idvp5jki_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/5649672/1418031562",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 8,
+    "reply_count": 1,
+    "retweet_count": 163,
+    "favorite_count": 722,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/1F6yzWMly7",
+          "expanded_url": "https://natalie.mu/music/news/306439",
+          "display_url": "natalie.mu/music/news/306…",
+          "indices": [
+            36,
+            59
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058328004051402753,
+          "id_str": "1058328004051402753",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_vtmFVAAEu8GM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_vtmFVAAEu8GM.jpg",
+          "url": "https://t.co/L7uNgoN85m",
+          "display_url": "pic.twitter.com/L7uNgoN85m",
+          "expanded_url": "https://twitter.com/natalie_mu/status/1058328006144385024/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058328004051402753,
+          "id_str": "1058328004051402753",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_vtmFVAAEu8GM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_vtmFVAAEu8GM.jpg",
+          "url": "https://t.co/L7uNgoN85m",
+          "display_url": "pic.twitter.com/L7uNgoN85m",
+          "expanded_url": "https://twitter.com/natalie_mu/status/1058328006144385024/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/1F6yzWMly7",
+        "expanded_url": "https://natalie.mu/music/news/306439",
+        "display_url": "natalie.mu/music/news/306…",
+        "indices": [
+          52,
+          75
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "natalie_mu",
+        "name": "音楽ナタリー",
+        "id": 5649672,
+        "id_str": "5649672",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058328004051402753,
+        "id_str": "1058328004051402753",
+        "indices": [
+          76,
+          99
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_vtmFVAAEu8GM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_vtmFVAAEu8GM.jpg",
+        "url": "https://t.co/L7uNgoN85m",
+        "display_url": "pic.twitter.com/L7uNgoN85m",
+        "expanded_url": "https://twitter.com/natalie_mu/status/1058328006144385024/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 640,
+            "h": 640,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 640,
+            "h": 640,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 640,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058328006144385024,
+        "source_status_id_str": "1058328006144385024",
+        "source_user_id": 5649672,
+        "source_user_id_str": "5649672"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058328004051402753,
+        "id_str": "1058328004051402753",
+        "indices": [
+          76,
+          99
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_vtmFVAAEu8GM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_vtmFVAAEu8GM.jpg",
+        "url": "https://t.co/L7uNgoN85m",
+        "display_url": "pic.twitter.com/L7uNgoN85m",
+        "expanded_url": "https://twitter.com/natalie_mu/status/1058328006144385024/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 640,
+            "h": 640,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 640,
+            "h": 640,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 640,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058328006144385024,
+        "source_status_id_str": "1058328006144385024",
+        "source_user_id": 5649672,
+        "source_user_id_str": "5649672"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254964660"
+}

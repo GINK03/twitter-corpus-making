@@ -1,0 +1,570 @@
+{
+  "created_at": "Sat Nov 03 14:25:17 +0000 2018",
+  "id": 1058726815487844352,
+  "id_str": "1058726815487844352",
+  "text": "RT @RINRIBBOY1: 意味と説明。非意味。/ A.K.I. (論理B-BOY RECORDS / https://t.co/KtMfZEne3m) \nhttps://t.co/Od6cFUhJyp https://t.co/RyhENZNWZK",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 815501020306378752,
+    "id_str": "815501020306378752",
+    "name": "倫理B-BOY info",
+    "screen_name": "RINRIBBOY1",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 114,
+    "friends_count": 0,
+    "listed_count": 1,
+    "favourites_count": 219,
+    "statuses_count": 478,
+    "created_at": "Sun Jan 01 10:12:49 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/848018848208920578/AccgVGnb_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/848018848208920578/AccgVGnb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/815501020306378752/1491018845",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Oct 30 11:15:04 +0000 2018",
+    "id": 1057229393557250048,
+    "id_str": "1057229393557250048",
+    "text": "意味と説明。非意味。/ A.K.I. (論理B-BOY RECORDS / https://t.co/KtMfZEne3m) \nhttps://t.co/Od6cFUhJyp https://t.co/RyhENZNWZK",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 815501020306378752,
+      "id_str": "815501020306378752",
+      "name": "倫理B-BOY info",
+      "screen_name": "RINRIBBOY1",
+      "location": null,
+      "url": null,
+      "description": null,
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 114,
+      "friends_count": 0,
+      "listed_count": 1,
+      "favourites_count": 219,
+      "statuses_count": 477,
+      "created_at": "Sun Jan 01 10:12:49 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/848018848208920578/AccgVGnb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/848018848208920578/AccgVGnb_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/815501020306378752/1491018845",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1057186598490529793,
+    "quoted_status_id_str": "1057186598490529793",
+    "quoted_status": {
+      "created_at": "Tue Oct 30 08:25:01 +0000 2018",
+      "id": 1057186598490529793,
+      "id_str": "1057186598490529793",
+      "text": "https://t.co/niSbK6XQxV\n\nhttps://t.co/v7EuROA6DG",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 815501020306378752,
+        "id_str": "815501020306378752",
+        "name": "倫理B-BOY info",
+        "screen_name": "RINRIBBOY1",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 114,
+        "friends_count": 0,
+        "listed_count": 1,
+        "favourites_count": 219,
+        "statuses_count": 477,
+        "created_at": "Sun Jan 01 10:12:49 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/848018848208920578/AccgVGnb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/848018848208920578/AccgVGnb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/815501020306378752/1491018845",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1056454291655819264,
+      "quoted_status_id_str": "1056454291655819264",
+      "is_quote_status": true,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/niSbK6XQxV",
+            "expanded_url": "https://twitter.com/RINRIBBOY1/status/1056752501502861314",
+            "display_url": "twitter.com/RINRIBBOY1/sta…",
+            "indices": [
+              0,
+              23
+            ]
+          },
+          {
+            "url": "https://t.co/v7EuROA6DG",
+            "expanded_url": "https://twitter.com/RINRIBBOY1/status/1056454291655819264",
+            "display_url": "twitter.com/RINRIBBOY1/sta…",
+            "indices": [
+              25,
+              48
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "und"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/Od6cFUhJyp",
+      "expanded": "https://twitter.com/RINRIBBOY1/status/1057186598490529793",
+      "display": "twitter.com/RINRIBBOY1/sta…"
+    },
+    "is_quote_status": true,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/KtMfZEne3m",
+          "expanded_url": "http://A.K.I.PRODUCTIONS",
+          "display_url": "A.K.I.PRODUCTIONS",
+          "indices": [
+            38,
+            61
+          ]
+        },
+        {
+          "url": "https://t.co/Od6cFUhJyp",
+          "expanded_url": "https://twitter.com/RINRIBBOY1/status/1057186598490529793",
+          "display_url": "twitter.com/RINRIBBOY1/sta…",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1057228855600005120,
+          "id_str": "1057228855600005120",
+          "indices": [
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqwICvBUwAALOgP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqwICvBUwAALOgP.jpg",
+          "url": "https://t.co/RyhENZNWZK",
+          "display_url": "pic.twitter.com/RyhENZNWZK",
+          "expanded_url": "https://twitter.com/RINRIBBOY1/status/1057229393557250048/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1057228855600005120,
+          "id_str": "1057228855600005120",
+          "indices": [
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqwICvBUwAALOgP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqwICvBUwAALOgP.jpg",
+          "url": "https://t.co/RyhENZNWZK",
+          "display_url": "pic.twitter.com/RyhENZNWZK",
+          "expanded_url": "https://twitter.com/RINRIBBOY1/status/1057229393557250048/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1057186598490529793,
+  "quoted_status_id_str": "1057186598490529793",
+  "quoted_status": {
+    "created_at": "Tue Oct 30 08:25:01 +0000 2018",
+    "id": 1057186598490529793,
+    "id_str": "1057186598490529793",
+    "text": "https://t.co/niSbK6XQxV\n\nhttps://t.co/v7EuROA6DG",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 815501020306378752,
+      "id_str": "815501020306378752",
+      "name": "倫理B-BOY info",
+      "screen_name": "RINRIBBOY1",
+      "location": null,
+      "url": null,
+      "description": null,
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 114,
+      "friends_count": 0,
+      "listed_count": 1,
+      "favourites_count": 219,
+      "statuses_count": 477,
+      "created_at": "Sun Jan 01 10:12:49 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/848018848208920578/AccgVGnb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/848018848208920578/AccgVGnb_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/815501020306378752/1491018845",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1056454291655819264,
+    "quoted_status_id_str": "1056454291655819264",
+    "is_quote_status": true,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/niSbK6XQxV",
+          "expanded_url": "https://twitter.com/RINRIBBOY1/status/1056752501502861314",
+          "display_url": "twitter.com/RINRIBBOY1/sta…",
+          "indices": [
+            0,
+            23
+          ]
+        },
+        {
+          "url": "https://t.co/v7EuROA6DG",
+          "expanded_url": "https://twitter.com/RINRIBBOY1/status/1056454291655819264",
+          "display_url": "twitter.com/RINRIBBOY1/sta…",
+          "indices": [
+            25,
+            48
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/Od6cFUhJyp",
+    "expanded": "https://twitter.com/RINRIBBOY1/status/1057186598490529793",
+    "display": "twitter.com/RINRIBBOY1/sta…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/KtMfZEne3m",
+        "expanded_url": "http://A.K.I.PRODUCTIONS",
+        "display_url": "A.K.I.PRODUCTIONS",
+        "indices": [
+          54,
+          77
+        ]
+      },
+      {
+        "url": "https://t.co/Od6cFUhJyp",
+        "expanded_url": "https://twitter.com/RINRIBBOY1/status/1057186598490529793",
+        "display_url": "twitter.com/RINRIBBOY1/sta…",
+        "indices": [
+          80,
+          103
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "RINRIBBOY1",
+        "name": "倫理B-BOY info",
+        "id": 815501020306378752,
+        "id_str": "815501020306378752",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1057228855600005120,
+        "id_str": "1057228855600005120",
+        "indices": [
+          104,
+          127
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqwICvBUwAALOgP.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqwICvBUwAALOgP.jpg",
+        "url": "https://t.co/RyhENZNWZK",
+        "display_url": "pic.twitter.com/RyhENZNWZK",
+        "expanded_url": "https://twitter.com/RINRIBBOY1/status/1057229393557250048/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1365,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 800,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057229393557250048,
+        "source_status_id_str": "1057229393557250048",
+        "source_user_id": 815501020306378752,
+        "source_user_id_str": "815501020306378752"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1057228855600005120,
+        "id_str": "1057228855600005120",
+        "indices": [
+          104,
+          127
+        ],
+        "media_url": "http://pbs.twimg.com/media/DqwICvBUwAALOgP.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DqwICvBUwAALOgP.jpg",
+        "url": "https://t.co/RyhENZNWZK",
+        "display_url": "pic.twitter.com/RyhENZNWZK",
+        "expanded_url": "https://twitter.com/RINRIBBOY1/status/1057229393557250048/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1365,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 800,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057229393557250048,
+        "source_status_id_str": "1057229393557250048",
+        "source_user_id": 815501020306378752,
+        "source_user_id_str": "815501020306378752"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255117662"
+}

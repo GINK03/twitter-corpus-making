@@ -1,0 +1,122 @@
+{
+  "created_at": "Sat Nov 03 14:23:24 +0000 2018",
+  "id": 1058726341539819520,
+  "id_str": "1058726341539819520",
+  "text": "@d_qmf_nazuna 伝わってよかったwwwwwwwww\nなんかね、なんていうのかわかんないんだけど、とにかくふわってくるかんじでどきつくないの！\nそれですっごい癒される感じ！！\nもう、、、はあ、、、めっちゃ深呼吸したとか言… https://t.co/FCR2ZHj2L9",
+  "display_text_range": [
+    14,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": true,
+  "in_reply_to_status_id": 1058710979255558145,
+  "in_reply_to_status_id_str": "1058710979255558145",
+  "in_reply_to_user_id": 994207635955073024,
+  "in_reply_to_user_id_str": "994207635955073024",
+  "in_reply_to_screen_name": "d_qmf_nazuna",
+  "user": {
+    "id": 1051861223480819717,
+    "id_str": "1051861223480819717",
+    "name": "さき🌻",
+    "screen_name": "saki_ruitami",
+    "location": null,
+    "url": null,
+    "description": "るい民専用垢、作っちゃいました！(((元垢はさきみつ🌻です！無言フォローしまくってますごめんなさい🙇‍♂️🙇‍♂️新参者ですが、るい民さん、仲良くしていただけたら嬉しいです！((受験生なので低浮上気味かも、、、😢))",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 29,
+    "friends_count": 40,
+    "listed_count": 2,
+    "favourites_count": 198,
+    "statuses_count": 180,
+    "created_at": "Mon Oct 15 15:43:53 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1052058794782412800/kP9ckKIe_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052058794782412800/kP9ckKIe_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "@d_qmf_nazuna 伝わってよかったwwwwwwwww\nなんかね、なんていうのかわかんないんだけど、とにかくふわってくるかんじでどきつくないの！\nそれですっごい癒される感じ！！\nもう、、、はあ、、、めっちゃ深呼吸したとか言えない、、、( ˙꒳​˙ )wwwwww\n今も鼻の奥に残ってるwwwwww",
+    "display_text_range": [
+      14,
+      152
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "d_qmf_nazuna",
+          "name": "なずな🌻@るいたみ！",
+          "id": 994207635955073024,
+          "id_str": "994207635955073024",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/FCR2ZHj2L9",
+        "expanded_url": "https://twitter.com/i/web/status/1058726341539819520",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "d_qmf_nazuna",
+        "name": "なずな🌻@るいたみ！",
+        "id": 994207635955073024,
+        "id_str": "994207635955073024",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255004664"
+}

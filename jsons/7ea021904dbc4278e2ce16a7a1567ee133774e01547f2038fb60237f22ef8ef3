@@ -1,0 +1,953 @@
+{
+  "created_at": "Sat Nov 03 14:21:46 +0000 2018",
+  "id": 1058725930477088769,
+  "id_str": "1058725930477088769",
+  "text": "RT @capri134: ちこ＆りぷか揃った！ヽ(´▽｀)ノ　ほんとどちらも素晴らしい造形で、こうしてうちのコ達が立体化されるなんて夢にも思ってなかったので、大変嬉しい限りです！　今、第４弾の「眞白いこね」も絶賛予約受付中なのでよろしくね～https://t.co/MqbYK…",
+  "source": "<a href=\"http://janetter.net/\" rel=\"nofollow\">Janetter</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 538522824,
+    "id_str": "538522824",
+    "name": "こっこ",
+    "screen_name": "xkokkox",
+    "location": "高天原 天岩戸",
+    "url": null,
+    "description": "ps4からボーダーブレイク始めました",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 882,
+    "friends_count": 403,
+    "listed_count": 60,
+    "favourites_count": 3084,
+    "statuses_count": 244155,
+    "created_at": "Tue Mar 27 19:53:07 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/806277705394065408/RsJMYC8X_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/806277705394065408/RsJMYC8X_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 02:59:12 +0000 2018",
+    "id": 1058554155676008448,
+    "id_str": "1058554155676008448",
+    "text": "ちこ＆りぷか揃った！ヽ(´▽｀)ノ　ほんとどちらも素晴らしい造形で、こうしてうちのコ達が立体化されるなんて夢にも思ってなかったので、大変嬉しい限りです！　今、第４弾の「眞白いこね」も絶賛予約受付中なのでよろしくね～… https://t.co/kgkamagIxs",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3189212894,
+      "id_str": "3189212894",
+      "name": "かぷりちお：冬コミ３日目西め-28a",
+      "screen_name": "capri134",
+      "location": null,
+      "url": "https://pixiv.me/caprin134",
+      "description": "かぷりちお です！フリーでキャラデザやイラストを生業にして生きてます！ お仕事などのご相談は＞capri＠capri.xii.jp（＠を半角に） 支援はFANBOXへ＞https://www.pixiv.net/fanbox/creator/4872389",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 103470,
+      "friends_count": 590,
+      "listed_count": 2108,
+      "favourites_count": 16083,
+      "statuses_count": 33711,
+      "created_at": "Fri May 08 23:17:20 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/839305464517025792/KA8ojN1L_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/839305464517025792/KA8ojN1L_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3189212894/1504231102",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1053572090060656641,
+    "quoted_status_id_str": "1053572090060656641",
+    "quoted_status": {
+      "created_at": "Sat Oct 20 09:02:15 +0000 2018",
+      "id": 1053572090060656641,
+      "id_str": "1053572090060656641",
+      "text": "Fots Japanさんより、かぷりちおオリジナルフィギュア第４弾「眞白いこね」予約開始されました～！　毎回の事ながら高い再現度と可愛さとエロティックさで見事な立体化してくださってます！アマゾン他いろんなとこで予約はじまってます。… https://t.co/Eyic2NF4QF",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3189212894,
+        "id_str": "3189212894",
+        "name": "かぷりちお：冬コミ３日目西め-28a",
+        "screen_name": "capri134",
+        "location": null,
+        "url": "https://pixiv.me/caprin134",
+        "description": "かぷりちお です！フリーでキャラデザやイラストを生業にして生きてます！ お仕事などのご相談は＞capri＠capri.xii.jp（＠を半角に） 支援はFANBOXへ＞https://www.pixiv.net/fanbox/creator/4872389",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 103470,
+        "friends_count": 590,
+        "listed_count": 2108,
+        "favourites_count": 16083,
+        "statuses_count": 33711,
+        "created_at": "Fri May 08 23:17:20 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/839305464517025792/KA8ojN1L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/839305464517025792/KA8ojN1L_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3189212894/1504231102",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "Fots Japanさんより、かぷりちおオリジナルフィギュア第４弾「眞白いこね」予約開始されました～！　毎回の事ながら高い再現度と可愛さとエロティックさで見事な立体化してくださってます！アマゾン他いろんなとこで予約はじまってます。よろしくね～！ヽ(´▽｀)ノ\nアマゾン＞https://t.co/eBtpXH7KOg https://t.co/5zq3A2nHpA",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/eBtpXH7KOg",
+              "expanded_url": "https://www.amazon.co.jp/dp/B07JWBRJ6W/ref=cm_sw_r_cp_ep_dp_c5zYBbFG3D6PY",
+              "display_url": "amazon.co.jp/dp/B07JWBRJ6W/…",
+              "indices": [
+                135,
+                158
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1053571011331842048,
+              "id_str": "1053571011331842048",
+              "indices": [
+                159,
+                182
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dp8JQLQVYAABF6-.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dp8JQLQVYAABF6-.jpg",
+              "url": "https://t.co/5zq3A2nHpA",
+              "display_url": "pic.twitter.com/5zq3A2nHpA",
+              "expanded_url": "https://twitter.com/capri134/status/1053572090060656641/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 703,
+                  "h": 1000,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 478,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 703,
+                  "h": 1000,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1053571051269971968,
+              "id_str": "1053571051269971968",
+              "indices": [
+                159,
+                182
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dp8JSgCU4AAQqTV.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dp8JSgCU4AAQqTV.jpg",
+              "url": "https://t.co/5zq3A2nHpA",
+              "display_url": "pic.twitter.com/5zq3A2nHpA",
+              "expanded_url": "https://twitter.com/capri134/status/1053572090060656641/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1365,
+                  "h": 2048,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 800,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 453,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1053571070266040321,
+              "id_str": "1053571070266040321",
+              "indices": [
+                159,
+                182
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dp8JTmzV4AEyNBq.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dp8JTmzV4AEyNBq.jpg",
+              "url": "https://t.co/5zq3A2nHpA",
+              "display_url": "pic.twitter.com/5zq3A2nHpA",
+              "expanded_url": "https://twitter.com/capri134/status/1053572090060656641/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 900,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1536,
+                  "h": 2048,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1053571011331842048,
+              "id_str": "1053571011331842048",
+              "indices": [
+                159,
+                182
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dp8JQLQVYAABF6-.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dp8JQLQVYAABF6-.jpg",
+              "url": "https://t.co/5zq3A2nHpA",
+              "display_url": "pic.twitter.com/5zq3A2nHpA",
+              "expanded_url": "https://twitter.com/capri134/status/1053572090060656641/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 703,
+                  "h": 1000,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 478,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 703,
+                  "h": 1000,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1053571051269971968,
+              "id_str": "1053571051269971968",
+              "indices": [
+                159,
+                182
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dp8JSgCU4AAQqTV.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dp8JSgCU4AAQqTV.jpg",
+              "url": "https://t.co/5zq3A2nHpA",
+              "display_url": "pic.twitter.com/5zq3A2nHpA",
+              "expanded_url": "https://twitter.com/capri134/status/1053572090060656641/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1365,
+                  "h": 2048,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 800,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 453,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1053571070266040321,
+              "id_str": "1053571070266040321",
+              "indices": [
+                159,
+                182
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dp8JTmzV4AEyNBq.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dp8JTmzV4AEyNBq.jpg",
+              "url": "https://t.co/5zq3A2nHpA",
+              "display_url": "pic.twitter.com/5zq3A2nHpA",
+              "expanded_url": "https://twitter.com/capri134/status/1053572090060656641/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 900,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1536,
+                  "h": 2048,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 10,
+      "reply_count": 13,
+      "retweet_count": 898,
+      "favorite_count": 3099,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/Eyic2NF4QF",
+            "expanded_url": "https://twitter.com/i/web/status/1053572090060656641",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/MqbYKs6DtU",
+      "expanded": "https://twitter.com/capri134/status/1053572090060656641",
+      "display": "twitter.com/capri134/statu…"
+    },
+    "is_quote_status": true,
+    "extended_tweet": {
+      "full_text": "ちこ＆りぷか揃った！ヽ(´▽｀)ノ　ほんとどちらも素晴らしい造形で、こうしてうちのコ達が立体化されるなんて夢にも思ってなかったので、大変嬉しい限りです！　今、第４弾の「眞白いこね」も絶賛予約受付中なのでよろしくね～https://t.co/MqbYKs6DtU https://t.co/dU8I9b7FVj",
+      "display_text_range": [
+        0,
+        130
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/MqbYKs6DtU",
+            "expanded_url": "https://twitter.com/capri134/status/1053572090060656641",
+            "display_url": "twitter.com/capri134/statu…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058553307688394752,
+            "id_str": "1058553307688394752",
+            "indices": [
+              131,
+              154
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrC8n_iU4AAE33x.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrC8n_iU4AAE33x.jpg",
+            "url": "https://t.co/dU8I9b7FVj",
+            "display_url": "pic.twitter.com/dU8I9b7FVj",
+            "expanded_url": "https://twitter.com/capri134/status/1058554155676008448/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 613,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1665,
+                "h": 1500,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1081,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058553307688394752,
+            "id_str": "1058553307688394752",
+            "indices": [
+              131,
+              154
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrC8n_iU4AAE33x.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrC8n_iU4AAE33x.jpg",
+            "url": "https://t.co/dU8I9b7FVj",
+            "display_url": "pic.twitter.com/dU8I9b7FVj",
+            "expanded_url": "https://twitter.com/capri134/status/1058554155676008448/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 613,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1665,
+                "h": 1500,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1081,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 1,
+    "reply_count": 1,
+    "retweet_count": 171,
+    "favorite_count": 781,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/kgkamagIxs",
+          "expanded_url": "https://twitter.com/i/web/status/1058554155676008448",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            109,
+            132
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1053572090060656641,
+  "quoted_status_id_str": "1053572090060656641",
+  "quoted_status": {
+    "created_at": "Sat Oct 20 09:02:15 +0000 2018",
+    "id": 1053572090060656641,
+    "id_str": "1053572090060656641",
+    "text": "Fots Japanさんより、かぷりちおオリジナルフィギュア第４弾「眞白いこね」予約開始されました～！　毎回の事ながら高い再現度と可愛さとエロティックさで見事な立体化してくださってます！アマゾン他いろんなとこで予約はじまってます。… https://t.co/Eyic2NF4QF",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3189212894,
+      "id_str": "3189212894",
+      "name": "かぷりちお：冬コミ３日目西め-28a",
+      "screen_name": "capri134",
+      "location": null,
+      "url": "https://pixiv.me/caprin134",
+      "description": "かぷりちお です！フリーでキャラデザやイラストを生業にして生きてます！ お仕事などのご相談は＞capri＠capri.xii.jp（＠を半角に） 支援はFANBOXへ＞https://www.pixiv.net/fanbox/creator/4872389",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 103470,
+      "friends_count": 590,
+      "listed_count": 2108,
+      "favourites_count": 16083,
+      "statuses_count": 33711,
+      "created_at": "Fri May 08 23:17:20 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/839305464517025792/KA8ojN1L_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/839305464517025792/KA8ojN1L_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3189212894/1504231102",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "Fots Japanさんより、かぷりちおオリジナルフィギュア第４弾「眞白いこね」予約開始されました～！　毎回の事ながら高い再現度と可愛さとエロティックさで見事な立体化してくださってます！アマゾン他いろんなとこで予約はじまってます。よろしくね～！ヽ(´▽｀)ノ\nアマゾン＞https://t.co/eBtpXH7KOg https://t.co/5zq3A2nHpA",
+      "display_text_range": [
+        0,
+        158
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/eBtpXH7KOg",
+            "expanded_url": "https://www.amazon.co.jp/dp/B07JWBRJ6W/ref=cm_sw_r_cp_ep_dp_c5zYBbFG3D6PY",
+            "display_url": "amazon.co.jp/dp/B07JWBRJ6W/…",
+            "indices": [
+              135,
+              158
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1053571011331842048,
+            "id_str": "1053571011331842048",
+            "indices": [
+              159,
+              182
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dp8JQLQVYAABF6-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dp8JQLQVYAABF6-.jpg",
+            "url": "https://t.co/5zq3A2nHpA",
+            "display_url": "pic.twitter.com/5zq3A2nHpA",
+            "expanded_url": "https://twitter.com/capri134/status/1053572090060656641/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 703,
+                "h": 1000,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 478,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 703,
+                "h": 1000,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1053571051269971968,
+            "id_str": "1053571051269971968",
+            "indices": [
+              159,
+              182
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dp8JSgCU4AAQqTV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dp8JSgCU4AAQqTV.jpg",
+            "url": "https://t.co/5zq3A2nHpA",
+            "display_url": "pic.twitter.com/5zq3A2nHpA",
+            "expanded_url": "https://twitter.com/capri134/status/1053572090060656641/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1365,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 800,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 453,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1053571070266040321,
+            "id_str": "1053571070266040321",
+            "indices": [
+              159,
+              182
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dp8JTmzV4AEyNBq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dp8JTmzV4AEyNBq.jpg",
+            "url": "https://t.co/5zq3A2nHpA",
+            "display_url": "pic.twitter.com/5zq3A2nHpA",
+            "expanded_url": "https://twitter.com/capri134/status/1053572090060656641/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1053571011331842048,
+            "id_str": "1053571011331842048",
+            "indices": [
+              159,
+              182
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dp8JQLQVYAABF6-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dp8JQLQVYAABF6-.jpg",
+            "url": "https://t.co/5zq3A2nHpA",
+            "display_url": "pic.twitter.com/5zq3A2nHpA",
+            "expanded_url": "https://twitter.com/capri134/status/1053572090060656641/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 703,
+                "h": 1000,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 478,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 703,
+                "h": 1000,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1053571051269971968,
+            "id_str": "1053571051269971968",
+            "indices": [
+              159,
+              182
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dp8JSgCU4AAQqTV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dp8JSgCU4AAQqTV.jpg",
+            "url": "https://t.co/5zq3A2nHpA",
+            "display_url": "pic.twitter.com/5zq3A2nHpA",
+            "expanded_url": "https://twitter.com/capri134/status/1053572090060656641/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1365,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 800,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 453,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1053571070266040321,
+            "id_str": "1053571070266040321",
+            "indices": [
+              159,
+              182
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dp8JTmzV4AEyNBq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dp8JTmzV4AEyNBq.jpg",
+            "url": "https://t.co/5zq3A2nHpA",
+            "display_url": "pic.twitter.com/5zq3A2nHpA",
+            "expanded_url": "https://twitter.com/capri134/status/1053572090060656641/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 10,
+    "reply_count": 13,
+    "retweet_count": 898,
+    "favorite_count": 3099,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/Eyic2NF4QF",
+          "expanded_url": "https://twitter.com/i/web/status/1053572090060656641",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/MqbYKs6DtU",
+    "expanded": "https://twitter.com/capri134/status/1053572090060656641",
+    "display": "twitter.com/capri134/statu…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "capri134",
+        "name": "かぷりちお：冬コミ３日目西め-28a",
+        "id": 3189212894,
+        "id_str": "3189212894",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254906659"
+}

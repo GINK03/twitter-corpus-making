@@ -1,0 +1,367 @@
+{
+  "created_at": "Sat Nov 03 13:58:25 +0000 2018",
+  "id": 1058720053728731136,
+  "id_str": "1058720053728731136",
+  "text": "多分猿が一番嫌い",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1021313154326802432,
+    "id_str": "1021313154326802432",
+    "name": "ubiquitous",
+    "screen_name": "ubiquitous5220",
+    "location": "日本",
+    "url": null,
+    "description": "小早川とガルパにハマった(上手いとは言っていない)",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 12,
+    "friends_count": 15,
+    "listed_count": 0,
+    "favourites_count": 22,
+    "statuses_count": 21,
+    "created_at": "Mon Jul 23 08:36:45 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1027738575067013121/IdqPBB8P_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1027738575067013121/IdqPBB8P_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021313154326802432/1535368291",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "quoted_status_id": 956511823116738561,
+  "quoted_status_id_str": "956511823116738561",
+  "quoted_status": {
+    "created_at": "Thu Jan 25 12:59:24 +0000 2018",
+    "id": 956511823116738561,
+    "id_str": "956511823116738561",
+    "text": "この子達に会うと少しだけ悲しくなる人🙋\n\n #パズドラ\n #パズドラあるある \n #共感してくれる人RT https://t.co/YLTvllSXtV",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 695126143817519104,
+      "id_str": "695126143817519104",
+      "name": "alice0214",
+      "screen_name": "crime_of_alice",
+      "location": "ALICE IN WONDEЯLAND.",
+      "url": null,
+      "description": "【Puzzle & Dragons】rank7××/ パズル初心者です！！/クシナダ･浦飯幽助･エドワード･精霊ミル使用/ 色々tweet🙋‍♀️ 【Fortnite】 / 建築初心者 /",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 2179,
+      "friends_count": 1751,
+      "listed_count": 11,
+      "favourites_count": 4779,
+      "statuses_count": 1719,
+      "created_at": "Thu Feb 04 06:06:02 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1031483416242401280/Kw7vZgRX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031483416242401280/Kw7vZgRX_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/695126143817519104/1531384272",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 1,
+    "reply_count": 28,
+    "retweet_count": 411,
+    "favorite_count": 692,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "パズドラ",
+          "indices": [
+            22,
+            27
+          ]
+        },
+        {
+          "text": "パズドラあるある",
+          "indices": [
+            29,
+            38
+          ]
+        },
+        {
+          "text": "共感してくれる人RT",
+          "indices": [
+            41,
+            52
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 956511814702964737,
+          "id_str": "956511814702964737",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/DUY2bXrVoAElL6u.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DUY2bXrVoAElL6u.jpg",
+          "url": "https://t.co/YLTvllSXtV",
+          "display_url": "pic.twitter.com/YLTvllSXtV",
+          "expanded_url": "https://twitter.com/crime_of_alice/status/956511823116738561/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 599,
+              "h": 446,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 599,
+              "h": 446,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 599,
+              "h": 446,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 956511814702964737,
+          "id_str": "956511814702964737",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/DUY2bXrVoAElL6u.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DUY2bXrVoAElL6u.jpg",
+          "url": "https://t.co/YLTvllSXtV",
+          "display_url": "pic.twitter.com/YLTvllSXtV",
+          "expanded_url": "https://twitter.com/crime_of_alice/status/956511823116738561/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 599,
+              "h": 446,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 599,
+              "h": 446,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 599,
+              "h": 446,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 956511814694592512,
+          "id_str": "956511814694592512",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/DUY2bXpV4AAue4d.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DUY2bXpV4AAue4d.jpg",
+          "url": "https://t.co/YLTvllSXtV",
+          "display_url": "pic.twitter.com/YLTvllSXtV",
+          "expanded_url": "https://twitter.com/crime_of_alice/status/956511823116738561/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 508,
+              "h": 389,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 508,
+              "h": 389,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 508,
+              "h": 389,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 956511814694547456,
+          "id_str": "956511814694547456",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/DUY2bXpVMAAPqZS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DUY2bXpVMAAPqZS.jpg",
+          "url": "https://t.co/YLTvllSXtV",
+          "display_url": "pic.twitter.com/YLTvllSXtV",
+          "expanded_url": "https://twitter.com/crime_of_alice/status/956511823116738561/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 540,
+              "h": 371,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 540,
+              "h": 371,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 540,
+              "h": 371,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 956511814690398208,
+          "id_str": "956511814690398208",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/DUY2bXoV4AAsSXF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DUY2bXoV4AAsSXF.jpg",
+          "url": "https://t.co/YLTvllSXtV",
+          "display_url": "pic.twitter.com/YLTvllSXtV",
+          "expanded_url": "https://twitter.com/crime_of_alice/status/956511823116738561/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 638,
+              "h": 437,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 638,
+              "h": 437,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 638,
+              "h": 437,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/bq7uZGB0Ox",
+    "expanded": "https://twitter.com/crime_of_alice/status/956511823116738561",
+    "display": "twitter.com/crime_of_alice…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253505533"
+}

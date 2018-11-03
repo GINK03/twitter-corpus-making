@@ -1,0 +1,368 @@
+{
+  "created_at": "Sat Nov 03 14:15:16 +0000 2018",
+  "id": 1058724294723756033,
+  "id_str": "1058724294723756033",
+  "text": "RT @itm_nlab: 未来がやってきた！\n\nドバイ警察で採用が決まった空飛ぶバイク「Hoversurf」一般販売へ、価格は1700万円 - ねとらぼ\nhttps://t.co/fP9YElBMxo @itm_nlab https://t.co/E7di6S0loy",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3195619087,
+    "id_str": "3195619087",
+    "name": "清元ヒロキ",
+    "screen_name": "hiroki_dorastor",
+    "location": "大阪府 大阪市",
+    "url": null,
+    "description": "ボドゲしたりインターネッツお絵かきしたりする",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 115,
+    "friends_count": 110,
+    "listed_count": 14,
+    "favourites_count": 565,
+    "statuses_count": 28052,
+    "created_at": "Thu May 14 17:54:12 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 09:30:00 +0000 2018",
+    "id": 1058290117096292352,
+    "id_str": "1058290117096292352",
+    "text": "未来がやってきた！\n\nドバイ警察で採用が決まった空飛ぶバイク「Hoversurf」一般販売へ、価格は1700万円 - ねとらぼ\nhttps://t.co/fP9YElBMxo @itm_nlab https://t.co/E7di6S0loy",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 274331049,
+      "id_str": "274331049",
+      "name": "ねとらぼ",
+      "screen_name": "itm_nlab",
+      "location": "東京都千代田区紀尾井町",
+      "url": "http://nlab.itmedia.co.jp/",
+      "description": "ネット上の旬な情報を国内外から、ジャンルを問わず、幅広く紹介するWebメディア「ねとらぼ」のTwitterです。情報提供や指摘がございましたらDMでお知らせください。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 148600,
+      "friends_count": 10898,
+      "listed_count": 4350,
+      "favourites_count": 126,
+      "statuses_count": 168205,
+      "created_at": "Wed Mar 30 04:31:30 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFF6F2",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "9E489E",
+      "profile_sidebar_border_color": "7D4580",
+      "profile_sidebar_fill_color": "FFF6F2",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875585661222273024/__F5GwAW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875585661222273024/__F5GwAW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/274331049/1397626509",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 64,
+    "reply_count": 12,
+    "retweet_count": 970,
+    "favorite_count": 915,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/fP9YElBMxo",
+          "expanded_url": "http://nlab.itmedia.co.jp/nl/articles/1811/02/news110.html",
+          "display_url": "nlab.itmedia.co.jp/nl/articles/18…",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "itm_nlab",
+          "name": "ねとらぼ",
+          "id": 274331049,
+          "id_str": "274331049",
+          "indices": [
+            88,
+            97
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058260637371908098,
+          "id_str": "1058260637371908098",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq-ycVpUwAIouvm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq-ycVpUwAIouvm.jpg",
+          "url": "https://t.co/E7di6S0loy",
+          "display_url": "pic.twitter.com/E7di6S0loy",
+          "expanded_url": "https://twitter.com/itm_nlab/status/1058290117096292352/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 417,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 960,
+              "h": 589,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 589,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058260637371908098,
+          "id_str": "1058260637371908098",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq-ycVpUwAIouvm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq-ycVpUwAIouvm.jpg",
+          "url": "https://t.co/E7di6S0loy",
+          "display_url": "pic.twitter.com/E7di6S0loy",
+          "expanded_url": "https://twitter.com/itm_nlab/status/1058290117096292352/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 417,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 960,
+              "h": 589,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 589,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/fP9YElBMxo",
+        "expanded_url": "http://nlab.itmedia.co.jp/nl/articles/1811/02/news110.html",
+        "display_url": "nlab.itmedia.co.jp/nl/articles/18…",
+        "indices": [
+          78,
+          101
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "itm_nlab",
+        "name": "ねとらぼ",
+        "id": 274331049,
+        "id_str": "274331049",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "itm_nlab",
+        "name": "ねとらぼ",
+        "id": 274331049,
+        "id_str": "274331049",
+        "indices": [
+          102,
+          111
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058260637371908098,
+        "id_str": "1058260637371908098",
+        "indices": [
+          112,
+          135
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq-ycVpUwAIouvm.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq-ycVpUwAIouvm.jpg",
+        "url": "https://t.co/E7di6S0loy",
+        "display_url": "pic.twitter.com/E7di6S0loy",
+        "expanded_url": "https://twitter.com/itm_nlab/status/1058290117096292352/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 417,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 960,
+            "h": 589,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 960,
+            "h": 589,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058290117096292352,
+        "source_status_id_str": "1058290117096292352",
+        "source_user_id": 274331049,
+        "source_user_id_str": "274331049"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058260637371908098,
+        "id_str": "1058260637371908098",
+        "indices": [
+          112,
+          135
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq-ycVpUwAIouvm.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq-ycVpUwAIouvm.jpg",
+        "url": "https://t.co/E7di6S0loy",
+        "display_url": "pic.twitter.com/E7di6S0loy",
+        "expanded_url": "https://twitter.com/itm_nlab/status/1058290117096292352/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 417,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 960,
+            "h": 589,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 960,
+            "h": 589,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058290117096292352,
+        "source_status_id_str": "1058290117096292352",
+        "source_user_id": 274331049,
+        "source_user_id_str": "274331049"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254516665"
+}

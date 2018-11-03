@@ -1,0 +1,600 @@
+{
+  "created_at": "Sat Nov 03 14:10:39 +0000 2018",
+  "id": 1058723131362172929,
+  "id_str": "1058723131362172929",
+  "text": "RT @gaorao: 前に作ったアルトリアを利用してネロ完成～♪\\(*＞v＜*)/だけど！このネロはちょっと今一かな？今後カスタム素材が増えたらまた調整してみよっと。　 #ソウルキャリバー6　#FGO #PS4share https://t.co/VK9RdF6hwT",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1014002063682912256,
+    "id_str": "1014002063682912256",
+    "name": "みんなのお姉ちゃん",
+    "screen_name": "album_sister",
+    "location": null,
+    "url": null,
+    "description": "おねショタの絵を勉強中✨ 素人アナログ絵なのでご了承ください🙇‍♀️ その他色々呟くかも(｡･ω･｡)可愛いショタ、ショタと戯れるお姉さんが大好きです(*´∇｀*)ウルトラマンを見たり、その他ゲームや読書したりします(*'▽'*)",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 6,
+    "friends_count": 13,
+    "listed_count": 0,
+    "favourites_count": 388,
+    "statuses_count": 199,
+    "created_at": "Tue Jul 03 04:25:06 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1039744106229051392/-CdcgdpB_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039744106229051392/-CdcgdpB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1014002063682912256/1530595581",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 21:35:56 +0000 2018",
+    "id": 1058472802473263104,
+    "id_str": "1058472802473263104",
+    "text": "前に作ったアルトリアを利用してネロ完成～♪\\(*＞v＜*)/だけど！このネロはちょっと今一かな？今後カスタム素材が増えたらまた調整してみよっと。　 #ソウルキャリバー6　#FGO #PS4share https://t.co/VK9RdF6hwT",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "source": "<a href=\"http://www.playstation.com\" rel=\"nofollow\">PlayStation(R)4</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 397036760,
+      "id_str": "397036760",
+      "name": "がおらお",
+      "screen_name": "gaorao",
+      "location": "リプ返さない、ミュートする人はフォローしませんのでヨロシク♪",
+      "url": null,
+      "description": "アニメ特撮ゲーム大好きです♪（ARIA.Fate.ガンダム.ウルトラマン.スパロボ.あまんちゅ.グリッドマン.フォートナイトが今は特に好き♪)  Fateのアルトリア、ARIAの灯里ちゃんは心から大好きなキャラ♪(* ˘ ᵕ ˘*) 基本趣味の事をつぶやいてアニメ実況しています。 素敵なフォロワーさん達との出会に感謝♪",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1076,
+      "friends_count": 992,
+      "listed_count": 40,
+      "favourites_count": 11215,
+      "statuses_count": 184346,
+      "created_at": "Mon Oct 24 04:27:43 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFF04D",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "89C9FA",
+      "profile_sidebar_border_color": "FFF8AD",
+      "profile_sidebar_fill_color": "F6FFD1",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/949189511778508801/6tP_sr1P_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/949189511778508801/6tP_sr1P_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/397036760/1415760150",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ソウルキャリバー6",
+          "indices": [
+            74,
+            84
+          ]
+        },
+        {
+          "text": "FGO",
+          "indices": [
+            85,
+            89
+          ]
+        },
+        {
+          "text": "PS4share",
+          "indices": [
+            90,
+            99
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058472782856577024,
+          "id_str": "1058472782856577024",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrBzY1KV4AAQvLT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrBzY1KV4AAQvLT.jpg",
+          "url": "https://t.co/VK9RdF6hwT",
+          "display_url": "pic.twitter.com/VK9RdF6hwT",
+          "expanded_url": "https://twitter.com/gaorao/status/1058472802473263104/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058472782856577024,
+          "id_str": "1058472782856577024",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrBzY1KV4AAQvLT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrBzY1KV4AAQvLT.jpg",
+          "url": "https://t.co/VK9RdF6hwT",
+          "display_url": "pic.twitter.com/VK9RdF6hwT",
+          "expanded_url": "https://twitter.com/gaorao/status/1058472802473263104/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058472788523069440,
+          "id_str": "1058472788523069440",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrBzZKRVsAAVPlb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrBzZKRVsAAVPlb.jpg",
+          "url": "https://t.co/VK9RdF6hwT",
+          "display_url": "pic.twitter.com/VK9RdF6hwT",
+          "expanded_url": "https://twitter.com/gaorao/status/1058472802473263104/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058472794202099712,
+          "id_str": "1058472794202099712",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrBzZfbU0AA09mj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrBzZfbU0AA09mj.jpg",
+          "url": "https://t.co/VK9RdF6hwT",
+          "display_url": "pic.twitter.com/VK9RdF6hwT",
+          "expanded_url": "https://twitter.com/gaorao/status/1058472802473263104/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058472800220925952,
+          "id_str": "1058472800220925952",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrBzZ12U0AAzeDB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrBzZ12U0AAzeDB.jpg",
+          "url": "https://t.co/VK9RdF6hwT",
+          "display_url": "pic.twitter.com/VK9RdF6hwT",
+          "expanded_url": "https://twitter.com/gaorao/status/1058472802473263104/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ソウルキャリバー6",
+        "indices": [
+          86,
+          96
+        ]
+      },
+      {
+        "text": "FGO",
+        "indices": [
+          97,
+          101
+        ]
+      },
+      {
+        "text": "PS4share",
+        "indices": [
+          102,
+          111
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "gaorao",
+        "name": "がおらお",
+        "id": 397036760,
+        "id_str": "397036760",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058472782856577024,
+        "id_str": "1058472782856577024",
+        "indices": [
+          112,
+          135
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrBzY1KV4AAQvLT.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrBzY1KV4AAQvLT.jpg",
+        "url": "https://t.co/VK9RdF6hwT",
+        "display_url": "pic.twitter.com/VK9RdF6hwT",
+        "expanded_url": "https://twitter.com/gaorao/status/1058472802473263104/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058472802473263104,
+        "source_status_id_str": "1058472802473263104",
+        "source_user_id": 397036760,
+        "source_user_id_str": "397036760"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058472782856577024,
+        "id_str": "1058472782856577024",
+        "indices": [
+          112,
+          135
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrBzY1KV4AAQvLT.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrBzY1KV4AAQvLT.jpg",
+        "url": "https://t.co/VK9RdF6hwT",
+        "display_url": "pic.twitter.com/VK9RdF6hwT",
+        "expanded_url": "https://twitter.com/gaorao/status/1058472802473263104/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058472802473263104,
+        "source_status_id_str": "1058472802473263104",
+        "source_user_id": 397036760,
+        "source_user_id_str": "397036760"
+      },
+      {
+        "id": 1058472788523069440,
+        "id_str": "1058472788523069440",
+        "indices": [
+          112,
+          135
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrBzZKRVsAAVPlb.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrBzZKRVsAAVPlb.jpg",
+        "url": "https://t.co/VK9RdF6hwT",
+        "display_url": "pic.twitter.com/VK9RdF6hwT",
+        "expanded_url": "https://twitter.com/gaorao/status/1058472802473263104/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058472802473263104,
+        "source_status_id_str": "1058472802473263104",
+        "source_user_id": 397036760,
+        "source_user_id_str": "397036760"
+      },
+      {
+        "id": 1058472794202099712,
+        "id_str": "1058472794202099712",
+        "indices": [
+          112,
+          135
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrBzZfbU0AA09mj.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrBzZfbU0AA09mj.jpg",
+        "url": "https://t.co/VK9RdF6hwT",
+        "display_url": "pic.twitter.com/VK9RdF6hwT",
+        "expanded_url": "https://twitter.com/gaorao/status/1058472802473263104/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058472802473263104,
+        "source_status_id_str": "1058472802473263104",
+        "source_user_id": 397036760,
+        "source_user_id_str": "397036760"
+      },
+      {
+        "id": 1058472800220925952,
+        "id_str": "1058472800220925952",
+        "indices": [
+          112,
+          135
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrBzZ12U0AAzeDB.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrBzZ12U0AAzeDB.jpg",
+        "url": "https://t.co/VK9RdF6hwT",
+        "display_url": "pic.twitter.com/VK9RdF6hwT",
+        "expanded_url": "https://twitter.com/gaorao/status/1058472802473263104/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058472802473263104,
+        "source_status_id_str": "1058472802473263104",
+        "source_user_id": 397036760,
+        "source_user_id_str": "397036760"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254239298"
+}

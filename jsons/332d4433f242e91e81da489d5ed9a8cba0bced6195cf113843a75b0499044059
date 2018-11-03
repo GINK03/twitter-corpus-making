@@ -1,0 +1,487 @@
+{
+  "created_at": "Sat Nov 03 14:13:16 +0000 2018",
+  "id": 1058723791411408896,
+  "id_str": "1058723791411408896",
+  "text": "RT @radipara: 来週も新たなテーマで二択をご用意しますので、みなさんぜひ参加して、チャンピオンカレーのレトルトをゲットしてくださいね。おまけ写真は、番組後にLカツをがっつく鼻毛さんと、Lカツを食した後、優雅にお茶をしながら本を読むりゑぽんです😄それではまた来週！ #…",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1043082747756011521,
+    "id_str": "1043082747756011521",
+    "name": "タカ",
+    "screen_name": "vxEFKgppQ43ikMl",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 9,
+    "friends_count": 64,
+    "listed_count": 0,
+    "favourites_count": 419,
+    "statuses_count": 309,
+    "created_at": "Fri Sep 21 10:21:21 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1043348696832794625/OKf3nsmH_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043348696832794625/OKf3nsmH_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:40:00 +0000 2018",
+    "id": 1058715416980148226,
+    "id_str": "1058715416980148226",
+    "text": "来週も新たなテーマで二択をご用意しますので、みなさんぜひ参加して、チャンピオンカレーのレトルトをゲットしてくださいね。おまけ写真は、番組後にLカツをがっつく鼻毛さんと、Lカツを食した後、優雅にお茶をしながら本を読むりゑぽんです😄そ… https://t.co/sksNV9FvqQ",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1058715415721893888,
+    "in_reply_to_status_id_str": "1058715415721893888",
+    "in_reply_to_user_id": 251131397,
+    "in_reply_to_user_id_str": "251131397",
+    "in_reply_to_screen_name": "radipara",
+    "user": {
+      "id": 251131397,
+      "id_str": "251131397",
+      "name": "ラジパラw 目指せ1107人フォロワー！",
+      "screen_name": "radipara",
+      "location": "石川県金沢市",
+      "url": "https://www.facebook.com/radipara/",
+      "description": "MROラジオ「ラジパラw」公式アカウント。 毎週土曜ひる1:00〜3:00放送中！出演：鼻毛の森（シンガーソングライター）竹村りゑ（MROアナウンサー）メールアドレスは para@mro.co.jp 番組ハッシュタグは #1107mro",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 757,
+      "friends_count": 728,
+      "listed_count": 30,
+      "favourites_count": 673,
+      "statuses_count": 4261,
+      "created_at": "Sat Feb 12 14:13:33 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716048231059169280/X0JPXL-D_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716048231059169280/X0JPXL-D_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/251131397/1531791095",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "来週も新たなテーマで二択をご用意しますので、みなさんぜひ参加して、チャンピオンカレーのレトルトをゲットしてくださいね。おまけ写真は、番組後にLカツをがっつく鼻毛さんと、Lカツを食した後、優雅にお茶をしながら本を読むりゑぽんです😄それではまた来週！ #1107mro https://t.co/QgzgAA70n9",
+      "display_text_range": [
+        0,
+        132
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "1107mro",
+            "indices": [
+              124,
+              132
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058714927328718848,
+            "id_str": "1058714927328718848",
+            "indices": [
+              133,
+              156
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFPnfnU8AAbt5h.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFPnfnU8AAbt5h.jpg",
+            "url": "https://t.co/QgzgAA70n9",
+            "display_url": "pic.twitter.com/QgzgAA70n9",
+            "expanded_url": "https://twitter.com/radipara/status/1058715416980148226/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058714959637491712,
+            "id_str": "1058714959637491712",
+            "indices": [
+              133,
+              156
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFPpX-VsAAtWhZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFPpX-VsAAtWhZ.jpg",
+            "url": "https://t.co/QgzgAA70n9",
+            "display_url": "pic.twitter.com/QgzgAA70n9",
+            "expanded_url": "https://twitter.com/radipara/status/1058715416980148226/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058715000703840256,
+            "id_str": "1058715000703840256",
+            "indices": [
+              133,
+              156
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFPrw9UcAAjh3t.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFPrw9UcAAjh3t.jpg",
+            "url": "https://t.co/QgzgAA70n9",
+            "display_url": "pic.twitter.com/QgzgAA70n9",
+            "expanded_url": "https://twitter.com/radipara/status/1058715416980148226/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058715025156726785,
+            "id_str": "1058715025156726785",
+            "indices": [
+              133,
+              156
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFPtMDV4AESfwY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFPtMDV4AESfwY.jpg",
+            "url": "https://t.co/QgzgAA70n9",
+            "display_url": "pic.twitter.com/QgzgAA70n9",
+            "expanded_url": "https://twitter.com/radipara/status/1058715416980148226/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058714927328718848,
+            "id_str": "1058714927328718848",
+            "indices": [
+              133,
+              156
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFPnfnU8AAbt5h.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFPnfnU8AAbt5h.jpg",
+            "url": "https://t.co/QgzgAA70n9",
+            "display_url": "pic.twitter.com/QgzgAA70n9",
+            "expanded_url": "https://twitter.com/radipara/status/1058715416980148226/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058714959637491712,
+            "id_str": "1058714959637491712",
+            "indices": [
+              133,
+              156
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFPpX-VsAAtWhZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFPpX-VsAAtWhZ.jpg",
+            "url": "https://t.co/QgzgAA70n9",
+            "display_url": "pic.twitter.com/QgzgAA70n9",
+            "expanded_url": "https://twitter.com/radipara/status/1058715416980148226/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058715000703840256,
+            "id_str": "1058715000703840256",
+            "indices": [
+              133,
+              156
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFPrw9UcAAjh3t.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFPrw9UcAAjh3t.jpg",
+            "url": "https://t.co/QgzgAA70n9",
+            "display_url": "pic.twitter.com/QgzgAA70n9",
+            "expanded_url": "https://twitter.com/radipara/status/1058715416980148226/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058715025156726785,
+            "id_str": "1058715025156726785",
+            "indices": [
+              133,
+              156
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrFPtMDV4AESfwY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrFPtMDV4AESfwY.jpg",
+            "url": "https://t.co/QgzgAA70n9",
+            "display_url": "pic.twitter.com/QgzgAA70n9",
+            "expanded_url": "https://twitter.com/radipara/status/1058715416980148226/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/sksNV9FvqQ",
+          "expanded_url": "https://twitter.com/i/web/status/1058715416980148226",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "radipara",
+        "name": "ラジパラw 目指せ1107人フォロワー！",
+        "id": 251131397,
+        "id_str": "251131397",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254396666"
+}

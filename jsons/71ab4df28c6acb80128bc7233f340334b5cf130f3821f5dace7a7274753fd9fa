@@ -1,0 +1,586 @@
+{
+  "created_at": "Sat Nov 03 14:04:13 +0000 2018",
+  "id": 1058721514852237312,
+  "id_str": "1058721514852237312",
+  "text": "RT @RG_4_IGL: FGOのデータ盗られたみたい...でも引退するタイミングだったからこそ依頼したから悔いはない。私の鯖たちをどうか可愛がってやってください\n#FGO\n#拡散希望 https://t.co/2fvP405tup",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1045646430864470016,
+    "id_str": "1045646430864470016",
+    "name": "無双",
+    "screen_name": "ts3_ax",
+    "location": null,
+    "url": null,
+    "description": "現在サブ垢育成中！！",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 235,
+    "friends_count": 236,
+    "listed_count": 0,
+    "favourites_count": 16,
+    "statuses_count": 12,
+    "created_at": "Fri Sep 28 12:08:31 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1051004978125393920/KpvrKGdg_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051004978125393920/KpvrKGdg_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1045646430864470016/1540649423",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Nov 01 23:59:11 +0000 2018",
+    "id": 1058146466739306497,
+    "id_str": "1058146466739306497",
+    "text": "FGOのデータ盗られたみたい...でも引退するタイミングだったからこそ依頼したから悔いはない。私の鯖たちをどうか可愛がってやってください\n#FGO\n#拡散希望 https://t.co/2fvP405tup",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1054648392167522304,
+      "id_str": "1054648392167522304",
+      "name": "RG.4-IGL-",
+      "screen_name": "RG_4_IGL",
+      "location": "イタリア(に行ってみたい)",
+      "url": null,
+      "description": "いろんな体験、体感がしたい人",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 44,
+      "friends_count": 520,
+      "listed_count": 1,
+      "favourites_count": 894,
+      "statuses_count": 286,
+      "created_at": "Tue Oct 23 08:19:05 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1056240017692151810/9yKAdgw0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056240017692151810/9yKAdgw0_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1054648392167522304/1541226296",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 3,
+    "reply_count": 1,
+    "retweet_count": 59,
+    "favorite_count": 68,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            69,
+            73
+          ]
+        },
+        {
+          "text": "拡散希望",
+          "indices": [
+            74,
+            79
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058146443297382400,
+          "id_str": "1058146443297382400",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq9KlXkVYAADymR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq9KlXkVYAADymR.jpg",
+          "url": "https://t.co/2fvP405tup",
+          "display_url": "pic.twitter.com/2fvP405tup",
+          "expanded_url": "https://twitter.com/RG_4_IGL/status/1058146466739306497/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 1136,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 1136,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058146443297382400,
+          "id_str": "1058146443297382400",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq9KlXkVYAADymR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq9KlXkVYAADymR.jpg",
+          "url": "https://t.co/2fvP405tup",
+          "display_url": "pic.twitter.com/2fvP405tup",
+          "expanded_url": "https://twitter.com/RG_4_IGL/status/1058146466739306497/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 1136,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 1136,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058146443377045505,
+          "id_str": "1058146443377045505",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq9KlX3U8AE-bib.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq9KlX3U8AE-bib.jpg",
+          "url": "https://t.co/2fvP405tup",
+          "display_url": "pic.twitter.com/2fvP405tup",
+          "expanded_url": "https://twitter.com/RG_4_IGL/status/1058146466739306497/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 1136,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 1136,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058146443381235712,
+          "id_str": "1058146443381235712",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq9KlX4U4AAAsJ1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq9KlX4U4AAAsJ1.jpg",
+          "url": "https://t.co/2fvP405tup",
+          "display_url": "pic.twitter.com/2fvP405tup",
+          "expanded_url": "https://twitter.com/RG_4_IGL/status/1058146466739306497/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 1136,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 1136,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058146443418976256,
+          "id_str": "1058146443418976256",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq9KlYBUwAAYq8N.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq9KlYBUwAAYq8N.jpg",
+          "url": "https://t.co/2fvP405tup",
+          "display_url": "pic.twitter.com/2fvP405tup",
+          "expanded_url": "https://twitter.com/RG_4_IGL/status/1058146466739306497/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1136,
+              "h": 640,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1136,
+              "h": 640,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          83,
+          87
+        ]
+      },
+      {
+        "text": "拡散希望",
+        "indices": [
+          88,
+          93
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "RG_4_IGL",
+        "name": "RG.4-IGL-",
+        "id": 1054648392167522304,
+        "id_str": "1054648392167522304",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058146443297382400,
+        "id_str": "1058146443297382400",
+        "indices": [
+          94,
+          117
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq9KlXkVYAADymR.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq9KlXkVYAADymR.jpg",
+        "url": "https://t.co/2fvP405tup",
+        "display_url": "pic.twitter.com/2fvP405tup",
+        "expanded_url": "https://twitter.com/RG_4_IGL/status/1058146466739306497/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 640,
+            "h": 1136,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 1136,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058146466739306497,
+        "source_status_id_str": "1058146466739306497",
+        "source_user_id": 1054648392167522304,
+        "source_user_id_str": "1054648392167522304"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058146443297382400,
+        "id_str": "1058146443297382400",
+        "indices": [
+          94,
+          117
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq9KlXkVYAADymR.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq9KlXkVYAADymR.jpg",
+        "url": "https://t.co/2fvP405tup",
+        "display_url": "pic.twitter.com/2fvP405tup",
+        "expanded_url": "https://twitter.com/RG_4_IGL/status/1058146466739306497/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 640,
+            "h": 1136,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 1136,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058146466739306497,
+        "source_status_id_str": "1058146466739306497",
+        "source_user_id": 1054648392167522304,
+        "source_user_id_str": "1054648392167522304"
+      },
+      {
+        "id": 1058146443377045505,
+        "id_str": "1058146443377045505",
+        "indices": [
+          94,
+          117
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq9KlX3U8AE-bib.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq9KlX3U8AE-bib.jpg",
+        "url": "https://t.co/2fvP405tup",
+        "display_url": "pic.twitter.com/2fvP405tup",
+        "expanded_url": "https://twitter.com/RG_4_IGL/status/1058146466739306497/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 640,
+            "h": 1136,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 1136,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058146466739306497,
+        "source_status_id_str": "1058146466739306497",
+        "source_user_id": 1054648392167522304,
+        "source_user_id_str": "1054648392167522304"
+      },
+      {
+        "id": 1058146443381235712,
+        "id_str": "1058146443381235712",
+        "indices": [
+          94,
+          117
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq9KlX4U4AAAsJ1.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq9KlX4U4AAAsJ1.jpg",
+        "url": "https://t.co/2fvP405tup",
+        "display_url": "pic.twitter.com/2fvP405tup",
+        "expanded_url": "https://twitter.com/RG_4_IGL/status/1058146466739306497/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 1136,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 1136,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058146466739306497,
+        "source_status_id_str": "1058146466739306497",
+        "source_user_id": 1054648392167522304,
+        "source_user_id_str": "1054648392167522304"
+      },
+      {
+        "id": 1058146443418976256,
+        "id_str": "1058146443418976256",
+        "indices": [
+          94,
+          117
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq9KlYBUwAAYq8N.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq9KlYBUwAAYq8N.jpg",
+        "url": "https://t.co/2fvP405tup",
+        "display_url": "pic.twitter.com/2fvP405tup",
+        "expanded_url": "https://twitter.com/RG_4_IGL/status/1058146466739306497/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1136,
+            "h": 640,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1136,
+            "h": 640,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058146466739306497,
+        "source_status_id_str": "1058146466739306497",
+        "source_user_id": 1054648392167522304,
+        "source_user_id_str": "1054648392167522304"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253853892"
+}

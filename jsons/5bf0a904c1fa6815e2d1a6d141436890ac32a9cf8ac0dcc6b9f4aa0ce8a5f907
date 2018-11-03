@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:27:01 +0000 2018",
+  "id": 1058727251682844672,
+  "id_str": "1058727251682844672",
+  "text": "@yomogimochi_ota @kyuuma09 明日も公演あるけど、私はこの二日間現地もライビュも参戦できないお留守番組やから雰囲気だけでもうらやましいわ🙆🏻‍♀️",
+  "display_text_range": [
+    27,
+    85
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058726715831140352,
+  "in_reply_to_status_id_str": "1058726715831140352",
+  "in_reply_to_user_id": 703075300779782144,
+  "in_reply_to_user_id_str": "703075300779782144",
+  "in_reply_to_screen_name": "yomogimochi_ota",
+  "user": {
+    "id": 1417944944,
+    "id_str": "1417944944",
+    "name": "すーちゃん。",
+    "screen_name": "su_7mst8pdl",
+    "location": "2次元とJ事務所のあいだ",
+    "url": "http://twpf.jp/su_7mst8pdl",
+    "description": "成人済腐女子。聖川真斗と渋谷すばると藤井流星。最近は吉沢亮。 [love]2次元アイドル/ジャニーズ/弱虫ペダル/鈴村健一/中村悠一/ペルソナシリーズ/銀魂/ガルパ/FGO/etc./アイコンは奏ちゃんから！",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 138,
+    "friends_count": 577,
+    "listed_count": 3,
+    "favourites_count": 21999,
+    "statuses_count": 18516,
+    "created_at": "Fri May 10 12:07:42 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1038487476040421377/gt-NFgFx_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1038487476040421377/gt-NFgFx_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1417944944/1536428821",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "yomogimochi_ota",
+        "name": "もぐら",
+        "id": 703075300779782144,
+        "id_str": "703075300779782144",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "screen_name": "kyuuma09",
+        "name": "九真",
+        "id": 1475758321,
+        "id_str": "1475758321",
+        "indices": [
+          17,
+          26
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255221659"
+}

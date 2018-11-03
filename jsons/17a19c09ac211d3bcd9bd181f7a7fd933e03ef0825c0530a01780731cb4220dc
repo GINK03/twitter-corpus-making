@@ -1,0 +1,279 @@
+{
+  "created_at": "Sat Nov 03 14:04:56 +0000 2018",
+  "id": 1058721695605829632,
+  "id_str": "1058721695605829632",
+  "text": "福岡ソフトバンクホークス日本一おめでとう！\nそして自分、十八ノ獄クリアおめでとう！\nかりモンすると最大３体紋章キャラ連れて行けるんだね。ナイス機能。 \n#モンスト #禁忌の獄 #十八ノ獄\n#モンスターレンタル #かりモン… https://t.co/KwwA66ZaDm",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3287253673,
+    "id_str": "3287253673",
+    "name": "MonstApple",
+    "screen_name": "MonstApple123",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 8,
+    "friends_count": 21,
+    "listed_count": 0,
+    "favourites_count": 140,
+    "statuses_count": 609,
+    "created_at": "Wed Jul 22 05:50:25 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/807436114046767105/qyJ50jW8_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/807436114046767105/qyJ50jW8_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "福岡ソフトバンクホークス日本一おめでとう！\nそして自分、十八ノ獄クリアおめでとう！\nかりモンすると最大３体紋章キャラ連れて行けるんだね。ナイス機能。 \n#モンスト #禁忌の獄 #十八ノ獄\n#モンスターレンタル #かりモン\n#かしモン #ソフトバンク #ホークス\n#ＨＰ４攻撃涙目 https://t.co/AQAgDMT9UH",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "モンスト",
+          "indices": [
+            76,
+            81
+          ]
+        },
+        {
+          "text": "禁忌の獄",
+          "indices": [
+            82,
+            87
+          ]
+        },
+        {
+          "text": "十八ノ獄",
+          "indices": [
+            88,
+            93
+          ]
+        },
+        {
+          "text": "モンスターレンタル",
+          "indices": [
+            94,
+            104
+          ]
+        },
+        {
+          "text": "かりモン",
+          "indices": [
+            105,
+            110
+          ]
+        },
+        {
+          "text": "かしモン",
+          "indices": [
+            111,
+            116
+          ]
+        },
+        {
+          "text": "ソフトバンク",
+          "indices": [
+            117,
+            124
+          ]
+        },
+        {
+          "text": "ホークス",
+          "indices": [
+            125,
+            130
+          ]
+        },
+        {
+          "text": "ＨＰ４攻撃涙目",
+          "indices": [
+            131,
+            139
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058721689263960064,
+          "id_str": "1058721689263960064",
+          "indices": [
+            140,
+            163
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFVxFyUcAAQcoY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFVxFyUcAAQcoY.jpg",
+          "url": "https://t.co/AQAgDMT9UH",
+          "display_url": "pic.twitter.com/AQAgDMT9UH",
+          "expanded_url": "https://twitter.com/MonstApple123/status/1058721695605829632/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 1334,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058721689263960064,
+          "id_str": "1058721689263960064",
+          "indices": [
+            140,
+            163
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFVxFyUcAAQcoY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFVxFyUcAAQcoY.jpg",
+          "url": "https://t.co/AQAgDMT9UH",
+          "display_url": "pic.twitter.com/AQAgDMT9UH",
+          "expanded_url": "https://twitter.com/MonstApple123/status/1058721695605829632/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 1334,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "モンスト",
+        "indices": [
+          76,
+          81
+        ]
+      },
+      {
+        "text": "禁忌の獄",
+        "indices": [
+          82,
+          87
+        ]
+      },
+      {
+        "text": "十八ノ獄",
+        "indices": [
+          88,
+          93
+        ]
+      },
+      {
+        "text": "モンスターレンタル",
+        "indices": [
+          94,
+          104
+        ]
+      },
+      {
+        "text": "かりモン",
+        "indices": [
+          105,
+          110
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/KwwA66ZaDm",
+        "expanded_url": "https://twitter.com/i/web/status/1058721695605829632",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          112,
+          135
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253896987"
+}

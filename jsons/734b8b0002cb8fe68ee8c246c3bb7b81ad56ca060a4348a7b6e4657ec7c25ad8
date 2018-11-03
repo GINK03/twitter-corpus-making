@@ -1,0 +1,762 @@
+{
+  "created_at": "Sat Nov 03 14:13:20 +0000 2018",
+  "id": 1058723808180203520,
+  "id_str": "1058723808180203520",
+  "text": "RT @hisuperb: 【COLLABO】Hi!Superb×カラオケの鉄人コラボ開催決定‼️🤩👏\nコラボスタートは11月9日からスタート🎉キャラクターをイメージしたコラボドリンク🍹や歌唱チャレンジ企画も♪\nぜひぜひ遊びにいってみてください☺️💖\n#ハイシュパ #コラボ h…",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3146112323,
+    "id_str": "3146112323",
+    "name": "媛藍",
+    "screen_name": "yureisen1565",
+    "location": null,
+    "url": null,
+    "description": "TAKUYOクラスタでたくよの財布\nたくよの為に生きてる、たくよ信者\nカエル畑、月影の鎖、スイクラ、ソラユメ、パニパレ、死神と少女\n現在、Code:Realize コドリアのサンのグッズ回収中。\n\nツイフィ作成しました！→https://t.co/k2zaPtnd7a\nマシュマロ→https://marshmallow-qa",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 76,
+    "friends_count": 170,
+    "listed_count": 3,
+    "favourites_count": 4639,
+    "statuses_count": 15080,
+    "created_at": "Wed Apr 08 01:43:42 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "9266CC",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1049662619261362176/FEpe1iTy_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1049662619261362176/FEpe1iTy_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3146112323/1535793314",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:09:39 +0000 2018",
+    "id": 1058722878932144129,
+    "id_str": "1058722878932144129",
+    "text": "【COLLABO】Hi!Superb×カラオケの鉄人コラボ開催決定‼️🤩👏\nコラボスタートは11月9日からスタート🎉キャラクターをイメージしたコラボドリンク🍹や歌唱チャレンジ企画も♪\nぜひぜひ遊びにいってみてください☺️💖… https://t.co/OnE3TK5EAU",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 959202504322854912,
+      "id_str": "959202504322854912",
+      "name": "Hi!Superb_OFFICIAL",
+      "screen_name": "hisuperb",
+      "location": "Japan",
+      "url": "http://hisuperb.com/",
+      "description": "Dance&Vocal『Hi!Superb』の公式Twitterです。Hi!Superbや所属メンバーに関する情報をお知らせします。【EVENT】10/28(日)Hi!Superb HALLOWEEN LIVE『Hi!SuBUSTERS』@恵比寿ガーデンホール 開催決定！ #HiSuperb #ハイシュパ",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 5701,
+      "friends_count": 7,
+      "listed_count": 85,
+      "favourites_count": 0,
+      "statuses_count": 275,
+      "created_at": "Thu Feb 01 23:11:12 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/968817411116838912/D2AC-cL__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/968817411116838912/D2AC-cL__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/959202504322854912/1519818886",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058297623990296581,
+    "quoted_status_id_str": "1058297623990296581",
+    "quoted_status": {
+      "created_at": "Fri Nov 02 09:59:50 +0000 2018",
+      "id": 1058297623990296581,
+      "id_str": "1058297623990296581",
+      "text": "速報【Hi!superb×カラオケの鉄人】11/9(金)からコラボ開催決定！\nオリジナルコースター付コラボドリンク販売のほか、歌唱チャレンジ限定のオリジナルコースターがもらえちゃうキャンペーンも実施！\n11月中旬からは、Happy… https://t.co/FUFl7umYXX",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 537968501,
+        "id_str": "537968501",
+        "name": "カラ鉄公式アニメゲーム情報",
+        "screen_name": "animegame_kt",
+        "location": "時折、アニメ好き担当が雑記を呟きます",
+        "url": "http://www.karatetsu.com/animegame/index.shtml",
+        "description": "カラオケの鉄人アニメ・ゲームのコラボ情報第1報はここからお届け♪他のカラ鉄コラボ情報も発信中★お問い合わせはこちらまで！（collabo_information@tetsujinka.com）\n※内容によってはご返信出来かねる場合もございますので予めご了承下さい。",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 31064,
+        "friends_count": 21540,
+        "listed_count": 382,
+        "favourites_count": 1479,
+        "statuses_count": 18711,
+        "created_at": "Tue Mar 27 08:06:28 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "ED8D06",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/440457785663188995/HXeofr9e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/440457785663188995/HXeofr9e_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/537968501/1409135816",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "速報【Hi!superb×カラオケの鉄人】11/9(金)からコラボ開催決定！\nオリジナルコースター付コラボドリンク販売のほか、歌唱チャレンジ限定のオリジナルコースターがもらえちゃうキャンペーンも実施！\n11月中旬からは、Happy Life Spectacleなど全4曲の追加配信も決定！\n詳細⇒https://t.co/aLpgcmP7xi https://t.co/dWhHEFtqn2",
+        "display_text_range": [
+          0,
+          171
+        ],
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/aLpgcmP7xi",
+              "expanded_url": "https://www.karatetsu.com/animegame/hisuperb.shtml",
+              "display_url": "karatetsu.com/animegame/hisu…",
+              "indices": [
+                148,
+                171
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1058297196464881664,
+              "id_str": "1058297196464881664",
+              "indices": [
+                172,
+                195
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dq_TsW4UwAAp12E.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dq_TsW4UwAAp12E.jpg",
+              "url": "https://t.co/dWhHEFtqn2",
+              "display_url": "pic.twitter.com/dWhHEFtqn2",
+              "expanded_url": "https://twitter.com/animegame_kt/status/1058297623990296581/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 800,
+                  "h": 1132,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 800,
+                  "h": 1132,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 481,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1058297201351254023,
+              "id_str": "1058297201351254023",
+              "indices": [
+                172,
+                195
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dq_TspFU4AcZd4l.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dq_TspFU4AcZd4l.jpg",
+              "url": "https://t.co/dWhHEFtqn2",
+              "display_url": "pic.twitter.com/dWhHEFtqn2",
+              "expanded_url": "https://twitter.com/animegame_kt/status/1058297623990296581/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 800,
+                  "h": 1132,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 481,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 800,
+                  "h": 1132,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1058297196464881664,
+              "id_str": "1058297196464881664",
+              "indices": [
+                172,
+                195
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dq_TsW4UwAAp12E.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dq_TsW4UwAAp12E.jpg",
+              "url": "https://t.co/dWhHEFtqn2",
+              "display_url": "pic.twitter.com/dWhHEFtqn2",
+              "expanded_url": "https://twitter.com/animegame_kt/status/1058297623990296581/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 800,
+                  "h": 1132,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 800,
+                  "h": 1132,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 481,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1058297201351254023,
+              "id_str": "1058297201351254023",
+              "indices": [
+                172,
+                195
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dq_TspFU4AcZd4l.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dq_TspFU4AcZd4l.jpg",
+              "url": "https://t.co/dWhHEFtqn2",
+              "display_url": "pic.twitter.com/dWhHEFtqn2",
+              "expanded_url": "https://twitter.com/animegame_kt/status/1058297623990296581/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 800,
+                  "h": 1132,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 481,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 800,
+                  "h": 1132,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 33,
+      "reply_count": 0,
+      "retweet_count": 136,
+      "favorite_count": 149,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/FUFl7umYXX",
+            "expanded_url": "https://twitter.com/i/web/status/1058297623990296581",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/WjGOMMNs4p",
+      "expanded": "https://twitter.com/animegame_kt/status/1058297623990296581",
+      "display": "twitter.com/animegame_kt/s…"
+    },
+    "is_quote_status": true,
+    "extended_tweet": {
+      "full_text": "【COLLABO】Hi!Superb×カラオケの鉄人コラボ開催決定‼️🤩👏\nコラボスタートは11月9日からスタート🎉キャラクターをイメージしたコラボドリンク🍹や歌唱チャレンジ企画も♪\nぜひぜひ遊びにいってみてください☺️💖\n#ハイシュパ #コラボ https://t.co/WjGOMMNs4p",
+      "display_text_range": [
+        0,
+        123
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ハイシュパ",
+            "indices": [
+              112,
+              118
+            ]
+          },
+          {
+            "text": "コラボ",
+            "indices": [
+              119,
+              123
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/WjGOMMNs4p",
+            "expanded_url": "https://twitter.com/animegame_kt/status/1058297623990296581",
+            "display_url": "twitter.com/animegame_kt/s…",
+            "indices": [
+              124,
+              147
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      }
+    },
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 43,
+    "favorite_count": 60,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/OnE3TK5EAU",
+          "expanded_url": "https://twitter.com/i/web/status/1058722878932144129",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058297623990296581,
+  "quoted_status_id_str": "1058297623990296581",
+  "quoted_status": {
+    "created_at": "Fri Nov 02 09:59:50 +0000 2018",
+    "id": 1058297623990296581,
+    "id_str": "1058297623990296581",
+    "text": "速報【Hi!superb×カラオケの鉄人】11/9(金)からコラボ開催決定！\nオリジナルコースター付コラボドリンク販売のほか、歌唱チャレンジ限定のオリジナルコースターがもらえちゃうキャンペーンも実施！\n11月中旬からは、Happy… https://t.co/FUFl7umYXX",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 537968501,
+      "id_str": "537968501",
+      "name": "カラ鉄公式アニメゲーム情報",
+      "screen_name": "animegame_kt",
+      "location": "時折、アニメ好き担当が雑記を呟きます",
+      "url": "http://www.karatetsu.com/animegame/index.shtml",
+      "description": "カラオケの鉄人アニメ・ゲームのコラボ情報第1報はここからお届け♪他のカラ鉄コラボ情報も発信中★お問い合わせはこちらまで！（collabo_information@tetsujinka.com）\n※内容によってはご返信出来かねる場合もございますので予めご了承下さい。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 31064,
+      "friends_count": 21540,
+      "listed_count": 382,
+      "favourites_count": 1479,
+      "statuses_count": 18711,
+      "created_at": "Tue Mar 27 08:06:28 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "ED8D06",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/440457785663188995/HXeofr9e_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/440457785663188995/HXeofr9e_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/537968501/1409135816",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "速報【Hi!superb×カラオケの鉄人】11/9(金)からコラボ開催決定！\nオリジナルコースター付コラボドリンク販売のほか、歌唱チャレンジ限定のオリジナルコースターがもらえちゃうキャンペーンも実施！\n11月中旬からは、Happy Life Spectacleなど全4曲の追加配信も決定！\n詳細⇒https://t.co/aLpgcmP7xi https://t.co/dWhHEFtqn2",
+      "display_text_range": [
+        0,
+        171
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/aLpgcmP7xi",
+            "expanded_url": "https://www.karatetsu.com/animegame/hisuperb.shtml",
+            "display_url": "karatetsu.com/animegame/hisu…",
+            "indices": [
+              148,
+              171
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058297196464881664,
+            "id_str": "1058297196464881664",
+            "indices": [
+              172,
+              195
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq_TsW4UwAAp12E.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq_TsW4UwAAp12E.jpg",
+            "url": "https://t.co/dWhHEFtqn2",
+            "display_url": "pic.twitter.com/dWhHEFtqn2",
+            "expanded_url": "https://twitter.com/animegame_kt/status/1058297623990296581/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 800,
+                "h": 1132,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 1132,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 481,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058297201351254023,
+            "id_str": "1058297201351254023",
+            "indices": [
+              172,
+              195
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq_TspFU4AcZd4l.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq_TspFU4AcZd4l.jpg",
+            "url": "https://t.co/dWhHEFtqn2",
+            "display_url": "pic.twitter.com/dWhHEFtqn2",
+            "expanded_url": "https://twitter.com/animegame_kt/status/1058297623990296581/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 800,
+                "h": 1132,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 481,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 1132,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058297196464881664,
+            "id_str": "1058297196464881664",
+            "indices": [
+              172,
+              195
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq_TsW4UwAAp12E.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq_TsW4UwAAp12E.jpg",
+            "url": "https://t.co/dWhHEFtqn2",
+            "display_url": "pic.twitter.com/dWhHEFtqn2",
+            "expanded_url": "https://twitter.com/animegame_kt/status/1058297623990296581/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 800,
+                "h": 1132,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 1132,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 481,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058297201351254023,
+            "id_str": "1058297201351254023",
+            "indices": [
+              172,
+              195
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq_TspFU4AcZd4l.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq_TspFU4AcZd4l.jpg",
+            "url": "https://t.co/dWhHEFtqn2",
+            "display_url": "pic.twitter.com/dWhHEFtqn2",
+            "expanded_url": "https://twitter.com/animegame_kt/status/1058297623990296581/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 800,
+                "h": 1132,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 481,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 1132,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 33,
+    "reply_count": 0,
+    "retweet_count": 136,
+    "favorite_count": 149,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/FUFl7umYXX",
+          "expanded_url": "https://twitter.com/i/web/status/1058297623990296581",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/WjGOMMNs4p",
+    "expanded": "https://twitter.com/animegame_kt/status/1058297623990296581",
+    "display": "twitter.com/animegame_kt/s…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ハイシュパ",
+        "indices": [
+          126,
+          132
+        ]
+      },
+      {
+        "text": "コラボ",
+        "indices": [
+          133,
+          137
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "hisuperb",
+        "name": "Hi!Superb_OFFICIAL",
+        "id": 959202504322854912,
+        "id_str": "959202504322854912",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254400664"
+}

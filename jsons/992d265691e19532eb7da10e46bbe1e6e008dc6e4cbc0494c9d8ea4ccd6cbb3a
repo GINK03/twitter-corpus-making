@@ -1,0 +1,344 @@
+{
+  "created_at": "Sat Nov 03 14:26:55 +0000 2018",
+  "id": 1058727226517053440,
+  "id_str": "1058727226517053440",
+  "text": "RT @umiushi_tucky: いい三つ編みの日なので、三つ編みしてみるけど左右の大きさが揃わないカジカちゃ。\n#ナナピク https://t.co/8K6MQtXmXr",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2544876402,
+    "id_str": "2544876402",
+    "name": "みなぎゆう",
+    "screen_name": "umiushi_tucky",
+    "location": "千葉県船橋市or静岡県富士市",
+    "url": "http://touch.pixiv.net/member.php?id=12776119",
+    "description": "GPz900R(A10)/通称うみうし。海凪汐（みなぎゆう）でpixivやっています。 ますまろ→ https://marshmallow-qa.com/umiushi_tucky?utm_medium=url_text&utm_source=promotion",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 909,
+    "friends_count": 674,
+    "listed_count": 21,
+    "favourites_count": 4663,
+    "statuses_count": 38453,
+    "created_at": "Wed Jun 04 01:22:21 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1031202949924438016/pQOJAyUX_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031202949924438016/pQOJAyUX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2544876402/1534692456",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 10:06:28 +0000 2018",
+    "id": 1058661682321354752,
+    "id_str": "1058661682321354752",
+    "text": "いい三つ編みの日なので、三つ編みしてみるけど左右の大きさが揃わないカジカちゃ。\n#ナナピク https://t.co/8K6MQtXmXr",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2544876402,
+      "id_str": "2544876402",
+      "name": "みなぎゆう",
+      "screen_name": "umiushi_tucky",
+      "location": "千葉県船橋市or静岡県富士市",
+      "url": "http://touch.pixiv.net/member.php?id=12776119",
+      "description": "GPz900R(A10)/通称うみうし。海凪汐（みなぎゆう）でpixivやっています。 ますまろ→ https://marshmallow-qa.com/umiushi_tucky?utm_medium=url_text&utm_source=promotion",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 909,
+      "friends_count": 674,
+      "listed_count": 21,
+      "favourites_count": 4663,
+      "statuses_count": 38452,
+      "created_at": "Wed Jun 04 01:22:21 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1031202949924438016/pQOJAyUX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031202949924438016/pQOJAyUX_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2544876402/1534692456",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 23,
+    "favorite_count": 52,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ナナピク",
+          "indices": [
+            40,
+            45
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058661676390637569,
+          "id_str": "1058661676390637569",
+          "indices": [
+            46,
+            69
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrEfL4aVYAEG4sI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrEfL4aVYAEG4sI.jpg",
+          "url": "https://t.co/8K6MQtXmXr",
+          "display_url": "pic.twitter.com/8K6MQtXmXr",
+          "expanded_url": "https://twitter.com/umiushi_tucky/status/1058661682321354752/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 799,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1363,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058661676390637569,
+          "id_str": "1058661676390637569",
+          "indices": [
+            46,
+            69
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrEfL4aVYAEG4sI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrEfL4aVYAEG4sI.jpg",
+          "url": "https://t.co/8K6MQtXmXr",
+          "display_url": "pic.twitter.com/8K6MQtXmXr",
+          "expanded_url": "https://twitter.com/umiushi_tucky/status/1058661682321354752/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 799,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1363,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ナナピク",
+        "indices": [
+          59,
+          64
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "umiushi_tucky",
+        "name": "みなぎゆう",
+        "id": 2544876402,
+        "id_str": "2544876402",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058661676390637569,
+        "id_str": "1058661676390637569",
+        "indices": [
+          65,
+          88
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrEfL4aVYAEG4sI.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrEfL4aVYAEG4sI.jpg",
+        "url": "https://t.co/8K6MQtXmXr",
+        "display_url": "pic.twitter.com/8K6MQtXmXr",
+        "expanded_url": "https://twitter.com/umiushi_tucky/status/1058661682321354752/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 453,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 799,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1363,
+            "h": 2048,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058661682321354752,
+        "source_status_id_str": "1058661682321354752",
+        "source_user_id": 2544876402,
+        "source_user_id_str": "2544876402"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058661676390637569,
+        "id_str": "1058661676390637569",
+        "indices": [
+          65,
+          88
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrEfL4aVYAEG4sI.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrEfL4aVYAEG4sI.jpg",
+        "url": "https://t.co/8K6MQtXmXr",
+        "display_url": "pic.twitter.com/8K6MQtXmXr",
+        "expanded_url": "https://twitter.com/umiushi_tucky/status/1058661682321354752/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 453,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 799,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1363,
+            "h": 2048,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058661682321354752,
+        "source_status_id_str": "1058661682321354752",
+        "source_user_id": 2544876402,
+        "source_user_id_str": "2544876402"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255215659"
+}

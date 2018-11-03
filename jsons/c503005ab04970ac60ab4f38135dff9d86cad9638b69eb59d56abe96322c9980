@@ -1,0 +1,96 @@
+{
+  "created_at": "Sat Nov 03 14:23:49 +0000 2018",
+  "id": 1058726446531670016,
+  "id_str": "1058726446531670016",
+  "text": "フォローします企画第2弾 \n\n今回はFGOです。FGO好きな方はRTしてください、必ず1人も漏らさずにフォローさせて頂きます。\n\n#拡散希望 \n#FGO \n#Fate",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 933612812592586752,
+    "id_str": "933612812592586752",
+    "name": "むみょう・あーす@ゴジラ教",
+    "screen_name": "Okita_Godzilla",
+    "location": "メカゴジラシティ",
+    "url": null,
+    "description": "ゴジラ、Fate、艦これ、進撃の巨人、最弱無敗の神装機竜が好きです。\n相互フォローしますよ。\nシャーペンも好きだったりします。\n沖田のねんどろいどが出ないかと期待しています。\n#GODZILLA\n#うさ民14\n#雑団",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 280,
+    "friends_count": 417,
+    "listed_count": 2,
+    "favourites_count": 300,
+    "statuses_count": 1036,
+    "created_at": "Thu Nov 23 08:26:54 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1038779777841168384/u2FvmpaQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1038779777841168384/u2FvmpaQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/933612812592586752/1536924816",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "拡散希望",
+        "indices": [
+          65,
+          70
+        ]
+      },
+      {
+        "text": "FGO",
+        "indices": [
+          72,
+          76
+        ]
+      },
+      {
+        "text": "Fate",
+        "indices": [
+          78,
+          83
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255029696"
+}

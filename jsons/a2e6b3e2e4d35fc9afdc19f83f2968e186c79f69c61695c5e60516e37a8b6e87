@@ -1,0 +1,235 @@
+{
+  "created_at": "Sat Nov 03 14:23:16 +0000 2018",
+  "id": 1058726307301740546,
+  "id_str": "1058726307301740546",
+  "text": "明日はよろしくお願いします！",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 123244586,
+    "id_str": "123244586",
+    "name": "とろサーモン@番外特異点-Ｒ14b",
+    "screen_name": "toro3mon",
+    "location": "日本 北海道",
+    "url": "http://www.pixiv.net/member.php?id=314112",
+    "description": "とろサーモンと申します。北海道に住んでますが割りと神出鬼没です。最近は東方、艦これ、ガルパン、FGO、グラブルがお好きです。よかったらどぞ。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 511,
+    "friends_count": 511,
+    "listed_count": 20,
+    "favourites_count": 1020,
+    "statuses_count": 10201,
+    "created_at": "Mon Mar 15 13:19:26 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/875400262881484800/0ASdY0vU_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/875400262881484800/0ASdY0vU_normal.jpg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "quoted_status_id": 1057981021658931200,
+  "quoted_status_id_str": "1057981021658931200",
+  "quoted_status": {
+    "created_at": "Thu Nov 01 13:01:46 +0000 2018",
+    "id": 1057981021658931200,
+    "id_str": "1057981021658931200",
+    "text": "ギリギリですが11/4にサンクリ内で行われるfgoオンリーイベント、「番外特異点 zweiter!」にサークル参加します！\nいつもどおり、アイロンビーズのグッズとTシャツの頒布を予定しています。\nよろしくおねがいします。 https://t.co/jdLtARuaov",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 123244586,
+      "id_str": "123244586",
+      "name": "とろサーモン@番外特異点-Ｒ14b",
+      "screen_name": "toro3mon",
+      "location": "日本 北海道",
+      "url": "http://www.pixiv.net/member.php?id=314112",
+      "description": "とろサーモンと申します。北海道に住んでますが割りと神出鬼没です。最近は東方、艦これ、ガルパン、FGO、グラブルがお好きです。よかったらどぞ。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 511,
+      "friends_count": 511,
+      "listed_count": 20,
+      "favourites_count": 1020,
+      "statuses_count": 10200,
+      "created_at": "Mon Mar 15 13:19:26 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875400262881484800/0ASdY0vU_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875400262881484800/0ASdY0vU_normal.jpg",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1057981009642176514,
+          "id_str": "1057981009642176514",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq60H3LUwAIkbZc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq60H3LUwAIkbZc.jpg",
+          "url": "https://t.co/jdLtARuaov",
+          "display_url": "pic.twitter.com/jdLtARuaov",
+          "expanded_url": "https://twitter.com/toro3mon/status/1057981021658931200/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1496,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 877,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 497,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1057981009642176514,
+          "id_str": "1057981009642176514",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq60H3LUwAIkbZc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq60H3LUwAIkbZc.jpg",
+          "url": "https://t.co/jdLtARuaov",
+          "display_url": "pic.twitter.com/jdLtARuaov",
+          "expanded_url": "https://twitter.com/toro3mon/status/1057981021658931200/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1496,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 877,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 497,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/5wE8ZRqiAZ",
+    "expanded": "https://twitter.com/toro3mon/status/1057981021658931200",
+    "display": "twitter.com/toro3mon/statu…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254996501"
+}

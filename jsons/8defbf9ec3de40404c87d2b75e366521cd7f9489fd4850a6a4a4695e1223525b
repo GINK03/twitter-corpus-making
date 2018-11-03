@@ -1,0 +1,195 @@
+{
+  "created_at": "Sat Nov 03 14:22:04 +0000 2018",
+  "id": 1058726004565303297,
+  "id_str": "1058726004565303297",
+  "text": "RT @kanmusu: 【艦これ】C95の艦これサークル数、1,334\nhttps://t.co/hnpVDzhHAB\n#艦これ",
+  "source": "<a href=\"http://janetter.net/\" rel=\"nofollow\">Janetter</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 141170182,
+    "id_str": "141170182",
+    "name": "不浄なる大聖堂",
+    "screen_name": "unholy_hbv502h",
+    "location": "電脳虚数空間",
+    "url": "http://blog.livedoor.jp/unholy_cathedral-hbv05/",
+    "description": "ニュースブログ【不浄なる大聖堂】Twitter移行版。18歳未満のフォローはご遠慮ください。リプはそれなりに反応しますが鍵アカからのリプはTwitterの仕様上こちらからは見えません。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 216,
+    "friends_count": 143,
+    "listed_count": 23,
+    "favourites_count": 1671,
+    "statuses_count": 248076,
+    "created_at": "Fri May 07 10:36:23 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/935827044478337025/73z6ZTDb_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/935827044478337025/73z6ZTDb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/141170182/1447449702",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:06:02 +0000 2018",
+    "id": 1058721970877947904,
+    "id_str": "1058721970877947904",
+    "text": "【艦これ】C95の艦これサークル数、1,334\nhttps://t.co/hnpVDzhHAB\n#艦これ",
+    "source": "<a href=\"http://kanmsu.com\" rel=\"nofollow\"> かんむす！-艦隊これくしょんまとめブログ-</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1570198500,
+      "id_str": "1570198500",
+      "name": "かんむす！-艦これまとめブログ-",
+      "screen_name": "kanmusu",
+      "location": null,
+      "url": "http://kanmsu.com/",
+      "description": "艦これまとめブログですーよろしくね",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 17972,
+      "friends_count": 5097,
+      "listed_count": 470,
+      "favourites_count": 7,
+      "statuses_count": 17165,
+      "created_at": "Fri Jul 05 10:34:08 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000112161223/eb6db27f8609d08c2ad4ced512f6659b_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000112161223/eb6db27f8609d08c2ad4ced512f6659b_normal.png",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "艦これ",
+          "indices": [
+            48,
+            52
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hnpVDzhHAB",
+          "expanded_url": "http://kanmsu.com/archives/48350",
+          "display_url": "kanmsu.com/archives/48350",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ",
+        "indices": [
+          61,
+          65
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/hnpVDzhHAB",
+        "expanded_url": "http://kanmsu.com/archives/48350",
+        "display_url": "kanmsu.com/archives/48350",
+        "indices": [
+          37,
+          60
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kanmusu",
+        "name": "かんむす！-艦これまとめブログ-",
+        "id": 1570198500,
+        "id_str": "1570198500",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254924323"
+}

@@ -1,0 +1,121 @@
+{
+  "created_at": "Sat Nov 03 14:23:16 +0000 2018",
+  "id": 1058726307985420288,
+  "id_str": "1058726307985420288",
+  "text": "@Kmamon49 ムック？",
+  "display_text_range": [
+    10,
+    14
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058726076170428416,
+  "in_reply_to_status_id_str": "1058726076170428416",
+  "in_reply_to_user_id": 751742698999017472,
+  "in_reply_to_user_id_str": "751742698999017472",
+  "in_reply_to_screen_name": "Kmamon49",
+  "user": {
+    "id": 2919959910,
+    "id_str": "2919959910",
+    "name": "やぁーの",
+    "screen_name": "yano091023",
+    "location": null,
+    "url": null,
+    "description": "あー。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 261,
+    "friends_count": 234,
+    "listed_count": 0,
+    "favourites_count": 2523,
+    "statuses_count": 1009,
+    "created_at": "Fri Dec 05 21:52:09 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/904453791537233920/79g-cozG_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/904453791537233920/79g-cozG_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2919959910/1483876667",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "1fb40a87fe74f55c",
+    "url": "https://api.twitter.com/1.1/geo/id/1fb40a87fe74f55c.json",
+    "place_type": "city",
+    "name": "仙台市 泉区",
+    "full_name": "宮城 仙台市 泉区",
+    "country_code": "JP",
+    "country": "日本",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            140.70182,
+            38.27941
+          ],
+          [
+            140.70182,
+            38.420863
+          ],
+          [
+            140.948118,
+            38.420863
+          ],
+          [
+            140.948118,
+            38.27941
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Kmamon49",
+        "name": "工藤カイト",
+        "id": 751742698999017472,
+        "id_str": "751742698999017472",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254996664"
+}

@@ -1,0 +1,302 @@
+{
+  "created_at": "Sat Nov 03 14:14:42 +0000 2018",
+  "id": 1058724152121556992,
+  "id_str": "1058724152121556992",
+  "text": "よい子のみんな、待っていてねーーー🎅💕",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 61509016,
+    "id_str": "61509016",
+    "name": "パラダイス山元 🎅🏻🇬🇱🌲🇩🇰🎅🇸🇪🎅🏿🇳🇴🤶🥟",
+    "screen_name": "mambon",
+    "location": "🇬🇱グリーンランド⇌ 杉並区⇆佐賀県",
+    "url": "https://amzn.to/2vAe9tK",
+    "description": "🇬🇱グリーンランド国際サンタクロース協会🎅公認サンタクロースです。 ✈️パラダイス山元の飛行機の乗り方 三森すずこさん×パラダイス山元 対談 収録の新潮文庫発売中 https://amzn.to/2AMoQim",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 17886,
+    "friends_count": 489,
+    "listed_count": 1029,
+    "favourites_count": 78830,
+    "statuses_count": 43482,
+    "created_at": "Thu Jul 30 15:02:03 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F53B0C",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "4A913C",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/972237511337558018/P46GQJlV_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/972237511337558018/P46GQJlV_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/61509016/1520633174",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "f7c22e0cf7b3af2b",
+    "url": "https://api.twitter.com/1.1/geo/id/f7c22e0cf7b3af2b.json",
+    "place_type": "city",
+    "name": "渋谷区",
+    "full_name": "東京 渋谷区",
+    "country_code": "JP",
+    "country": "日本",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            139.661368,
+            35.641564
+          ],
+          [
+            139.661368,
+            35.692138
+          ],
+          [
+            139.723884,
+            35.692138
+          ],
+          [
+            139.723884,
+            35.641564
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "quoted_status_id": 1058287443034525696,
+  "quoted_status_id_str": "1058287443034525696",
+  "quoted_status": {
+    "created_at": "Fri Nov 02 09:19:23 +0000 2018",
+    "id": 1058287443034525696,
+    "id_str": "1058287443034525696",
+    "text": "ホッホッホッ～🎄🎄\n11月1日、トイザらスがサンタオフィシャルパートナーに就任しました‼️\n様々な活動を通して、公認サンタクロースであるパラダイス山元さんと共に素敵なクリスマスを多くの皆様にお届けしたいと思います。\n詳しくは⇒… https://t.co/9Pwl5L0qWP",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 208284279,
+      "id_str": "208284279",
+      "name": "トイザらス公式",
+      "screen_name": "TOYSRUS_JP",
+      "location": null,
+      "url": "http://www.toysrus.co.jp",
+      "description": "世界最大級のおもちゃ専門店「トイザらス」の公式アカウント。新商品やキャンペーン・イベント情報、現場からのつぶやきなど楽しいおもちゃの世界をお届けします♪お問合わせはこちらよりお願いします。 (http://bit.ly/1sofTxp)",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 41581,
+      "friends_count": 4133,
+      "listed_count": 280,
+      "favourites_count": 4212,
+      "statuses_count": 8188,
+      "created_at": "Wed Oct 27 00:30:16 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/945565173309251584/2S7le7sp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/945565173309251584/2S7le7sp_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/208284279/1525671071",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "ホッホッホッ～🎄🎄\n11月1日、トイザらスがサンタオフィシャルパートナーに就任しました‼️\n様々な活動を通して、公認サンタクロースであるパラダイス山元さんと共に素敵なクリスマスを多くの皆様にお届けしたいと思います。\n詳しくは⇒ https://t.co/Rzdudzpux6 https://t.co/U8Rr0ituee",
+      "display_text_range": [
+        0,
+        137
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/Rzdudzpux6",
+            "expanded_url": "https://bit.ly/2mq3ujJ",
+            "display_url": "bit.ly/2mq3ujJ",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058287340836159488,
+            "id_str": "1058287340836159488",
+            "indices": [
+              138,
+              161
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq_KurzVAAAvILQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq_KurzVAAAvILQ.jpg",
+            "url": "https://t.co/U8Rr0ituee",
+            "display_url": "pic.twitter.com/U8Rr0ituee",
+            "expanded_url": "https://twitter.com/TOYSRUS_JP/status/1058287443034525696/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 700,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 700,
+                "h": 400,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 389,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058287340836159488,
+            "id_str": "1058287340836159488",
+            "indices": [
+              138,
+              161
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq_KurzVAAAvILQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq_KurzVAAAvILQ.jpg",
+            "url": "https://t.co/U8Rr0ituee",
+            "display_url": "pic.twitter.com/U8Rr0ituee",
+            "expanded_url": "https://twitter.com/TOYSRUS_JP/status/1058287443034525696/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 700,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 700,
+                "h": 400,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 389,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 20,
+    "reply_count": 17,
+    "retweet_count": 14,
+    "favorite_count": 30,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/9Pwl5L0qWP",
+          "expanded_url": "https://twitter.com/i/web/status/1058287443034525696",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/BbXClIzkfJ",
+    "expanded": "https://twitter.com/toysrus_jp/status/1058287443034525696",
+    "display": "twitter.com/toysrus_jp/sta…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254482666"
+}

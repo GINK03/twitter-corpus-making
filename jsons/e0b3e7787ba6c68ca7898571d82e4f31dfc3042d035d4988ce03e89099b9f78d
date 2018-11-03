@@ -1,0 +1,423 @@
+{
+  "created_at": "Sat Nov 03 13:50:20 +0000 2018",
+  "id": 1058718017901649920,
+  "id_str": "1058718017901649920",
+  "text": "RT @game_ichyk: これ、コミケは限りあるスペ数を偏らないように「応募数に対して」各ジャンルに割り振るから、例えばとうらぶが応募3000で1000スペ確保2000落ちなら、他のFGOとかも確保スペの倍落ちてるって計算になるんだよね。単純に他が数で強いって話。あと人気…",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 625670899,
+    "id_str": "625670899",
+    "name": "高森尚貴＠創作垢超絶長谷部廃",
+    "screen_name": "taka_makes_revo",
+    "location": "オラクル船団で星の海を見ながらバスケをやりつつ刀を磨く",
+    "url": "https://www.pixiv.net/member.php?id=2862459",
+    "description": "四六時中創作脳。晴海からのコスプレ仙人（現在は刀剣乱舞、黒バスメイン）、二次創作（刀剣乱舞、ファンタシースターオンライン２、電脳戦機バーチャロン等）。同人歴30年の最終晴海世代。コス歴ももうすぐ30年。繋がりたいタグは気まぐれに。 メガネの関西弁キャラに定評がありますが、本人は生粋の東京人です。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 125,
+    "friends_count": 352,
+    "listed_count": 10,
+    "favourites_count": 5728,
+    "statuses_count": 28115,
+    "created_at": "Tue Jul 03 16:02:36 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "981CEB",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1026762793125466112/hhgj-mCB_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026762793125466112/hhgj-mCB_normal.png",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 04:56:40 +0000 2018",
+    "id": 1058583718007173122,
+    "id_str": "1058583718007173122",
+    "text": "これ、コミケは限りあるスペ数を偏らないように「応募数に対して」各ジャンルに割り振るから、例えばとうらぶが応募3000で1000スペ確保2000落ちなら、他のFGOとかも確保スペの倍落ちてるって計算になるんだよね。単純に他が数で強い… https://t.co/1Pz3xGYAyd",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 95822347,
+      "id_str": "95822347",
+      "name": "FGOで素材が落ちない市",
+      "screen_name": "game_ichyk",
+      "location": "蛇の宝玉が足りないカルデア",
+      "url": null,
+      "description": "ゲーム用。ポケモン、刀剣乱舞、FGO。推しはそれぞれリザ、長谷部、剣スロ。色違いはオシャボで性格一致を狙いたいレベルのエンジョイ勢。弓ミヤがやたらと来てくれるんだけど型月はFGOしか知らない勢ですまない…",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 5,
+      "friends_count": 26,
+      "listed_count": 0,
+      "favourites_count": 81,
+      "statuses_count": 60,
+      "created_at": "Thu Dec 10 04:24:19 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1010824965707345920/K7WYS2Hz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010824965707345920/K7WYS2Hz_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/95822347/1528695620",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058308280374616065,
+    "quoted_status_id_str": "1058308280374616065",
+    "quoted_status": {
+      "created_at": "Fri Nov 02 10:42:11 +0000 2018",
+      "id": 1058308280374616065,
+      "id_str": "1058308280374616065",
+      "text": "よくみたらコミケの刀剣乱舞が1000サークル切ってるのかあ。でも12月開催の赤ブーオンリーだと2年連続で3000サークル超えてるわけで、コナンも1600サークルある。\n女性向けジャンルからすると、コミケは本当に「第一のイベント」で… https://t.co/1ivn4JF1FL",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 17187353,
+        "id_str": "17187353",
+        "name": "仲💮村＠ｺﾐﾃｨｱU63a",
+        "screen_name": "natukusa",
+        "location": null,
+        "url": "http://natukusa.net/",
+        "description": "私はbotになりたい。同人誌つくります。ときどき即売会のサークル数を調べています。 絵や漫画→@naaankaso",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 931,
+        "friends_count": 611,
+        "listed_count": 74,
+        "favourites_count": 471,
+        "statuses_count": 170651,
+        "created_at": "Wed Nov 05 12:26:45 +0000 2008",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "6DD7F7",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/811378996/p_icon_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/811378996/p_icon_normal.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17187353/1422093316",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "よくみたらコミケの刀剣乱舞が1000サークル切ってるのかあ。でも12月開催の赤ブーオンリーだと2年連続で3000サークル超えてるわけで、コナンも1600サークルある。\n女性向けジャンルからすると、コミケは本当に「第一のイベント」ではなくなったんだなって感じる。\nhttps://t.co/ijrvCpOJI2",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/ijrvCpOJI2",
+              "expanded_url": "https://www.akaboo.jp/",
+              "display_url": "akaboo.jp",
+              "indices": [
+                131,
+                154
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        }
+      },
+      "quote_count": 23,
+      "reply_count": 4,
+      "retweet_count": 2377,
+      "favorite_count": 1193,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/1ivn4JF1FL",
+            "expanded_url": "https://twitter.com/i/web/status/1058308280374616065",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/WKg80QvAeF",
+      "expanded": "https://twitter.com/natukusa/status/1058308280374616065",
+      "display": "twitter.com/natukusa/statu…"
+    },
+    "is_quote_status": true,
+    "extended_tweet": {
+      "full_text": "これ、コミケは限りあるスペ数を偏らないように「応募数に対して」各ジャンルに割り振るから、例えばとうらぶが応募3000で1000スペ確保2000落ちなら、他のFGOとかも確保スペの倍落ちてるって計算になるんだよね。単純に他が数で強いって話。あと人気CPのプチオンリーが12月にあるのが豚は強い。 https://t.co/WKg80QvAeF",
+      "display_text_range": [
+        0,
+        146
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/WKg80QvAeF",
+            "expanded_url": "https://twitter.com/natukusa/status/1058308280374616065",
+            "display_url": "twitter.com/natukusa/statu…",
+            "indices": [
+              147,
+              170
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      }
+    },
+    "quote_count": 1,
+    "reply_count": 1,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/1Pz3xGYAyd",
+          "expanded_url": "https://twitter.com/i/web/status/1058583718007173122",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058308280374616065,
+  "quoted_status_id_str": "1058308280374616065",
+  "quoted_status": {
+    "created_at": "Fri Nov 02 10:42:11 +0000 2018",
+    "id": 1058308280374616065,
+    "id_str": "1058308280374616065",
+    "text": "よくみたらコミケの刀剣乱舞が1000サークル切ってるのかあ。でも12月開催の赤ブーオンリーだと2年連続で3000サークル超えてるわけで、コナンも1600サークルある。\n女性向けジャンルからすると、コミケは本当に「第一のイベント」で… https://t.co/1ivn4JF1FL",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17187353,
+      "id_str": "17187353",
+      "name": "仲💮村＠ｺﾐﾃｨｱU63a",
+      "screen_name": "natukusa",
+      "location": null,
+      "url": "http://natukusa.net/",
+      "description": "私はbotになりたい。同人誌つくります。ときどき即売会のサークル数を調べています。 絵や漫画→@naaankaso",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 931,
+      "friends_count": 611,
+      "listed_count": 74,
+      "favourites_count": 471,
+      "statuses_count": 170651,
+      "created_at": "Wed Nov 05 12:26:45 +0000 2008",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "709397",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "6DD7F7",
+      "profile_sidebar_border_color": "86A4A6",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811378996/p_icon_normal.gif",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811378996/p_icon_normal.gif",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17187353/1422093316",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "よくみたらコミケの刀剣乱舞が1000サークル切ってるのかあ。でも12月開催の赤ブーオンリーだと2年連続で3000サークル超えてるわけで、コナンも1600サークルある。\n女性向けジャンルからすると、コミケは本当に「第一のイベント」ではなくなったんだなって感じる。\nhttps://t.co/ijrvCpOJI2",
+      "display_text_range": [
+        0,
+        154
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/ijrvCpOJI2",
+            "expanded_url": "https://www.akaboo.jp/",
+            "display_url": "akaboo.jp",
+            "indices": [
+              131,
+              154
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      }
+    },
+    "quote_count": 23,
+    "reply_count": 4,
+    "retweet_count": 2377,
+    "favorite_count": 1193,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/1ivn4JF1FL",
+          "expanded_url": "https://twitter.com/i/web/status/1058308280374616065",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/WKg80QvAeF",
+    "expanded": "https://twitter.com/natukusa/status/1058308280374616065",
+    "display": "twitter.com/natukusa/statu…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "game_ichyk",
+        "name": "FGOで素材が落ちない市",
+        "id": 95822347,
+        "id_str": "95822347",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253020154"
+}

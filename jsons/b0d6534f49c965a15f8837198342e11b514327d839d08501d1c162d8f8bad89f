@@ -1,0 +1,237 @@
+{
+  "created_at": "Sat Nov 03 14:19:07 +0000 2018",
+  "id": 1058725263612100611,
+  "id_str": "1058725263612100611",
+  "text": "今日の現場は海上自衛隊の訓練機と思われる機体が飛んでて最高の現場だった\n\n#てんまカメラ https://t.co/MttK7XysCg",
+  "display_text_range": [
+    0,
+    44
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3022477278,
+    "id_str": "3022477278",
+    "name": "てんまえんぱいあ",
+    "screen_name": "TEMMA_EMPiRE",
+    "location": "秋田→大阪→愛知→東京",
+    "url": "https://www.flickr.com/people/158017599@N02/",
+    "description": "すぐ飽きる系プログラマ @ teamLab @YUKA_EMPiREのオタク #YUKA_EMPiRE #てんまカメラ",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 512,
+    "friends_count": 554,
+    "listed_count": 12,
+    "favourites_count": 19832,
+    "statuses_count": 18534,
+    "created_at": "Mon Feb 16 13:29:49 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/932641147108724736/2QNvskz1_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/932641147108724736/2QNvskz1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3022477278/1536627121",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "てんまカメラ",
+        "indices": [
+          37,
+          44
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058725115767087106,
+        "id_str": "1058725115767087106",
+        "indices": [
+          45,
+          68
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFY4igU4AIMrSe.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFY4igU4AIMrSe.jpg",
+        "url": "https://t.co/MttK7XysCg",
+        "display_url": "pic.twitter.com/MttK7XysCg",
+        "expanded_url": "https://twitter.com/TEMMA_EMPiRE/status/1058725263612100611/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 800,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1365,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058725115767087106,
+        "id_str": "1058725115767087106",
+        "indices": [
+          45,
+          68
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFY4igU4AIMrSe.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFY4igU4AIMrSe.jpg",
+        "url": "https://t.co/MttK7XysCg",
+        "display_url": "pic.twitter.com/MttK7XysCg",
+        "expanded_url": "https://twitter.com/TEMMA_EMPiRE/status/1058725263612100611/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 800,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1365,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058725115746123776,
+        "id_str": "1058725115746123776",
+        "indices": [
+          45,
+          68
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFY4ibVAAAv0q-.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFY4ibVAAAv0q-.jpg",
+        "url": "https://t.co/MttK7XysCg",
+        "display_url": "pic.twitter.com/MttK7XysCg",
+        "expanded_url": "https://twitter.com/TEMMA_EMPiRE/status/1058725263612100611/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 800,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1365,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058725115750363138,
+        "id_str": "1058725115750363138",
+        "indices": [
+          45,
+          68
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFY4icVsAIJDeQ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFY4icVsAIJDeQ.jpg",
+        "url": "https://t.co/MttK7XysCg",
+        "display_url": "pic.twitter.com/MttK7XysCg",
+        "expanded_url": "https://twitter.com/TEMMA_EMPiRE/status/1058725263612100611/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1366,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 800,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254747666"
+}

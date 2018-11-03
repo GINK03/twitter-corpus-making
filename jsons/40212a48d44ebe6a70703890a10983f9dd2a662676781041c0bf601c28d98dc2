@@ -1,0 +1,572 @@
+{
+  "created_at": "Sat Nov 03 14:13:26 +0000 2018",
+  "id": 1058723833333506049,
+  "id_str": "1058723833333506049",
+  "text": "RT @Granblue_GW: ランスロット(SSR/水)、ジークフリート(SSR/土)に新POSEが追加！\n#グラブル https://t.co/ZqCYYVST10",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2301229549,
+    "id_str": "2301229549",
+    "name": "いよ子❖ツイフィ有",
+    "screen_name": "mmsrrr5722",
+    "location": "愛媛県",
+    "url": "http://twpf.jp/mmsrrr5722",
+    "description": "【お声がけ初回ツイフィ必読／こちらからの場合は任意】\n刀剣乱舞 にっかり青江／あんスタ 日々樹渉 (fine)／文アル おざきこうよう 中心。 成人済 別垢 @iyoco_5722\n※もちマスまで買取停止中※\n※ツイフィ未読は御返事しません※",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 581,
+    "friends_count": 662,
+    "listed_count": 16,
+    "favourites_count": 645,
+    "statuses_count": 46730,
+    "created_at": "Mon Jan 20 11:19:21 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1040124543241674752/ysye6DLl_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040124543241674752/ysye6DLl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2301229549/1497353035",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 08:50:36 +0000 2018",
+    "id": 1058642587832147969,
+    "id_str": "1058642587832147969",
+    "text": "ランスロット(SSR/水)、ジークフリート(SSR/土)に新POSEが追加！\n#グラブル https://t.co/ZqCYYVST10",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 765113040345833473,
+      "id_str": "765113040345833473",
+      "name": "グラブル攻略＠GameWith",
+      "screen_name": "Granblue_GW",
+      "location": "バルツ公国",
+      "url": "https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/",
+      "description": "攻略サイトGameWithの公式アカウントです。2016年8月17日開設＼(╹◡╹)ノ 記事に起こす前の速報、検証などの攻略情報などを呟いていきます。複数人で運用しているので、口調やテンションが変わります。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 83785,
+      "friends_count": 2823,
+      "listed_count": 968,
+      "favourites_count": 1623,
+      "statuses_count": 7353,
+      "created_at": "Mon Aug 15 09:08:58 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/765721648217468928/z5FBda2m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/765721648217468928/z5FBda2m_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/765113040345833473/1471402733",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 53,
+    "reply_count": 6,
+    "retweet_count": 2846,
+    "favorite_count": 1788,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "グラブル",
+          "indices": [
+            39,
+            44
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058642230787825664,
+          "id_str": "1058642230787825664",
+          "indices": [
+            45,
+            68
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrENf_5V4AAHzF5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrENf_5V4AAHzF5.jpg",
+          "url": "https://t.co/ZqCYYVST10",
+          "display_url": "pic.twitter.com/ZqCYYVST10",
+          "expanded_url": "https://twitter.com/Granblue_GW/status/1058642587832147969/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 404,
+              "h": 471,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 404,
+              "h": 471,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 404,
+              "h": 471,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058642230787825664,
+          "id_str": "1058642230787825664",
+          "indices": [
+            45,
+            68
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrENf_5V4AAHzF5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrENf_5V4AAHzF5.jpg",
+          "url": "https://t.co/ZqCYYVST10",
+          "display_url": "pic.twitter.com/ZqCYYVST10",
+          "expanded_url": "https://twitter.com/Granblue_GW/status/1058642587832147969/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 404,
+              "h": 471,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 404,
+              "h": 471,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 404,
+              "h": 471,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058642243630772224,
+          "id_str": "1058642243630772224",
+          "indices": [
+            45,
+            68
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrENgvvVsAA9uUV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrENgvvVsAA9uUV.jpg",
+          "url": "https://t.co/ZqCYYVST10",
+          "display_url": "pic.twitter.com/ZqCYYVST10",
+          "expanded_url": "https://twitter.com/Granblue_GW/status/1058642587832147969/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 366,
+              "h": 580,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 366,
+              "h": 580,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 366,
+              "h": 580,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058642263742472197,
+          "id_str": "1058642263742472197",
+          "indices": [
+            45,
+            68
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrENh6qV4AUsCZ3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrENh6qV4AUsCZ3.jpg",
+          "url": "https://t.co/ZqCYYVST10",
+          "display_url": "pic.twitter.com/ZqCYYVST10",
+          "expanded_url": "https://twitter.com/Granblue_GW/status/1058642587832147969/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 351,
+              "h": 343,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 351,
+              "h": 343,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 351,
+              "h": 343,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058642284520951809,
+          "id_str": "1058642284520951809",
+          "indices": [
+            45,
+            68
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrENjIEUUAEYack.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrENjIEUUAEYack.jpg",
+          "url": "https://t.co/ZqCYYVST10",
+          "display_url": "pic.twitter.com/ZqCYYVST10",
+          "expanded_url": "https://twitter.com/Granblue_GW/status/1058642587832147969/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 352,
+              "h": 337,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 352,
+              "h": 337,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 352,
+              "h": 337,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "グラブル",
+        "indices": [
+          56,
+          61
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Granblue_GW",
+        "name": "グラブル攻略＠GameWith",
+        "id": 765113040345833473,
+        "id_str": "765113040345833473",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058642230787825664,
+        "id_str": "1058642230787825664",
+        "indices": [
+          62,
+          85
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrENf_5V4AAHzF5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrENf_5V4AAHzF5.jpg",
+        "url": "https://t.co/ZqCYYVST10",
+        "display_url": "pic.twitter.com/ZqCYYVST10",
+        "expanded_url": "https://twitter.com/Granblue_GW/status/1058642587832147969/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 404,
+            "h": 471,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 404,
+            "h": 471,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 404,
+            "h": 471,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058642587832147969,
+        "source_status_id_str": "1058642587832147969",
+        "source_user_id": 765113040345833473,
+        "source_user_id_str": "765113040345833473"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058642230787825664,
+        "id_str": "1058642230787825664",
+        "indices": [
+          62,
+          85
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrENf_5V4AAHzF5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrENf_5V4AAHzF5.jpg",
+        "url": "https://t.co/ZqCYYVST10",
+        "display_url": "pic.twitter.com/ZqCYYVST10",
+        "expanded_url": "https://twitter.com/Granblue_GW/status/1058642587832147969/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 404,
+            "h": 471,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 404,
+            "h": 471,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 404,
+            "h": 471,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058642587832147969,
+        "source_status_id_str": "1058642587832147969",
+        "source_user_id": 765113040345833473,
+        "source_user_id_str": "765113040345833473"
+      },
+      {
+        "id": 1058642243630772224,
+        "id_str": "1058642243630772224",
+        "indices": [
+          62,
+          85
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrENgvvVsAA9uUV.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrENgvvVsAA9uUV.jpg",
+        "url": "https://t.co/ZqCYYVST10",
+        "display_url": "pic.twitter.com/ZqCYYVST10",
+        "expanded_url": "https://twitter.com/Granblue_GW/status/1058642587832147969/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 366,
+            "h": 580,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 366,
+            "h": 580,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 366,
+            "h": 580,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058642587832147969,
+        "source_status_id_str": "1058642587832147969",
+        "source_user_id": 765113040345833473,
+        "source_user_id_str": "765113040345833473"
+      },
+      {
+        "id": 1058642263742472197,
+        "id_str": "1058642263742472197",
+        "indices": [
+          62,
+          85
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrENh6qV4AUsCZ3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrENh6qV4AUsCZ3.jpg",
+        "url": "https://t.co/ZqCYYVST10",
+        "display_url": "pic.twitter.com/ZqCYYVST10",
+        "expanded_url": "https://twitter.com/Granblue_GW/status/1058642587832147969/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 351,
+            "h": 343,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 351,
+            "h": 343,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 351,
+            "h": 343,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058642587832147969,
+        "source_status_id_str": "1058642587832147969",
+        "source_user_id": 765113040345833473,
+        "source_user_id_str": "765113040345833473"
+      },
+      {
+        "id": 1058642284520951809,
+        "id_str": "1058642284520951809",
+        "indices": [
+          62,
+          85
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrENjIEUUAEYack.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrENjIEUUAEYack.jpg",
+        "url": "https://t.co/ZqCYYVST10",
+        "display_url": "pic.twitter.com/ZqCYYVST10",
+        "expanded_url": "https://twitter.com/Granblue_GW/status/1058642587832147969/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 352,
+            "h": 337,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 352,
+            "h": 337,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 352,
+            "h": 337,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058642587832147969,
+        "source_status_id_str": "1058642587832147969",
+        "source_user_id": 765113040345833473,
+        "source_user_id_str": "765113040345833473"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254406661"
+}

@@ -1,0 +1,129 @@
+{
+  "created_at": "Sat Nov 03 14:26:42 +0000 2018",
+  "id": 1058727172020436992,
+  "id_str": "1058727172020436992",
+  "text": "ひき肉と玉ねぎだけで出来るなんて簡単!\n\n抽選で300名様に「とろっとワンプレート」シリーズが300名様に当たる!?期待の新星“ドリアミート”を応援しよう!キャンペーン期間：10/25 10:00～11/8 15:00… https://t.co/VBgYjjOjEJ",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 262148921,
+    "id_str": "262148921",
+    "name": "ごう",
+    "screen_name": "gou6789",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 146,
+    "friends_count": 1394,
+    "listed_count": 1,
+    "favourites_count": 2,
+    "statuses_count": 8362,
+    "created_at": "Mon Mar 07 13:18:30 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "ひき肉と玉ねぎだけで出来るなんて簡単!\n\n抽選で300名様に「とろっとワンプレート」シリーズが300名様に当たる!?期待の新星“ドリアミート”を応援しよう!キャンペーン期間：10/25 10:00～11/8 15:00 https://t.co/QoAH0Wuim4 #期待の新星ドリアミート #とろっとワンプレート #エスビー食品",
+    "display_text_range": [
+      0,
+      166
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "期待の新星ドリアミート",
+          "indices": [
+            134,
+            146
+          ]
+        },
+        {
+          "text": "とろっとワンプレート",
+          "indices": [
+            147,
+            158
+          ]
+        },
+        {
+          "text": "エスビー食品",
+          "indices": [
+            159,
+            166
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QoAH0Wuim4",
+          "expanded_url": "https://sbfoods-campaign.jp/yell/b",
+          "display_url": "sbfoods-campaign.jp/yell/b",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/VBgYjjOjEJ",
+        "expanded_url": "https://twitter.com/i/web/status/1058727172020436992",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          111,
+          134
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255202666"
+}

@@ -1,0 +1,168 @@
+{
+  "created_at": "Sat Nov 03 14:27:29 +0000 2018",
+  "id": 1058727369123524613,
+  "id_str": "1058727369123524613",
+  "text": "@Dai7010kame それです🤤 https://t.co/EfO4cl2yiq",
+  "display_text_range": [
+    13,
+    18
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058726881250357248,
+  "in_reply_to_status_id_str": "1058726881250357248",
+  "in_reply_to_user_id": 3394400474,
+  "in_reply_to_user_id_str": "3394400474",
+  "in_reply_to_screen_name": "Dai7010kame",
+  "user": {
+    "id": 1926261577,
+    "id_str": "1926261577",
+    "name": "狂乱の貴公子",
+    "screen_name": "showtime6126",
+    "location": null,
+    "url": "http://pixiv.me/lyricarhythm",
+    "description": "B'zBro、ギター、ゲーム大好きです。無言フォロー◎。オリジナル曲製作中(BOSS GT-100のPLで遊んでるだけですが)。たまに音源放出します。下記リンクは友人のpixivです。気に入ったら使ってあげてね。Like→B’z/Rock/ギター/ゲーム/アニメ/銀魂/SOA/もあちゃん/まりちゅう",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 198,
+    "friends_count": 295,
+    "listed_count": 0,
+    "favourites_count": 6749,
+    "statuses_count": 11063,
+    "created_at": "Wed Oct 02 08:53:53 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1032443543116103680/3WUusGBl_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032443543116103680/3WUusGBl_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1926261577/1510981799",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Dai7010kame",
+        "name": "終焉を喰らうアナルファイター銀河眼",
+        "id": 3394400474,
+        "id_str": "3394400474",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058727363070967808,
+        "id_str": "1058727363070967808",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFa7WXUwAA1IBC.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFa7WXUwAA1IBC.jpg",
+        "url": "https://t.co/EfO4cl2yiq",
+        "display_url": "pic.twitter.com/EfO4cl2yiq",
+        "expanded_url": "https://twitter.com/showtime6126/status/1058727369123524613/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 613,
+            "h": 501,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 613,
+            "h": 501,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 613,
+            "h": 501,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058727363070967808,
+        "id_str": "1058727363070967808",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFa7WXUwAA1IBC.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFa7WXUwAA1IBC.jpg",
+        "url": "https://t.co/EfO4cl2yiq",
+        "display_url": "pic.twitter.com/EfO4cl2yiq",
+        "expanded_url": "https://twitter.com/showtime6126/status/1058727369123524613/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 613,
+            "h": 501,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 613,
+            "h": 501,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 613,
+            "h": 501,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255249659"
+}

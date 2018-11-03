@@ -1,0 +1,161 @@
+{
+  "created_at": "Sat Nov 03 14:16:27 +0000 2018",
+  "id": 1058724592519274496,
+  "id_str": "1058724592519274496",
+  "text": "B8518052 :参戦ID\n参加者募集！\nLv120 メタトロン\nhttps://t.co/AYUDiFE6lB",
+  "source": "<a href=\"http://granbluefantasy.jp/\" rel=\"nofollow\">グランブルー ファンタジー</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 997413609452924928,
+    "id_str": "997413609452924928",
+    "name": "🌸SAKURA🌸",
+    "screen_name": "MScdXKq7NeTf9yE",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 0,
+    "friends_count": 0,
+    "listed_count": 0,
+    "favourites_count": 0,
+    "statuses_count": 261,
+    "created_at": "Fri May 18 09:48:30 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/997415147042885632/ekzPGTIt_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/997415147042885632/ekzPGTIt_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/997413609452924928/1526637295",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 978800229427236864,
+        "id_str": "978800229427236864",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/media/DZVln20U0AAIFLt.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DZVln20U0AAIFLt.jpg",
+        "url": "https://t.co/AYUDiFE6lB",
+        "display_url": "pic.twitter.com/AYUDiFE6lB",
+        "expanded_url": "https://twitter.com/twihelp_pic/status/978800237006413824/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 340,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 978800237006413824,
+        "source_status_id_str": "978800237006413824",
+        "source_user_id": 4253479160,
+        "source_user_id_str": "4253479160"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 978800229427236864,
+        "id_str": "978800229427236864",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/media/DZVln20U0AAIFLt.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DZVln20U0AAIFLt.jpg",
+        "url": "https://t.co/AYUDiFE6lB",
+        "display_url": "pic.twitter.com/AYUDiFE6lB",
+        "expanded_url": "https://twitter.com/twihelp_pic/status/978800237006413824/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 340,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 978800237006413824,
+        "source_status_id_str": "978800237006413824",
+        "source_user_id": 4253479160,
+        "source_user_id_str": "4253479160"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254587665"
+}

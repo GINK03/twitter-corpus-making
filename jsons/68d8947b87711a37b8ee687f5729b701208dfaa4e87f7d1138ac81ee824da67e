@@ -1,0 +1,161 @@
+{
+  "created_at": "Sat Nov 03 14:14:14 +0000 2018",
+  "id": 1058724034672640001,
+  "id_str": "1058724034672640001",
+  "text": "82B32C04 :参戦ID\n参加者募集！\nLv75 シュヴァリエ・マグナ\nhttps://t.co/1U7yJd4csm",
+  "source": "<a href=\"http://granbluefantasy.jp/\" rel=\"nofollow\">グランブルー ファンタジー</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 827104671915339776,
+    "id_str": "827104671915339776",
+    "name": "👋 真帆 👋",
+    "screen_name": "mahouso",
+    "location": "🍭マシュマロ🍭どうぞ",
+    "url": "https://marshmallow-qa.com/fate_shaffle",
+    "description": "最近は人理よりお空にかかりっきりなツイ廃ダメ人間。ショタとお姉さんが主食。趣味は料理/読書/イラスト。3L食べれる雑食系。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 243,
+    "friends_count": 231,
+    "listed_count": 9,
+    "favourites_count": 25676,
+    "statuses_count": 130825,
+    "created_at": "Thu Feb 02 10:41:35 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "FF691F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058722646790008834/seMFzT40_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058722646790008834/seMFzT40_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/827104671915339776/1527337533",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 666141400333840384,
+        "id_str": "666141400333840384",
+        "indices": [
+          38,
+          61
+        ],
+        "media_url": "http://pbs.twimg.com/media/CT6cEwEUcAAlwFM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/CT6cEwEUcAAlwFM.jpg",
+        "url": "https://t.co/1U7yJd4csm",
+        "display_url": "pic.twitter.com/1U7yJd4csm",
+        "expanded_url": "http://twitter.com/twihelp_pic/status/666141402011602944/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 340,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 666141402011602944,
+        "source_status_id_str": "666141402011602944",
+        "source_user_id": 4253479160,
+        "source_user_id_str": "4253479160"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 666141400333840384,
+        "id_str": "666141400333840384",
+        "indices": [
+          38,
+          61
+        ],
+        "media_url": "http://pbs.twimg.com/media/CT6cEwEUcAAlwFM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/CT6cEwEUcAAlwFM.jpg",
+        "url": "https://t.co/1U7yJd4csm",
+        "display_url": "pic.twitter.com/1U7yJd4csm",
+        "expanded_url": "http://twitter.com/twihelp_pic/status/666141402011602944/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 512,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 340,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 666141402011602944,
+        "source_status_id_str": "666141402011602944",
+        "source_user_id": 4253479160,
+        "source_user_id_str": "4253479160"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254454664"
+}

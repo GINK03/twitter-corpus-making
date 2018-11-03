@@ -1,0 +1,99 @@
+{
+  "created_at": "Sat Nov 03 14:23:11 +0000 2018",
+  "id": 1058726287009705984,
+  "id_str": "1058726287009705984",
+  "text": "@0524todom @Nyan245_ice そうなのか(*^^*)\nオタクのあたしくはほぼ全員、存じておりました😅\nデカパンくらいだったかな…わからなかったのは。",
+  "display_text_range": [
+    24,
+    83
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058725627728080901,
+  "in_reply_to_status_id_str": "1058725627728080901",
+  "in_reply_to_user_id": 986189084421906438,
+  "in_reply_to_user_id_str": "986189084421906438",
+  "in_reply_to_screen_name": "0524todom",
+  "user": {
+    "id": 1032832073424236544,
+    "id_str": "1032832073424236544",
+    "name": "なちきう",
+    "screen_name": "nachikiwii729",
+    "location": null,
+    "url": "https://www.pixiv.net/member.php?id=24260197",
+    "description": "成人済み、オタ垢\nおそ松沼にずっと浸かってます。\n箱推しです✨\nヒプマイも好き。\n基本、雑食です(* ´ ▽ ` *)ﾉ\n\n下手ではありますが、お絵描きが好きなので、こちらに挙げさせていただこうかと思ってます\n(っ･ω･)っ",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 90,
+    "friends_count": 112,
+    "listed_count": 7,
+    "favourites_count": 5462,
+    "statuses_count": 2312,
+    "created_at": "Fri Aug 24 03:28:50 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1040537280379682816/-gqYnu3C_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040537280379682816/-gqYnu3C_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1032832073424236544/1540186642",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "0524todom",
+        "name": "chip🐿️❄️💤",
+        "id": 986189084421906438,
+        "id_str": "986189084421906438",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "Nyan245_ice",
+        "name": "ꫛꫀꪝ✧‧˚にゃんチョコ先生",
+        "id": 1053090716098785280,
+        "id_str": "1053090716098785280",
+        "indices": [
+          11,
+          23
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254991663"
+}

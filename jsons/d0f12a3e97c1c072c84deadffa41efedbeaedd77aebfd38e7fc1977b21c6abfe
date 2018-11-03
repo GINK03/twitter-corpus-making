@@ -1,0 +1,495 @@
+{
+  "created_at": "Sat Nov 03 14:22:16 +0000 2018",
+  "id": 1058726056310403074,
+  "id_str": "1058726056310403074",
+  "text": "RT @TRACK_28: 181103 남우현 솔로콘서트 [植木日] day 2 #우현 🌳 \n\n우현+스탠드마이크... \n앤드 우현 감성......... ㅆㅏ랑 https://t.co/6qtfP5b23n",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2486982710,
+    "id_str": "2486982710",
+    "name": "ㅇㅎ",
+    "screen_name": "wh1439",
+    "location": null,
+    "url": null,
+    "description": "항상 고맙고 덕분에 행복해 #인피니트",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 0,
+    "friends_count": 171,
+    "listed_count": 1,
+    "favourites_count": 5954,
+    "statuses_count": 1361,
+    "created_at": "Sat May 10 06:31:16 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ko",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/947665510409256961/xkixtKEU_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/947665510409256961/xkixtKEU_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:36:14 +0000 2018",
+    "id": 1058714472242569216,
+    "id_str": "1058714472242569216",
+    "text": "181103 남우현 솔로콘서트 [植木日] day 2 #우현 🌳 \n\n우현+스탠드마이크... \n앤드 우현 감성......... ㅆㅏ랑 https://t.co/6qtfP5b23n",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 919039801046601728,
+      "id_str": "919039801046601728",
+      "name": "TRACK28",
+      "screen_name": "TRACK_28",
+      "location": "#우현 #남우현",
+      "url": null,
+      "description": "♥️ 넌 나의 사랑이자 영원한 고마움이야 ♥️",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 6805,
+      "friends_count": 3,
+      "listed_count": 258,
+      "favourites_count": 93,
+      "statuses_count": 758,
+      "created_at": "Sat Oct 14 03:18:58 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ko",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1058132134894792704/WgW4Bo4t_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058132134894792704/WgW4Bo4t_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/919039801046601728/1535648465",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 182,
+    "favorite_count": 177,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "우현",
+          "indices": [
+            29,
+            32
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058714458632085505,
+          "id_str": "1058714458632085505",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFPMNlV4AEtWmA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFPMNlV4AEtWmA.jpg",
+          "url": "https://t.co/6qtfP5b23n",
+          "display_url": "pic.twitter.com/6qtfP5b23n",
+          "expanded_url": "https://twitter.com/TRACK_28/status/1058714472242569216/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 466,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1404,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 823,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058714458632085505,
+          "id_str": "1058714458632085505",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFPMNlV4AEtWmA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFPMNlV4AEtWmA.jpg",
+          "url": "https://t.co/6qtfP5b23n",
+          "display_url": "pic.twitter.com/6qtfP5b23n",
+          "expanded_url": "https://twitter.com/TRACK_28/status/1058714472242569216/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 466,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1404,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 823,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058714458887843840,
+          "id_str": "1058714458887843840",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFPMOiUcAAc6U0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFPMOiUcAAc6U0.jpg",
+          "url": "https://t.co/6qtfP5b23n",
+          "display_url": "pic.twitter.com/6qtfP5b23n",
+          "expanded_url": "https://twitter.com/TRACK_28/status/1058714472242569216/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 464,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 818,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1396,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058714458636177411,
+          "id_str": "1058714458636177411",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFPMNmUUAMzMXl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFPMNmUUAMzMXl.jpg",
+          "url": "https://t.co/6qtfP5b23n",
+          "display_url": "pic.twitter.com/6qtfP5b23n",
+          "expanded_url": "https://twitter.com/TRACK_28/status/1058714472242569216/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1294,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 430,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 758,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "우현",
+        "indices": [
+          43,
+          46
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "TRACK_28",
+        "name": "TRACK28",
+        "id": 919039801046601728,
+        "id_str": "919039801046601728",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058714458632085505,
+        "id_str": "1058714458632085505",
+        "indices": [
+          87,
+          110
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFPMNlV4AEtWmA.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFPMNlV4AEtWmA.jpg",
+        "url": "https://t.co/6qtfP5b23n",
+        "display_url": "pic.twitter.com/6qtfP5b23n",
+        "expanded_url": "https://twitter.com/TRACK_28/status/1058714472242569216/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 466,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1404,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 823,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058714472242569216,
+        "source_status_id_str": "1058714472242569216",
+        "source_user_id": 919039801046601728,
+        "source_user_id_str": "919039801046601728"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058714458632085505,
+        "id_str": "1058714458632085505",
+        "indices": [
+          87,
+          110
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFPMNlV4AEtWmA.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFPMNlV4AEtWmA.jpg",
+        "url": "https://t.co/6qtfP5b23n",
+        "display_url": "pic.twitter.com/6qtfP5b23n",
+        "expanded_url": "https://twitter.com/TRACK_28/status/1058714472242569216/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 466,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1404,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 823,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058714472242569216,
+        "source_status_id_str": "1058714472242569216",
+        "source_user_id": 919039801046601728,
+        "source_user_id_str": "919039801046601728"
+      },
+      {
+        "id": 1058714458887843840,
+        "id_str": "1058714458887843840",
+        "indices": [
+          87,
+          110
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFPMOiUcAAc6U0.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFPMOiUcAAc6U0.jpg",
+        "url": "https://t.co/6qtfP5b23n",
+        "display_url": "pic.twitter.com/6qtfP5b23n",
+        "expanded_url": "https://twitter.com/TRACK_28/status/1058714472242569216/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 464,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 818,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1396,
+            "h": 2048,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058714472242569216,
+        "source_status_id_str": "1058714472242569216",
+        "source_user_id": 919039801046601728,
+        "source_user_id_str": "919039801046601728"
+      },
+      {
+        "id": 1058714458636177411,
+        "id_str": "1058714458636177411",
+        "indices": [
+          87,
+          110
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFPMNmUUAMzMXl.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFPMNmUUAMzMXl.jpg",
+        "url": "https://t.co/6qtfP5b23n",
+        "display_url": "pic.twitter.com/6qtfP5b23n",
+        "expanded_url": "https://twitter.com/TRACK_28/status/1058714472242569216/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1294,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 430,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 758,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058714472242569216,
+        "source_status_id_str": "1058714472242569216",
+        "source_user_id": 919039801046601728,
+        "source_user_id_str": "919039801046601728"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254936660"
+}

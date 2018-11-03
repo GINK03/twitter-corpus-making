@@ -1,0 +1,199 @@
+{
+  "created_at": "Sat Nov 03 13:51:04 +0000 2018",
+  "id": 1058718202216112128,
+  "id_str": "1058718202216112128",
+  "text": "バスターで殴り倒すBBちゃん周回が楽しい #イクタカとFGO https://t.co/lAtaFNgHJo",
+  "display_text_range": [
+    0,
+    30
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1370108400,
+    "id_str": "1370108400",
+    "name": "イクタカ",
+    "screen_name": "akatukiikutaka",
+    "location": "ヘッダー&アイコン：晴生さんより🐑",
+    "url": null,
+    "description": "音楽とゲームが好きです。ついたあだ名が「夜更かしベイビー👶」FGO2部1章で頭を強めに打ちました。https://Instagram.com/akatuki19taka",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 585,
+    "friends_count": 533,
+    "listed_count": 38,
+    "favourites_count": 21380,
+    "statuses_count": 97599,
+    "created_at": "Sun Apr 21 17:33:40 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "E00000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1057649299624873984/imtkXKSs_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057649299624873984/imtkXKSs_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1370108400/1509462084",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "イクタカとFGO",
+        "indices": [
+          21,
+          30
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058718136038383616,
+        "id_str": "1058718136038383616",
+        "indices": [
+          31,
+          54
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058718136038383616/pu/img/kKNRv3jYcLtabjyI.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058718136038383616/pu/img/kKNRv3jYcLtabjyI.jpg",
+        "url": "https://t.co/lAtaFNgHJo",
+        "display_url": "pic.twitter.com/lAtaFNgHJo",
+        "expanded_url": "https://twitter.com/akatukiikutaka/status/1058718202216112128/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058718136038383616,
+        "id_str": "1058718136038383616",
+        "indices": [
+          31,
+          54
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058718136038383616/pu/img/kKNRv3jYcLtabjyI.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058718136038383616/pu/img/kKNRv3jYcLtabjyI.jpg",
+        "url": "https://t.co/lAtaFNgHJo",
+        "display_url": "pic.twitter.com/lAtaFNgHJo",
+        "expanded_url": "https://twitter.com/akatukiikutaka/status/1058718202216112128/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 41080,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058718136038383616/pu/vid/640x360/4mczP3x8h0HjI8cf.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058718136038383616/pu/pl/9RtM3cHPKEohB2zB.m3u8?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058718136038383616/pu/vid/320x180/XiO0PSFgECzLrFc6.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058718136038383616/pu/vid/1280x720/_d9JrehmCrxL_lPR.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253064098"
+}

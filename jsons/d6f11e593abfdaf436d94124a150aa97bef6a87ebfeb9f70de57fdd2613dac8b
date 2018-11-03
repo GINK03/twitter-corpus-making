@@ -1,0 +1,100 @@
+{
+  "created_at": "Sat Nov 03 14:20:28 +0000 2018",
+  "id": 1058725603350765569,
+  "id_str": "1058725603350765569",
+  "text": "何もかも許せない\nお前の罪は永劫濯がれないんだよ\n歴戦の傭兵も地雷にはドン引き\n https://t.co/Ie9XKHd3Js #気が触れたオタクスロット #スロットメーカー\n絶対悪役でしょコレ",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2441732490,
+    "id_str": "2441732490",
+    "name": "路地屋",
+    "screen_name": "rojiyamatsugin",
+    "location": "ここが貴様の地雷原だ",
+    "url": "http://privatter.net/m/rojiyamatsugin",
+    "description": "岩",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 181,
+    "friends_count": 344,
+    "listed_count": 14,
+    "favourites_count": 98942,
+    "statuses_count": 101741,
+    "created_at": "Sun Apr 13 13:45:11 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "FF691F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1045534381714989057/M2Y9tOrr_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045534381714989057/M2Y9tOrr_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2441732490/1529842819",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "気が触れたオタクスロット",
+        "indices": [
+          65,
+          78
+        ]
+      },
+      {
+        "text": "スロットメーカー",
+        "indices": [
+          79,
+          88
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/Ie9XKHd3Js",
+        "expanded_url": "https://slot-maker.com/slot/26238/",
+        "display_url": "slot-maker.com/slot/26238/",
+        "indices": [
+          41,
+          64
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254828666"
+}

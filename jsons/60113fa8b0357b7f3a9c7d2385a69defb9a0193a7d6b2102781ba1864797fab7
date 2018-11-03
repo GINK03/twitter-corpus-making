@@ -1,0 +1,577 @@
+{
+  "created_at": "Sat Nov 03 14:19:07 +0000 2018",
+  "id": 1058725263582814210,
+  "id_str": "1058725263582814210",
+  "text": "RT @robanomimisoji: 小杉ゆん ©︎\n@kosugiyun \n\n2018.11.3\n新宿 路上ライブ\n\nゆんちゃんの素直な歌声が新宿の秋の夜空に吸い込まれていきましたね…(謎ポエム https://t.co/JMFVOveaZP",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 83416334,
+    "id_str": "83416334",
+    "name": "Yuyuke （ユッケ）",
+    "screen_name": "YuyukeX",
+    "location": null,
+    "url": null,
+    "description": "📷6D2 SIGMA 24art 35art 105art 💡430EX III-RT ST-E3-RT LS-50C",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1661,
+    "friends_count": 1314,
+    "listed_count": 38,
+    "favourites_count": 66450,
+    "statuses_count": 143191,
+    "created_at": "Sun Oct 18 18:37:04 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000730890077/e4fdf74159ff2ee68235303b4cbe54f5_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000730890077/e4fdf74159ff2ee68235303b4cbe54f5_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/83416334/1539527173",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 14:17:17 +0000 2018",
+    "id": 1058724802230333441,
+    "id_str": "1058724802230333441",
+    "text": "小杉ゆん ©︎\n@kosugiyun \n\n2018.11.3\n新宿 路上ライブ\n\nゆんちゃんの素直な歌声が新宿の秋の夜空に吸い込まれていきましたね…(謎ポエム https://t.co/JMFVOveaZP",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 116088736,
+      "id_str": "116088736",
+      "name": "スケスケスケルトン",
+      "screen_name": "robanomimisoji",
+      "location": null,
+      "url": null,
+      "description": "麦酒 偶像 撮影",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 871,
+      "friends_count": 1248,
+      "listed_count": 29,
+      "favourites_count": 22094,
+      "statuses_count": 132865,
+      "created_at": "Sun Feb 21 03:49:12 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1050316977795788800/fNDcmosJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050316977795788800/fNDcmosJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/116088736/1498646762",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "kosugiyun",
+          "name": "小杉ゆん🌻8月8日誕生日！",
+          "id": 4530326354,
+          "id_str": "4530326354",
+          "indices": [
+            8,
+            18
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058724788502355969,
+          "id_str": "1058724788502355969",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFYlfWVYAE8k92.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFYlfWVYAE8k92.jpg",
+          "url": "https://t.co/JMFVOveaZP",
+          "display_url": "pic.twitter.com/JMFVOveaZP",
+          "expanded_url": "https://twitter.com/robanomimisoji/status/1058724802230333441/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058724788502355969,
+          "id_str": "1058724788502355969",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFYlfWVYAE8k92.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFYlfWVYAE8k92.jpg",
+          "url": "https://t.co/JMFVOveaZP",
+          "display_url": "pic.twitter.com/JMFVOveaZP",
+          "expanded_url": "https://twitter.com/robanomimisoji/status/1058724802230333441/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058724788506517504,
+          "id_str": "1058724788506517504",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFYlfXU4AAGjJ5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFYlfXU4AAGjJ5.jpg",
+          "url": "https://t.co/JMFVOveaZP",
+          "display_url": "pic.twitter.com/JMFVOveaZP",
+          "expanded_url": "https://twitter.com/robanomimisoji/status/1058724802230333441/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 682,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 682,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058724788493942786,
+          "id_str": "1058724788493942786",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFYlfUVAAIXk7u.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFYlfUVAAIXk7u.jpg",
+          "url": "https://t.co/JMFVOveaZP",
+          "display_url": "pic.twitter.com/JMFVOveaZP",
+          "expanded_url": "https://twitter.com/robanomimisoji/status/1058724802230333441/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058724788489740288,
+          "id_str": "1058724788489740288",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFYlfTU4AAun91.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFYlfTU4AAun91.jpg",
+          "url": "https://t.co/JMFVOveaZP",
+          "display_url": "pic.twitter.com/JMFVOveaZP",
+          "expanded_url": "https://twitter.com/robanomimisoji/status/1058724802230333441/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 682,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 682,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "robanomimisoji",
+        "name": "スケスケスケルトン",
+        "id": 116088736,
+        "id_str": "116088736",
+        "indices": [
+          3,
+          18
+        ]
+      },
+      {
+        "screen_name": "kosugiyun",
+        "name": "小杉ゆん🌻8月8日誕生日！",
+        "id": 4530326354,
+        "id_str": "4530326354",
+        "indices": [
+          28,
+          38
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724788502355969,
+        "id_str": "1058724788502355969",
+        "indices": [
+          100,
+          123
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYlfWVYAE8k92.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYlfWVYAE8k92.jpg",
+        "url": "https://t.co/JMFVOveaZP",
+        "display_url": "pic.twitter.com/JMFVOveaZP",
+        "expanded_url": "https://twitter.com/robanomimisoji/status/1058724802230333441/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 682,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 682,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058724802230333441,
+        "source_status_id_str": "1058724802230333441",
+        "source_user_id": 116088736,
+        "source_user_id_str": "116088736"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724788502355969,
+        "id_str": "1058724788502355969",
+        "indices": [
+          100,
+          123
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYlfWVYAE8k92.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYlfWVYAE8k92.jpg",
+        "url": "https://t.co/JMFVOveaZP",
+        "display_url": "pic.twitter.com/JMFVOveaZP",
+        "expanded_url": "https://twitter.com/robanomimisoji/status/1058724802230333441/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 682,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 682,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058724802230333441,
+        "source_status_id_str": "1058724802230333441",
+        "source_user_id": 116088736,
+        "source_user_id_str": "116088736"
+      },
+      {
+        "id": 1058724788506517504,
+        "id_str": "1058724788506517504",
+        "indices": [
+          100,
+          123
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYlfXU4AAGjJ5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYlfXU4AAGjJ5.jpg",
+        "url": "https://t.co/JMFVOveaZP",
+        "display_url": "pic.twitter.com/JMFVOveaZP",
+        "expanded_url": "https://twitter.com/robanomimisoji/status/1058724802230333441/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 453,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 682,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 682,
+            "h": 1024,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058724802230333441,
+        "source_status_id_str": "1058724802230333441",
+        "source_user_id": 116088736,
+        "source_user_id_str": "116088736"
+      },
+      {
+        "id": 1058724788493942786,
+        "id_str": "1058724788493942786",
+        "indices": [
+          100,
+          123
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYlfUVAAIXk7u.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYlfUVAAIXk7u.jpg",
+        "url": "https://t.co/JMFVOveaZP",
+        "display_url": "pic.twitter.com/JMFVOveaZP",
+        "expanded_url": "https://twitter.com/robanomimisoji/status/1058724802230333441/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 682,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 682,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058724802230333441,
+        "source_status_id_str": "1058724802230333441",
+        "source_user_id": 116088736,
+        "source_user_id_str": "116088736"
+      },
+      {
+        "id": 1058724788489740288,
+        "id_str": "1058724788489740288",
+        "indices": [
+          100,
+          123
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYlfTU4AAun91.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYlfTU4AAun91.jpg",
+        "url": "https://t.co/JMFVOveaZP",
+        "display_url": "pic.twitter.com/JMFVOveaZP",
+        "expanded_url": "https://twitter.com/robanomimisoji/status/1058724802230333441/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 682,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 453,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 682,
+            "h": 1024,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058724802230333441,
+        "source_status_id_str": "1058724802230333441",
+        "source_user_id": 116088736,
+        "source_user_id_str": "116088736"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254747659"
+}

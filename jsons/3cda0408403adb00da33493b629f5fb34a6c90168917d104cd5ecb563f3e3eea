@@ -1,0 +1,157 @@
+{
+  "created_at": "Sat Nov 03 14:23:06 +0000 2018",
+  "id": 1058726266021457922,
+  "id_str": "1058726266021457922",
+  "text": "フレデリカはお迎えできなかったけどマキノと肇とこずえは来てくれたんだよね…\nこれ優勝ですよね！ https://t.co/FJ2hXNaI6w",
+  "display_text_range": [
+    0,
+    47
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2303069760,
+    "id_str": "2303069760",
+    "name": "りゅう★ちぇい@こずえとメットライフ",
+    "screen_name": "pokoronpa",
+    "location": "遊佐こずえ",
+    "url": null,
+    "description": "新世界の神！！！亜美と真美と美希とこずえとみりあとフレデリカと加蓮と環と育と桃子とかのんと志狼と直央と果穂。 アイマスが人生！札幌P",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1092,
+    "friends_count": 1272,
+    "listed_count": 27,
+    "favourites_count": 19561,
+    "statuses_count": 29485,
+    "created_at": "Tue Jan 21 13:13:27 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1046976225669984257/gLCurFYM_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046976225669984257/gLCurFYM_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2303069760/1535873283",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058726259285360641,
+        "id_str": "1058726259285360641",
+        "indices": [
+          48,
+          71
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZ7GcVAAE7tiQ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZ7GcVAAE7tiQ.jpg",
+        "url": "https://t.co/FJ2hXNaI6w",
+        "display_url": "pic.twitter.com/FJ2hXNaI6w",
+        "expanded_url": "https://twitter.com/pokoronpa/status/1058726266021457922/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058726259285360641,
+        "id_str": "1058726259285360641",
+        "indices": [
+          48,
+          71
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFZ7GcVAAE7tiQ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFZ7GcVAAE7tiQ.jpg",
+        "url": "https://t.co/FJ2hXNaI6w",
+        "display_url": "pic.twitter.com/FJ2hXNaI6w",
+        "expanded_url": "https://twitter.com/pokoronpa/status/1058726266021457922/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1334,
+            "h": 750,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254986659"
+}

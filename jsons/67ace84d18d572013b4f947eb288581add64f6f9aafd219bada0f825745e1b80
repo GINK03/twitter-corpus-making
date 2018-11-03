@@ -1,0 +1,378 @@
+{
+  "created_at": "Sat Nov 03 13:53:53 +0000 2018",
+  "id": 1058718913825976321,
+  "id_str": "1058718913825976321",
+  "text": "RT @yotto_00: セイバーオルタ\nhttps://t.co/odBkSK6m8L\n#FGO #セイバーオルタ https://t.co/AxUb8SCJOS",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 993793199402401792,
+    "id_str": "993793199402401792",
+    "name": "九十八九十九",
+    "screen_name": "toketaamakusa",
+    "location": null,
+    "url": null,
+    "description": "名前は【にたらず  つくも】と読みます\nアイコンとヘッダー画像はきゃらっとで作成したアバターを使用しています\n聖杯戦争企画とヒロはじに参加中\nゲームはFGOとかやってます",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 135,
+    "friends_count": 120,
+    "listed_count": 8,
+    "favourites_count": 86138,
+    "statuses_count": 43238,
+    "created_at": "Tue May 08 10:02:17 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/999637337591070720/JJZlhmms_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/999637337591070720/JJZlhmms_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/993793199402401792/1527167226",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Oct 31 08:35:10 +0000 2018",
+    "id": 1057551540188135424,
+    "id_str": "1057551540188135424",
+    "text": "セイバーオルタ\nhttps://t.co/odBkSK6m8L\n#FGO #セイバーオルタ https://t.co/AxUb8SCJOS",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1941321566,
+      "id_str": "1941321566",
+      "name": "ヨット",
+      "screen_name": "yotto_00",
+      "location": null,
+      "url": "https://www.pixiv.net/member.php?id=1334114",
+      "description": "最近になってツイッターを改めて使い始めました。描いた絵を載せたり。フォローお気軽に。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 452,
+      "friends_count": 623,
+      "listed_count": 4,
+      "favourites_count": 455,
+      "statuses_count": 270,
+      "created_at": "Sun Oct 06 15:42:54 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1020334082792730625/0LkfCMHZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020334082792730625/0LkfCMHZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1941321566/1535045282",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 44,
+    "favorite_count": 116,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            32,
+            36
+          ]
+        },
+        {
+          "text": "セイバーオルタ",
+          "indices": [
+            37,
+            45
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/odBkSK6m8L",
+          "expanded_url": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=71434998",
+          "display_url": "pixiv.net/member_illust.…",
+          "indices": [
+            8,
+            31
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1057551403348979713,
+          "id_str": "1057551403348979713",
+          "indices": [
+            46,
+            69
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq0tZfBU8AE8IV5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq0tZfBU8AE8IV5.jpg",
+          "url": "https://t.co/AxUb8SCJOS",
+          "display_url": "pic.twitter.com/AxUb8SCJOS",
+          "expanded_url": "https://twitter.com/yotto_00/status/1057551540188135424/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 848,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 848,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1057551403348979713,
+          "id_str": "1057551403348979713",
+          "indices": [
+            46,
+            69
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq0tZfBU8AE8IV5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq0tZfBU8AE8IV5.jpg",
+          "url": "https://t.co/AxUb8SCJOS",
+          "display_url": "pic.twitter.com/AxUb8SCJOS",
+          "expanded_url": "https://twitter.com/yotto_00/status/1057551540188135424/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 848,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 848,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          46,
+          50
+        ]
+      },
+      {
+        "text": "セイバーオルタ",
+        "indices": [
+          51,
+          59
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/odBkSK6m8L",
+        "expanded_url": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=71434998",
+        "display_url": "pixiv.net/member_illust.…",
+        "indices": [
+          22,
+          45
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "yotto_00",
+        "name": "ヨット",
+        "id": 1941321566,
+        "id_str": "1941321566",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1057551403348979713,
+        "id_str": "1057551403348979713",
+        "indices": [
+          60,
+          83
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq0tZfBU8AE8IV5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq0tZfBU8AE8IV5.jpg",
+        "url": "https://t.co/AxUb8SCJOS",
+        "display_url": "pic.twitter.com/AxUb8SCJOS",
+        "expanded_url": "https://twitter.com/yotto_00/status/1057551540188135424/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 848,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 481,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 848,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057551540188135424,
+        "source_status_id_str": "1057551540188135424",
+        "source_user_id": 1941321566,
+        "source_user_id_str": "1941321566"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1057551403348979713,
+        "id_str": "1057551403348979713",
+        "indices": [
+          60,
+          83
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq0tZfBU8AE8IV5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq0tZfBU8AE8IV5.jpg",
+        "url": "https://t.co/AxUb8SCJOS",
+        "display_url": "pic.twitter.com/AxUb8SCJOS",
+        "expanded_url": "https://twitter.com/yotto_00/status/1057551540188135424/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 848,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 481,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 848,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1057551540188135424,
+        "source_status_id_str": "1057551540188135424",
+        "source_user_id": 1941321566,
+        "source_user_id_str": "1941321566"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253233759"
+}

@@ -1,0 +1,161 @@
+{
+  "created_at": "Sat Nov 03 14:21:39 +0000 2018",
+  "id": 1058725901112725506,
+  "id_str": "1058725901112725506",
+  "text": "月刊少女野崎くん\n第１１話「米しよっ」 \n月刊少女野崎くんが好きな人はRT https://t.co/ETZ5qGMIYN(*´∀｀*)",
+  "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2931452519,
+    "id_str": "2931452519",
+    "name": "麻優子",
+    "screen_name": "li5tenseventee1",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 81,
+    "friends_count": 110,
+    "listed_count": 1,
+    "favourites_count": 0,
+    "statuses_count": 30020,
+    "created_at": "Fri Dec 19 03:51:27 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/552279896324452352/vIg36IaX_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/552279896324452352/vIg36IaX_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2931452519/1420508733",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 544631769316601857,
+        "id_str": "544631769316601857",
+        "indices": [
+          38,
+          61
+        ],
+        "media_url": "http://pbs.twimg.com/media/B47rtWeCMAE7R5g.png",
+        "media_url_https": "https://pbs.twimg.com/media/B47rtWeCMAE7R5g.png",
+        "url": "https://t.co/ETZ5qGMIYN",
+        "display_url": "pic.twitter.com/ETZ5qGMIYN",
+        "expanded_url": "http://twitter.com/juyh25/status/544631770008678400/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 800,
+            "h": 800,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 800,
+            "h": 800,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 544631770008678400,
+        "source_status_id_str": "544631770008678400",
+        "source_user_id": 2816698022,
+        "source_user_id_str": "2816698022"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 544631769316601857,
+        "id_str": "544631769316601857",
+        "indices": [
+          38,
+          61
+        ],
+        "media_url": "http://pbs.twimg.com/media/B47rtWeCMAE7R5g.png",
+        "media_url_https": "https://pbs.twimg.com/media/B47rtWeCMAE7R5g.png",
+        "url": "https://t.co/ETZ5qGMIYN",
+        "display_url": "pic.twitter.com/ETZ5qGMIYN",
+        "expanded_url": "http://twitter.com/juyh25/status/544631770008678400/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 800,
+            "h": 800,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 800,
+            "h": 800,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 544631770008678400,
+        "source_status_id_str": "544631770008678400",
+        "source_user_id": 2816698022,
+        "source_user_id_str": "2816698022"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254899658"
+}

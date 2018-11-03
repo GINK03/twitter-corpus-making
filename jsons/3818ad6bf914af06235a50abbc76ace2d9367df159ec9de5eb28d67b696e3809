@@ -1,0 +1,556 @@
+{
+  "created_at": "Sat Nov 03 14:07:47 +0000 2018",
+  "id": 1058722410667507713,
+  "id_str": "1058722410667507713",
+  "text": "RT @takappa100: FGOの新章に出てくる絵が\n水曜どうでしょうの\n移動中の風景にしか\n見えなかった。 https://t.co/Ld71FsOM8o",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 536470668,
+    "id_str": "536470668",
+    "name": "Shan",
+    "screen_name": "ashmf_641000",
+    "location": "福岡県",
+    "url": null,
+    "description": "第13サーバー「ブルネイ泊地」/ 第1サーバー「ブレスト」",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 557,
+    "friends_count": 935,
+    "listed_count": 4,
+    "favourites_count": 3925,
+    "statuses_count": 43395,
+    "created_at": "Sun Mar 25 15:11:24 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1B95E0",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "0068B3",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/922483633763450880/rd-80Tv6_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/922483633763450880/rd-80Tv6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/536470668/1523802926",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Dec 31 13:30:41 +0000 2017",
+    "id": 947460000573558784,
+    "id_str": "947460000573558784",
+    "text": "FGOの新章に出てくる絵が\n水曜どうでしょうの\n移動中の風景にしか\n見えなかった。 https://t.co/Ld71FsOM8o",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2489180028,
+      "id_str": "2489180028",
+      "name": "Takappa壱零零",
+      "screen_name": "takappa100",
+      "location": "大分",
+      "url": "https://www.youtube.com/channel/UCB7INy1WfAZ60pnt_jutEPA",
+      "description": "ゆっくり実況動画上げてます。\n不定期投稿ですが( 厂˙ω˙ )厂\n\n他にも色々やろうとしてるっぽい。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 346,
+      "friends_count": 231,
+      "listed_count": 6,
+      "favourites_count": 11131,
+      "statuses_count": 16377,
+      "created_at": "Sun May 11 03:07:20 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1048564315442184192/pDHy63lF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048564315442184192/pDHy63lF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2489180028/1506964204",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 70,
+    "reply_count": 38,
+    "retweet_count": 26507,
+    "favorite_count": 37826,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 947459941622628354,
+          "id_str": "947459941622628354",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/DSYNzAtUQAIAYk2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DSYNzAtUQAIAYk2.jpg",
+          "url": "https://t.co/Ld71FsOM8o",
+          "display_url": "pic.twitter.com/Ld71FsOM8o",
+          "expanded_url": "https://twitter.com/takappa100/status/947460000573558784/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 947459941622628354,
+          "id_str": "947459941622628354",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/DSYNzAtUQAIAYk2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DSYNzAtUQAIAYk2.jpg",
+          "url": "https://t.co/Ld71FsOM8o",
+          "display_url": "pic.twitter.com/Ld71FsOM8o",
+          "expanded_url": "https://twitter.com/takappa100/status/947460000573558784/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 947459956520792064,
+          "id_str": "947459956520792064",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/DSYNz4NUMAANcRa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DSYNz4NUMAANcRa.jpg",
+          "url": "https://t.co/Ld71FsOM8o",
+          "display_url": "pic.twitter.com/Ld71FsOM8o",
+          "expanded_url": "https://twitter.com/takappa100/status/947460000573558784/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 947459969510547458,
+          "id_str": "947459969510547458",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/DSYN0omUIAIDN5z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DSYN0omUIAIDN5z.jpg",
+          "url": "https://t.co/Ld71FsOM8o",
+          "display_url": "pic.twitter.com/Ld71FsOM8o",
+          "expanded_url": "https://twitter.com/takappa100/status/947460000573558784/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 947459984933076992,
+          "id_str": "947459984933076992",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/DSYN1iDVQAAtrHp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DSYN1iDVQAAtrHp.jpg",
+          "url": "https://t.co/Ld71FsOM8o",
+          "display_url": "pic.twitter.com/Ld71FsOM8o",
+          "expanded_url": "https://twitter.com/takappa100/status/947460000573558784/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "takappa100",
+        "name": "Takappa壱零零",
+        "id": 2489180028,
+        "id_str": "2489180028",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 947459941622628354,
+        "id_str": "947459941622628354",
+        "indices": [
+          58,
+          81
+        ],
+        "media_url": "http://pbs.twimg.com/media/DSYNzAtUQAIAYk2.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DSYNzAtUQAIAYk2.jpg",
+        "url": "https://t.co/Ld71FsOM8o",
+        "display_url": "pic.twitter.com/Ld71FsOM8o",
+        "expanded_url": "https://twitter.com/takappa100/status/947460000573558784/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 947460000573558784,
+        "source_status_id_str": "947460000573558784",
+        "source_user_id": 2489180028,
+        "source_user_id_str": "2489180028"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 947459941622628354,
+        "id_str": "947459941622628354",
+        "indices": [
+          58,
+          81
+        ],
+        "media_url": "http://pbs.twimg.com/media/DSYNzAtUQAIAYk2.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DSYNzAtUQAIAYk2.jpg",
+        "url": "https://t.co/Ld71FsOM8o",
+        "display_url": "pic.twitter.com/Ld71FsOM8o",
+        "expanded_url": "https://twitter.com/takappa100/status/947460000573558784/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 947460000573558784,
+        "source_status_id_str": "947460000573558784",
+        "source_user_id": 2489180028,
+        "source_user_id_str": "2489180028"
+      },
+      {
+        "id": 947459956520792064,
+        "id_str": "947459956520792064",
+        "indices": [
+          58,
+          81
+        ],
+        "media_url": "http://pbs.twimg.com/media/DSYNz4NUMAANcRa.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DSYNz4NUMAANcRa.jpg",
+        "url": "https://t.co/Ld71FsOM8o",
+        "display_url": "pic.twitter.com/Ld71FsOM8o",
+        "expanded_url": "https://twitter.com/takappa100/status/947460000573558784/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 947460000573558784,
+        "source_status_id_str": "947460000573558784",
+        "source_user_id": 2489180028,
+        "source_user_id_str": "2489180028"
+      },
+      {
+        "id": 947459969510547458,
+        "id_str": "947459969510547458",
+        "indices": [
+          58,
+          81
+        ],
+        "media_url": "http://pbs.twimg.com/media/DSYN0omUIAIDN5z.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DSYN0omUIAIDN5z.jpg",
+        "url": "https://t.co/Ld71FsOM8o",
+        "display_url": "pic.twitter.com/Ld71FsOM8o",
+        "expanded_url": "https://twitter.com/takappa100/status/947460000573558784/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 947460000573558784,
+        "source_status_id_str": "947460000573558784",
+        "source_user_id": 2489180028,
+        "source_user_id_str": "2489180028"
+      },
+      {
+        "id": 947459984933076992,
+        "id_str": "947459984933076992",
+        "indices": [
+          58,
+          81
+        ],
+        "media_url": "http://pbs.twimg.com/media/DSYN1iDVQAAtrHp.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DSYN1iDVQAAtrHp.jpg",
+        "url": "https://t.co/Ld71FsOM8o",
+        "display_url": "pic.twitter.com/Ld71FsOM8o",
+        "expanded_url": "https://twitter.com/takappa100/status/947460000573558784/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 947460000573558784,
+        "source_status_id_str": "947460000573558784",
+        "source_user_id": 2489180028,
+        "source_user_id_str": "2489180028"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254067471"
+}

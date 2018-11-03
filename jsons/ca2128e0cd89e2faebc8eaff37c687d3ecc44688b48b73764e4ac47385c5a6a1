@@ -1,0 +1,598 @@
+{
+  "created_at": "Sat Nov 03 14:04:10 +0000 2018",
+  "id": 1058721499698221056,
+  "id_str": "1058721499698221056",
+  "text": "RT @kamome_owasera: 最高かぁぁぁぁぁあああ！！！！ https://t.co/NHlgxkh7H2",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 995580350704189440,
+    "id_str": "995580350704189440",
+    "name": "シロア",
+    "screen_name": "41JnacjXx49Y3C1",
+    "location": null,
+    "url": null,
+    "description": "ゲームがメイン。アニメもラノベもマンガもそれなりにはよんでいるので大概の話にはついていけます。以後お見知り置きを_(:3 」∠)_",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 253,
+    "friends_count": 446,
+    "listed_count": 1,
+    "favourites_count": 5423,
+    "statuses_count": 3045,
+    "created_at": "Sun May 13 08:23:47 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1032219951510122496/keMnSFrZ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032219951510122496/keMnSFrZ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/995580350704189440/1538492021",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 10:48:03 +0000 2018",
+    "id": 1058309757096779776,
+    "id_str": "1058309757096779776",
+    "text": "最高かぁぁぁぁぁあああ！！！！ https://t.co/NHlgxkh7H2",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 724905502728179712,
+      "id_str": "724905502728179712",
+      "name": "榎もめ⚓️㊗️SAO3期",
+      "screen_name": "kamome_owasera",
+      "location": "メモデフ：陽炎組所属 ",
+      "url": "http://www.pixiv.net/member.php?id=22257211",
+      "description": "読み方“かもめ”/絵描き/ibisPaint X/学生/メッセージ→ https://marshmallow-qa.com/kamome_owasera?utm_medium=url_text&utm_source=promotion※イラスト保存の注意事項は固定ツイからお願いします。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 5111,
+      "friends_count": 447,
+      "listed_count": 49,
+      "favourites_count": 3559,
+      "statuses_count": 5052,
+      "created_at": "Tue Apr 26 10:18:34 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1053955816003268608/EcXtaEC7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053955816003268608/EcXtaEC7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/724905502728179712/1540010621",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058270538705993728,
+    "quoted_status_id_str": "1058270538705993728",
+    "quoted_status": {
+      "created_at": "Fri Nov 02 08:12:12 +0000 2018",
+      "id": 1058270538705993728,
+      "id_str": "1058270538705993728",
+      "text": "さらにモンスター交換所では「初等練士・ユージオ」と「初等練士・キリト」が登場します！ #パズドラ https://t.co/koUJYS0h5G",
+      "display_text_range": [
+        0,
+        48
+      ],
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 488103057,
+        "id_str": "488103057",
+        "name": "pad_sexy　パズル＆ドラゴンズ公式",
+        "screen_name": "pad_sexy",
+        "location": "真・無限回廊",
+        "url": "http://pad.gungho.jp/",
+        "description": "「パズル＆ドラゴンズ」公式広報のムラコです！パズドラのニュースをつぶやいたり、ユーザー様と会話したりするょ！よろしくね！(๑◡๑) ɭ ɿ兯ん❤  不具合/要望はコチラ！https://pad.gungho.jp/member/help/  #パズドラ",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "followers_count": 2503476,
+        "friends_count": 49,
+        "listed_count": 13087,
+        "favourites_count": 2,
+        "statuses_count": 7217,
+        "created_at": "Fri Feb 10 02:46:01 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "EB09B6",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/875555261137551360/CmeP-0Gr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875555261137551360/CmeP-0Gr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/488103057/1464326672",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 179,
+      "reply_count": 237,
+      "retweet_count": 3112,
+      "favorite_count": 5337,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "パズドラ",
+            "indices": [
+              43,
+              48
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058270062312738816,
+            "id_str": "1058270062312738816",
+            "indices": [
+              49,
+              72
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq-7A8SU0AAKhiM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq-7A8SU0AAKhiM.jpg",
+            "url": "https://t.co/koUJYS0h5G",
+            "display_url": "pic.twitter.com/koUJYS0h5G",
+            "expanded_url": "https://twitter.com/pad_sexy/status/1058270538705993728/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 397,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 640,
+                "h": 1096,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 1096,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058270062312738816,
+            "id_str": "1058270062312738816",
+            "indices": [
+              49,
+              72
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq-7A8SU0AAKhiM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq-7A8SU0AAKhiM.jpg",
+            "url": "https://t.co/koUJYS0h5G",
+            "display_url": "pic.twitter.com/koUJYS0h5G",
+            "expanded_url": "https://twitter.com/pad_sexy/status/1058270538705993728/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 397,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 640,
+                "h": 1096,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 1096,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058270110354305025,
+            "id_str": "1058270110354305025",
+            "indices": [
+              49,
+              72
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq-7DvQU8AE_iHp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq-7DvQU8AE_iHp.jpg",
+            "url": "https://t.co/koUJYS0h5G",
+            "display_url": "pic.twitter.com/koUJYS0h5G",
+            "expanded_url": "https://twitter.com/pad_sexy/status/1058270538705993728/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 397,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 640,
+                "h": 1096,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 1096,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/NHlgxkh7H2",
+      "expanded": "https://twitter.com/pad_sexy/status/1058270538705993728",
+      "display": "twitter.com/pad_sexy/statu…"
+    },
+    "is_quote_status": true,
+    "quote_count": 1,
+    "reply_count": 5,
+    "retweet_count": 25,
+    "favorite_count": 171,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/NHlgxkh7H2",
+          "expanded_url": "https://twitter.com/pad_sexy/status/1058270538705993728",
+          "display_url": "twitter.com/pad_sexy/statu…",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058270538705993728,
+  "quoted_status_id_str": "1058270538705993728",
+  "quoted_status": {
+    "created_at": "Fri Nov 02 08:12:12 +0000 2018",
+    "id": 1058270538705993728,
+    "id_str": "1058270538705993728",
+    "text": "さらにモンスター交換所では「初等練士・ユージオ」と「初等練士・キリト」が登場します！ #パズドラ https://t.co/koUJYS0h5G",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 488103057,
+      "id_str": "488103057",
+      "name": "pad_sexy　パズル＆ドラゴンズ公式",
+      "screen_name": "pad_sexy",
+      "location": "真・無限回廊",
+      "url": "http://pad.gungho.jp/",
+      "description": "「パズル＆ドラゴンズ」公式広報のムラコです！パズドラのニュースをつぶやいたり、ユーザー様と会話したりするょ！よろしくね！(๑◡๑) ɭ ɿ兯ん❤  不具合/要望はコチラ！https://pad.gungho.jp/member/help/  #パズドラ",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 2503476,
+      "friends_count": 49,
+      "listed_count": 13087,
+      "favourites_count": 2,
+      "statuses_count": 7217,
+      "created_at": "Fri Feb 10 02:46:01 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "EB09B6",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875555261137551360/CmeP-0Gr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875555261137551360/CmeP-0Gr_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/488103057/1464326672",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 179,
+    "reply_count": 237,
+    "retweet_count": 3112,
+    "favorite_count": 5337,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "パズドラ",
+          "indices": [
+            43,
+            48
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058270062312738816,
+          "id_str": "1058270062312738816",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq-7A8SU0AAKhiM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq-7A8SU0AAKhiM.jpg",
+          "url": "https://t.co/koUJYS0h5G",
+          "display_url": "pic.twitter.com/koUJYS0h5G",
+          "expanded_url": "https://twitter.com/pad_sexy/status/1058270538705993728/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 397,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 1096,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 1096,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058270062312738816,
+          "id_str": "1058270062312738816",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq-7A8SU0AAKhiM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq-7A8SU0AAKhiM.jpg",
+          "url": "https://t.co/koUJYS0h5G",
+          "display_url": "pic.twitter.com/koUJYS0h5G",
+          "expanded_url": "https://twitter.com/pad_sexy/status/1058270538705993728/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 397,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 1096,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 1096,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058270110354305025,
+          "id_str": "1058270110354305025",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq-7DvQU8AE_iHp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq-7DvQU8AE_iHp.jpg",
+          "url": "https://t.co/koUJYS0h5G",
+          "display_url": "pic.twitter.com/koUJYS0h5G",
+          "expanded_url": "https://twitter.com/pad_sexy/status/1058270538705993728/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 397,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 1096,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 1096,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/NHlgxkh7H2",
+    "expanded": "https://twitter.com/pad_sexy/status/1058270538705993728",
+    "display": "twitter.com/pad_sexy/statu…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/NHlgxkh7H2",
+        "expanded_url": "https://twitter.com/pad_sexy/status/1058270538705993728",
+        "display_url": "twitter.com/pad_sexy/statu…",
+        "indices": [
+          36,
+          59
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kamome_owasera",
+        "name": "榎もめ⚓️㊗️SAO3期",
+        "id": 724905502728179712,
+        "id_str": "724905502728179712",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253850279"
+}

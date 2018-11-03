@@ -1,0 +1,440 @@
+{
+  "created_at": "Sat Nov 03 14:26:27 +0000 2018",
+  "id": 1058727109084962818,
+  "id_str": "1058727109084962818",
+  "text": "RT @tamaconyan: 邊土名の凄さ❤️\n#dapump #issa #岡村隆史 https://t.co/qoF7cxKACM",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1036517311929188352,
+    "id_str": "1036517311929188352",
+    "name": "Kayokun",
+    "screen_name": "Kayokun2",
+    "location": "福岡県",
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 9,
+    "friends_count": 26,
+    "listed_count": 0,
+    "favourites_count": 3216,
+    "statuses_count": 63,
+    "created_at": "Mon Sep 03 07:32:39 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056560976902778881/6bM08sVT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056560976902778881/6bM08sVT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1036517311929188352/1540800725",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 09:07:29 +0000 2018",
+    "id": 1058284449010307072,
+    "id_str": "1058284449010307072",
+    "text": "邊土名の凄さ❤️\n#dapump #issa #岡村隆史 https://t.co/qoF7cxKACM",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 708941127387258880,
+      "id_str": "708941127387258880",
+      "name": "マヤ",
+      "screen_name": "tamaconyan",
+      "location": null,
+      "url": "https://www.instagram.com/maya_dpc/",
+      "description": "好きな瞬間を好きだと言っているだけ🐻\nYORIさん💙KENZOさん❤DAICHIさん💓7DP大好き😊DA PUMPを全力で応援してます💕皆さん仲良くしてくださいませ🌸いいねさせていただきます😆\n♥→#DAPUMP #YORI #KENZO #DAICHI #YoriDai #ゴーちゃん #もふもふ",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 67,
+      "friends_count": 128,
+      "listed_count": 0,
+      "favourites_count": 7727,
+      "statuses_count": 1402,
+      "created_at": "Sun Mar 13 09:01:51 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1044929573752688641/4T9OT5iV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044929573752688641/4T9OT5iV_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/708941127387258880/1539953873",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 2,
+    "reply_count": 0,
+    "retweet_count": 27,
+    "favorite_count": 110,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "dapump",
+          "indices": [
+            9,
+            16
+          ]
+        },
+        {
+          "text": "issa",
+          "indices": [
+            17,
+            22
+          ]
+        },
+        {
+          "text": "岡村隆史",
+          "indices": [
+            23,
+            28
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058284199235379200,
+          "id_str": "1058284199235379200",
+          "indices": [
+            29,
+            52
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058284199235379200/pu/img/Cp5ZDdXEzxzor7uE.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058284199235379200/pu/img/Cp5ZDdXEzxzor7uE.jpg",
+          "url": "https://t.co/qoF7cxKACM",
+          "display_url": "pic.twitter.com/qoF7cxKACM",
+          "expanded_url": "https://twitter.com/tamaconyan/status/1058284449010307072/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058284199235379200,
+          "id_str": "1058284199235379200",
+          "indices": [
+            29,
+            52
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058284199235379200/pu/img/Cp5ZDdXEzxzor7uE.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058284199235379200/pu/img/Cp5ZDdXEzxzor7uE.jpg",
+          "url": "https://t.co/qoF7cxKACM",
+          "display_url": "pic.twitter.com/qoF7cxKACM",
+          "expanded_url": "https://twitter.com/tamaconyan/status/1058284449010307072/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 116600,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058284199235379200/pu/pl/fvXmX5YHQnpF0m23.m3u8?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058284199235379200/pu/vid/640x360/9PB7gd5zlyAby_GQ.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058284199235379200/pu/vid/1280x720/TVgFFtyZWaB-hMQB.mp4?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058284199235379200/pu/vid/320x180/CYlNRqCOKsjdcpLs.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "dapump",
+        "indices": [
+          25,
+          32
+        ]
+      },
+      {
+        "text": "issa",
+        "indices": [
+          33,
+          38
+        ]
+      },
+      {
+        "text": "岡村隆史",
+        "indices": [
+          39,
+          44
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "tamaconyan",
+        "name": "マヤ",
+        "id": 708941127387258880,
+        "id_str": "708941127387258880",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058284199235379200,
+        "id_str": "1058284199235379200",
+        "indices": [
+          45,
+          68
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058284199235379200/pu/img/Cp5ZDdXEzxzor7uE.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058284199235379200/pu/img/Cp5ZDdXEzxzor7uE.jpg",
+        "url": "https://t.co/qoF7cxKACM",
+        "display_url": "pic.twitter.com/qoF7cxKACM",
+        "expanded_url": "https://twitter.com/tamaconyan/status/1058284449010307072/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058284449010307072,
+        "source_status_id_str": "1058284449010307072",
+        "source_user_id": 708941127387258880,
+        "source_user_id_str": "708941127387258880"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058284199235379200,
+        "id_str": "1058284199235379200",
+        "indices": [
+          45,
+          68
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058284199235379200/pu/img/Cp5ZDdXEzxzor7uE.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058284199235379200/pu/img/Cp5ZDdXEzxzor7uE.jpg",
+        "url": "https://t.co/qoF7cxKACM",
+        "display_url": "pic.twitter.com/qoF7cxKACM",
+        "expanded_url": "https://twitter.com/tamaconyan/status/1058284449010307072/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 116600,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058284199235379200/pu/pl/fvXmX5YHQnpF0m23.m3u8?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058284199235379200/pu/vid/640x360/9PB7gd5zlyAby_GQ.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058284199235379200/pu/vid/1280x720/TVgFFtyZWaB-hMQB.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058284199235379200/pu/vid/320x180/CYlNRqCOKsjdcpLs.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058284449010307072,
+        "source_status_id_str": "1058284449010307072",
+        "source_user_id": 708941127387258880,
+        "source_user_id_str": "708941127387258880"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255187661"
+}

@@ -1,0 +1,386 @@
+{
+  "created_at": "Sat Nov 03 14:00:05 +0000 2018",
+  "id": 1058720471015817220,
+  "id_str": "1058720471015817220",
+  "text": "RT @akitumarukawii: #艦これ版深夜の真剣お絵描き60分一本勝負\n#艦これ版真剣お絵描き60分一本勝負_20181103\n11/3 ＃磯風　＃艦これ\n究極の料理よ来たれ！！！！ https://t.co/QzkeuDgQgK",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 283114919,
+    "id_str": "283114919",
+    "name": "くだん",
+    "screen_name": "QDAN_",
+    "location": "岡山市",
+    "url": null,
+    "description": "声優、アニメ、TCG大好きです♪たまに同人サークル活動やってます。 主にゲストとして。\nミニ四駆とかもやってます。\nTCG:VG・WIXOSS・遊戯王・WS",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 55,
+    "friends_count": 82,
+    "listed_count": 4,
+    "favourites_count": 4035,
+    "statuses_count": 10583,
+    "created_at": "Sat Apr 16 16:15:29 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "E4F0EE",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "19CF86",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1033577094771400704/jzIXwZ6__normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1033577094771400704/jzIXwZ6__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/283114919/1535258898",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 13:32:04 +0000 2018",
+    "id": 1058713421309345792,
+    "id_str": "1058713421309345792",
+    "text": "#艦これ版深夜の真剣お絵描き60分一本勝負\n#艦これ版真剣お絵描き60分一本勝負_20181103\n11/3 ＃磯風　＃艦これ\n究極の料理よ来たれ！！！！ https://t.co/QzkeuDgQgK",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 849445740833382401,
+      "id_str": "849445740833382401",
+      "name": "わさびしゃもんてん",
+      "screen_name": "akitumarukawii",
+      "location": "お絵かきの森、ピクトセンス",
+      "url": null,
+      "description": "艦これ仲間フォローします繋がる輪でごぜーます！\n絵描きさんも同じくです！",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 197,
+      "friends_count": 200,
+      "listed_count": 3,
+      "favourites_count": 4579,
+      "statuses_count": 1328,
+      "created_at": "Wed Apr 05 02:17:01 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/867759792194035712/vsAzjgrn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/867759792194035712/vsAzjgrn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/849445740833382401/1513361151",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 6,
+    "favorite_count": 13,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "艦これ版深夜の真剣お絵描き60分一本勝負",
+          "indices": [
+            0,
+            21
+          ]
+        },
+        {
+          "text": "艦これ版真剣お絵描き60分一本勝負_20181103",
+          "indices": [
+            22,
+            49
+          ]
+        },
+        {
+          "text": "磯風",
+          "indices": [
+            55,
+            58
+          ]
+        },
+        {
+          "text": "艦これ",
+          "indices": [
+            59,
+            63
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058713412383850496,
+          "id_str": "1058713412383850496",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFOPUAUwAAEwp3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFOPUAUwAAEwp3.jpg",
+          "url": "https://t.co/QzkeuDgQgK",
+          "display_url": "pic.twitter.com/QzkeuDgQgK",
+          "expanded_url": "https://twitter.com/akitumarukawii/status/1058713421309345792/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 482,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1451,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 850,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058713412383850496,
+          "id_str": "1058713412383850496",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrFOPUAUwAAEwp3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrFOPUAUwAAEwp3.jpg",
+          "url": "https://t.co/QzkeuDgQgK",
+          "display_url": "pic.twitter.com/QzkeuDgQgK",
+          "expanded_url": "https://twitter.com/akitumarukawii/status/1058713421309345792/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 482,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1451,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 850,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "艦これ版深夜の真剣お絵描き60分一本勝負",
+        "indices": [
+          20,
+          41
+        ]
+      },
+      {
+        "text": "艦これ版真剣お絵描き60分一本勝負_20181103",
+        "indices": [
+          42,
+          69
+        ]
+      },
+      {
+        "text": "磯風",
+        "indices": [
+          75,
+          78
+        ]
+      },
+      {
+        "text": "艦これ",
+        "indices": [
+          79,
+          83
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "akitumarukawii",
+        "name": "わさびしゃもんてん",
+        "id": 849445740833382401,
+        "id_str": "849445740833382401",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058713412383850496,
+        "id_str": "1058713412383850496",
+        "indices": [
+          98,
+          121
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFOPUAUwAAEwp3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFOPUAUwAAEwp3.jpg",
+        "url": "https://t.co/QzkeuDgQgK",
+        "display_url": "pic.twitter.com/QzkeuDgQgK",
+        "expanded_url": "https://twitter.com/akitumarukawii/status/1058713421309345792/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 482,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1451,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 850,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058713421309345792,
+        "source_status_id_str": "1058713421309345792",
+        "source_user_id": 849445740833382401,
+        "source_user_id_str": "849445740833382401"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058713412383850496,
+        "id_str": "1058713412383850496",
+        "indices": [
+          98,
+          121
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFOPUAUwAAEwp3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFOPUAUwAAEwp3.jpg",
+        "url": "https://t.co/QzkeuDgQgK",
+        "display_url": "pic.twitter.com/QzkeuDgQgK",
+        "expanded_url": "https://twitter.com/akitumarukawii/status/1058713421309345792/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 482,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1451,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 850,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058713421309345792,
+        "source_status_id_str": "1058713421309345792",
+        "source_user_id": 849445740833382401,
+        "source_user_id_str": "849445740833382401"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253605022"
+}

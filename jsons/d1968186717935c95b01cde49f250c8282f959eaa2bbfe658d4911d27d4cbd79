@@ -1,0 +1,121 @@
+{
+  "created_at": "Sat Nov 03 13:58:11 +0000 2018",
+  "id": 1058719995033731072,
+  "id_str": "1058719995033731072",
+  "text": "2018/11/3\n22:58\n【学生もOK】\n本当に無料で課金ができる方法が見つかりました！下のURLはその方法を紹介している記事です。\n☟記事をみる☟\nhttps://t.co/j8sgmkZoER\n#荒野行動 #課金 #Fortnite #モンスト #緊急",
+  "source": "<a href=\"https://botbird.net\" rel=\"nofollow\">Botbird tweets</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1040842236873736192,
+    "id_str": "1040842236873736192",
+    "name": "【誰でもOK】“無料”で課金する方法",
+    "screen_name": "Free_kakin",
+    "location": "日本",
+    "url": null,
+    "description": "ポイントサイトや様々な方法を使って“学生”でも無料で課金する方法をお教えします。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 16,
+    "friends_count": 85,
+    "listed_count": 0,
+    "favourites_count": 0,
+    "statuses_count": 1140,
+    "created_at": "Sat Sep 15 05:58:21 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1040843606666371072/rwATLY2S_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040843606666371072/rwATLY2S_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1040842236873736192/1536991507",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "荒野行動",
+        "indices": [
+          102,
+          107
+        ]
+      },
+      {
+        "text": "課金",
+        "indices": [
+          108,
+          111
+        ]
+      },
+      {
+        "text": "Fortnite",
+        "indices": [
+          112,
+          121
+        ]
+      },
+      {
+        "text": "モンスト",
+        "indices": [
+          122,
+          127
+        ]
+      },
+      {
+        "text": "緊急",
+        "indices": [
+          128,
+          131
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/j8sgmkZoER",
+        "expanded_url": "https://ameblo.jp/yutahyon-yt/entry-12404055425.html",
+        "display_url": "ameblo.jp/yutahyon-yt/en…",
+        "indices": [
+          78,
+          101
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253491539"
+}

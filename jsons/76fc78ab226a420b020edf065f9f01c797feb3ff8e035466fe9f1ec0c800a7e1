@@ -1,0 +1,212 @@
+{
+  "created_at": "Sat Nov 03 14:09:36 +0000 2018",
+  "id": 1058722869985730560,
+  "id_str": "1058722869985730560",
+  "text": "必ず当たる方法らしい…自分は当たりました！\n＃モンスト\n＃モンストガチャ\n＃当たる方法？ https://t.co/J9SUq4oGsQ",
+  "display_text_range": [
+    0,
+    44
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1058719708499701760,
+    "id_str": "1058719708499701760",
+    "name": "ZORDOx.y SABU",
+    "screen_name": "YZordox",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1,
+    "friends_count": 4,
+    "listed_count": 0,
+    "favourites_count": 5,
+    "statuses_count": 1,
+    "created_at": "Sat Nov 03 13:57:03 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058719901500592128/sTFdDjKx_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058719901500592128/sTFdDjKx_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "モンスト",
+        "indices": [
+          22,
+          27
+        ]
+      },
+      {
+        "text": "モンストガチャ",
+        "indices": [
+          28,
+          36
+        ]
+      },
+      {
+        "text": "当たる方法",
+        "indices": [
+          37,
+          43
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058722776905732097,
+        "id_str": "1058722776905732097",
+        "indices": [
+          45,
+          68
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058722776905732097/pu/img/8AUtbD54OY__PXkG.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058722776905732097/pu/img/8AUtbD54OY__PXkG.jpg",
+        "url": "https://t.co/J9SUq4oGsQ",
+        "display_url": "pic.twitter.com/J9SUq4oGsQ",
+        "expanded_url": "https://twitter.com/YZordox/status/1058722869985730560/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058722776905732097,
+        "id_str": "1058722776905732097",
+        "indices": [
+          45,
+          68
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058722776905732097/pu/img/8AUtbD54OY__PXkG.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058722776905732097/pu/img/8AUtbD54OY__PXkG.jpg",
+        "url": "https://t.co/J9SUq4oGsQ",
+        "display_url": "pic.twitter.com/J9SUq4oGsQ",
+        "expanded_url": "https://twitter.com/YZordox/status/1058722869985730560/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 34570,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058722776905732097/pu/vid/360x640/0SOt_IKKoppXwq1I.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058722776905732097/pu/vid/720x1280/gx2RYd7iRlGJI-fh.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058722776905732097/pu/vid/180x320/wxscuaeSB-hVJjxf.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058722776905732097/pu/pl/NjBjDnNJgiWpeD1O.m3u8?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254176981"
+}

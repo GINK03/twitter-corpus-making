@@ -1,0 +1,191 @@
+{
+  "created_at": "Sat Nov 03 14:23:38 +0000 2018",
+  "id": 1058726400247513088,
+  "id_str": "1058726400247513088",
+  "text": "はぁ…… https://t.co/C50MxoKdpf",
+  "display_text_range": [
+    0,
+    4
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 910337945655062528,
+    "id_str": "910337945655062528",
+    "name": "유아(ﾕｱ)🐶とにかくちゅうぃたん",
+    "screen_name": "onlytwicetztztz",
+    "location": "保育",
+    "url": null,
+    "description": "(ついったーでチヤホヤされない系)JK",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 6065,
+    "friends_count": 3291,
+    "listed_count": 10,
+    "favourites_count": 4003,
+    "statuses_count": 4152,
+    "created_at": "Wed Sep 20 03:00:54 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1051419406012538880/33CK4QVp_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051419406012538880/33CK4QVp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/910337945655062528/1531133652",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058726343095930880,
+        "id_str": "1058726343095930880",
+        "indices": [
+          5,
+          28
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058726343095930880/pu/img/9O858m-DHjjhqcY2.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058726343095930880/pu/img/9O858m-DHjjhqcY2.jpg",
+        "url": "https://t.co/C50MxoKdpf",
+        "display_url": "pic.twitter.com/C50MxoKdpf",
+        "expanded_url": "https://twitter.com/onlytwicetztztz/status/1058726400247513088/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058726343095930880,
+        "id_str": "1058726343095930880",
+        "indices": [
+          5,
+          28
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058726343095930880/pu/img/9O858m-DHjjhqcY2.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058726343095930880/pu/img/9O858m-DHjjhqcY2.jpg",
+        "url": "https://t.co/C50MxoKdpf",
+        "display_url": "pic.twitter.com/C50MxoKdpf",
+        "expanded_url": "https://twitter.com/onlytwicetztztz/status/1058726400247513088/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 10267,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058726343095930880/pu/vid/1280x720/BnfFmhjIgG2gZ4ym.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058726343095930880/pu/vid/640x360/t1IlADu6MNDdmS_M.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058726343095930880/pu/vid/320x180/HZFdHoA9e2XfwhRf.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058726343095930880/pu/pl/Xyoo9L-bmmNJNzbi.m3u8?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255018661"
+}

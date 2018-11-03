@@ -1,0 +1,395 @@
+{
+  "created_at": "Sat Nov 03 14:25:16 +0000 2018",
+  "id": 1058726811272568832,
+  "id_str": "1058726811272568832",
+  "text": "RT @warui_vanessa: 全覚のブーストゲージ回復量の情報が色々出回っていて変な読み合いが始まっているので比較用にどうぞ https://t.co/s2lWffsThb",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4428933254,
+    "id_str": "4428933254",
+    "name": "愛知を飛び立った大分県民in兵庫県",
+    "screen_name": "smartred02",
+    "location": null,
+    "url": null,
+    "description": "将来の夢はプロの消費者、銀プレレイダー障害者です。\n艦これACとFGOとシノマスもやります。\n\nバーサスは完全に死にました。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 48,
+    "friends_count": 198,
+    "listed_count": 0,
+    "favourites_count": 2451,
+    "statuses_count": 2484,
+    "created_at": "Wed Dec 02 07:34:55 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "FA743E",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/675342042566823936/CBnK84mN_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/675342042566823936/CBnK84mN_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4428933254/1451493714",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 01:54:06 +0000 2018",
+    "id": 1058537773248872448,
+    "id_str": "1058537773248872448",
+    "text": "全覚のブーストゲージ回復量の情報が色々出回っていて変な読み合いが始まっているので比較用にどうぞ https://t.co/s2lWffsThb",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2903789023,
+      "id_str": "2903789023",
+      "name": "ベネッサ☆",
+      "screen_name": "warui_vanessa",
+      "location": null,
+      "url": null,
+      "description": "新宿スポーツランド本館のガンダム系店員です。エクバ2検証勢、随時情報を垂れ流していきます。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 339,
+      "friends_count": 294,
+      "listed_count": 7,
+      "favourites_count": 16,
+      "statuses_count": 1219,
+      "created_at": "Tue Nov 18 15:15:52 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 441,
+    "favorite_count": 317,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058537277339529217,
+          "id_str": "1058537277339529217",
+          "indices": [
+            48,
+            71
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058537277339529217/pu/img/IXfDa9lcliuI2sCT.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058537277339529217/pu/img/IXfDa9lcliuI2sCT.jpg",
+          "url": "https://t.co/s2lWffsThb",
+          "display_url": "pic.twitter.com/s2lWffsThb",
+          "expanded_url": "https://twitter.com/warui_vanessa/status/1058537773248872448/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058537277339529217,
+          "id_str": "1058537277339529217",
+          "indices": [
+            48,
+            71
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058537277339529217/pu/img/IXfDa9lcliuI2sCT.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058537277339529217/pu/img/IXfDa9lcliuI2sCT.jpg",
+          "url": "https://t.co/s2lWffsThb",
+          "display_url": "pic.twitter.com/s2lWffsThb",
+          "expanded_url": "https://twitter.com/warui_vanessa/status/1058537773248872448/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 29310,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058537277339529217/pu/vid/720x1280/Z6QM08Fk9hmwNeX9.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058537277339529217/pu/vid/360x640/IyNO4P67_kBvz9at.mp4?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058537277339529217/pu/vid/180x320/iffJCllCO1bWDv8Z.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058537277339529217/pu/pl/q3yo_OnsTxVG0s7S.m3u8?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "warui_vanessa",
+        "name": "ベネッサ☆",
+        "id": 2903789023,
+        "id_str": "2903789023",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058537277339529217,
+        "id_str": "1058537277339529217",
+        "indices": [
+          67,
+          90
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058537277339529217/pu/img/IXfDa9lcliuI2sCT.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058537277339529217/pu/img/IXfDa9lcliuI2sCT.jpg",
+        "url": "https://t.co/s2lWffsThb",
+        "display_url": "pic.twitter.com/s2lWffsThb",
+        "expanded_url": "https://twitter.com/warui_vanessa/status/1058537773248872448/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058537773248872448,
+        "source_status_id_str": "1058537773248872448",
+        "source_user_id": 2903789023,
+        "source_user_id_str": "2903789023"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058537277339529217,
+        "id_str": "1058537277339529217",
+        "indices": [
+          67,
+          90
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058537277339529217/pu/img/IXfDa9lcliuI2sCT.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058537277339529217/pu/img/IXfDa9lcliuI2sCT.jpg",
+        "url": "https://t.co/s2lWffsThb",
+        "display_url": "pic.twitter.com/s2lWffsThb",
+        "expanded_url": "https://twitter.com/warui_vanessa/status/1058537773248872448/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 29310,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058537277339529217/pu/vid/720x1280/Z6QM08Fk9hmwNeX9.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058537277339529217/pu/vid/360x640/IyNO4P67_kBvz9at.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058537277339529217/pu/vid/180x320/iffJCllCO1bWDv8Z.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058537277339529217/pu/pl/q3yo_OnsTxVG0s7S.m3u8?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058537773248872448,
+        "source_status_id_str": "1058537773248872448",
+        "source_user_id": 2903789023,
+        "source_user_id_str": "2903789023"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255116657"
+}

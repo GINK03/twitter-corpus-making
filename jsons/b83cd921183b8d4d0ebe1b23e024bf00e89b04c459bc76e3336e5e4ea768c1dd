@@ -1,0 +1,396 @@
+{
+  "created_at": "Sat Nov 03 14:18:09 +0000 2018",
+  "id": 1058725020304781312,
+  "id_str": "1058725020304781312",
+  "text": "RT @kiry0107: MESHmachine凄く楽しい……\nチュートリアル見ながらようやくオリジナル素材を作るところまで覚えました^^ https://t.co/X9M9vbFzkL",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1262561665,
+    "id_str": "1262561665",
+    "name": "アズマ",
+    "screen_name": "AzzBaked",
+    "location": null,
+    "url": null,
+    "description": "漫画とか模型とか好きです。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 213,
+    "friends_count": 345,
+    "listed_count": 10,
+    "favourites_count": 4237,
+    "statuses_count": 8462,
+    "created_at": "Tue Mar 12 18:10:14 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "89C9FA",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/987986473956737024/f5W85Ote_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/987986473956737024/f5W85Ote_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1262561665/1463700566",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 12:39:51 +0000 2018",
+    "id": 1058700282933067778,
+    "id_str": "1058700282933067778",
+    "text": "MESHmachine凄く楽しい……\nチュートリアル見ながらようやくオリジナル素材を作るところまで覚えました^^ https://t.co/X9M9vbFzkL",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3019083590,
+      "id_str": "3019083590",
+      "name": "ryuma",
+      "screen_name": "kiry0107",
+      "location": "東京の隅っこの方",
+      "url": "https://m.youtube.com/channel/UCGaYnVOOAx3meaJmx2N_Lhw",
+      "description": "【ASATEC】でモデリング・アニメーション制作などしております。お仕事のご依頼等は此方のサイトからお願いいたします ※http://asatec.jp     普段は個人作品(blender/たまにunity)を投稿しています ※http://facebook.com/kiry0107",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 665,
+      "friends_count": 643,
+      "listed_count": 16,
+      "favourites_count": 4808,
+      "statuses_count": 2386,
+      "created_at": "Sat Feb 14 03:12:10 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1022463090061762560/eNVULf_i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022463090061762560/eNVULf_i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3019083590/1532616730",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 26,
+    "favorite_count": 68,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058700145011830784,
+          "id_str": "1058700145011830784",
+          "indices": [
+            57,
+            80
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058700145011830784/pu/img/YM6tbVPYqrq-sN_n.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058700145011830784/pu/img/YM6tbVPYqrq-sN_n.jpg",
+          "url": "https://t.co/X9M9vbFzkL",
+          "display_url": "pic.twitter.com/X9M9vbFzkL",
+          "expanded_url": "https://twitter.com/kiry0107/status/1058700282933067778/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 360,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1360,
+              "h": 720,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 635,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058700145011830784,
+          "id_str": "1058700145011830784",
+          "indices": [
+            57,
+            80
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058700145011830784/pu/img/YM6tbVPYqrq-sN_n.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058700145011830784/pu/img/YM6tbVPYqrq-sN_n.jpg",
+          "url": "https://t.co/X9M9vbFzkL",
+          "display_url": "pic.twitter.com/X9M9vbFzkL",
+          "expanded_url": "https://twitter.com/kiry0107/status/1058700282933067778/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              17,
+              9
+            ],
+            "duration_millis": 22834,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058700145011830784/pu/vid/340x180/vgni3aZ5SymDNqt4.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058700145011830784/pu/pl/L0Kiw59-xO9DoE3O.m3u8?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058700145011830784/pu/vid/680x360/P-KxNa0ZKbaS03an.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058700145011830784/pu/vid/1360x720/b4EeH6HaE6ciW194.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 360,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1360,
+              "h": 720,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 635,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "kiry0107",
+        "name": "ryuma",
+        "id": 3019083590,
+        "id_str": "3019083590",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058700145011830784,
+        "id_str": "1058700145011830784",
+        "indices": [
+          71,
+          94
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058700145011830784/pu/img/YM6tbVPYqrq-sN_n.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058700145011830784/pu/img/YM6tbVPYqrq-sN_n.jpg",
+        "url": "https://t.co/X9M9vbFzkL",
+        "display_url": "pic.twitter.com/X9M9vbFzkL",
+        "expanded_url": "https://twitter.com/kiry0107/status/1058700282933067778/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 360,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1360,
+            "h": 720,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 635,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058700282933067778,
+        "source_status_id_str": "1058700282933067778",
+        "source_user_id": 3019083590,
+        "source_user_id_str": "3019083590"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058700145011830784,
+        "id_str": "1058700145011830784",
+        "indices": [
+          71,
+          94
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058700145011830784/pu/img/YM6tbVPYqrq-sN_n.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058700145011830784/pu/img/YM6tbVPYqrq-sN_n.jpg",
+        "url": "https://t.co/X9M9vbFzkL",
+        "display_url": "pic.twitter.com/X9M9vbFzkL",
+        "expanded_url": "https://twitter.com/kiry0107/status/1058700282933067778/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            17,
+            9
+          ],
+          "duration_millis": 22834,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058700145011830784/pu/vid/340x180/vgni3aZ5SymDNqt4.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058700145011830784/pu/pl/L0Kiw59-xO9DoE3O.m3u8?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058700145011830784/pu/vid/680x360/P-KxNa0ZKbaS03an.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058700145011830784/pu/vid/1360x720/b4EeH6HaE6ciW194.mp4?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 360,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1360,
+            "h": 720,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 635,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058700282933067778,
+        "source_status_id_str": "1058700282933067778",
+        "source_user_id": 3019083590,
+        "source_user_id_str": "3019083590"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254689657"
+}

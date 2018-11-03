@@ -1,0 +1,193 @@
+{
+  "created_at": "Sat Nov 03 14:02:07 +0000 2018",
+  "id": 1058720984029528065,
+  "id_str": "1058720984029528065",
+  "text": "なんかFGOっぽい字面になった記念。あと、狙ってない下ネタ単語が登録されてしまった https://t.co/m7bNg6d2P5",
+  "display_text_range": [
+    0,
+    41
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 88372463,
+    "id_str": "88372463",
+    "name": "kokozou",
+    "screen_name": "kokozou_",
+    "location": "関東近郊",
+    "url": "http://www.eventernote.com/users/kokozou_",
+    "description": "今井麻美好きなミン族。ゆきんこも好きで、革ブロ同志。キルミスト。公式RT厨なので注意。アニメ、ゲーム、声優話が多めで雑食系ニコ厨。ソワカちゃんとか特に。深夜アニメのオンタイム全話視聴はアニマスが初。みならいディーバもオンタイム。猫芋ハーフ資産家。コープスパーティー公式サポーターNo.30",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 905,
+    "friends_count": 3283,
+    "listed_count": 56,
+    "favourites_count": 13070,
+    "statuses_count": 74299,
+    "created_at": "Sun Nov 08 07:22:57 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8B542B",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "9D582E",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EADEAA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/628754185727574016/a93NzGjL_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/628754185727574016/a93NzGjL_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/88372463/1421216474",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058720973585707008,
+        "id_str": "1058720973585707008",
+        "indices": [
+          42,
+          65
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFVHbrU8AAcWU9.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFVHbrU8AAcWU9.jpg",
+        "url": "https://t.co/m7bNg6d2P5",
+        "display_url": "pic.twitter.com/m7bNg6d2P5",
+        "expanded_url": "https://twitter.com/kokozou_/status/1058720984029528065/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058720973585707008,
+        "id_str": "1058720973585707008",
+        "indices": [
+          42,
+          65
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFVHbrU8AAcWU9.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFVHbrU8AAcWU9.jpg",
+        "url": "https://t.co/m7bNg6d2P5",
+        "display_url": "pic.twitter.com/m7bNg6d2P5",
+        "expanded_url": "https://twitter.com/kokozou_/status/1058720984029528065/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058720973573120000,
+        "id_str": "1058720973573120000",
+        "indices": [
+          42,
+          65
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFVHboU4AAAGCl.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFVHboU4AAAGCl.jpg",
+        "url": "https://t.co/m7bNg6d2P5",
+        "display_url": "pic.twitter.com/m7bNg6d2P5",
+        "expanded_url": "https://twitter.com/kokozou_/status/1058720984029528065/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 750,
+            "h": 1334,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253727334"
+}

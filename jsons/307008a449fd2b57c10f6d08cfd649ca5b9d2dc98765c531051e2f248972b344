@@ -1,0 +1,396 @@
+{
+  "created_at": "Sat Nov 03 14:21:37 +0000 2018",
+  "id": 1058725892749312000,
+  "id_str": "1058725892749312000",
+  "text": "RT @171027_JTJNHYJ: とりあえず来週は反日だの新規が増えるだの置いといてサンバなんだからみんな仲良く踊ろうぜ https://t.co/IQpdLQTRwY",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1041252382472957952,
+    "id_str": "1041252382472957952",
+    "name": "みう(미우)🐯",
+    "screen_name": "RL4ZJvwcujgHv5S",
+    "location": null,
+    "url": null,
+    "description": "┊︎DM大歓迎◎┊︎02line┊︎関東住み┊︎東京ドーム13日参戦┊︎",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 261,
+    "friends_count": 278,
+    "listed_count": 10,
+    "favourites_count": 2109,
+    "statuses_count": 655,
+    "created_at": "Sun Sep 16 09:08:08 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1055101801777647616/CObliaff_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055101801777647616/CObliaff_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1041252382472957952/1539441608",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 14:27:32 +0000 2018",
+    "id": 1058364994574663680,
+    "id_str": "1058364994574663680",
+    "text": "とりあえず来週は反日だの新規が増えるだの置いといてサンバなんだからみんな仲良く踊ろうぜ https://t.co/IQpdLQTRwY",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 758883004756299776,
+      "id_str": "758883004756299776",
+      "name": "ｼｵｶﾗｧｧｧｧｧ🦑土日だけ浮上！",
+      "screen_name": "171027_JTJNHYJ",
+      "location": "armyさんﾌｫﾛﾊﾞ100%",
+      "url": null,
+      "description": "ユンギさんがすっき～～～～～～～！！！受験期低浮上終わるまでDM❌@BTS_twt",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 4435,
+      "friends_count": 3848,
+      "listed_count": 16,
+      "favourites_count": 5114,
+      "statuses_count": 2490,
+      "created_at": "Fri Jul 29 04:33:02 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1013291029573730304/NDheO87l_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013291029573730304/NDheO87l_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/758883004756299776/1533118447",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 145,
+    "favorite_count": 1353,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058364934071840768,
+          "id_str": "1058364934071840768",
+          "indices": [
+            44,
+            67
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058364934071840768/pu/img/DbGx2eq387kWhtff.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058364934071840768/pu/img/DbGx2eq387kWhtff.jpg",
+          "url": "https://t.co/IQpdLQTRwY",
+          "display_url": "pic.twitter.com/IQpdLQTRwY",
+          "expanded_url": "https://twitter.com/171027_JTJNHYJ/status/1058364994574663680/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058364934071840768,
+          "id_str": "1058364934071840768",
+          "indices": [
+            44,
+            67
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058364934071840768/pu/img/DbGx2eq387kWhtff.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058364934071840768/pu/img/DbGx2eq387kWhtff.jpg",
+          "url": "https://t.co/IQpdLQTRwY",
+          "display_url": "pic.twitter.com/IQpdLQTRwY",
+          "expanded_url": "https://twitter.com/171027_JTJNHYJ/status/1058364994574663680/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 7783,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058364934071840768/pu/vid/320x180/aO4PK13XcP8-G2ZD.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058364934071840768/pu/vid/1280x720/oMly3bcUu-lwz6Qk.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058364934071840768/pu/vid/640x360/bqaw02r_V40xZxzo.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058364934071840768/pu/pl/qk2NKoZYwtBoaPcC.m3u8?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "171027_JTJNHYJ",
+        "name": "ｼｵｶﾗｧｧｧｧｧ🦑土日だけ浮上！",
+        "id": 758883004756299776,
+        "id_str": "758883004756299776",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058364934071840768,
+        "id_str": "1058364934071840768",
+        "indices": [
+          64,
+          87
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058364934071840768/pu/img/DbGx2eq387kWhtff.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058364934071840768/pu/img/DbGx2eq387kWhtff.jpg",
+        "url": "https://t.co/IQpdLQTRwY",
+        "display_url": "pic.twitter.com/IQpdLQTRwY",
+        "expanded_url": "https://twitter.com/171027_JTJNHYJ/status/1058364994574663680/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058364994574663680,
+        "source_status_id_str": "1058364994574663680",
+        "source_user_id": 758883004756299776,
+        "source_user_id_str": "758883004756299776"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058364934071840768,
+        "id_str": "1058364934071840768",
+        "indices": [
+          64,
+          87
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058364934071840768/pu/img/DbGx2eq387kWhtff.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058364934071840768/pu/img/DbGx2eq387kWhtff.jpg",
+        "url": "https://t.co/IQpdLQTRwY",
+        "display_url": "pic.twitter.com/IQpdLQTRwY",
+        "expanded_url": "https://twitter.com/171027_JTJNHYJ/status/1058364994574663680/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 7783,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058364934071840768/pu/vid/320x180/aO4PK13XcP8-G2ZD.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058364934071840768/pu/vid/1280x720/oMly3bcUu-lwz6Qk.mp4?tag=5"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058364934071840768/pu/vid/640x360/bqaw02r_V40xZxzo.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058364934071840768/pu/pl/qk2NKoZYwtBoaPcC.m3u8?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058364994574663680,
+        "source_status_id_str": "1058364994574663680",
+        "source_user_id": 758883004756299776,
+        "source_user_id_str": "758883004756299776"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254897664"
+}

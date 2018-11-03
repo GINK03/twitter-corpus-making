@@ -1,0 +1,480 @@
+{
+  "created_at": "Sat Nov 03 14:21:03 +0000 2018",
+  "id": 1058725750134566912,
+  "id_str": "1058725750134566912",
+  "text": "RT @sunagim0_umai: スピーカー https://t.co/3qKXCSRg76",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17376041,
+    "id_str": "17376041",
+    "name": "Kao @AU...? 🐺🐻",
+    "screen_name": "KaoArika",
+    "location": "Mexico",
+    "url": null,
+    "description": "Graphic Designer struggling to be a webcomic artist 🖌️ | Constant rambling | ENG/SPA OK! | Multifandom | Seiyuu fangirl | Kimura Subaru is 💖",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 163,
+    "friends_count": 200,
+    "listed_count": 20,
+    "favourites_count": 54122,
+    "statuses_count": 40371,
+    "created_at": "Thu Nov 13 23:55:15 +0000 2008",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "642D8B",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "19CF86",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/949593686119100416/Xj9F2_Uf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/949593686119100416/Xj9F2_Uf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17376041/1540997049",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 01:08:19 +0000 2018",
+    "id": 1058526250837278721,
+    "id_str": "1058526250837278721",
+    "text": "スピーカー https://t.co/3qKXCSRg76",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1010776295544778753,
+      "id_str": "1010776295544778753",
+      "name": "砂肝",
+      "screen_name": "sunagim0_umai",
+      "location": "棲み分けです",
+      "url": null,
+      "description": "🐴🐰🐴同軸リバ F18↑推奨 やわらかいの→https://marshmallow-qa.com/sunagim0_umai?utm_medium=url_text&utm_source=promotion",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 2429,
+      "friends_count": 11,
+      "listed_count": 25,
+      "favourites_count": 74,
+      "statuses_count": 233,
+      "created_at": "Sun Jun 24 06:47:02 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1028263979775213568/dscI8Hw__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028263979775213568/dscI8Hw__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1010776295544778753/1534235591",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 5,
+    "reply_count": 2,
+    "retweet_count": 2771,
+    "favorite_count": 11187,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058526220168519681,
+          "id_str": "1058526220168519681",
+          "indices": [
+            6,
+            29
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrCj_SqU4AEzyQX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrCj_SqU4AEzyQX.jpg",
+          "url": "https://t.co/3qKXCSRg76",
+          "display_url": "pic.twitter.com/3qKXCSRg76",
+          "expanded_url": "https://twitter.com/sunagim0_umai/status/1058526250837278721/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 848,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1020,
+              "h": 1443,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058526220168519681,
+          "id_str": "1058526220168519681",
+          "indices": [
+            6,
+            29
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrCj_SqU4AEzyQX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrCj_SqU4AEzyQX.jpg",
+          "url": "https://t.co/3qKXCSRg76",
+          "display_url": "pic.twitter.com/3qKXCSRg76",
+          "expanded_url": "https://twitter.com/sunagim0_umai/status/1058526250837278721/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 848,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1020,
+              "h": 1443,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058526220101443585,
+          "id_str": "1058526220101443585",
+          "indices": [
+            6,
+            29
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrCj_SaVYAEfKlH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrCj_SaVYAEfKlH.jpg",
+          "url": "https://t.co/3qKXCSRg76",
+          "display_url": "pic.twitter.com/3qKXCSRg76",
+          "expanded_url": "https://twitter.com/sunagim0_umai/status/1058526250837278721/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 849,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1020,
+              "h": 1442,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058526220113965056,
+          "id_str": "1058526220113965056",
+          "indices": [
+            6,
+            29
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrCj_SdUcAAY9dD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrCj_SdUcAAY9dD.jpg",
+          "url": "https://t.co/3qKXCSRg76",
+          "display_url": "pic.twitter.com/3qKXCSRg76",
+          "expanded_url": "https://twitter.com/sunagim0_umai/status/1058526250837278721/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 849,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1020,
+              "h": 1442,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "sunagim0_umai",
+        "name": "砂肝",
+        "id": 1010776295544778753,
+        "id_str": "1010776295544778753",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058526220168519681,
+        "id_str": "1058526220168519681",
+        "indices": [
+          25,
+          48
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrCj_SqU4AEzyQX.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrCj_SqU4AEzyQX.jpg",
+        "url": "https://t.co/3qKXCSRg76",
+        "display_url": "pic.twitter.com/3qKXCSRg76",
+        "expanded_url": "https://twitter.com/sunagim0_umai/status/1058526250837278721/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 848,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 481,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1020,
+            "h": 1443,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058526250837278721,
+        "source_status_id_str": "1058526250837278721",
+        "source_user_id": 1010776295544778753,
+        "source_user_id_str": "1010776295544778753"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058526220168519681,
+        "id_str": "1058526220168519681",
+        "indices": [
+          25,
+          48
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrCj_SqU4AEzyQX.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrCj_SqU4AEzyQX.jpg",
+        "url": "https://t.co/3qKXCSRg76",
+        "display_url": "pic.twitter.com/3qKXCSRg76",
+        "expanded_url": "https://twitter.com/sunagim0_umai/status/1058526250837278721/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 848,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 481,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1020,
+            "h": 1443,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058526250837278721,
+        "source_status_id_str": "1058526250837278721",
+        "source_user_id": 1010776295544778753,
+        "source_user_id_str": "1010776295544778753"
+      },
+      {
+        "id": 1058526220101443585,
+        "id_str": "1058526220101443585",
+        "indices": [
+          25,
+          48
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrCj_SaVYAEfKlH.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrCj_SaVYAEfKlH.jpg",
+        "url": "https://t.co/3qKXCSRg76",
+        "display_url": "pic.twitter.com/3qKXCSRg76",
+        "expanded_url": "https://twitter.com/sunagim0_umai/status/1058526250837278721/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 849,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 481,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1020,
+            "h": 1442,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058526250837278721,
+        "source_status_id_str": "1058526250837278721",
+        "source_user_id": 1010776295544778753,
+        "source_user_id_str": "1010776295544778753"
+      },
+      {
+        "id": 1058526220113965056,
+        "id_str": "1058526220113965056",
+        "indices": [
+          25,
+          48
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrCj_SdUcAAY9dD.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrCj_SdUcAAY9dD.jpg",
+        "url": "https://t.co/3qKXCSRg76",
+        "display_url": "pic.twitter.com/3qKXCSRg76",
+        "expanded_url": "https://twitter.com/sunagim0_umai/status/1058526250837278721/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 849,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1020,
+            "h": 1442,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 481,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058526250837278721,
+        "source_status_id_str": "1058526250837278721",
+        "source_user_id": 1010776295544778753,
+        "source_user_id_str": "1010776295544778753"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254863662"
+}

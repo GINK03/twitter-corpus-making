@@ -1,0 +1,157 @@
+{
+  "created_at": "Sat Nov 03 14:15:16 +0000 2018",
+  "id": 1058724294711115777,
+  "id_str": "1058724294711115777",
+  "text": "さすが、こなれてましたねぇ。そのうち、タイトルマッチ前に国歌斉唱とかもできそうな気がしてきました笑 https://t.co/rZ9ysQUh0T",
+  "display_text_range": [
+    0,
+    49
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1696823534,
+    "id_str": "1696823534",
+    "name": "でっ K-1",
+    "screen_name": "mczkato",
+    "location": "さいたまスーパーアリーナコミュニティアリーナ",
+    "url": null,
+    "description": "武尊さんを中心にK-1 JAPANグループを応援してます。「でっ」はスヌーピーの顔文字でーす😃 #k1_wgp",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1399,
+    "friends_count": 1157,
+    "listed_count": 4,
+    "favourites_count": 6631,
+    "statuses_count": 6740,
+    "created_at": "Sat Aug 24 15:56:43 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1026104234398244869/w1YJ_xsh_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026104234398244869/w1YJ_xsh_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1696823534/1496961506",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058724272925892608,
+        "id_str": "1058724272925892608",
+        "indices": [
+          50,
+          73
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYHerU4AAhBk1.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYHerU4AAhBk1.jpg",
+        "url": "https://t.co/rZ9ysQUh0T",
+        "display_url": "pic.twitter.com/rZ9ysQUh0T",
+        "expanded_url": "https://twitter.com/mczkato/status/1058724294711115777/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 575,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 575,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058724272925892608,
+        "id_str": "1058724272925892608",
+        "indices": [
+          50,
+          73
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFYHerU4AAhBk1.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFYHerU4AAhBk1.jpg",
+        "url": "https://t.co/rZ9ysQUh0T",
+        "display_url": "pic.twitter.com/rZ9ysQUh0T",
+        "expanded_url": "https://twitter.com/mczkato/status/1058724294711115777/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 575,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 575,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 382,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254516662"
+}

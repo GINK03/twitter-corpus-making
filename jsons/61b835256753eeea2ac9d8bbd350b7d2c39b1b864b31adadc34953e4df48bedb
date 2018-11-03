@@ -1,0 +1,888 @@
+{
+  "created_at": "Sat Nov 03 14:13:34 +0000 2018",
+  "id": 1058723866875293696,
+  "id_str": "1058723866875293696",
+  "text": "RT @ayasa_ito: ありがとうございました💖\nメッセージファイルもいただきました〜🌈 https://t.co/9dbd0dA5Au",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1055948081412227072,
+    "id_str": "1055948081412227072",
+    "name": "コロネコロネ",
+    "screen_name": "ikJXQ0aQvM9OE0z",
+    "location": null,
+    "url": null,
+    "description": "Twitterまた新しく始めました。\nアニメほとんど見てます🎵\nバンドリ、少女歌劇、白猫テニスとプロジェクト\nモンスト、パズドラ、荒野行動\nその他いろいろ…17ライバー\nまりりん推し♥みぽりん推し♥\nフォローお願シマス\n音コロネは消してくださーい",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 4,
+    "friends_count": 36,
+    "listed_count": 0,
+    "favourites_count": 78,
+    "statuses_count": 52,
+    "created_at": "Fri Oct 26 22:23:35 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058070302322679809/oA9kFc80_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058070302322679809/oA9kFc80_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055948081412227072/1541098593",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 06:54:11 +0000 2018",
+    "id": 1058613290895470592,
+    "id_str": "1058613290895470592",
+    "text": "ありがとうございました💖\nメッセージファイルもいただきました〜🌈 https://t.co/9dbd0dA5Au",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1419890600,
+      "id_str": "1419890600",
+      "name": "伊藤  彩沙 / Ayasa Ito",
+      "screen_name": "ayasa_ito",
+      "location": "東京⇄京都",
+      "url": "https://www.instagram.com/ayasacream/",
+      "description": "こんあやさ✌️💗 声優です。〇バンドリの有咲 ○レヴュー・スタァライトの香子 ○神バディファイトのミコ ○スロウスタートのたまちゃん 〇ミルキィホームズフェザーズのアリス ○月ブシTVのMC ＊2018年11月10日/11日 『京 Premium Live 2018』オフィシャルアンバサダー",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 147325,
+      "friends_count": 451,
+      "listed_count": 3575,
+      "favourites_count": 6822,
+      "statuses_count": 12740,
+      "created_at": "Sat May 11 05:59:43 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1044215189229363201/7GIylCzN_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044215189229363201/7GIylCzN_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1419890600/1531614906",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058593548331757569,
+    "quoted_status_id_str": "1058593548331757569",
+    "quoted_status": {
+      "created_at": "Sat Nov 03 05:35:44 +0000 2018",
+      "id": 1058593548331757569,
+      "id_str": "1058593548331757569",
+      "text": "【感謝キャラバン】\n本日、福岡では伊藤彩沙さんがBIG BOSS福岡店さまへ‼️✨\n\nたくさんのバンドリーマーの皆さん、お越し頂きありがとうございました🎹🎶\n\n可愛い有咲の絵も一緒に📷💕\n\nこの後17:00より、タワーレコード福岡… https://t.co/eeAOUz6qcW",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3009772568,
+        "id_str": "3009772568",
+        "name": "BanG Dream!（バンドリ！）公式",
+        "screen_name": "bang_dream_info",
+        "location": null,
+        "url": "http://bang-dream.com",
+        "description": "キャラクター×リアルライブがリンクする次世代ガールズバンドプロジェクト「バンドリ！」公式ツイッターです。 #バンドリ ｜アニメ「BanG Dream! ガルパ☆ピコ」放送中！https://anime.bang-dream.com/pico/",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "followers_count": 416648,
+        "friends_count": 67,
+        "listed_count": 2978,
+        "favourites_count": 3,
+        "statuses_count": 7397,
+        "created_at": "Thu Feb 05 05:23:23 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "E4007F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/995267826058387456/hgSDbBQk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/995267826058387456/hgSDbBQk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3009772568/1526125263",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "【感謝キャラバン】\n本日、福岡では伊藤彩沙さんがBIG BOSS福岡店さまへ‼️✨\n\nたくさんのバンドリーマーの皆さん、お越し頂きありがとうございました🎹🎶\n\n可愛い有咲の絵も一緒に📷💕\n\nこの後17:00より、タワーレコード福岡PARCO店さまでもお待ちしております😆🌈\n\n#バンドリ #ポピパ #感謝キャラバン https://t.co/6xCFP0kD71",
+        "display_text_range": [
+          0,
+          157
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "バンドリ",
+              "indices": [
+                138,
+                143
+              ]
+            },
+            {
+              "text": "ポピパ",
+              "indices": [
+                144,
+                148
+              ]
+            },
+            {
+              "text": "感謝キャラバン",
+              "indices": [
+                149,
+                157
+              ]
+            }
+          ],
+          "urls": [],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1058593531042787328,
+              "id_str": "1058593531042787328",
+              "indices": [
+                158,
+                181
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrDhNTNU8AA9D3L.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrDhNTNU8AA9D3L.jpg",
+              "url": "https://t.co/6xCFP0kD71",
+              "display_url": "pic.twitter.com/6xCFP0kD71",
+              "expanded_url": "https://twitter.com/bang_dream_info/status/1058593548331757569/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1478,
+                  "h": 1108,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1058593531038597120,
+              "id_str": "1058593531038597120",
+              "indices": [
+                158,
+                181
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrDhNTMVAAA1mYy.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrDhNTMVAAA1mYy.jpg",
+              "url": "https://t.co/6xCFP0kD71",
+              "display_url": "pic.twitter.com/6xCFP0kD71",
+              "expanded_url": "https://twitter.com/bang_dream_info/status/1058593548331757569/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1478,
+                  "h": 1108,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1058593531038597121,
+              "id_str": "1058593531038597121",
+              "indices": [
+                158,
+                181
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrDhNTMVAAEiCnc.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrDhNTMVAAEiCnc.jpg",
+              "url": "https://t.co/6xCFP0kD71",
+              "display_url": "pic.twitter.com/6xCFP0kD71",
+              "expanded_url": "https://twitter.com/bang_dream_info/status/1058593548331757569/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1478,
+                  "h": 1108,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1058593531042787328,
+              "id_str": "1058593531042787328",
+              "indices": [
+                158,
+                181
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrDhNTNU8AA9D3L.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrDhNTNU8AA9D3L.jpg",
+              "url": "https://t.co/6xCFP0kD71",
+              "display_url": "pic.twitter.com/6xCFP0kD71",
+              "expanded_url": "https://twitter.com/bang_dream_info/status/1058593548331757569/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1478,
+                  "h": 1108,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1058593531038597120,
+              "id_str": "1058593531038597120",
+              "indices": [
+                158,
+                181
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrDhNTMVAAA1mYy.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrDhNTMVAAA1mYy.jpg",
+              "url": "https://t.co/6xCFP0kD71",
+              "display_url": "pic.twitter.com/6xCFP0kD71",
+              "expanded_url": "https://twitter.com/bang_dream_info/status/1058593548331757569/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1478,
+                  "h": 1108,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1058593531038597121,
+              "id_str": "1058593531038597121",
+              "indices": [
+                158,
+                181
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrDhNTMVAAEiCnc.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrDhNTMVAAEiCnc.jpg",
+              "url": "https://t.co/6xCFP0kD71",
+              "display_url": "pic.twitter.com/6xCFP0kD71",
+              "expanded_url": "https://twitter.com/bang_dream_info/status/1058593548331757569/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1478,
+                  "h": 1108,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 28,
+      "reply_count": 21,
+      "retweet_count": 653,
+      "favorite_count": 2634,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/eeAOUz6qcW",
+            "expanded_url": "https://twitter.com/i/web/status/1058593548331757569",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/9dbd0dA5Au",
+      "expanded": "https://twitter.com/bang_dream_info/status/1058593548331757569",
+      "display": "twitter.com/bang_dream_inf…"
+    },
+    "is_quote_status": true,
+    "quote_count": 6,
+    "reply_count": 56,
+    "retweet_count": 287,
+    "favorite_count": 1911,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/9dbd0dA5Au",
+          "expanded_url": "https://twitter.com/bang_dream_info/status/1058593548331757569",
+          "display_url": "twitter.com/bang_dream_inf…",
+          "indices": [
+            33,
+            56
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058593548331757569,
+  "quoted_status_id_str": "1058593548331757569",
+  "quoted_status": {
+    "created_at": "Sat Nov 03 05:35:44 +0000 2018",
+    "id": 1058593548331757569,
+    "id_str": "1058593548331757569",
+    "text": "【感謝キャラバン】\n本日、福岡では伊藤彩沙さんがBIG BOSS福岡店さまへ‼️✨\n\nたくさんのバンドリーマーの皆さん、お越し頂きありがとうございました🎹🎶\n\n可愛い有咲の絵も一緒に📷💕\n\nこの後17:00より、タワーレコード福岡… https://t.co/eeAOUz6qcW",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3009772568,
+      "id_str": "3009772568",
+      "name": "BanG Dream!（バンドリ！）公式",
+      "screen_name": "bang_dream_info",
+      "location": null,
+      "url": "http://bang-dream.com",
+      "description": "キャラクター×リアルライブがリンクする次世代ガールズバンドプロジェクト「バンドリ！」公式ツイッターです。 #バンドリ ｜アニメ「BanG Dream! ガルパ☆ピコ」放送中！https://anime.bang-dream.com/pico/",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 416648,
+      "friends_count": 67,
+      "listed_count": 2978,
+      "favourites_count": 3,
+      "statuses_count": 7397,
+      "created_at": "Thu Feb 05 05:23:23 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "E4007F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/995267826058387456/hgSDbBQk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/995267826058387456/hgSDbBQk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3009772568/1526125263",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "【感謝キャラバン】\n本日、福岡では伊藤彩沙さんがBIG BOSS福岡店さまへ‼️✨\n\nたくさんのバンドリーマーの皆さん、お越し頂きありがとうございました🎹🎶\n\n可愛い有咲の絵も一緒に📷💕\n\nこの後17:00より、タワーレコード福岡PARCO店さまでもお待ちしております😆🌈\n\n#バンドリ #ポピパ #感謝キャラバン https://t.co/6xCFP0kD71",
+      "display_text_range": [
+        0,
+        157
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "バンドリ",
+            "indices": [
+              138,
+              143
+            ]
+          },
+          {
+            "text": "ポピパ",
+            "indices": [
+              144,
+              148
+            ]
+          },
+          {
+            "text": "感謝キャラバン",
+            "indices": [
+              149,
+              157
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058593531042787328,
+            "id_str": "1058593531042787328",
+            "indices": [
+              158,
+              181
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrDhNTNU8AA9D3L.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrDhNTNU8AA9D3L.jpg",
+            "url": "https://t.co/6xCFP0kD71",
+            "display_url": "pic.twitter.com/6xCFP0kD71",
+            "expanded_url": "https://twitter.com/bang_dream_info/status/1058593548331757569/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1478,
+                "h": 1108,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058593531038597120,
+            "id_str": "1058593531038597120",
+            "indices": [
+              158,
+              181
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrDhNTMVAAA1mYy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrDhNTMVAAA1mYy.jpg",
+            "url": "https://t.co/6xCFP0kD71",
+            "display_url": "pic.twitter.com/6xCFP0kD71",
+            "expanded_url": "https://twitter.com/bang_dream_info/status/1058593548331757569/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1478,
+                "h": 1108,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058593531038597121,
+            "id_str": "1058593531038597121",
+            "indices": [
+              158,
+              181
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrDhNTMVAAEiCnc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrDhNTMVAAEiCnc.jpg",
+            "url": "https://t.co/6xCFP0kD71",
+            "display_url": "pic.twitter.com/6xCFP0kD71",
+            "expanded_url": "https://twitter.com/bang_dream_info/status/1058593548331757569/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1478,
+                "h": 1108,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058593531042787328,
+            "id_str": "1058593531042787328",
+            "indices": [
+              158,
+              181
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrDhNTNU8AA9D3L.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrDhNTNU8AA9D3L.jpg",
+            "url": "https://t.co/6xCFP0kD71",
+            "display_url": "pic.twitter.com/6xCFP0kD71",
+            "expanded_url": "https://twitter.com/bang_dream_info/status/1058593548331757569/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1478,
+                "h": 1108,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058593531038597120,
+            "id_str": "1058593531038597120",
+            "indices": [
+              158,
+              181
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrDhNTMVAAA1mYy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrDhNTMVAAA1mYy.jpg",
+            "url": "https://t.co/6xCFP0kD71",
+            "display_url": "pic.twitter.com/6xCFP0kD71",
+            "expanded_url": "https://twitter.com/bang_dream_info/status/1058593548331757569/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1478,
+                "h": 1108,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1058593531038597121,
+            "id_str": "1058593531038597121",
+            "indices": [
+              158,
+              181
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrDhNTMVAAEiCnc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrDhNTMVAAEiCnc.jpg",
+            "url": "https://t.co/6xCFP0kD71",
+            "display_url": "pic.twitter.com/6xCFP0kD71",
+            "expanded_url": "https://twitter.com/bang_dream_info/status/1058593548331757569/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1478,
+                "h": 1108,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 28,
+    "reply_count": 21,
+    "retweet_count": 653,
+    "favorite_count": 2634,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/eeAOUz6qcW",
+          "expanded_url": "https://twitter.com/i/web/status/1058593548331757569",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/9dbd0dA5Au",
+    "expanded": "https://twitter.com/bang_dream_info/status/1058593548331757569",
+    "display": "twitter.com/bang_dream_inf…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/9dbd0dA5Au",
+        "expanded_url": "https://twitter.com/bang_dream_info/status/1058593548331757569",
+        "display_url": "twitter.com/bang_dream_inf…",
+        "indices": [
+          48,
+          71
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ayasa_ito",
+        "name": "伊藤  彩沙 / Ayasa Ito",
+        "id": 1419890600,
+        "id_str": "1419890600",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254414658"
+}

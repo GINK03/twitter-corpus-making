@@ -1,0 +1,111 @@
+{
+  "created_at": "Sat Nov 03 14:10:47 +0000 2018",
+  "id": 1058723166086815744,
+  "id_str": "1058723166086815744",
+  "text": "ムーピーを見切った！ムーピーを凌駕する！ムーピーとクアンタムバースト発動！対話を試みる！\nムーピーはマアナ・ユグド・スウシャイ見切り設定である！\nムーピー・ハイナルビー=翠星石\nMOPIE・HIGHNALBIE\n映像の高き菜の紅玉… https://t.co/JGWxr2XLeW",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 259745251,
+    "id_str": "259745251",
+    "name": "春田優介",
+    "screen_name": "harutayusuke",
+    "location": "福岡県",
+    "url": null,
+    "description": "春田優介と申します。ツイッターはとても難しいですが、一生懸命頑張ります。何卒宜しくお願い致します。画像はONE PIECEのハルタです。カッコいいなぁ。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 10,
+    "friends_count": 9,
+    "listed_count": 0,
+    "favourites_count": 1284,
+    "statuses_count": 280,
+    "created_at": "Wed Mar 02 14:22:06 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1036434963745259521/uX3CoZxC_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1036434963745259521/uX3CoZxC_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "ムーピーを見切った！ムーピーを凌駕する！ムーピーとクアンタムバースト発動！対話を試みる！\nムーピーはマアナ・ユグド・スウシャイ見切り設定である！\nムーピー・ハイナルビー=翠星石\nMOPIE・HIGHNALBIE\n映像の高き菜の紅玉石\n確定しましたORACLES!\n春田優介\nミリネオール・ソロモン\n#FGO #火の鳥",
+    "display_text_range": [
+      0,
+      158
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            149,
+            153
+          ]
+        },
+        {
+          "text": "火の鳥",
+          "indices": [
+            154,
+            158
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/JGWxr2XLeW",
+        "expanded_url": "https://twitter.com/i/web/status/1058723166086815744",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254247577"
+}

@@ -1,0 +1,167 @@
+{
+  "created_at": "Sat Nov 03 14:28:30 +0000 2018",
+  "id": 1058727624988454912,
+  "id_str": "1058727624988454912",
+  "text": "Aldious 「one way」\nやっとYouTubeでアップされた。\nこの曲かっこいいから好き。\n\nhttps://t.co/VwZXDR5znM https://t.co/pg0mgP7dVF",
+  "display_text_range": [
+    0,
+    75
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 725638219606286337,
+    "id_str": "725638219606286337",
+    "name": "きまちゃん🐰女 龍が如く好き",
+    "screen_name": "Mariahbiribiri",
+    "location": "田舎で伸び伸び暮らす平成ライダー好き",
+    "url": null,
+    "description": "ジョジョ、ライダー、ゲーム配信見る、イチゴ味サウザー、黒バス好き//うさぎを飼ってた経験があり、そのコが歳取ってお空にいってからは飼っていませんがうさぎさんが大好き女。バンド好きaldious/ビジネス関係×/24h×背後詮索×/DM解放 世間話などお気軽に😃/お別れB→Ｂ解除去る者は追わず/18禁垢者✕",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 292,
+    "friends_count": 357,
+    "listed_count": 9,
+    "favourites_count": 24301,
+    "statuses_count": 21374,
+    "created_at": "Thu Apr 28 10:50:08 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1058302969257443328/R2ICUu7x_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058302969257443328/R2ICUu7x_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/725638219606286337/1540647518",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/VwZXDR5znM",
+        "expanded_url": "https://youtu.be/8OwJQrbpnUU",
+        "display_url": "youtu.be/8OwJQrbpnUU",
+        "indices": [
+          52,
+          75
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058727591043977216,
+        "id_str": "1058727591043977216",
+        "indices": [
+          76,
+          99
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFbInoU0AAB4Xe.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFbInoU0AAB4Xe.jpg",
+        "url": "https://t.co/pg0mgP7dVF",
+        "display_url": "pic.twitter.com/pg0mgP7dVF",
+        "expanded_url": "https://twitter.com/Mariahbiribiri/status/1058727624988454912/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 384,
+            "h": 384,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 384,
+            "h": 384,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 384,
+            "h": 384,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058727591043977216,
+        "id_str": "1058727591043977216",
+        "indices": [
+          76,
+          99
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFbInoU0AAB4Xe.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFbInoU0AAB4Xe.jpg",
+        "url": "https://t.co/pg0mgP7dVF",
+        "display_url": "pic.twitter.com/pg0mgP7dVF",
+        "expanded_url": "https://twitter.com/Mariahbiribiri/status/1058727624988454912/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 384,
+            "h": 384,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 384,
+            "h": 384,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 384,
+            "h": 384,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255310662"
+}

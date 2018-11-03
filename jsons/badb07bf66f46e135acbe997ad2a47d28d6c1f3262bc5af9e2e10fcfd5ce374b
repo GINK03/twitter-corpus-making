@@ -1,0 +1,959 @@
+{
+  "created_at": "Sat Nov 03 14:21:54 +0000 2018",
+  "id": 1058725964031516673,
+  "id_str": "1058725964031516673",
+  "text": "RT @Pachi_XP: このツイートをRTで先着100人に #SPRTS を12000枚 @UZURAS_BOT の #蛇口 機能で🎁\n\n📢下のツイート2つをRTで合計1300万枚のSPRTSを🎁良かったら貰ってね🎵\n\n①https://t.co/WjxEJxCQFE\n②h…",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 976256485045891072,
+    "id_str": "976256485045891072",
+    "name": "917",
+    "screen_name": "ku1na917",
+    "location": "日本 東京",
+    "url": "http://iga.tokyo",
+    "description": "のんびり自営業やってます。 誕生日大好き人間です。 （9月17日生まれ）  仮想通貨、airdrop、miningなど興味ありです。  趣味：スポーツ観戦、読書 好きなもの：大洋ホエールズ、山際淳司、村山由佳、海堂尊、池井戸潤、田中芳樹、あだち充、曽田正人、小田和正、ZIGGY、GOMES THE HITMAN",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1549,
+    "friends_count": 3585,
+    "listed_count": 5,
+    "favourites_count": 868,
+    "statuses_count": 3913,
+    "created_at": "Wed Mar 21 00:37:38 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/976260013134983168/A_C-yM9T_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/976260013134983168/A_C-yM9T_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 07:43:04 +0000 2018",
+    "id": 1058625593263050752,
+    "id_str": "1058625593263050752",
+    "text": "このツイートをRTで先着100人に #SPRTS を12000枚 @UZURAS_BOT の #蛇口 機能で🎁\n\n📢下のツイート2つをRTで合計1300万枚のSPRTSを🎁良かったら貰ってね🎵\n\n①… https://t.co/myV1VGikv6",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 955109886785814529,
+      "id_str": "955109886785814529",
+      "name": "ぱち/NinjaCoin",
+      "screen_name": "Pachi_XP",
+      "location": "徳島 ",
+      "url": null,
+      "description": "DiscordのXPC、かごんま、キズナ、アイドルコミュ、SHOPに生息。\n\n只今かごんまコイン応援中につき、@UZURAS_BOTの機能を使ってプレゼント実施中。条件達成で蛇口🎁は先着でもれなく、抽選🎁は指定人数にランダム配布。使い方はhttps://t.co/uJNY1SLfvNを見てね。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1005,
+      "friends_count": 219,
+      "listed_count": 3,
+      "favourites_count": 613,
+      "statuses_count": 923,
+      "created_at": "Sun Jan 21 16:08:36 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024702862918443008/LFTvsyXQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024702862918443008/LFTvsyXQ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/955109886785814529/1532006610",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1057282794005520385,
+    "quoted_status_id_str": "1057282794005520385",
+    "quoted_status": {
+      "created_at": "Tue Oct 30 14:47:16 +0000 2018",
+      "id": 1057282794005520385,
+      "id_str": "1057282794005520385",
+      "text": "RTで先着300人に #SPRTS を1万枚を @UZURAS_BOT の #蛇口 で🎁\n\n今晩から11/4まで #KOKUCOIN でレイン等のイベントが毎日開催されるよー\n\nコミュに入って国産初の #EOS トークンを上場前に… https://t.co/tqlj9FLEPU",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 955109886785814529,
+        "id_str": "955109886785814529",
+        "name": "ぱち/NinjaCoin",
+        "screen_name": "Pachi_XP",
+        "location": "徳島 ",
+        "url": null,
+        "description": "DiscordのXPC、かごんま、キズナ、アイドルコミュ、SHOPに生息。\n\n只今かごんまコイン応援中につき、@UZURAS_BOTの機能を使ってプレゼント実施中。条件達成で蛇口🎁は先着でもれなく、抽選🎁は指定人数にランダム配布。使い方はhttps://t.co/uJNY1SLfvNを見てね。",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1005,
+        "friends_count": 219,
+        "listed_count": 3,
+        "favourites_count": 613,
+        "statuses_count": 923,
+        "created_at": "Sun Jan 21 16:08:36 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1024702862918443008/LFTvsyXQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024702862918443008/LFTvsyXQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/955109886785814529/1532006610",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "RTで先着300人に #SPRTS を1万枚を @UZURAS_BOT の #蛇口 で🎁\n\n今晩から11/4まで #KOKUCOIN でレイン等のイベントが毎日開催されるよー\n\nコミュに入って国産初の #EOS トークンを上場前にGETしてね\n\nコミュ/https://t.co/4A5S5WZmlG\n\n#仮想通貨 #エアドロ #草コイン #crypto #cryptocurrency https://t.co/Dt4AK32yYC",
+        "display_text_range": [
+          0,
+          193
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "SPRTS",
+              "indices": [
+                11,
+                17
+              ]
+            },
+            {
+              "text": "蛇口",
+              "indices": [
+                38,
+                41
+              ]
+            },
+            {
+              "text": "KOKUCOIN",
+              "indices": [
+                57,
+                66
+              ]
+            },
+            {
+              "text": "EOS",
+              "indices": [
+                101,
+                105
+              ]
+            },
+            {
+              "text": "仮想通貨",
+              "indices": [
+                152,
+                157
+              ]
+            },
+            {
+              "text": "エアドロ",
+              "indices": [
+                158,
+                163
+              ]
+            },
+            {
+              "text": "草コイン",
+              "indices": [
+                164,
+                169
+              ]
+            },
+            {
+              "text": "crypto",
+              "indices": [
+                170,
+                177
+              ]
+            },
+            {
+              "text": "cryptocurrency",
+              "indices": [
+                178,
+                193
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/4A5S5WZmlG",
+              "expanded_url": "https://discord.gg/gA5H2QG",
+              "display_url": "discord.gg/gA5H2QG",
+              "indices": [
+                127,
+                150
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "UZURAS_BOT",
+              "name": "UZURA WALLET(Opentest)",
+              "id": 970625080102240261,
+              "id_str": "970625080102240261",
+              "indices": [
+                24,
+                35
+              ]
+            }
+          ],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1057282790356471808,
+              "id_str": "1057282790356471808",
+              "indices": [
+                194,
+                217
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dqw5GJpU0AANYla.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dqw5GJpU0AANYla.jpg",
+              "url": "https://t.co/Dt4AK32yYC",
+              "display_url": "pic.twitter.com/Dt4AK32yYC",
+              "expanded_url": "https://twitter.com/Pachi_XP/status/1057282794005520385/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 506,
+                  "h": 253,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 506,
+                  "h": 253,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 506,
+                  "h": 253,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1057282790356471808,
+              "id_str": "1057282790356471808",
+              "indices": [
+                194,
+                217
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dqw5GJpU0AANYla.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dqw5GJpU0AANYla.jpg",
+              "url": "https://t.co/Dt4AK32yYC",
+              "display_url": "pic.twitter.com/Dt4AK32yYC",
+              "expanded_url": "https://twitter.com/Pachi_XP/status/1057282794005520385/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 506,
+                  "h": 253,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 506,
+                  "h": 253,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 506,
+                  "h": 253,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 7,
+      "reply_count": 10,
+      "retweet_count": 262,
+      "favorite_count": 69,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "SPRTS",
+            "indices": [
+              11,
+              17
+            ]
+          },
+          {
+            "text": "蛇口",
+            "indices": [
+              38,
+              41
+            ]
+          },
+          {
+            "text": "KOKUCOIN",
+            "indices": [
+              57,
+              66
+            ]
+          },
+          {
+            "text": "EOS",
+            "indices": [
+              101,
+              105
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tqlj9FLEPU",
+            "expanded_url": "https://twitter.com/i/web/status/1057282794005520385",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "UZURAS_BOT",
+            "name": "UZURA WALLET(Opentest)",
+            "id": 970625080102240261,
+            "id_str": "970625080102240261",
+            "indices": [
+              24,
+              35
+            ]
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/vT96YF7hqw",
+      "expanded": "https://twitter.com/Pachi_XP/status/1057282794005520385?s=19",
+      "display": "twitter.com/Pachi_XP/statu…"
+    },
+    "is_quote_status": true,
+    "extended_tweet": {
+      "full_text": "このツイートをRTで先着100人に #SPRTS を12000枚 @UZURAS_BOT の #蛇口 機能で🎁\n\n📢下のツイート2つをRTで合計1300万枚のSPRTSを🎁良かったら貰ってね🎵\n\n①https://t.co/WjxEJxCQFE\n②https://t.co/vT96YF7hqw\n\n#仮想通貨 #Airdrop #エアドロ\n#btc #eth #crypto #cryptocurrency",
+      "display_text_range": [
+        0,
+        203
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "SPRTS",
+            "indices": [
+              18,
+              24
+            ]
+          },
+          {
+            "text": "蛇口",
+            "indices": [
+              47,
+              50
+            ]
+          },
+          {
+            "text": "仮想通貨",
+            "indices": [
+              149,
+              154
+            ]
+          },
+          {
+            "text": "Airdrop",
+            "indices": [
+              155,
+              163
+            ]
+          },
+          {
+            "text": "エアドロ",
+            "indices": [
+              164,
+              169
+            ]
+          },
+          {
+            "text": "btc",
+            "indices": [
+              170,
+              174
+            ]
+          },
+          {
+            "text": "eth",
+            "indices": [
+              175,
+              179
+            ]
+          },
+          {
+            "text": "crypto",
+            "indices": [
+              180,
+              187
+            ]
+          },
+          {
+            "text": "cryptocurrency",
+            "indices": [
+              188,
+              203
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/WjxEJxCQFE",
+            "expanded_url": "https://twitter.com/Pachi_XP/status/1054776197664522240?s=19",
+            "display_url": "twitter.com/Pachi_XP/statu…",
+            "indices": [
+              99,
+              122
+            ]
+          },
+          {
+            "url": "https://t.co/vT96YF7hqw",
+            "expanded_url": "https://twitter.com/Pachi_XP/status/1057282794005520385?s=19",
+            "display_url": "twitter.com/Pachi_XP/statu…",
+            "indices": [
+              124,
+              147
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "UZURAS_BOT",
+            "name": "UZURA WALLET(Opentest)",
+            "id": 970625080102240261,
+            "id_str": "970625080102240261",
+            "indices": [
+              33,
+              44
+            ]
+          }
+        ],
+        "symbols": []
+      }
+    },
+    "quote_count": 0,
+    "reply_count": 8,
+    "retweet_count": 112,
+    "favorite_count": 14,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SPRTS",
+          "indices": [
+            18,
+            24
+          ]
+        },
+        {
+          "text": "蛇口",
+          "indices": [
+            47,
+            50
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/myV1VGikv6",
+          "expanded_url": "https://twitter.com/i/web/status/1058625593263050752",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "UZURAS_BOT",
+          "name": "UZURA WALLET(Opentest)",
+          "id": 970625080102240261,
+          "id_str": "970625080102240261",
+          "indices": [
+            33,
+            44
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1057282794005520385,
+  "quoted_status_id_str": "1057282794005520385",
+  "quoted_status": {
+    "created_at": "Tue Oct 30 14:47:16 +0000 2018",
+    "id": 1057282794005520385,
+    "id_str": "1057282794005520385",
+    "text": "RTで先着300人に #SPRTS を1万枚を @UZURAS_BOT の #蛇口 で🎁\n\n今晩から11/4まで #KOKUCOIN でレイン等のイベントが毎日開催されるよー\n\nコミュに入って国産初の #EOS トークンを上場前に… https://t.co/tqlj9FLEPU",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 955109886785814529,
+      "id_str": "955109886785814529",
+      "name": "ぱち/NinjaCoin",
+      "screen_name": "Pachi_XP",
+      "location": "徳島 ",
+      "url": null,
+      "description": "DiscordのXPC、かごんま、キズナ、アイドルコミュ、SHOPに生息。\n\n只今かごんまコイン応援中につき、@UZURAS_BOTの機能を使ってプレゼント実施中。条件達成で蛇口🎁は先着でもれなく、抽選🎁は指定人数にランダム配布。使い方はhttps://t.co/uJNY1SLfvNを見てね。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1005,
+      "friends_count": 219,
+      "listed_count": 3,
+      "favourites_count": 613,
+      "statuses_count": 923,
+      "created_at": "Sun Jan 21 16:08:36 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024702862918443008/LFTvsyXQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024702862918443008/LFTvsyXQ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/955109886785814529/1532006610",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "RTで先着300人に #SPRTS を1万枚を @UZURAS_BOT の #蛇口 で🎁\n\n今晩から11/4まで #KOKUCOIN でレイン等のイベントが毎日開催されるよー\n\nコミュに入って国産初の #EOS トークンを上場前にGETしてね\n\nコミュ/https://t.co/4A5S5WZmlG\n\n#仮想通貨 #エアドロ #草コイン #crypto #cryptocurrency https://t.co/Dt4AK32yYC",
+      "display_text_range": [
+        0,
+        193
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "SPRTS",
+            "indices": [
+              11,
+              17
+            ]
+          },
+          {
+            "text": "蛇口",
+            "indices": [
+              38,
+              41
+            ]
+          },
+          {
+            "text": "KOKUCOIN",
+            "indices": [
+              57,
+              66
+            ]
+          },
+          {
+            "text": "EOS",
+            "indices": [
+              101,
+              105
+            ]
+          },
+          {
+            "text": "仮想通貨",
+            "indices": [
+              152,
+              157
+            ]
+          },
+          {
+            "text": "エアドロ",
+            "indices": [
+              158,
+              163
+            ]
+          },
+          {
+            "text": "草コイン",
+            "indices": [
+              164,
+              169
+            ]
+          },
+          {
+            "text": "crypto",
+            "indices": [
+              170,
+              177
+            ]
+          },
+          {
+            "text": "cryptocurrency",
+            "indices": [
+              178,
+              193
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4A5S5WZmlG",
+            "expanded_url": "https://discord.gg/gA5H2QG",
+            "display_url": "discord.gg/gA5H2QG",
+            "indices": [
+              127,
+              150
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "UZURAS_BOT",
+            "name": "UZURA WALLET(Opentest)",
+            "id": 970625080102240261,
+            "id_str": "970625080102240261",
+            "indices": [
+              24,
+              35
+            ]
+          }
+        ],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1057282790356471808,
+            "id_str": "1057282790356471808",
+            "indices": [
+              194,
+              217
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dqw5GJpU0AANYla.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dqw5GJpU0AANYla.jpg",
+            "url": "https://t.co/Dt4AK32yYC",
+            "display_url": "pic.twitter.com/Dt4AK32yYC",
+            "expanded_url": "https://twitter.com/Pachi_XP/status/1057282794005520385/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 506,
+                "h": 253,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 506,
+                "h": 253,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 506,
+                "h": 253,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1057282790356471808,
+            "id_str": "1057282790356471808",
+            "indices": [
+              194,
+              217
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dqw5GJpU0AANYla.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dqw5GJpU0AANYla.jpg",
+            "url": "https://t.co/Dt4AK32yYC",
+            "display_url": "pic.twitter.com/Dt4AK32yYC",
+            "expanded_url": "https://twitter.com/Pachi_XP/status/1057282794005520385/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 506,
+                "h": 253,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 506,
+                "h": 253,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 506,
+                "h": 253,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 7,
+    "reply_count": 10,
+    "retweet_count": 262,
+    "favorite_count": 69,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SPRTS",
+          "indices": [
+            11,
+            17
+          ]
+        },
+        {
+          "text": "蛇口",
+          "indices": [
+            38,
+            41
+          ]
+        },
+        {
+          "text": "KOKUCOIN",
+          "indices": [
+            57,
+            66
+          ]
+        },
+        {
+          "text": "EOS",
+          "indices": [
+            101,
+            105
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tqlj9FLEPU",
+          "expanded_url": "https://twitter.com/i/web/status/1057282794005520385",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "UZURAS_BOT",
+          "name": "UZURA WALLET(Opentest)",
+          "id": 970625080102240261,
+          "id_str": "970625080102240261",
+          "indices": [
+            24,
+            35
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/vT96YF7hqw",
+    "expanded": "https://twitter.com/Pachi_XP/status/1057282794005520385?s=19",
+    "display": "twitter.com/Pachi_XP/statu…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "SPRTS",
+        "indices": [
+          32,
+          38
+        ]
+      },
+      {
+        "text": "蛇口",
+        "indices": [
+          61,
+          64
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/WjxEJxCQFE",
+        "expanded_url": "https://twitter.com/Pachi_XP/status/1054776197664522240?s=19",
+        "display_url": "twitter.com/Pachi_XP/statu…",
+        "indices": [
+          113,
+          136
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Pachi_XP",
+        "name": "ぱち/NinjaCoin",
+        "id": 955109886785814529,
+        "id_str": "955109886785814529",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "UZURAS_BOT",
+        "name": "UZURA WALLET(Opentest)",
+        "id": 970625080102240261,
+        "id_str": "970625080102240261",
+        "indices": [
+          47,
+          58
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254914659"
+}

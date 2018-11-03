@@ -1,0 +1,93 @@
+{
+  "created_at": "Sat Nov 03 14:20:31 +0000 2018",
+  "id": 1058725615023472640,
+  "id_str": "1058725615023472640",
+  "text": "人類最後のマスターゆづさんが最初に召喚できたサーヴァントは\n☆☆☆ディルムッド・オディナ\nです。\nがんばって人理を修復しましょう。\n#FGO鯖召喚してみた\nhttps://t.co/q7n1BgG2YT\nあっ………………",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 866199514721378305,
+    "id_str": "866199514721378305",
+    "name": "ゆづ💫25帝都",
+    "screen_name": "yudm_ch",
+    "location": "弊社←→関東",
+    "url": "http://twpf.jp/yudm_ch",
+    "description": "村崎ゆづきといいます 20↑ 社畜レイヤー腐れ系たまにカメラ モーさん最推し F/Apo 円卓 帝都があつい お写真はDMにて頂けると嬉しいです",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 100,
+    "friends_count": 95,
+    "listed_count": 6,
+    "favourites_count": 1929,
+    "statuses_count": 5400,
+    "created_at": "Sun May 21 07:50:32 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "E81C4F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1057640526743187461/HliCJluX_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057640526743187461/HliCJluX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/866199514721378305/1540997225",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO鯖召喚してみた",
+        "indices": [
+          66,
+          77
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/q7n1BgG2YT",
+        "expanded_url": "https://shindanmaker.com/692440",
+        "display_url": "shindanmaker.com/692440",
+        "indices": [
+          78,
+          101
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254831449"
+}

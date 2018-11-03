@@ -1,0 +1,167 @@
+{
+  "created_at": "Sat Nov 03 14:27:46 +0000 2018",
+  "id": 1058727439004778496,
+  "id_str": "1058727439004778496",
+  "text": "女子コスプレイヤーが『FGO』の衣装を業者に頼む → 衣装の中からヤバすぎる物が出てくる https://t.co/mG9P4BT8ac https://t.co/emgFYpSPE7",
+  "display_text_range": [
+    0,
+    68
+  ],
+  "source": "<a href=\"https://social-dog.net/\" rel=\"nofollow\">social-dog.net</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 743698981813780481,
+    "id_str": "743698981813780481",
+    "name": "ゲーム部主将＠ゲーム速報垢",
+    "screen_name": "gamers_gamered",
+    "location": "日本",
+    "url": "http://gamers.happy-wallet.jp/",
+    "description": "👑 ゲーム・アニメ大好きヒキオタのゲーム関連ニュース垢です✨\n最新ゲーム情報やニュースをまとめサイトなどから毎日配信します！\n\nフォロー＆RT歓迎♥\n\n#ゲーム好きと繋がりたい\n#アニメ好きと繋がりたい",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 971,
+    "friends_count": 831,
+    "listed_count": 0,
+    "favourites_count": 12,
+    "statuses_count": 445,
+    "created_at": "Fri Jun 17 06:57:09 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "F58EA8",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1056490904062578688/AxDTrhg6_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056490904062578688/AxDTrhg6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/743698981813780481/1540722054",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/mG9P4BT8ac",
+        "expanded_url": "http://gamers.happy-wallet.jp/%e6%bc%ab%e7%94%bb%e3%83%bb%e3%82%a2%e3%83%8b%e3%83%a1%e7%ad%89/%e5%a5%b3%e5%ad%90%e3%82%b3%e3%82%b9%e3%83%97%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc%e3%81%8c%e3%80%8efgo%e3%80%8f%e3%81%ae%e8%a1%a3%e8%a3%85%e3%82%92%e6%a5%ad%e8%80%85%e3%81%ab%e9%a0%bc%e3%82%80/",
+        "display_url": "gamers.happy-wallet.jp/%e6%bc%ab%e7%9…",
+        "indices": [
+          45,
+          68
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058727436014149634,
+        "id_str": "1058727436014149634",
+        "indices": [
+          69,
+          92
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFa_mGVYAIF0Wj.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFa_mGVYAIF0Wj.jpg",
+        "url": "https://t.co/emgFYpSPE7",
+        "display_url": "pic.twitter.com/emgFYpSPE7",
+        "expanded_url": "https://twitter.com/gamers_gamered/status/1058727439004778496/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 372,
+            "h": 243,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 372,
+            "h": 243,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 372,
+            "h": 243,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058727436014149634,
+        "id_str": "1058727436014149634",
+        "indices": [
+          69,
+          92
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFa_mGVYAIF0Wj.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFa_mGVYAIF0Wj.jpg",
+        "url": "https://t.co/emgFYpSPE7",
+        "display_url": "pic.twitter.com/emgFYpSPE7",
+        "expanded_url": "https://twitter.com/gamers_gamered/status/1058727439004778496/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 372,
+            "h": 243,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 372,
+            "h": 243,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 372,
+            "h": 243,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255266320"
+}

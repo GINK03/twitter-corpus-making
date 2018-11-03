@@ -1,0 +1,92 @@
+{
+  "created_at": "Sat Nov 03 14:14:00 +0000 2018",
+  "id": 1058723975952445440,
+  "id_str": "1058723975952445440",
+  "text": "2018年11月3日\nsy20030808さんが入眠しました。\n時刻 23:03 入眠潜時 23分10秒\n#SleepMeister https://t.co/Yx9CXpPADF",
+  "source": "<a href=\"http://www.amuate.com/sleepmeisteren.html\" rel=\"nofollow\">Sleep Meister</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 884761293911019521,
+    "id_str": "884761293911019521",
+    "name": "ai_sy_20030808",
+    "screen_name": "sy20030808",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 0,
+    "friends_count": 0,
+    "listed_count": 0,
+    "favourites_count": 0,
+    "statuses_count": 2417,
+    "created_at": "Tue Jul 11 13:08:25 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "SleepMeister",
+        "indices": [
+          53,
+          66
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/Yx9CXpPADF",
+        "expanded_url": "http://bit.ly/XLs8lZ",
+        "display_url": "bit.ly/XLs8lZ",
+        "indices": [
+          67,
+          90
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254440664"
+}

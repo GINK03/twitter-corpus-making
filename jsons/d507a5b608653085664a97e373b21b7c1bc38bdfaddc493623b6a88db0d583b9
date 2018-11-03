@@ -1,0 +1,109 @@
+{
+  "created_at": "Sat Nov 03 14:20:04 +0000 2018",
+  "id": 1058725502683308033,
+  "id_str": "1058725502683308033",
+  "text": "@Moo_1920 @forest162dk @HAN0609 所以4 ？😂😂😂😂",
+  "display_text_range": [
+    32,
+    41
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058724387921117185,
+  "in_reply_to_status_id_str": "1058724387921117185",
+  "in_reply_to_user_id": 2884783704,
+  "in_reply_to_user_id_str": "2884783704",
+  "in_reply_to_screen_name": "Moo_1920",
+  "user": {
+    "id": 345373794,
+    "id_str": "345373794",
+    "name": "AJ",
+    "screen_name": "ahju_1118",
+    "location": "Hong Kong",
+    "url": null,
+    "description": "4 with Sun",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 258,
+    "friends_count": 236,
+    "listed_count": 1,
+    "favourites_count": 12721,
+    "statuses_count": 35910,
+    "created_at": "Sat Jul 30 13:55:42 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1057212093986816000/Jj5WS_n6_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057212093986816000/Jj5WS_n6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/345373794/1538020427",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Moo_1920",
+        "name": "願媽木健康快樂",
+        "id": 2884783704,
+        "id_str": "2884783704",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "forest162dk",
+        "name": "台南木木站出來",
+        "id": 883010870745251840,
+        "id_str": "883010870745251840",
+        "indices": [
+          10,
+          22
+        ]
+      },
+      {
+        "screen_name": "HAN0609",
+        "name": "望月星",
+        "id": 135018528,
+        "id_str": "135018528",
+        "indices": [
+          23,
+          31
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254804665"
+}

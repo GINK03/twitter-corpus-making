@@ -1,0 +1,96 @@
+{
+  "created_at": "Sat Nov 03 14:27:49 +0000 2018",
+  "id": 1058727453022052353,
+  "id_str": "1058727453022052353",
+  "text": "@Mittchi0131 笑いすぎて涙も出尽くしました(*≧∀≦)このメンバー最高です‼️\n#屏東香",
+  "display_text_range": [
+    13,
+    50
+  ],
+  "source": "<a href=\"http://jigtwi.jp/?p=1\" rel=\"nofollow\">jigtwi</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1058716090044375041,
+  "in_reply_to_status_id_str": "1058716090044375041",
+  "in_reply_to_user_id": 840067230,
+  "in_reply_to_user_id_str": "840067230",
+  "in_reply_to_screen_name": "Mittchi0131",
+  "user": {
+    "id": 157516374,
+    "id_str": "157516374",
+    "name": "海女猿あーちゃん",
+    "screen_name": "umizounohaha",
+    "location": "山手線駅そばにある超話題の下町",
+    "url": null,
+    "description": "伊藤英明くんのファン！海猿3管サポーター。海保友の会会員。\nエレクトーンプレーヤーの窪田宏さんも25年以上の大ファン♪彼の演奏は神業！12年のブランクを経てEL900mから念願のELS-02C購入！練習がんばりま～す(笑)",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 135,
+    "friends_count": 254,
+    "listed_count": 4,
+    "favourites_count": 79,
+    "statuses_count": 21995,
+    "created_at": "Sun Jun 20 02:09:06 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000765646754/bfbdef0dbe4be6e17d29c19c485c9e6d_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000765646754/bfbdef0dbe4be6e17d29c19c485c9e6d_normal.jpeg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "屏東香",
+        "indices": [
+          46,
+          50
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Mittchi0131",
+        "name": "MIYA",
+        "id": 840067230,
+        "id_str": "840067230",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255269662"
+}

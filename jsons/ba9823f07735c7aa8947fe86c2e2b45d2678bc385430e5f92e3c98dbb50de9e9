@@ -1,0 +1,499 @@
+{
+  "created_at": "Sat Nov 03 14:20:25 +0000 2018",
+  "id": 1058725590755270656,
+  "id_str": "1058725590755270656",
+  "text": "RT @hinekurebow: 「ニャンコ先生全身タイツ」発売中！購入⇒https://t.co/8inscUxHGe https://t.co/zzsCO3uxT9",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 985202665972842498,
+    "id_str": "985202665972842498",
+    "name": "佐々木ヒロ:最新話更新",
+    "screen_name": "NoahD_sun",
+    "location": "主食はパンツ",
+    "url": "https://www.pixiv.net/member.php?id=26258087",
+    "description": "お絵描き💩マン #毎日真祖 雑多絵描いてます。RAW毎週土曜定期更新",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 206,
+    "friends_count": 210,
+    "listed_count": 2,
+    "favourites_count": 8438,
+    "statuses_count": 9512,
+    "created_at": "Sat Apr 14 17:06:34 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1048512651175780352/WdWo3k7G_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048512651175780352/WdWo3k7G_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/985202665972842498/1533735232",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 10:44:50 +0000 2018",
+    "id": 1058308949449928705,
+    "id_str": "1058308949449928705",
+    "text": "「ニャンコ先生全身タイツ」発売中！購入⇒https://t.co/8inscUxHGe https://t.co/zzsCO3uxT9",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3097356912,
+      "id_str": "3097356912",
+      "name": "ひねくれ坊",
+      "screen_name": "hinekurebow",
+      "location": null,
+      "url": "http://hinekurebou.crap.jp/wp/",
+      "description": "「フレミングの反り返る親指」書いてます。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 18720,
+      "friends_count": 0,
+      "listed_count": 367,
+      "favourites_count": 0,
+      "statuses_count": 7457,
+      "created_at": "Thu Mar 19 07:39:16 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/871847477078405120/fqeUC6mm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/871847477078405120/fqeUC6mm_normal.jpg",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 241,
+    "reply_count": 14,
+    "retweet_count": 5228,
+    "favorite_count": 5092,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/8inscUxHGe",
+          "expanded_url": "https://amzn.to/2P6cbOf",
+          "display_url": "amzn.to/2P6cbOf",
+          "indices": [
+            20,
+            43
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058308915589304325,
+          "id_str": "1058308915589304325",
+          "indices": [
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_eWgBUUAUE8NM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_eWgBUUAUE8NM.jpg",
+          "url": "https://t.co/zzsCO3uxT9",
+          "display_url": "pic.twitter.com/zzsCO3uxT9",
+          "expanded_url": "https://twitter.com/hinekurebow/status/1058308949449928705/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 516,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 531,
+              "h": 700,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 531,
+              "h": 700,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058308915589304325,
+          "id_str": "1058308915589304325",
+          "indices": [
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_eWgBUUAUE8NM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_eWgBUUAUE8NM.jpg",
+          "url": "https://t.co/zzsCO3uxT9",
+          "display_url": "pic.twitter.com/zzsCO3uxT9",
+          "expanded_url": "https://twitter.com/hinekurebow/status/1058308949449928705/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 516,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 531,
+              "h": 700,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 531,
+              "h": 700,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058308928893673474,
+          "id_str": "1058308928893673474",
+          "indices": [
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_eXRlU4AIRg7p.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_eXRlU4AIRg7p.jpg",
+          "url": "https://t.co/zzsCO3uxT9",
+          "display_url": "pic.twitter.com/zzsCO3uxT9",
+          "expanded_url": "https://twitter.com/hinekurebow/status/1058308949449928705/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 531,
+              "h": 700,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 516,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 531,
+              "h": 700,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1058308942114172928,
+          "id_str": "1058308942114172928",
+          "indices": [
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq_eYC1VsAAru8N.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq_eYC1VsAAru8N.jpg",
+          "url": "https://t.co/zzsCO3uxT9",
+          "display_url": "pic.twitter.com/zzsCO3uxT9",
+          "expanded_url": "https://twitter.com/hinekurebow/status/1058308949449928705/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 531,
+              "h": 700,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 516,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 531,
+              "h": 700,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/8inscUxHGe",
+        "expanded_url": "https://amzn.to/2P6cbOf",
+        "display_url": "amzn.to/2P6cbOf",
+        "indices": [
+          37,
+          60
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "hinekurebow",
+        "name": "ひねくれ坊",
+        "id": 3097356912,
+        "id_str": "3097356912",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058308915589304325,
+        "id_str": "1058308915589304325",
+        "indices": [
+          61,
+          84
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_eWgBUUAUE8NM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_eWgBUUAUE8NM.jpg",
+        "url": "https://t.co/zzsCO3uxT9",
+        "display_url": "pic.twitter.com/zzsCO3uxT9",
+        "expanded_url": "https://twitter.com/hinekurebow/status/1058308949449928705/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 516,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 531,
+            "h": 700,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 531,
+            "h": 700,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058308949449928705,
+        "source_status_id_str": "1058308949449928705",
+        "source_user_id": 3097356912,
+        "source_user_id_str": "3097356912"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058308915589304325,
+        "id_str": "1058308915589304325",
+        "indices": [
+          61,
+          84
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_eWgBUUAUE8NM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_eWgBUUAUE8NM.jpg",
+        "url": "https://t.co/zzsCO3uxT9",
+        "display_url": "pic.twitter.com/zzsCO3uxT9",
+        "expanded_url": "https://twitter.com/hinekurebow/status/1058308949449928705/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 516,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 531,
+            "h": 700,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 531,
+            "h": 700,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058308949449928705,
+        "source_status_id_str": "1058308949449928705",
+        "source_user_id": 3097356912,
+        "source_user_id_str": "3097356912"
+      },
+      {
+        "id": 1058308928893673474,
+        "id_str": "1058308928893673474",
+        "indices": [
+          61,
+          84
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_eXRlU4AIRg7p.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_eXRlU4AIRg7p.jpg",
+        "url": "https://t.co/zzsCO3uxT9",
+        "display_url": "pic.twitter.com/zzsCO3uxT9",
+        "expanded_url": "https://twitter.com/hinekurebow/status/1058308949449928705/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 531,
+            "h": 700,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 516,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 531,
+            "h": 700,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058308949449928705,
+        "source_status_id_str": "1058308949449928705",
+        "source_user_id": 3097356912,
+        "source_user_id_str": "3097356912"
+      },
+      {
+        "id": 1058308942114172928,
+        "id_str": "1058308942114172928",
+        "indices": [
+          61,
+          84
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq_eYC1VsAAru8N.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Dq_eYC1VsAAru8N.jpg",
+        "url": "https://t.co/zzsCO3uxT9",
+        "display_url": "pic.twitter.com/zzsCO3uxT9",
+        "expanded_url": "https://twitter.com/hinekurebow/status/1058308949449928705/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 531,
+            "h": 700,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 516,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 531,
+            "h": 700,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058308949449928705,
+        "source_status_id_str": "1058308949449928705",
+        "source_user_id": 3097356912,
+        "source_user_id_str": "3097356912"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254825663"
+}

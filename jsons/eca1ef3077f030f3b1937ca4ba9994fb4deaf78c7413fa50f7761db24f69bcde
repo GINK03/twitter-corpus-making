@@ -1,0 +1,396 @@
+{
+  "created_at": "Sat Nov 03 14:14:23 +0000 2018",
+  "id": 1058724072392028161,
+  "id_str": "1058724072392028161",
+  "text": "RT @pika02_pwo_ob: 明日11/4(日)はぱんだWO🐼カルッツかわさき公演です！\nリンカンシャーの花束より「ホークストウ農場」をオーボエのメンバーで演奏してみました♬\nお待ちしてます〜\\( ˆoˆ )/ https://t.co/L4YX0J3xVY",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1460835108,
+    "id_str": "1460835108",
+    "name": "さっしー",
+    "screen_name": "sass_y0113",
+    "location": null,
+    "url": null,
+    "description": "さっしー MR-S→MR2 3型 SW20 G-Limited/バリオス 岐阜 MR-Sに乗り換えたい 30kg減量 筋トレ始めた。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 397,
+    "friends_count": 311,
+    "listed_count": 11,
+    "favourites_count": 37027,
+    "statuses_count": 126219,
+    "created_at": "Sun May 26 23:26:16 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/878468122788864001/LmTrgo2N_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/878468122788864001/LmTrgo2N_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1460835108/1372168303",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 12:10:04 +0000 2018",
+    "id": 1058692784792592384,
+    "id_str": "1058692784792592384",
+    "text": "明日11/4(日)はぱんだWO🐼カルッツかわさき公演です！\nリンカンシャーの花束より「ホークストウ農場」をオーボエのメンバーで演奏してみました♬\nお待ちしてます〜\\( ˆoˆ )/ https://t.co/L4YX0J3xVY",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4100002513,
+      "id_str": "4100002513",
+      "name": "藤本茉奈美",
+      "screen_name": "pika02_pwo_ob",
+      "location": "山口県/上野動物園",
+      "url": "http://www.pandawindorchestra.com/",
+      "description": "ぱんだウインドオーケストラ/オーボエ/東京芸大修士修了",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 597,
+      "friends_count": 351,
+      "listed_count": 2,
+      "favourites_count": 1709,
+      "statuses_count": 1108,
+      "created_at": "Mon Nov 02 08:35:26 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/661118618118189056/SxCWtMhO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/661118618118189056/SxCWtMhO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4100002513/1446457474",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 3,
+    "reply_count": 0,
+    "retweet_count": 31,
+    "favorite_count": 191,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058692678223720449,
+          "id_str": "1058692678223720449",
+          "indices": [
+            91,
+            114
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058692678223720449/pu/img/CSHxeiDJU6LmpeGK.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058692678223720449/pu/img/CSHxeiDJU6LmpeGK.jpg",
+          "url": "https://t.co/L4YX0J3xVY",
+          "display_url": "pic.twitter.com/L4YX0J3xVY",
+          "expanded_url": "https://twitter.com/pika02_pwo_ob/status/1058692784792592384/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058692678223720449,
+          "id_str": "1058692678223720449",
+          "indices": [
+            91,
+            114
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058692678223720449/pu/img/CSHxeiDJU6LmpeGK.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058692678223720449/pu/img/CSHxeiDJU6LmpeGK.jpg",
+          "url": "https://t.co/L4YX0J3xVY",
+          "display_url": "pic.twitter.com/L4YX0J3xVY",
+          "expanded_url": "https://twitter.com/pika02_pwo_ob/status/1058692784792592384/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 33233,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058692678223720449/pu/vid/640x360/n9zbJL9UtSqq6b21.mp4?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058692678223720449/pu/vid/320x180/o2jWdZbuaXgDt3EA.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058692678223720449/pu/vid/1280x720/YUlFne1_V0ke5IlS.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058692678223720449/pu/pl/kSptjCa2cWXdikBd.m3u8?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "pika02_pwo_ob",
+        "name": "藤本茉奈美",
+        "id": 4100002513,
+        "id_str": "4100002513",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058692678223720449,
+        "id_str": "1058692678223720449",
+        "indices": [
+          110,
+          133
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058692678223720449/pu/img/CSHxeiDJU6LmpeGK.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058692678223720449/pu/img/CSHxeiDJU6LmpeGK.jpg",
+        "url": "https://t.co/L4YX0J3xVY",
+        "display_url": "pic.twitter.com/L4YX0J3xVY",
+        "expanded_url": "https://twitter.com/pika02_pwo_ob/status/1058692784792592384/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058692784792592384,
+        "source_status_id_str": "1058692784792592384",
+        "source_user_id": 4100002513,
+        "source_user_id_str": "4100002513"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058692678223720449,
+        "id_str": "1058692678223720449",
+        "indices": [
+          110,
+          133
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058692678223720449/pu/img/CSHxeiDJU6LmpeGK.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058692678223720449/pu/img/CSHxeiDJU6LmpeGK.jpg",
+        "url": "https://t.co/L4YX0J3xVY",
+        "display_url": "pic.twitter.com/L4YX0J3xVY",
+        "expanded_url": "https://twitter.com/pika02_pwo_ob/status/1058692784792592384/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 33233,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058692678223720449/pu/vid/640x360/n9zbJL9UtSqq6b21.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058692678223720449/pu/vid/320x180/o2jWdZbuaXgDt3EA.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058692678223720449/pu/vid/1280x720/YUlFne1_V0ke5IlS.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058692678223720449/pu/pl/kSptjCa2cWXdikBd.m3u8?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058692784792592384,
+        "source_status_id_str": "1058692784792592384",
+        "source_user_id": 4100002513,
+        "source_user_id_str": "4100002513"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254463657"
+}

@@ -1,0 +1,208 @@
+{
+  "created_at": "Sat Nov 03 14:25:50 +0000 2018",
+  "id": 1058726952037638149,
+  "id_str": "1058726952037638149",
+  "text": "明日私用で岡山に行くので運極がかかってる黄泉ができません……\nフォロワーの皆様よろしければストックをお願いしますm(_ _)m\n\n#モンスト\n#黄泉 https://t.co/acsxEREHMg",
+  "display_text_range": [
+    0,
+    74
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2216141624,
+    "id_str": "2216141624",
+    "name": "WEGA",
+    "screen_name": "wega_222",
+    "location": "広島県",
+    "url": null,
+    "description": "ベガと読みます。昭和世代の社会人ストライカー。モンストグループ、「チームにゃんこ」の管理人やってます。3端末所有もPSは皆無の模様。Sランク特Lを愛し愛された人。8ノ獄アレルギー患者。 チート関係はお断り。 2匹の猫の飼い主。アニメやモンスト以外のゲーム、競馬、日常の話題なんかもします。",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 458,
+    "friends_count": 204,
+    "listed_count": 23,
+    "favourites_count": 60690,
+    "statuses_count": 17908,
+    "created_at": "Tue Nov 26 18:09:10 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/976415480784158720/jbCi9k8w_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/976415480784158720/jbCi9k8w_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2216141624/1498840877",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "モンスト",
+        "indices": [
+          65,
+          70
+        ]
+      },
+      {
+        "text": "黄泉",
+        "indices": [
+          71,
+          74
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058726884974837761,
+        "id_str": "1058726884974837761",
+        "indices": [
+          75,
+          98
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFafhUUwAECWCW.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFafhUUwAECWCW.jpg",
+        "url": "https://t.co/acsxEREHMg",
+        "display_url": "pic.twitter.com/acsxEREHMg",
+        "expanded_url": "https://twitter.com/wega_222/status/1058726952037638149/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1920,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058726884974837761,
+        "id_str": "1058726884974837761",
+        "indices": [
+          75,
+          98
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFafhUUwAECWCW.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFafhUUwAECWCW.jpg",
+        "url": "https://t.co/acsxEREHMg",
+        "display_url": "pic.twitter.com/acsxEREHMg",
+        "expanded_url": "https://twitter.com/wega_222/status/1058726952037638149/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1920,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1058726937265229824,
+        "id_str": "1058726937265229824",
+        "indices": [
+          75,
+          98
+        ],
+        "media_url": "http://pbs.twimg.com/media/DrFaikHU0AAsvIX.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DrFaikHU0AAsvIX.jpg",
+        "url": "https://t.co/acsxEREHMg",
+        "display_url": "pic.twitter.com/acsxEREHMg",
+        "expanded_url": "https://twitter.com/wega_222/status/1058726952037638149/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1063,
+            "h": 340,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 217,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1063,
+            "h": 340,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255150218"
+}

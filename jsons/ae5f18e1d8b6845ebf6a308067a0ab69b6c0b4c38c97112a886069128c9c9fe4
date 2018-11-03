@@ -1,0 +1,191 @@
+{
+  "created_at": "Sat Nov 03 14:24:25 +0000 2018",
+  "id": 1058726597367222277,
+  "id_str": "1058726597367222277",
+  "text": "無理じゃない？\nえ、無理じゃない？？ https://t.co/0JoHBAKWni",
+  "display_text_range": [
+    0,
+    18
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 392741823,
+    "id_str": "392741823",
+    "name": "Sོaོnོ",
+    "screen_name": "hkr6609",
+    "location": "グリーンスタジアムの音が聴こえる辺り",
+    "url": null,
+    "description": "lynch./KAT-TUN// DAYS,灼カバ//\n鷹丑寄りパ贔屓12球団ゆるっと👻/雑食//\n劇場/らいぶはうす/ほもフィor京セラ🙈/\n\n25⬆の腐れ。 FRBご自由に☺",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 95,
+    "friends_count": 181,
+    "listed_count": 2,
+    "favourites_count": 7274,
+    "statuses_count": 47691,
+    "created_at": "Mon Oct 17 14:12:57 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "642D8B",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "483D8B",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "7AC3EE",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/980365814363664385/3sqdQDSm_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/980365814363664385/3sqdQDSm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/392741823/1534810017",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058726542623166465,
+        "id_str": "1058726542623166465",
+        "indices": [
+          19,
+          42
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058726542623166465/pu/img/O-aCpKX2oCOdsihI.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058726542623166465/pu/img/O-aCpKX2oCOdsihI.jpg",
+        "url": "https://t.co/0JoHBAKWni",
+        "display_url": "pic.twitter.com/0JoHBAKWni",
+        "expanded_url": "https://twitter.com/hkr6609/status/1058726597367222277/video/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 480,
+            "h": 852,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 480,
+            "h": 852,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058726542623166465,
+        "id_str": "1058726542623166465",
+        "indices": [
+          19,
+          42
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058726542623166465/pu/img/O-aCpKX2oCOdsihI.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058726542623166465/pu/img/O-aCpKX2oCOdsihI.jpg",
+        "url": "https://t.co/0JoHBAKWni",
+        "display_url": "pic.twitter.com/0JoHBAKWni",
+        "expanded_url": "https://twitter.com/hkr6609/status/1058726597367222277/video/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            40,
+            71
+          ],
+          "duration_millis": 15000,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058726542623166465/pu/vid/360x638/OZVicA8sOEN_DuWJ.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058726542623166465/pu/vid/480x852/I1QGYFd33mQ_0sjK.mp4?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1058726542623166465/pu/vid/180x318/L7Ptj_c3K-E6CuRu.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1058726542623166465/pu/pl/PxddjZhWb02c9GcA.m3u8?tag=5"
+            }
+          ]
+        },
+        "sizes": {
+          "large": {
+            "w": 480,
+            "h": 852,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 480,
+            "h": 852,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255065658"
+}

@@ -1,0 +1,344 @@
+{
+  "created_at": "Sat Nov 03 13:57:26 +0000 2018",
+  "id": 1058719808009785344,
+  "id_str": "1058719808009785344",
+  "text": "RT @dolsuke: 水着頼光さん　#FGO https://t.co/KeTc5D20rF",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1360475425,
+    "id_str": "1360475425",
+    "name": "Ryan",
+    "screen_name": "therealgarrya",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 32,
+    "friends_count": 1707,
+    "listed_count": 0,
+    "favourites_count": 15840,
+    "statuses_count": 2067,
+    "created_at": "Wed Apr 17 22:11:19 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1053884103412588544/mz1lUbir_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053884103412588544/mz1lUbir_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1360475425/1540100525",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Oct 05 10:42:09 +0000 2018",
+    "id": 1048161413653360641,
+    "id_str": "1048161413653360641",
+    "text": "水着頼光さん　#FGO https://t.co/KeTc5D20rF",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2931855762,
+      "id_str": "2931855762",
+      "name": "ドルチェ＠冬コミ2日目東D-04a",
+      "screen_name": "dolsuke",
+      "location": "お仕事は2019年4月よりお引き受け可能です",
+      "url": "https://www.pixiv.net/member.php?id=53570",
+      "description": "フリーのイラストレーター。FGO＆アズレン民。和洋折衷・ロリィタ・異色ファッション大好き人間。お仕事のご依頼はHPにて→http://queen-dom.red",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 5397,
+      "friends_count": 361,
+      "listed_count": 152,
+      "favourites_count": 7431,
+      "statuses_count": 14649,
+      "created_at": "Tue Dec 16 05:54:48 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "F58EA8",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1048229503502184448/zxbEWcdj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048229503502184448/zxbEWcdj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2931855762/1521454097",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 10,
+    "reply_count": 14,
+    "retweet_count": 2482,
+    "favorite_count": 9429,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FGO",
+          "indices": [
+            7,
+            11
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1048161255926652928,
+          "id_str": "1048161255926652928",
+          "indices": [
+            12,
+            35
+          ],
+          "media_url": "http://pbs.twimg.com/media/DovRG97V4AAVRls.png",
+          "media_url_https": "https://pbs.twimg.com/media/DovRG97V4AAVRls.png",
+          "url": "https://t.co/KeTc5D20rF",
+          "display_url": "pic.twitter.com/KeTc5D20rF",
+          "expanded_url": "https://twitter.com/dolsuke/status/1048161413653360641/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 484,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 853,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1406,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1048161255926652928,
+          "id_str": "1048161255926652928",
+          "indices": [
+            12,
+            35
+          ],
+          "media_url": "http://pbs.twimg.com/media/DovRG97V4AAVRls.png",
+          "media_url_https": "https://pbs.twimg.com/media/DovRG97V4AAVRls.png",
+          "url": "https://t.co/KeTc5D20rF",
+          "display_url": "pic.twitter.com/KeTc5D20rF",
+          "expanded_url": "https://twitter.com/dolsuke/status/1048161413653360641/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 484,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 853,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1406,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FGO",
+        "indices": [
+          20,
+          24
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "dolsuke",
+        "name": "ドルチェ＠冬コミ2日目東D-04a",
+        "id": 2931855762,
+        "id_str": "2931855762",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1048161255926652928,
+        "id_str": "1048161255926652928",
+        "indices": [
+          25,
+          48
+        ],
+        "media_url": "http://pbs.twimg.com/media/DovRG97V4AAVRls.png",
+        "media_url_https": "https://pbs.twimg.com/media/DovRG97V4AAVRls.png",
+        "url": "https://t.co/KeTc5D20rF",
+        "display_url": "pic.twitter.com/KeTc5D20rF",
+        "expanded_url": "https://twitter.com/dolsuke/status/1048161413653360641/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 484,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 853,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1406,
+            "h": 1000,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        },
+        "source_status_id": 1048161413653360641,
+        "source_status_id_str": "1048161413653360641",
+        "source_user_id": 2931855762,
+        "source_user_id_str": "2931855762"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1048161255926652928,
+        "id_str": "1048161255926652928",
+        "indices": [
+          25,
+          48
+        ],
+        "media_url": "http://pbs.twimg.com/media/DovRG97V4AAVRls.png",
+        "media_url_https": "https://pbs.twimg.com/media/DovRG97V4AAVRls.png",
+        "url": "https://t.co/KeTc5D20rF",
+        "display_url": "pic.twitter.com/KeTc5D20rF",
+        "expanded_url": "https://twitter.com/dolsuke/status/1048161413653360641/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 484,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 853,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1406,
+            "h": 1000,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        },
+        "source_status_id": 1048161413653360641,
+        "source_status_id_str": "1048161413653360641",
+        "source_user_id": 2931855762,
+        "source_user_id_str": "2931855762"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253446949"
+}

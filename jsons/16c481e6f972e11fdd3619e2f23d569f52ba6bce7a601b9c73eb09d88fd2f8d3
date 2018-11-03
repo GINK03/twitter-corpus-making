@@ -1,0 +1,328 @@
+{
+  "created_at": "Sat Nov 03 13:58:37 +0000 2018",
+  "id": 1058720105562062848,
+  "id_str": "1058720105562062848",
+  "text": "RT @ko_ru_ri: ◎あなたのサークル「こるり屋」は、月曜日　東地区“Ａ”ブロック－13a に配置されました。\nスペース頂戴しました、今回も艦これとFGOの予定です。よろしくお願いします～ https://t.co/YNmuw4Bo9E",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 35392456,
+    "id_str": "35392456",
+    "name": "🇧🇷🍌BR Banyana",
+    "screen_name": "kanna_istvar",
+    "location": "Brazil",
+    "url": null,
+    "description": "Terrible tweets, decent retweets",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 5142,
+    "friends_count": 959,
+    "listed_count": 106,
+    "favourites_count": 217147,
+    "statuses_count": 280375,
+    "created_at": "Sun Apr 26 03:37:27 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "0C644B",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1013969642803605505/DTj2brXv_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013969642803605505/DTj2brXv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/35392456/1540213382",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 08:12:09 +0000 2018",
+    "id": 1058270523560361985,
+    "id_str": "1058270523560361985",
+    "text": "◎あなたのサークル「こるり屋」は、月曜日　東地区“Ａ”ブロック－13a に配置されました。\nスペース頂戴しました、今回も艦これとFGOの予定です。よろしくお願いします～ https://t.co/YNmuw4Bo9E",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 67879899,
+      "id_str": "67879899",
+      "name": "こるり*11/4ｻﾝｸﾘJ28a",
+      "screen_name": "ko_ru_ri",
+      "location": "締め切り前",
+      "url": "http://koruriya.com/",
+      "description": "http://pixiv.me/ko_ru_ri イラストレーター/漫画家。キャラ、衣装デザイン、デフォルメキャラ、「ライブレボルト（RumBlue）」「とある鎮守府の一日」「桃色トランス」等々。あまりお返事できませんがリプライ等大切に読んでいます。いいね、RT いつもありがとうございます。告知用→@koruriya",
+      "translator_type": "regular",
+      "protected": false,
+      "verified": true,
+      "followers_count": 99677,
+      "friends_count": 904,
+      "listed_count": 2946,
+      "favourites_count": 8635,
+      "statuses_count": 6438,
+      "created_at": "Sat Aug 22 12:39:48 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1022149278188199936/J_u4IIpi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022149278188199936/J_u4IIpi_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/67879899/1413415891",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 18,
+    "retweet_count": 645,
+    "favorite_count": 1463,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058270190432018432,
+          "id_str": "1058270190432018432",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq-7IZkV4AATFHy.png",
+          "media_url_https": "https://pbs.twimg.com/media/Dq-7IZkV4AATFHy.png",
+          "url": "https://t.co/YNmuw4Bo9E",
+          "display_url": "pic.twitter.com/YNmuw4Bo9E",
+          "expanded_url": "https://twitter.com/ko_ru_ri/status/1058270523560361985/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058270190432018432,
+          "id_str": "1058270190432018432",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq-7IZkV4AATFHy.png",
+          "media_url_https": "https://pbs.twimg.com/media/Dq-7IZkV4AATFHy.png",
+          "url": "https://t.co/YNmuw4Bo9E",
+          "display_url": "pic.twitter.com/YNmuw4Bo9E",
+          "expanded_url": "https://twitter.com/ko_ru_ri/status/1058270523560361985/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "ko_ru_ri",
+        "name": "こるり*11/4ｻﾝｸﾘJ28a",
+        "id": 67879899,
+        "id_str": "67879899",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1058270190432018432,
+        "id_str": "1058270190432018432",
+        "indices": [
+          99,
+          122
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq-7IZkV4AATFHy.png",
+        "media_url_https": "https://pbs.twimg.com/media/Dq-7IZkV4AATFHy.png",
+        "url": "https://t.co/YNmuw4Bo9E",
+        "display_url": "pic.twitter.com/YNmuw4Bo9E",
+        "expanded_url": "https://twitter.com/ko_ru_ri/status/1058270523560361985/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 800,
+            "h": 800,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 800,
+            "h": 800,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058270523560361985,
+        "source_status_id_str": "1058270523560361985",
+        "source_user_id": 67879899,
+        "source_user_id_str": "67879899"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1058270190432018432,
+        "id_str": "1058270190432018432",
+        "indices": [
+          99,
+          122
+        ],
+        "media_url": "http://pbs.twimg.com/media/Dq-7IZkV4AATFHy.png",
+        "media_url_https": "https://pbs.twimg.com/media/Dq-7IZkV4AATFHy.png",
+        "url": "https://t.co/YNmuw4Bo9E",
+        "display_url": "pic.twitter.com/YNmuw4Bo9E",
+        "expanded_url": "https://twitter.com/ko_ru_ri/status/1058270523560361985/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 800,
+            "h": 800,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 800,
+            "h": 800,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1058270523560361985,
+        "source_status_id_str": "1058270523560361985",
+        "source_user_id": 67879899,
+        "source_user_id_str": "67879899"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541253517891"
+}

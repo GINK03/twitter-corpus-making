@@ -1,0 +1,525 @@
+{
+  "created_at": "Sat Nov 03 14:14:10 +0000 2018",
+  "id": 1058724017866072070,
+  "id_str": "1058724017866072070",
+  "text": "RT @akajihsi: あー、これは、、、 https://t.co/NcKpYjHQK2",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1429857697,
+    "id_str": "1429857697",
+    "name": "なわ",
+    "screen_name": "konpasunohari",
+    "location": "にーがた（迷子）",
+    "url": null,
+    "description": "おそらく社会人 モンスト、サッカー、フットサル、釣り、スキー アルビサポ 、コブファミ、ヒルクライマー",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 457,
+    "friends_count": 486,
+    "listed_count": 0,
+    "favourites_count": 5999,
+    "statuses_count": 6269,
+    "created_at": "Wed May 15 07:56:20 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/753896713367060480/9DuDEsQz_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/753896713367060480/9DuDEsQz_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429857697/1531187186",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Nov 03 05:42:47 +0000 2018",
+    "id": 1058595324623605760,
+    "id_str": "1058595324623605760",
+    "text": "あー、これは、、、 https://t.co/NcKpYjHQK2",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "source": "<a href=\"http://www.twitpane.com\" rel=\"nofollow\">TwitPane for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 189661418,
+      "id_str": "189661418",
+      "name": "カトウクマサル",
+      "screen_name": "akajihsi",
+      "location": "質問箱",
+      "url": "https://peing.net/akajihsi",
+      "description": "主な退団選手\n12 酒井高徳\r　\r\n13 鈴木大輔\r\n14 東口順昭 キム・ジンス 川又堅碁\n15 田中亜土夢\n16 山本康裕 大井健太郎\n17 ラファエル・シルバ コルテース 小林裕紀 レオ・シルバ 舞行龍ジェームズ\n18 本間勲 大野和成 小泉慶 山崎亮平←NEW！",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 758,
+      "friends_count": 102,
+      "listed_count": 36,
+      "favourites_count": 151,
+      "statuses_count": 2801,
+      "created_at": "Sat Sep 11 21:54:00 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3600781211/b81e8867d1dfae64ae051b0d67b7f706_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3600781211/b81e8867d1dfae64ae051b0d67b7f706_normal.png",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058594887363227648,
+    "quoted_status_id_str": "1058594887363227648",
+    "quoted_status": {
+      "created_at": "Sat Nov 03 05:41:03 +0000 2018",
+      "id": 1058594887363227648,
+      "id_str": "1058594887363227648",
+      "text": "やばすぎる審判\n\n#albirex https://t.co/TP4QO3pCMc",
+      "display_text_range": [
+        0,
+        17
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 458413346,
+        "id_str": "458413346",
+        "name": "カッパ君",
+        "screen_name": "kappanoyu2007",
+        "location": null,
+        "url": null,
+        "description": "最近色々な匂いが気になります",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 20,
+        "friends_count": 22,
+        "listed_count": 0,
+        "favourites_count": 71,
+        "statuses_count": 2696,
+        "created_at": "Sun Jan 08 14:52:06 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/483894559273803776/PDSisaaS_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/483894559273803776/PDSisaaS_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/458413346/1409388819",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 5,
+      "reply_count": 0,
+      "retweet_count": 3,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "albirex",
+            "indices": [
+              9,
+              17
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058594880308490240,
+            "id_str": "1058594880308490240",
+            "indices": [
+              18,
+              41
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrDib1nVsAAfBQF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrDib1nVsAAfBQF.jpg",
+            "url": "https://t.co/TP4QO3pCMc",
+            "display_url": "pic.twitter.com/TP4QO3pCMc",
+            "expanded_url": "https://twitter.com/kappanoyu2007/status/1058594887363227648/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058594880308490240,
+            "id_str": "1058594880308490240",
+            "indices": [
+              18,
+              41
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrDib1nVsAAfBQF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrDib1nVsAAfBQF.jpg",
+            "url": "https://t.co/TP4QO3pCMc",
+            "display_url": "pic.twitter.com/TP4QO3pCMc",
+            "expanded_url": "https://twitter.com/kappanoyu2007/status/1058594887363227648/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/NcKpYjHQK2",
+      "expanded": "https://twitter.com/kappanoyu2007/status/1058594887363227648",
+      "display": "twitter.com/kappanoyu2007/…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/NcKpYjHQK2",
+          "expanded_url": "https://twitter.com/kappanoyu2007/status/1058594887363227648",
+          "display_url": "twitter.com/kappanoyu2007/…",
+          "indices": [
+            10,
+            33
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058594887363227648,
+  "quoted_status_id_str": "1058594887363227648",
+  "quoted_status": {
+    "created_at": "Sat Nov 03 05:41:03 +0000 2018",
+    "id": 1058594887363227648,
+    "id_str": "1058594887363227648",
+    "text": "やばすぎる審判\n\n#albirex https://t.co/TP4QO3pCMc",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 458413346,
+      "id_str": "458413346",
+      "name": "カッパ君",
+      "screen_name": "kappanoyu2007",
+      "location": null,
+      "url": null,
+      "description": "最近色々な匂いが気になります",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 20,
+      "friends_count": 22,
+      "listed_count": 0,
+      "favourites_count": 71,
+      "statuses_count": 2696,
+      "created_at": "Sun Jan 08 14:52:06 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/483894559273803776/PDSisaaS_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/483894559273803776/PDSisaaS_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/458413346/1409388819",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 5,
+    "reply_count": 0,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "albirex",
+          "indices": [
+            9,
+            17
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058594880308490240,
+          "id_str": "1058594880308490240",
+          "indices": [
+            18,
+            41
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDib1nVsAAfBQF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDib1nVsAAfBQF.jpg",
+          "url": "https://t.co/TP4QO3pCMc",
+          "display_url": "pic.twitter.com/TP4QO3pCMc",
+          "expanded_url": "https://twitter.com/kappanoyu2007/status/1058594887363227648/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 750,
+              "h": 1334,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058594880308490240,
+          "id_str": "1058594880308490240",
+          "indices": [
+            18,
+            41
+          ],
+          "media_url": "http://pbs.twimg.com/media/DrDib1nVsAAfBQF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DrDib1nVsAAfBQF.jpg",
+          "url": "https://t.co/TP4QO3pCMc",
+          "display_url": "pic.twitter.com/TP4QO3pCMc",
+          "expanded_url": "https://twitter.com/kappanoyu2007/status/1058594887363227648/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 750,
+              "h": 1334,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/NcKpYjHQK2",
+    "expanded": "https://twitter.com/kappanoyu2007/status/1058594887363227648",
+    "display": "twitter.com/kappanoyu2007/…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/NcKpYjHQK2",
+        "expanded_url": "https://twitter.com/kappanoyu2007/status/1058594887363227648",
+        "display_url": "twitter.com/kappanoyu2007/…",
+        "indices": [
+          24,
+          47
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "akajihsi",
+        "name": "カトウクマサル",
+        "id": 189661418,
+        "id_str": "189661418",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541254450657"
+}

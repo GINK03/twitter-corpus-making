@@ -1,0 +1,633 @@
+{
+  "created_at": "Sat Nov 03 14:25:49 +0000 2018",
+  "id": 1058726949718093824,
+  "id_str": "1058726949718093824",
+  "text": "RT @yunoki_m: 安倍総理は、三権分立を理解してないのではなく、\n内閣のトップである総理が、\n立法府である国会も牛耳っている\nとの「本音」。\nこんな総理に、憲法９条や緊急事態条項含む改憲させたら、\nこの国の民主主義、国民主権は完全に\n「終了」です。\n#安倍総理 #憲法…",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1018503793372086272,
+    "id_str": "1018503793372086272",
+    "name": "りい",
+    "screen_name": "18D72BmuG6M6YaB",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 25,
+    "friends_count": 9,
+    "listed_count": 0,
+    "favourites_count": 5410,
+    "statuses_count": 4091,
+    "created_at": "Sun Jul 15 14:33:22 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 02 16:02:44 +0000 2018",
+    "id": 1058388950459416577,
+    "id_str": "1058388950459416577",
+    "text": "安倍総理は、三権分立を理解してないのではなく、\n内閣のトップである総理が、\n立法府である国会も牛耳っている\nとの「本音」。\nこんな総理に、憲法９条や緊急事態条項含む改憲させたら、\nこの国の民主主義、国民主権は完全に\n「終了」です。… https://t.co/As3EsAptxR",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 114697823,
+      "id_str": "114697823",
+      "name": "柚木みちよし",
+      "screen_name": "yunoki_m",
+      "location": "岡山県　倉敷市・早島町",
+      "url": "http://www.yuzu.jp/",
+      "description": "衆議院議員 柚木みちよしです。 無所属。5期目。 1985(昭和60)年 倉敷市立上成小学校卒業 1988(昭和63)年 私立金光学園中学校卒業 1991(平成 3)年 私立金光学園高等学校卒業 1997(平成 9)年 岡山大学文学部哲学科心理学・社会心理学コース卒業。",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 12342,
+      "friends_count": 4163,
+      "listed_count": 700,
+      "favourites_count": 4803,
+      "statuses_count": 3937,
+      "created_at": "Tue Feb 16 09:28:50 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1037154230073610240/-KW3d1Wk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037154230073610240/-KW3d1Wk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/114697823/1511507028",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1058260789860065280,
+    "quoted_status_id_str": "1058260789860065280",
+    "quoted_status": {
+      "created_at": "Fri Nov 02 07:33:28 +0000 2018",
+      "id": 1058260789860065280,
+      "id_str": "1058260789860065280",
+      "text": "またまた出ました、安倍晋三くん、\n「私は『立法府の長』として立ってる」 https://t.co/gxbfYcZ4XG",
+      "display_text_range": [
+        0,
+        35
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1641981655,
+        "id_str": "1641981655",
+        "name": "ⓢⓐⓘⓣⓞ",
+        "screen_name": "kentaro_s1980",
+        "location": null,
+        "url": "https://twitter.com/kentaro_s1980/status/811244087860953089",
+        "description": "https://twitter.com/kentaro_s1980/status/441926117532770304",
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 13967,
+        "friends_count": 1195,
+        "listed_count": 201,
+        "favourites_count": 1129,
+        "statuses_count": 36742,
+        "created_at": "Sat Aug 03 03:42:50 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1056243161801154564/8xicImWO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056243161801154564/8xicImWO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641981655/1482077650",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 134,
+      "reply_count": 79,
+      "retweet_count": 1206,
+      "favorite_count": 1037,
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1058260641285197824,
+            "id_str": "1058260641285197824",
+            "indices": [
+              36,
+              59
+            ],
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058260641285197824/pu/img/AvE4EV4N4p8s1Xmd.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058260641285197824/pu/img/AvE4EV4N4p8s1Xmd.jpg",
+            "url": "https://t.co/gxbfYcZ4XG",
+            "display_url": "pic.twitter.com/gxbfYcZ4XG",
+            "expanded_url": "https://twitter.com/kentaro_s1980/status/1058260789860065280/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1058260641285197824,
+            "id_str": "1058260641285197824",
+            "indices": [
+              36,
+              59
+            ],
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058260641285197824/pu/img/AvE4EV4N4p8s1Xmd.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058260641285197824/pu/img/AvE4EV4N4p8s1Xmd.jpg",
+            "url": "https://t.co/gxbfYcZ4XG",
+            "display_url": "pic.twitter.com/gxbfYcZ4XG",
+            "expanded_url": "https://twitter.com/kentaro_s1980/status/1058260789860065280/video/1",
+            "type": "video",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 36200,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1058260641285197824/pu/vid/320x180/t6ZlDipQMxERWbf4.mp4?tag=5"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1058260641285197824/pu/pl/O09aBQpd5TnPEMvb.m3u8?tag=5"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1058260641285197824/pu/vid/640x360/7y7L0IofC-IYKsvp.mp4?tag=5"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1058260641285197824/pu/vid/1280x720/_DQbSYN8SGwvLHHx.mp4?tag=5"
+                }
+              ]
+            },
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "ja"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/IC07YiG9qu",
+      "expanded": "https://twitter.com/kentaro_s1980/status/1058260789860065280",
+      "display": "twitter.com/kentaro_s1980/…"
+    },
+    "is_quote_status": true,
+    "extended_tweet": {
+      "full_text": "安倍総理は、三権分立を理解してないのではなく、\n内閣のトップである総理が、\n立法府である国会も牛耳っている\nとの「本音」。\nこんな総理に、憲法９条や緊急事態条項含む改憲させたら、\nこの国の民主主義、国民主権は完全に\n「終了」です。\n#安倍総理 #憲法 #民主主義 #国民主権 https://t.co/IC07YiG9qu",
+      "display_text_range": [
+        0,
+        137
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "安倍総理",
+            "indices": [
+              116,
+              121
+            ]
+          },
+          {
+            "text": "憲法",
+            "indices": [
+              122,
+              125
+            ]
+          },
+          {
+            "text": "民主主義",
+            "indices": [
+              126,
+              131
+            ]
+          },
+          {
+            "text": "国民主権",
+            "indices": [
+              132,
+              137
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/IC07YiG9qu",
+            "expanded_url": "https://twitter.com/kentaro_s1980/status/1058260789860065280",
+            "display_url": "twitter.com/kentaro_s1980/…",
+            "indices": [
+              138,
+              161
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      }
+    },
+    "quote_count": 32,
+    "reply_count": 56,
+    "retweet_count": 1375,
+    "favorite_count": 1501,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/As3EsAptxR",
+          "expanded_url": "https://twitter.com/i/web/status/1058388950459416577",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_id": 1058260789860065280,
+  "quoted_status_id_str": "1058260789860065280",
+  "quoted_status": {
+    "created_at": "Fri Nov 02 07:33:28 +0000 2018",
+    "id": 1058260789860065280,
+    "id_str": "1058260789860065280",
+    "text": "またまた出ました、安倍晋三くん、\n「私は『立法府の長』として立ってる」 https://t.co/gxbfYcZ4XG",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1641981655,
+      "id_str": "1641981655",
+      "name": "ⓢⓐⓘⓣⓞ",
+      "screen_name": "kentaro_s1980",
+      "location": null,
+      "url": "https://twitter.com/kentaro_s1980/status/811244087860953089",
+      "description": "https://twitter.com/kentaro_s1980/status/441926117532770304",
+      "translator_type": "regular",
+      "protected": false,
+      "verified": false,
+      "followers_count": 13967,
+      "friends_count": 1195,
+      "listed_count": 201,
+      "favourites_count": 1129,
+      "statuses_count": 36742,
+      "created_at": "Sat Aug 03 03:42:50 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1056243161801154564/8xicImWO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056243161801154564/8xicImWO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641981655/1482077650",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 134,
+    "reply_count": 79,
+    "retweet_count": 1206,
+    "favorite_count": 1037,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1058260641285197824,
+          "id_str": "1058260641285197824",
+          "indices": [
+            36,
+            59
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058260641285197824/pu/img/AvE4EV4N4p8s1Xmd.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058260641285197824/pu/img/AvE4EV4N4p8s1Xmd.jpg",
+          "url": "https://t.co/gxbfYcZ4XG",
+          "display_url": "pic.twitter.com/gxbfYcZ4XG",
+          "expanded_url": "https://twitter.com/kentaro_s1980/status/1058260789860065280/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1058260641285197824,
+          "id_str": "1058260641285197824",
+          "indices": [
+            36,
+            59
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058260641285197824/pu/img/AvE4EV4N4p8s1Xmd.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058260641285197824/pu/img/AvE4EV4N4p8s1Xmd.jpg",
+          "url": "https://t.co/gxbfYcZ4XG",
+          "display_url": "pic.twitter.com/gxbfYcZ4XG",
+          "expanded_url": "https://twitter.com/kentaro_s1980/status/1058260789860065280/video/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 36200,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058260641285197824/pu/vid/320x180/t6ZlDipQMxERWbf4.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1058260641285197824/pu/pl/O09aBQpd5TnPEMvb.m3u8?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058260641285197824/pu/vid/640x360/7y7L0IofC-IYKsvp.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1058260641285197824/pu/vid/1280x720/_DQbSYN8SGwvLHHx.mp4?tag=5"
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/IC07YiG9qu",
+    "expanded": "https://twitter.com/kentaro_s1980/status/1058260789860065280",
+    "display": "twitter.com/kentaro_s1980/…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "安倍総理",
+        "indices": [
+          130,
+          135
+        ]
+      },
+      {
+        "text": "憲法",
+        "indices": [
+          136,
+          139
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "yunoki_m",
+        "name": "柚木みちよし",
+        "id": 114697823,
+        "id_str": "114697823",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1541255149665"
+}
