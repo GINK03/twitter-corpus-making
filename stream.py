@@ -5,6 +5,7 @@ from tweepy import Stream
 import json
 from hashlib import sha256
 import os
+import time
 
 consumer_key=os.environ['consumer_key']
 consumer_secret=os.environ['consumer_secret']
@@ -26,6 +27,9 @@ class StdOutListener(StreamListener):
 	def on_error(self, status):
 			print(status)
 
+def lock():
+	while True:
+		time.sleep(1.)
 def random_sample():
 	l = StdOutListener()
 	auth = OAuthHandler(consumer_key, consumer_secret)
@@ -38,7 +42,7 @@ def filter_words():
 	auth = OAuthHandler(consumer_key, consumer_secret)
 	auth.set_access_token(access_token, access_token_secret)
 	stream = Stream(auth, l)
-	stream.filter(languages=["ja"], track=['グラブル', 'ベイスターズ', 'FGO', '艦これ', 'パズドラ', 'モンスト', 'オセロニア'])
+	stream.filter(languages=["ja"], track=['アズレン', 'kindle', 'グラブル', 'ベイスターズ', 'FGO', '艦これ', 'パズドラ', 'モンスト', 'オセロニア'])
 
 def rap(func):
 	func()
