@@ -42,7 +42,7 @@ def filter_words():
 	auth = OAuthHandler(consumer_key, consumer_secret)
 	auth.set_access_token(access_token, access_token_secret)
 	stream = Stream(auth, l)
-	stream.filter(languages=["ja"], track=['アズレン', 'kindle', 'グラブル', 'ベイスターズ', 'FGO', '艦これ', 'パズドラ', 'モンスト', 'オセロニア'])
+	stream.filter(languages=["ja"], track=['ニュース', 'news', 'アズレン', 'kindle', 'グラブル', 'ベイスターズ', 'FGO', '艦これ', 'パズドラ', 'モンスト', 'オセロニア'])
 
 def rap(func):
 	func()
