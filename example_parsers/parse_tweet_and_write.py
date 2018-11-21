@@ -14,32 +14,20 @@ for index, path in enumerate(Path('../jsons').glob('*')):
 def pmap(arg):
 	key, paths = arg
 	time_freq = {}
+	fp = open(f'tweets_{key:04d}.txt', 'w')
 	for path in paths:
 		try:
 			obj = json.load(path.open())
 			created_at = datetime.strptime(obj['created_at'], '%a %b %d %H:%M:%S +0000 %Y') + timedelta(hours=9)
 			day = created_at.day
 			hour = created_at.hour
-			#print(created_at)
 			text = obj['text']
-			if 'オセロニア' in text:
-				if time_freq.get( (day, hour) ) is None:
-					time_freq[ (day, hour) ] = 0
-				time_freq[ (day, hour) ] += 1
+			fp.write(text.replace('\n', ' ') + '\n')
 		except Exception as ex:
 			print(ex)
-
-	return time_freq
+	return 
 
 args = [(key,paths) for key,paths in key_paths.items()]
-time_freq = {}
 with PPE(max_workers=12) as exe:
-	for _time_freq in exe.map(pmap, args):
-		for time, freq in _time_freq.items():
-			if time_freq.get(time) is None:
-				time_freq[time] = 0
-			time_freq[time]+=freq
-for time, freq in sorted( time_freq.items(), key=lambda x:x[0]):
-	day, hour = time
-	print(f'{day}日{hour}時', freq)
+	exe.map(pmap, args)
 
